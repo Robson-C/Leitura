@@ -185,3 +185,35 @@ Comando publique executado sob autorização permanente em AGENTS.md. Incluídos
 Backup: backups/offline-311-320-20261021-164949 guarda chapters.js, index.html, app.js, reader.test.cjs e documentação. Reversão seletiva descrita no LEIA-ME. TXT preservados.
 Validação executada: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado com 31 IDs consecutivos, comparação integral dos TXT 297–320, navegação até 320 e retorno ao 319, primeiro parágrafo e ausência de nota editorial no 320; demais cenários passaram. git diff --check aprovado. Testes com DOM simulado; revisão visual real não executada.
 Estado: versão offline completa preparada para revisão e commit/push manual. Nenhum staging, commit, push ou implantação executado. Próximo passo: usuário atualizar index.html e conferir os novos capítulos antes do envio manual.
+
+Capítulo 321 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/321 - As nações se unem e tomam a palavra.txt, conferido sem caractere de substituição. Anthony Gretel e HM padronizados; relato biográfico de Lü Chao e local Po Yee incertos marcados com asteriscos. Autorização permanente tradução/TXT. Não incluído no leitor (290–320); TXT 321 separado. Sem commit, push ou publicação.
+
+Capítulo 322 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/322 - O primeiro embate à distância.txt, conferido sem caractere de substituição. Du Weiwei e Sociedade padronizados; transição contraditória entre tranquilidade e calmaria marcada com asteriscos. Autorização permanente tradução/TXT. Sem inclusão no leitor (290–320); TXT 321–322 separados. Sem commit, push ou publicação.
+
+Capítulo 323 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/323 - Ele morreu.txt, conferido sem caractere de substituição. Badar padronizado; Integrity Industries, comportamento celular, Raz Kapoor e canal de áudio incertos marcados com asteriscos. Autorização permanente tradução/TXT. Não incluído no leitor (290–320); TXT 321–323 separados. Sem commit, push ou publicação.
+
+Capítulo 324 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/324 - Uma descoberta chocante.txt, conferido sem caractere de substituição. Adams padronizado no masculino conforme capítulos anteriores; nome Machi X incerto marcado com asteriscos. Autorização permanente tradução/TXT. Não incluído no leitor (290–320); TXT 321–324 separados. Sem commit, push ou publicação.
+
+Capítulo 325 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/325 - O centro do turbilhão.txt, conferido sem caractere de substituição. Atribuições contraditórias de porta-vozes alinhadas ao contexto; cronologia dos Illuminati/Razin e Machi X marcados como incertos. Autorização permanente tradução/TXT. Não incluído no leitor (290–320); TXT 321–325 separados. Sem commit, push ou publicação.
+
+Capítulo 326 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/326 - Rong Yiyou - membro de nível três.txt, conferido sem caractere de substituição e com fechamento completo. Preço versus dividendos sem relação explicitada, verso e Po Yee marcados como incertos; nomes padronizados. Autorização permanente tradução/TXT. Não incluído no leitor (290–320); TXT 321–326 separados. Sem commit, push ou publicação.
+
+Capítulo 327 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/327 - O medo se abate.txt, conferido sem caractere de substituição e com fechamento completo. Badar padronizado; Old Reed e ameaça ambígua marcados com asteriscos; frase sobre ira entendida como referência ao senhor Lu conforme quebra do texto-fonte. Autorização permanente tradução/TXT. Não incluído no leitor (290–320); TXT 321–327 separados. Sem commit, push ou publicação.
+
+## Retomada e traduções 328–330 — 21/10/2026
+
+Conferido o estado real na retomada: traduções anteriores concluídas até 327; leitor offline permanece 290–320. Sob autorização permanente de tradução/TXT, gerados integralmente os arquivos 328 - Lu Li é o inimigo mais aterrador da humanidade.txt, 329 - Uma sala cheia de ancestrais.txt e 330 - O discurso de Lu Li.txt em capitulos/. Passagens ambíguas do original marcadas com asteriscos simples, incluindo denominação da HM, nomes e relações familiares inconsistentes e referência ao relógio. Mantida a continuidade dos personagens e termos.
+
+Validação executada: leitura dos três arquivos com decodificador UTF-8 estrito, nenhum caractere de substituição, títulos e encerramentos conferidos e marcadores de itálico em pares; git diff --check aprovado antes deste registro. Apenas TXT novos e continuidade alterados nesta retomada; nenhum arquivo anterior substituído, sem necessidade de backup de tradução. Para reversão seletiva, remover somente os três TXT novos e esta entrada. Sem alteração na aplicação, staging, commit, push ou implantação.
+
+Estado: tradução/TXT 328–330 concluídos. TXT 321–330 aguardam integração no leitor quando o usuário solicitar “publique”. Próximo passo seguro: entregar os arquivos para leitura; eventual preparação offline seguirá a autorização permanente correspondente, mantendo Git manual.
+
+## Preparação offline 321–330 — 21/10/2026
+
+Comando “publique” executado conforme autorização permanente em AGENTS.md. Estado inicial conferido: leitor 290–320 e dez TXT pendentes, 321–330. Incluídos integralmente os dez capítulos em chapters.js, preservando títulos e marcações de itálico; index.html atualizado para 41 capítulos. Atualizados testes e LEIA-ME.md. app.js, styles.css, workflow, preferências e traduções anteriores preservados. Nenhum staging, commit, push ou implantação executado.
+
+Backup anterior: backups/offline-321-330-20261021-171947/ contém chapters.js, index.html, LEIA-ME.md, REVISAO-OPERACIONAL.md e reader.test.cjs. Reversão seletiva: restaurar os arquivos de aplicação/documentação correspondentes e reader.test.cjs em tests/, conservar os TXT e registrar a reversão na continuidade; a revisão anterior está disponível para consulta.
+
+Validação final: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado com 41 IDs consecutivos 290–330, conteúdo integral dos TXT 297–330 idêntico ao leitor, navegação até 330 e retorno ao 329, nota editorial ausente no 320 e presente no 330, retomada, preferências e controles. Comparação adicional com o backup confirmou capítulos 290–320 integralmente preservados; títulos 321–330 conferidos com os TXT. git diff --check aprovado. A primeira execução detectou inserção como array aninhado; corrigida para expansão dos capítulos antes das validações finais. Testes usam DOM simulado: revisão visual real no navegador não executada.
+
+Estado: preparação offline 290–330 completa para revisão e commit/push manual do usuário. Não restam TXT pendentes de integração até 330. Próximo passo seguro: abrir/atualizar index.html, conferir visualmente os capítulos novos e fazer commit/push manual incluindo os dez TXT e os arquivos modificados. Backups permanecem exclusivamente locais e ignorados pelo Git.
