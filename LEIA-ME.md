@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 304 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui os capítulos 290 a 310 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -63,3 +63,12 @@ Removido o scroll-padding global que podia deslocar o foco no cabeçalho sticky.
 O leitor agora contém quinze capítulos, de 290 a 304. Conteúdo integral e marcações de incerteza importados dos TXT correspondentes, sem alterar os capítulos anteriores ou controles. Atualize index.html para vê-los no índice.
 
 Backup anterior: backups/offline-300-304-20261021-140610/. Para reverter somente esta inclusão, restaure chapters.js, index.html, LEIA-ME.md e REVISAO-OPERACIONAL.md da cópia, e reader.test.cjs em tests/. Os TXT originais permanecem disponíveis. Commit, push e implantação online continuam manuais pelo usuário.
+
+
+## Fluxo “publique” e versão atual
+
+O comando “publique” autoriza preparar integralmente a versão offline com os TXT traduzidos pendentes, índice, testes, documentação e backup, sem pedir a mesma confirmação novamente. Não executa commit/push nem implantação online.
+
+Versão atual: 21 capítulos, de 290 a 310. Atualize index.html para acessar os novos capítulos 305–310. Seus textos e itálicos correspondem aos TXT originais.
+
+Backup desta preparação: backups/offline-305-310-20261021-161031/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e REVISAO-OPERACIONAL.md da cópia e reader.test.cjs em tests/. Os TXT e a nova autorização permanente em AGENTS.md podem ser mantidos independentemente da reversão do conteúdo. Commit e push manuais pelo usuário.

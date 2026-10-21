@@ -135,3 +135,26 @@ Usuário autorizou proposta de integrar os TXT 300–304 ao leitor, atualizar í
 Validação: node --check chapters.js e app.js aprovados; node tests/reader.test.cjs aprovado com quinze IDs 290–304 consecutivos, índice com quinze entradas, comparação integral dos TXT 297–304 com o leitor, navegação sequencial 299→300→301→302→303→304, limite final e retorno ao 303. Cenários anteriores de progresso, controles, Esc, armazenamento e recursos locais seguem passando. git diff --check aprovado. Verificação de igualdade é textual; não substitui revisão visual no navegador, não executada nesta entrega.
 
 Backup anterior: backups/offline-300-304-20261021-140610/ contém chapters.js, index.html, reader.test.cjs, LEIA-ME.md e esta revisão anteriores. Reversão seletiva descrita no LEIA-ME; manter TXT. Estado final: leitor offline atualizado 290–304, pronto para revisão e commit/push manual do usuário. Próximo passo seguro: atualizar index.html e conferir o índice e os capítulos novos antes da publicação manual.
+
+Capítulo 305 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/305 - O despertar de Yang Zhen’er.txt, conferido sem caractere de substituição. Nomes Nikola Tesla, Georg Simon Ohm e Ørsted padronizados; referência incerta ao rei preservada com asteriscos. Autorização permanente tradução/TXT. Não incluído no leitor: versão offline permanece 290–304. Sem commit, push ou publicação.
+
+Capítulo 306 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/306 - Eles tocaram no que era proibido.txt, conferido sem caractere de substituição. Tinto Slovic padronizado conforme capítulo 304; variantes do nome do historiador e passagens ambíguas marcadas com asteriscos. Autorização permanente tradução/TXT. Sem inclusão no leitor (290–304), commit, push ou publicação; TXT 305 e 306 separados.
+
+Capítulo 307 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/307 - A história saiu de seu curso.txt, conferido sem caractere de substituição. Qingyun e Shi Sheng padronizados; Gang Jin, Ilhas Sel e intervalo temporal incertos marcados com asteriscos. Autorização permanente tradução/TXT. Não incluído no leitor (290–304); TXT 305–307 separados. Sem commit, push ou publicação.
+
+Capítulo 308 — 21/10/2026: traduzido e gerado capitulos/308 - As ações da Sociedade dos Eremitas da Montanha Verde.txt, UTF-8 conferido sem caractere de substituição. Mantida narrativa ficcional do relatório sobre Mendel; passagem incerta marcada com asteriscos. Autorização permanente tradução/TXT. Não incluído no leitor (290–304); TXT 305–308 separados. Sem commit, push ou publicação.
+
+Capítulo 309 — 21/10/2026: traduzido e gerado capitulos/309 - A chegada - meu sobrenome é Zhuge.txt, UTF-8 conferido sem caractere de substituição. Georg Simon Ohm padronizado; alcunha ambígua de Zhuge marcada com asteriscos. Ajustada referência inicial ao grupo de nove conforme os membros identificados. Autorização permanente tradução/TXT. Não incluído no leitor (290–304); TXT 305–309 separados. Sem commit, push ou publicação.
+
+Capítulo 310 — 21/10/2026: tradução e TXT UTF-8 gerados em capitulos/310 - A concessão de autoridade à Corte Celestial.txt, conferido sem caractere de substituição. Contagens de acompanhantes ajustadas ao contexto; ruídos numéricos removidos; referência geográfica incerta marcada com asteriscos. Autorização permanente tradução/TXT. Sem inclusão no leitor (290–304), commit, push ou publicação; TXT 305–310 separados.
+
+
+## “Publique”: regra permanente e preparação 305–310 — 21/10/2026
+
+Autorização explícita: usuário confirmou proposta de definir “publique” como preparação offline completa sem nova confirmação para o mesmo escopo, mantendo commit/push manuais. Regra registrada em AGENTS.md: integrar TXT pendentes, atualizar índice/testes/documentação, backup, revisão e validação. Não autoriza publicação remota nem modificações funcionais independentes.
+
+Aplicado: chapters.js recebeu 305–310 diretamente dos seis TXT; index.html indica 21 capítulos; testes e LEIA-ME atualizados. app.js, styles.css, textos anteriores, todos os TXT e preferências preservados. Nenhum staging, commit, push ou implantação executado. Arquivos de publicação seguem preparados no workflow existente sem alteração.
+
+Validação: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado com 21 IDs consecutivos 290–310, índice de 21 entradas, comparação integral dos TXT 297–310 com os respectivos corpos do leitor, navegação 299→310, limite final e retorno ao 309; demais cenários de armazenamento, preferências, retomada e controles passaram. git diff --check aprovado. Teste de DOM simulado: não declara validação visual real, que continua pendente.
+
+Backup: backups/offline-305-310-20261021-161031/ com AGENTS.md, chapters.js, index.html, reader.test.cjs e documentação anteriores. Reversão seletiva no LEIA-ME. Os arquivos de capítulos são novos na versão local para commit; não esquecê-los ao revisar o diff. Próximo passo seguro: usuário atualizar index.html, conferir os novos capítulos e fazer commit/push manual da versão completa. Estado: preparação offline concluída, envio remoto não executado.

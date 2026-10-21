@@ -20,3 +20,10 @@ Não enviar versões incompletas ao remoto. A criação de Robson-C/leitura púb
 Trabalhar diretamente em C:/Users/robson.colaco/Documents/Kanban/Leitura. Esta é a pasta oficial a partir de 21/10/2026. Não continuar editando a cópia antiga em Documents/ChatGPT/Leitura nem sincronizá-la automaticamente de volta.
 
 Commit, push e publicação são responsabilidade manual do usuário. A instrução mais recente substitui a autorização anterior de publicação automática: não executar commit, push, criar PR ou iniciar publicação sem novo pedido explícito. Entregar os arquivos locais completos, testes e continuidade para revisão e commit manual.
+
+
+## Comando “publique” — autorização permanente de 21/10/2026
+
+Quando o usuário disser “publique”, executar sem nova confirmação a preparação completa da publicação offline nesta pasta: identificar todos os capítulos já traduzidos em TXT ainda ausentes do leitor, incluí-los integralmente preservando as incertezas, atualizar índice/contagem, testes e documentação, criar backup proporcional, revisar e validar a versão local completa. Informar o resultado e limitações. Aguardar esclarecimento em caso de lacunas, conflitos de versões ou necessidade de mudanças materiais fora desse escopo.
+
+O comando não autoriza commit, push, criação de PR, mudanças de credenciais/permissões ou implantação remota. Commit e push continuam manuais pelo usuário. Preservar aplicação, controles, progresso e preferências; correções funcionais independentes exigem seu escopo próprio. O simples envio de um capítulo autoriza tradução e TXT; a integração no leitor acontece quando solicitado “publique” ou explicitamente autorizada.
