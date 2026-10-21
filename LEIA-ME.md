@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 299 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui os capítulos 290 a 304 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -56,3 +56,10 @@ Use C:/Users/robson.colaco/Documents/Kanban/Leitura. Commit, push e publicação
 ## Ajuste dos seletores de aparência
 
 Removido o scroll-padding global que podia deslocar o foco no cabeçalho sticky. Cancelar um seletor com Esc não recolhe a barra no computador; o Esc continua fechando o índice sobreposto no celular. Repetir o mesmo valor não recalcula a posição. Validação real do salto no navegador ainda pendente. Backup em backups/foco-seletores-20261021-133008/; consulte a revisão operacional para reversão e roteiro de conferência.
+
+
+## Inclusão offline dos capítulos 300–304
+
+O leitor agora contém quinze capítulos, de 290 a 304. Conteúdo integral e marcações de incerteza importados dos TXT correspondentes, sem alterar os capítulos anteriores ou controles. Atualize index.html para vê-los no índice.
+
+Backup anterior: backups/offline-300-304-20261021-140610/. Para reverter somente esta inclusão, restaure chapters.js, index.html, LEIA-ME.md e REVISAO-OPERACIONAL.md da cópia, e reader.test.cjs em tests/. Os TXT originais permanecem disponíveis. Commit, push e implantação online continuam manuais pelo usuário.
