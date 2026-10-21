@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 330 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui os capítulos 290 a 333 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -69,7 +69,7 @@ Backup anterior: backups/offline-300-304-20261021-140610/. Para reverter somente
 
 O comando “publique” autoriza preparar integralmente a versão offline com os TXT traduzidos pendentes, índice, testes, documentação e backup, sem pedir a mesma confirmação novamente. Não executa commit/push nem implantação online.
 
-Versão atual: 41 capítulos, de 290 a 330. Atualize index.html para acessar os novos capítulos 321–330. Seus textos e itálicos correspondem aos TXT originais.
+Versão atual: 44 capítulos, de 290 a 333. Atualize index.html para acessar os novos capítulos 331–333. Seus textos e itálicos correspondem aos TXT originais.
 
 Backup desta preparação: backups/offline-305-310-20261021-161031/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e REVISAO-OPERACIONAL.md da cópia e reader.test.cjs em tests/. Os TXT e a nova autorização permanente em AGENTS.md podem ser mantidos independentemente da reversão do conteúdo. Commit e push manuais pelo usuário.
 
@@ -82,3 +82,8 @@ Incluídos os dez capítulos 311–320, integralmente a partir dos TXT, com itá
 ## Versão offline 290–330
 
 Incluídos os dez capítulos 321–330 integralmente a partir dos TXT, preservando os itálicos. Índice com 41 capítulos. Aplicação, controles, preferências e capítulos anteriores preservados. Backup desta rodada: backups/offline-321-330-20261021-171947/. Para reverter somente esta integração, restaure chapters.js, index.html e LEIA-ME.md da cópia, e reader.test.cjs em tests/; preserve os TXT e registre a reversão na revisão operacional. O backup também guarda a revisão anterior para consulta. Commit e push continuam manuais pelo usuário.
+
+
+## Versão offline 290–333
+
+Incluídos integralmente os TXT 331–333, preservando títulos, itálicos e separadores de cena. Índice com 44 capítulos. Backup: backups/offline-331-333-20261021205838/. Para reverter apenas esta integração, restaure chapters.js, index.html, LEIA-ME.md e tests/reader.test.cjs a partir dessa cópia, preservando os TXT, e registre a reversão em REVISAO-OPERACIONAL.md. Commit e push continuam manuais. Conferência visual real permanece pendente.

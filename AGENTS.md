@@ -1,5 +1,9 @@
 # Regras do projeto Leitura
 
+## Esclarecimento vigente do usuário — 21/10/2026
+
+Nesta máquina, trabalhar em C:/Users/Robson/Documents/Curso/Leitura, conforme indicação explícita do usuário; o caminho Kanban mencionado abaixo pertence à outra máquina. O envio de cada novo capítulo aciona o escopo permanentemente aprovado de tradução, TXT UTF-8 e registro de continuidade, sem nova confirmação. “Publique”, “publicar” e variações equivalentes acionam a preparação offline já aprovada, também sem reconfirmação. Pedir confirmação somente para ampliação material do escopo ou conflitos que exijam esclarecimento. Commit, push e implantação remota continuam manuais e fora desses comandos.
+
 ## Tradução de capítulos — autorização permanente do usuário
 
 Ao receber um capítulo para este projeto, traduzir para português brasileiro com frases coerentes e continuidade dos nomes e termos anteriores. Marcar interpretações incertas em itálico na conversa e no leitor; no TXT, usar asteriscos simples delimitando o trecho.

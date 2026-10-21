@@ -225,3 +225,31 @@ Escopo proposto e autorizado pelo usuário com “apliqeu”: substituir a palav
 Backup: backups/icone-indice-20261021-172234/ contém index.html, styles.css e revisão anterior. Reversão seletiva: restaurar somente index.html e styles.css dessa cópia e registrar a reversão nesta revisão. Backup preserva a versão offline 290–330 já preparada.
 
 Validação: node tests/reader.test.cjs aprovado, incluindo abrir/fechar índice móvel, seleção de capítulo, Escape e persistência no computador; git diff --check aprovado. Revisão visual real no navegador/celular não executada; comportamento responsivo conferido nas regras CSS, sem alegar validação visual. Estado: alteração local aplicada e testes existentes aprovados; conferência visual pelo usuário pendente. Sem staging, commit, push ou publicação remota. Próximo passo: atualizar a página no celular e conferir o botão antes do commit/push manual.
+
+## Retomada nesta máquina e capítulos 331–332 — 21/10/2026
+
+Usuário indicou explicitamente C:/Users/Robson/Documents/Curso/Leitura como pasta de trabalho nesta máquina e reafirmou as autorizações permanentes: enviar capítulo aciona tradução/TXT; “publique”, “publicar” e variações acionam preparação offline, sem nova confirmação para o mesmo escopo. Esclarecimento registrado no início de AGENTS.md; o caminho Kanban é da outra máquina. Commit, push e implantação remota continuam manuais.
+
+Criados integralmente os TXT UTF-8 331 - Sou apenas um júnior.txt e 332 - O desenvolvimento das habilidades e a criação do Caderno da Morte.txt. No 331, senhor He foi interpretado como senhor Lu com marca de incerteza, velho Zhou permaneceu marcado sem identificação inventada e anacronismos históricos foram preservados como incertos. No 332, cargos distintos da presidência foram interpretados com marca de incerteza, nomes anteriores foram padronizados e variantes Life-Stealing/Fate Stealing foram unificadas provisoriamente como Caderno de Roubo de Vida, com asteriscos. Fragmentos numéricos e resíduos de extração sem conteúdo narrativo foram removidos. Título Caderno da Morte preserva a referência do título-fonte.
+
+Continuidade: encerrada a reunião dos longevos; comitê definido, incluindo Lu Li, Suiren (ainda receberá imortalidade), Zhuge Liang e Shen Youchu. Lu Li preparou mais de cinquenta cristais de proteção, com aceleração temporal de cem vezes por um minuto diante de perigo fatal; começou a inscrever as regras do Caderno de Roubo de Vida. O texto enviado termina antes da apresentação dessas regras.
+
+Validação: decodificação UTF-8 estrita aprovada nos dois TXT, sem caractere de substituição, marcadores de itálico em pares, títulos e encerramentos conferidos com os originais; git diff --check aprovado. Nenhuma tradução anterior substituída. Leitor permanece 290–330; TXT 331–332 aguardam comando de integração offline. Sem staging, commit, push ou publicação remota.
+
+## Capítulo 333 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/333 - O poder do Caderno de Roubo de Vida.txt sob autorização permanente de tradução/TXT. Preservados o termo Caderno de Roubo de Vida, a baía de Huangpu e os nomes do contexto anterior. Regra oitava (posição/destino) e interpretação da frase sobre não especificar a causa da morte marcadas com asteriscos por ambiguidade do original. Ruído numérico 03 removido da regra segunda. Incluídos as dez primeiras regras e o artigo 99, únicos apresentados no texto-fonte, sem inventar os artigos intermediários; pós-escrito do autor preservado.
+
+Continuidade: caderno concluído com 99 regras; tempo de vida restante das vítimas reverte a Lu Li. Teste realizado com seis procurados, que morrem de parada cardíaca. Lu Li considera entregar o artefato a um escolhido e observar os acontecimentos; essa entrega ainda não ocorreu.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, asteriscos de itálico em pares (separador de cena tratado à parte), sequência narrativa, regras apresentadas e encerramento com pós-escrito conferidos; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–330; TXT 331–333 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Preparação offline 331–333 — 21/10/2026
+
+Comando “publique” executado sob autorização permanente. Incluídos integralmente todos os TXT pendentes, 331–333, em chapters.js, mantendo itálicos e separador de cena. Índice atualizado para 44 capítulos, de 290 a 333. LEIA-ME.md e testes atualizados. Comparação com o estado anterior confirmou preservação integral dos 41 capítulos 290–330. app.js, styles.css, TXT e preferências preservados.
+
+Backup: backups/offline-331-333-20261021205838/ contém chapters.js, index.html, LEIA-ME.md, REVISAO-OPERACIONAL.md e tests/reader.test.cjs anteriores. Confirmado como ignorado pelo Git. Reversão seletiva descrita no LEIA-ME; preservar TXT e registrar eventual reversão.
+
+Validação: node --check chapters.js e app.js aprovados; node tests/reader.test.cjs aprovado com 44 IDs consecutivos, comparação integral dos TXT 297–333, navegação até 333 e retorno ao 332, retomada, preferências, controles e armazenamento bloqueado. O teste de igualdade foi ajustado para normalizar CRLF dos TXT desta máquina para LF antes da comparação, sem mudar o conteúdo dos arquivos; primeira execução detectou essa diferença de finais de linha. git diff --check aprovado. Conferência visual real não executada; testes usam DOM simulado.
+
+Estado: leitor offline 290–333 completo. Nenhum TXT pendente até 333. Sem staging, commit, push ou implantação remota. Próximo passo: atualizar index.html no navegador para conferir os três capítulos novos; Git permanece manual.
