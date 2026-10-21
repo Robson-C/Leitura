@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 296 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui os capítulos 290 a 299 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -37,3 +37,22 @@ Backup anterior em `backups/indice-20261021-102904/`. Restaure app.js, styles.cs
 O destino autorizado é Robson-C/leitura, público. O origin local aponta para esse endereço, mas a criação e a publicação ainda dependem de autenticação e validação final. O workflow .github/workflows/pages.yml publica somente os quatro arquivos do leitor após os testes passarem, a partir de master, quando Pages estiver habilitado com GitHub Actions. Backups ficam fora do Git. Não há publicação confirmada neste estado.
 
 O uso offline continua pela abertura de index.html na pasta local. A página hospedada precisa de rede para carregar; não há cache offline do endereço publicado. O progresso do endereço hospedado é separado do progresso do arquivo local.
+
+
+## Traduções e arquivos TXT
+
+Regra permanente em AGENTS.md: cada capítulo recebido é traduzido e gera automaticamente pelo menos um TXT em UTF-8 na pasta capitulos/. Interpretações incertas ficam entre asteriscos no TXT e em itálico no leitor. Inclusão no leitor e publicação online seguem suas autorizações próprias.
+
+Os TXT 297, 298 e 299 foram incluídos no leitor offline nesta entrega. Atualize index.html e escolha o capítulo no índice. A atualização offline não corresponde a publicação no GitHub.
+
+Backup desta inclusão: backups/capitulos-297-299-20261021-131943/. Para reverter o conteúdo do leitor, restaure chapters.js e index.html da cópia e reader.test.cjs em tests/. Os TXT podem ser conservados independentemente da reversão. A regra em AGENTS.md é uma preferência permanente do usuário.
+
+
+## Pasta oficial e entrega
+
+Use C:/Users/robson.colaco/Documents/Kanban/Leitura. Commit, push e publicação são feitos manualmente pelo usuário. A cópia antiga em Documents/ChatGPT/Leitura não deve ser usada para novas edições. Consulte a última seção da revisão operacional para backup e reversão da migração.
+
+
+## Ajuste dos seletores de aparência
+
+Removido o scroll-padding global que podia deslocar o foco no cabeçalho sticky. Cancelar um seletor com Esc não recolhe a barra no computador; o Esc continua fechando o índice sobreposto no celular. Repetir o mesmo valor não recalcula a posição. Validação real do salto no navegador ainda pendente. Backup em backups/foco-seletores-20261021-133008/; consulte a revisão operacional para reversão e roteiro de conferência.

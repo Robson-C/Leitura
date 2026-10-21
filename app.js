@@ -99,6 +99,7 @@
     $('index-toggle').setAttribute('aria-label',visible ? 'Esconder índice de capítulos' : 'Mostrar índice de capítulos');
   }
   function toggleLibrary(open) {
+    if (open === (isMobile() ? mobileLibraryOpen : sidebarVisible)) return;
     const ratio = getProgress();
     if (isMobile()) mobileLibraryOpen = open;
     else sidebarVisible = open;
@@ -154,12 +155,26 @@
   $('index-close').addEventListener('click',() => { toggleLibrary(false); $('index-toggle').focus(); });
   $('font-decrease').addEventListener('click',() => { settings.fontSize = Math.max(16,settings.fontSize-1); applySettings(); });
   $('font-increase').addEventListener('click',() => { settings.fontSize = Math.min(30,settings.fontSize+1); applySettings(); });
-  $('theme').addEventListener('change',() => { settings.theme = $('theme').value; applySettings(); });
+  $('theme').addEventListener('change',() => {
+    const value = $('theme').value;
+    if (value === settings.theme) return;
+    settings.theme = value; applySettings();
+  });
   for (const [id,property] of [['line-height','lineHeight'],['text-width','width']]) {
-    $(id).addEventListener('change',() => { settings[property] = Number($(id).value); applySettings(); });
+    $(id).addEventListener('change',() => {
+      const value = Number($(id).value);
+      if (value === settings[property]) return;
+      settings[property] = value; applySettings();
+    });
   }
   $('reset-settings').addEventListener('click',() => { Object.assign(settings,defaults); applySettings(); });
-  document.addEventListener('keydown',event => { if (event.key === 'Escape') toggleLibrary(false); });
+  document.addEventListener('keydown',event => {
+    // Esc dos seletores nativos não deve fechar a lateral nem reposicionar o texto.
+    if (event.key === 'Escape' && isMobile() && mobileLibraryOpen) {
+      toggleLibrary(false);
+      $('index-toggle').focus({preventScroll:true});
+    }
+  });
   document.addEventListener('click',event => {
     if (isMobile() && mobileLibraryOpen && !event.target.closest('#library, #index-toggle')) toggleLibrary(false);
   });

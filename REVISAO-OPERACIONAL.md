@@ -77,3 +77,42 @@ Reversão: remover somente o origin configurado nesta etapa e os novos .gitignor
 Retomada após reinício: ferramentas GitHub carregadas. As consultas de identidade autenticada e Robson-C/leitura retornaram USER_NOT_LOGGED_IN (conector não conectado). Plugin instalado, autenticação ainda pendente. Nenhuma criação remota, commit ou push executado. Próximo passo: conectar GitHub como Robson-C e repetir as leituras antes de publicar.
 
 Conexão confirmada: conector autenticado como Robson-C (id 63608891). Consulta de Robson-C/leitura retornou 404; não criar sob outra conta. Chrome disponível, porém autenticado como pashminati-oss, sem Robson-C no seletor; aberta página Adicionar conta para entrada humana em Robson-C. O conector disponível não expõe criação de repositório nem configuração de Pages. Revisão visual local: tentativa de acessar file:// foi bloqueada pela política de URL do navegador, que proíbe contornar a recusa; não foi tentado meio alternativo para essa leitura. Próximo passo: usuário entrar como Robson-C na aba GitHub e realizar/fornecer conferência visual do leitor; depois continuar criação/publicação autorizadas. Nenhum commit, push ou repositório criado.
+
+
+## TXT e inclusão offline 297–299 — 21/10/2026
+
+Autorização explícita após proposta: registrar a regra de traduzir e gerar automaticamente pelo menos TXT, criar TXT 297–299 e incluir os três capítulos no leitor offline. Publicação online permanece uma tarefa separada pendente.
+
+Aplicado: AGENTS.md criado com autorização permanente limitada à tradução e TXT de capítulos futuros; três arquivos UTF-8 em capitulos/, transcritos das traduções já entregues; chapters.js ampliado até 299 com o mesmo conteúdo integral dos TXT; contagem do índice atualizada para dez. Documentação e testes atualizados. Nenhuma alteração em app.js, styles.css, preferências ou traduções 290–296.
+
+Validação executada: node --check chapters.js e node --check app.js aprovados; node tests/reader.test.cjs aprovado com dez IDs consecutivos, comparação integral dos corpos de cada TXT 297–299 contra o leitor, ausência de caractere de substituição, navegação 296→297 e extremo final 299, além dos cenários anteriores. Os negritos editoriais de duas identificações de dossiês do capítulo 297 foram convertidos em texto simples no TXT e no leitor; palavras e itálicos preservados. Testes usam DOM simulado: revisão visual real da nova inclusão não executada. Não contornar a recusa de acesso file:// já registrada.
+
+Backup: backups/capitulos-297-299-20261021-131943/ guarda chapters.js, index.html, teste e documentação anteriores. Reversão seletiva no LEIA-ME. Os TXT e AGENTS.md são novos; não sobrescreveram arquivos anteriores.
+
+Estado: TXT entregáveis e inclusão offline concluídos, testes aprovados; conferência visual pelo usuário pendente. Próximo passo seguro: atualizar index.html e escolher 297–299. GitHub não foi publicado, nenhum commit/push realizado. Esta regra não autoriza adicionar capítulos futuros automaticamente ao site nem publicar online sem o escopo correspondente.
+
+
+## Pasta oficial migrada — 21/10/2026
+
+Usuário autorizou sincronizar para C:/Users/robson.colaco/Documents/Kanban/Leitura e trabalhar diretamente nessa pasta. Commit, push e publicação passam a ser manuais pelo usuário; não prosseguir com autorização anterior de publicação automática. O usuário informou que publicou a página, sem verificação remota nesta etapa.
+
+Destino estava limpo em master...origin/master. Comparação por hash confirmou app.js, styles.css, .gitignore e workflow idênticos; foram preservados. Copiados chapters.js, index.html, tests/reader.test.cjs, LEIA-ME.md, REVISAO-OPERACIONAL.md; novos AGENTS.md e três TXT em capitulos/. Leitor agora inclui 290–299. .git e remotos do destino não alterados. Nenhum commit, push, staging ou publicação executado.
+
+Backup seletivo do destino: C:/Users/robson.colaco/Documents/Kanban/Leitura/backups/sincronizacao-20261021-132557. ARQUIVOS-NOVOS.txt enumera arquivos sem versão anterior. Reversão: restaurar somente os arquivos guardados nos respectivos caminhos relativos; se desejado, remover apenas os novos enumerados após conferir mudanças posteriores. Não remover .git ou arquivos fora dessa lista.
+
+Validação na nova pasta: node --check app.js, node --check chapters.js, node tests/reader.test.cjs aprovados, com dez capítulos e TXT equivalentes ao leitor; git diff --check aprovado. Conferência visual real continua pendente. Próximo passo: usuário conferir diff e abrir index.html na pasta oficial, depois efetuar commit/publicação manual. Cópia antiga preservada e marcada como substituída.
+
+
+## Correção autorizada — salto ao abrir seletores — 21/10/2026
+
+Relato: abrir Espaço/Largura, antes de selecionar e mesmo cancelar clicando fora, desloca a leitura para cima; repetição retorna ao início. Autorização: usuário disse “autorizo” após proposta de corrigir interação sticky/foco/scroll-padding e restringir Esc. A hipótese anterior de mudança de altura não explicava o relato sem troca de valor.
+
+Diagnóstico: CSS combinava header sticky com scroll-padding-top no html; combinação compatível com relato Chromium 374034263 (https://issues.chromium.org/issues/374034263). É hipótese forte, não reprodução confirmada nesta máquina. Defeito adicional confirmado no código: todo Escape chamava toggleLibrary(false), inclusive com índice fechado e ao cancelar seletor, podendo recolher lateral desktop/recalcular rolagem. Teste antigo descartava eventos documentais e não simulava foco nativo.
+
+Aplicado: removido scroll-padding global em styles.css; cálculo explícito de headerOffset permanece para navegação/retomada. Em app.js, Esc fecha apenas sobreposição móvel aberta e devolve foco com preventScroll; toggleLibrary retorna sem ações quando estado já coincide; mudanças com valor igual são ignoradas nos seletores de tema/espaço/largura. Não alterados capítulos, TXT, índice, faixa de opções ou esquema de armazenamento. Não implementada nesta etapa troca de preservação por porcentagem para âncora de parágrafo.
+
+Backup anterior: backups/foco-seletores-20261021-133008/ com app.js, styles.css, reader.test.cjs, LEIA-ME.md e esta revisão. Reversão seletiva: restaurar esses arquivos na raiz e reader.test.cjs em tests/, preservando alterações posteriores e todo o restante.
+
+Validação executada na pasta oficial: node --check app.js e node tests/reader.test.cjs aprovados; git diff --check aprovado. Novos testes: 12 ciclos com cada seletor, eventos de clique/cancelamento, reapresentação do mesmo valor e Esc sem novas chamadas de scrollTo; preferência lateral desktop permanece; Esc com índice fechado não solicita rolagem; Esc fecha sobreposição móvel aberta. Teste ainda é DOM simulado, sem modelagem do foco/scrollIntoView do navegador ou da geometria real. Demais cenários dos dez capítulos seguem passando.
+
+Limite real: cua.getState retornou Local browser use is disabled in Work settings. A correção está aplicada e validada automaticamente; resolução do salto nativo ainda exige teste real. Não declarar reprodução nem sucesso visual. Próximo passo: abrir index.html atualizado em Kanban/Leitura (recarregar sem cache se necessário), rolar até o meio, abrir/cancelar Espaço/Largura repetidamente por clique fora e Esc, observar posição e conferir navegação/retomada. Se persistir, coletar navegador/versão e reprodução antes de outra alteração. Commit, push e publicação continuam manuais pelo usuário; nenhum executado nesta etapa.
