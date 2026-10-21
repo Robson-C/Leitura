@@ -120,7 +120,8 @@
     $('chapter-content').replaceChildren();
     const note = document.createElement('p'); note.className = 'author-note';
     note.textContent = 'Pedido do autor: assinatura completa e assinatura automática.';
-    $('chapter-content').append(note,content(chapter.body));
+    if (chapter.authorNote !== false) $('chapter-content').append(note);
+    $('chapter-content').append(content(chapter.body));
     $('previous').disabled = index === 0; $('next').disabled = index === chapters.length-1;
     document.querySelectorAll('.chapter-link').forEach(link => {
       if (Number(link.dataset.chapter) === chapter.id) link.setAttribute('aria-current','page');

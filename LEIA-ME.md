@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 310 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui os capítulos 290 a 320 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -72,3 +72,8 @@ O comando “publique” autoriza preparar integralmente a versão offline com o
 Versão atual: 21 capítulos, de 290 a 310. Atualize index.html para acessar os novos capítulos 305–310. Seus textos e itálicos correspondem aos TXT originais.
 
 Backup desta preparação: backups/offline-305-310-20261021-161031/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e REVISAO-OPERACIONAL.md da cópia e reader.test.cjs em tests/. Os TXT e a nova autorização permanente em AGENTS.md podem ser mantidos independentemente da reversão do conteúdo. Commit e push manuais pelo usuário.
+
+
+## Versão offline 290–320
+
+Incluídos os dez capítulos 311–320, integralmente a partir dos TXT, com itálicos. O capítulo 320 não tem nota de assinatura porque ela está ausente no original. Índice com 31 capítulos. Backup desta rodada: backups/offline-311-320-20261021-164949. Para reverter a integração, restaure chapters.js, index.html, app.js e documentação dessa cópia; reader.test.cjs deve voltar para tests/. Preserve os TXT. Commit e push continuam manuais.
