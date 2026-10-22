@@ -793,3 +793,82 @@ Backup: backups/offline-384-400-20261022-162521/ guarda chapters.js, index.html,
 Validação efetiva: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado com 111 IDs consecutivos, corpos dos TXT 297–400 idênticos ao leitor, navegação até 400 e retorno ao 399, notas de Ano-Novo em 385/386/388, ausência de nota no 320, extremos, índice, painel de aparência, retomada, preferências e armazenamento. Comparação estrutural confirmou 290–383 integralmente preservados; títulos novos extraídos diretamente dos TXT. git diff --check aprovado. git ls-files -u sem entradas. Testes usam DOM simulado; revisão visual real não executada.
 
 Estado: preparação offline completa até 400, sem TXT pendentes de integração até esse número. Nenhum staging, commit, push ou implantação executado. Próximo passo seguro: usuário abrir/atualizar index.html, conferir visualmente e fazer commit/push manual incluindo os dezessete TXT novos e os arquivos finais modificados.
+
+
+## Capítulo 401 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/401 - O Clube da Longevidade exposto ao mundo.txt. Introduzidos grupo hacker Anonymous e líder K conforme narrativa ficcional; mantidos Clube da Longevidade, Mundo Intraterrestre, classe D e número ficcional 10021. Nota italiana fragmentária Deus/Combater e fragmento final Cinco marcados como incertos. Aquisição corrompida de longevity funds interpretada como aquisição de tempo de vida conforme contexto. Ruídos publicitários e numéricos isolados removidos. Sem pesquisa externa ou atribuição dos eventos ficcionais a organizações reais.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separadores e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 401 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401 aguarda publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 402 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/402 - Não se pode olhar diretamente para Deus.txt. Mantidos Anonymous, K, Shi Sheng, Reino Qingyun, Ancestral Lu e Mundo de Antimatéria 03. Referência contraditória a Mundo de Antimatéria 04 interpretada como 03 e marcada. Mundo Canggu, período final com pronomes contraditórios sobre selar a força vital e Imortal no Mundo Mortal marcados como incertos. Introduzidos Grande Sábio, Quase-Imperador, Grande Imperador e Pedras da Origem; referência Human Ancestor Continent alinhada a Ancestral Lu pelo contexto. Ruídos numéricos isolados removidos.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, oito marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 402 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–402 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 403 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/403 - Alguém está nos investigando.txt. Mantidos Shen Youchu, Chen Ke, Risfond, Morris, Bill, Buffett e Planeta 04; introduzidos Grupo Tecnologia do Futuro e IA Rainha Vermelha. Century Tower, afirmação ambígua do número de membros, descrição contraditória do olhar de Morris e pergunta deslocada sobre rastros/contravigilância marcados como incertos. Chen Ke padronizado no masculino e variante Maurice unificada como Morris. Dados sobre pessoas reais mantidos como parte da narrativa ficcional, sem pesquisa factual externa; ruídos numéricos removidos.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, oito marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 403 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–403 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 404 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/404 - A última base dos Caçadores de Deuses.txt. Mantidos Anonymous, K, Morris, Shen Youchu, HM/Caçadores de Deuses, Audrey, Lü Chao, Adams, Ilhas Sel e Caderno que Rouba Vidas. Local corrompido do sangue no banheiro, frase fragmentária sobre sacrifícios da HM e cidade Po Yee marcados como incertos. Variantes Maurice e Robert Tapan-Morris alinhadas a Morris conforme continuidade. Final preserva preparação de dois mísseis, sem inventar lançamento.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, seis marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 404 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–404 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 405 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/405 - Nesta guerra Deus venceu.txt. Mantidos Adams no masculino, Audrey, Fuxi, Guiguzi, Ilhas Sel e HM. Alvo pessoal ambíguo do ataque a Xangai, relógio, Po Yee (variante Boeing no original) e Mundo de Antimatéria 03 (04 no original, contraditório) marcados como incertos. Preservados 1.357 subordinados, 16.325 mortos, e-mails, discurso hipotético de vitória futura, lançamento/interceptação dos mísseis e encerramento. Ruídos de pontuação/números isolados removidos.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, oito marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 405 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–405 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 406 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/406 - Um hino à humanidade.txt. Mantidos HM/Caçadores de Deuses, Ilhas Sel, Tan Yanyu, Fuxi, Guiguzi, Zhang Jian, Po Yee, Anonymous e K; introduzido codinome Escorpião. Fragmento sobre pensamentos/ordens, localização corrompida da propriedade Zhang junto ao Mundo 01 e encerramento Question 5 interpretado como Quinta parte marcados como incertos. Preservados 130 quilômetros quadrados, população, intervalo de três minutos e vinte segundos, 23 de junho e conteúdo dos e-mails. Ruídos publicitários e pontuação isolada removidos.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, seis marcadores de itálico excluindo separadores e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 406 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–406 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 407 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/407 - O controle de Lu Li.txt. Mantidos Anonymous, K, Escorpião, Morris, Shen Youchu, Du Weiwei, Chang Yunfeng e Sistema Climático Rei Dragão. Variantes Po Ie/Boy’s City alinhadas a Po Yee; pronomes de K alinhados ao personagem. Descrição ambígua do olhar de Morris durante chamada marcada como incerta. Preservados cinco e-mails, relatório da entrega dirigida ao Anonymous e limites oficiais do sistema climático; ruídos numéricos e pontuação isolada removidos.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 407 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–407 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 408 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/408 - Pelo futuro da humanidade.txt. Mantidos Lu Li, Kong Heman, Jin’anli, Chang Yunfeng, Bill, Buffett e classes D/B. Introduzido B.139, Fantasma que Bate à Porta. Rua West Bund interpretada provisoriamente como Xibin e nome Nono Serviço de Segurança marcados como incertos. Desaparecimento do fantasma preservado sem acrescentar combate ausente no texto. Dados sobre Jeff Bezos e agência mantidos como narrativa ficcional, sem pesquisa factual externa; ruído numérico removido.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 408 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–408 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 409 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/409 - A escolha dos representantes públicos do Clube da Longevidade.txt. Mantidos Lu Li, Morris, Shen Youchu, Anonymous, K e Nono Serviço de Segurança. Revelado nome de K: Sun Shuxing. Preservadas três regras das transações e escolha de Tao Manying, Scarlett, Cheryl Cole e Eva como representantes na narrativa ficcional. Organização ambiental Danque e frase corrompida sobre estrelas conhecidas em outros países marcadas como interpretações incertas.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 409 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–409 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 410 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/410 - A revelação! Uma comunidade com um futuro compartilhado para a humanidade.txt. Mantidos Lu Li, Morris, Shen Youchu, K, Anonymous e Clube da Longevidade. Preservados lista histórica, documentos substituídos por Morris e plano de exposição pública. Título ambíguo, atribuição da compilação aos hackers e prazo contraditório de setenta e duas horas marcados como incertos; mantido anúncio anterior de cento e vinte horas sem corrigir silenciosamente a divergência do original. Ruído numérico isolado removido.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, seis marcadores de itálico, ambos os prazos e encerramento conferidos; git diff --check executado após registro. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 410 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–400; TXT 401–410 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Publicação offline 401–410 — 22/10/2026
+
+Comando publique executado sob autorização permanente. Integrados os dez capítulos pendentes 401–410, diretamente dos TXT UTF-8, com conteúdo integral, títulos e marcações de incerteza preservados. Leitor contém 121 capítulos consecutivos, de 290 a 410. Atualizados chapters.js, contagem de index.html, testes e LEIA-ME.md. app.js e styles.css não alterados; capítulos 290–400 comparados estruturalmente com a versão anterior e preservados.
+
+Backup local: backups/offline-401-410-20261022-173430/, com manifesto e cópias de chapters.js, index.html, LEIA-ME.md, REVISAO-OPERACIONAL.md e tests/reader.test.cjs. Reversão seletiva: restaurar arquivos de conteúdo/índice/documentação/testes da cópia, manter os TXT e registrar a reversão; revisão anterior disponível para consulta.
+
+Validação efetiva: node tests/reader.test.cjs aprovado (121 capítulos, igualdade integral dos corpos TXT 297–410 com o leitor, navegação incluindo extremo 410 e retorno a 409, retomada, preferências, painel de aparência, índice, armazenamento bloqueado e recursos locais). node --check chapters.js, node --check app.js e git diff --check aprovados. Nenhum conflito não resolvido identificado na leitura inicial de git ls-files -u. Conferência visual real no navegador não realizada nesta rodada. Não executados staging, commit, push ou implantação remota. Preparação offline concluída; próximo passo: revisão local e commit/push manuais pelo usuário.

@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 400 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui os capítulos 290 a 410 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -126,3 +126,8 @@ Incluídos integralmente os doze TXT 372–383, preservando títulos, itálicos,
 ## Versão offline 290–400
 
 Incluídos integralmente os dezessete TXT 384–400, com títulos, itálicos, separadores e notas finais preservados. Índice com 111 capítulos consecutivos. Capítulos 385, 386 e 388 exibem a saudação original de Ano-Novo no lugar do pedido de assinatura. Cabeçalho, controles, progresso e preferências preservados. Backup: backups/offline-384-400-20261022-162521/. Para reverter esta integração, restaurar chapters.js, index.html, app.js e LEIA-ME.md da cópia e reader.test.cjs em tests/; manter TXT e registrar a reversão na revisão operacional. Backup também contém revisão anterior para consulta. Commit e push manuais; conferência visual real pendente.
+
+
+## Versão offline 290–410
+
+Incluídos integralmente os dez TXT 401–410, preservando títulos, marcações de incerteza e separadores. Índice com 121 capítulos consecutivos. Aplicação, cabeçalho, controles, progresso e preferências preservados. Backup: backups/offline-401-410-20261022-173430/. Reversão seletiva: restaurar chapters.js, index.html e LEIA-ME.md da cópia e reader.test.cjs em tests/; preservar os TXT e registrar a reversão na revisão operacional. O backup também contém a revisão anterior para consulta. Commit e push manuais; conferência visual real no navegador não realizada nesta rodada.
