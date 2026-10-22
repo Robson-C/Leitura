@@ -11,9 +11,10 @@
 </head>
 <body data-theme="sepia">
   <header class="topbar" id="topbar">
+    <button id="index-toggle" aria-expanded="false" aria-controls="library" aria-label="Mostrar índice de capítulos" title="Índice de capítulos"><svg class="index-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true" focusable="false"><path d="M4 5h16M4 12h16M4 19h16"/></svg><span class="index-label">Índice</span></button>
     <a class="brand" href="#" id="brand" aria-label="Ir ao início do capítulo"><span class="brand-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><path d="M12 5C9 3 5 3 1 4v16c4-1 8-1 11 1 3-2 7-2 11-1V4c-4-1-8-1-11 1Zm0 0v16"/></svg></span><span id="header-title">Uma jornada através do tempo</span></a>
-    <div class="header-actions" aria-label="Aparência da leitura">
-      <button id="index-toggle" aria-expanded="false" aria-controls="library" aria-label="Mostrar índice de capítulos" title="Índice de capítulos"><svg class="index-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true" focusable="false"><path d="M4 5h16M4 12h16M4 19h16"/></svg><span class="index-label">Índice</span></button>
+    <button id="appearance-toggle" class="appearance-toggle" aria-expanded="false" aria-controls="appearance-panel" aria-label="Mostrar opções de aparência" title="Opções de aparência"><svg viewBox="0 0 24 24" width="21" height="21" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round" aria-hidden="true"><path d="m9 3-.6 2.2-1.5.9-2.2-.6-3 5.1L3.3 12l-1.6 1.4 3 5.1 2.2-.6 1.5.9L9 21h6l.6-2.2 1.5-.9 2.2.6 3-5.1-1.6-1.4 1.6-1.4-3-5.1-2.2.6-1.5-.9L15 3Z"/><circle cx="12" cy="12" r="3"/></svg></button>
+    <div id="appearance-panel" class="header-actions appearance-panel" role="region" aria-label="Aparência da leitura" hidden>
       <div class="font-controls" role="group" aria-label="Tamanho da fonte"><button id="font-decrease" aria-label="Diminuir fonte" title="Diminuir fonte">A−</button><output id="font-value" aria-label="Tamanho da fonte">20</output><button id="font-increase" aria-label="Aumentar fonte" title="Aumentar fonte">A+</button></div>
       <label class="compact-control"><span>Tema</span><select id="theme" aria-label="Tema"><option value="light">Claro</option><option value="sepia">Sépia</option><option value="dark">Escuro</option></select></label>
       <label class="compact-control"><span>Espaço</span><select id="line-height" aria-label="Espaçamento entre linhas"><option value="1.4">1,4</option><option value="1.5">1,5</option><option value="1.6">1,6</option><option value="1.7">1,7</option><option value="1.8">1,8</option><option value="1.9">1,9</option><option value="2">2,0</option><option value="2.1">2,1</option><option value="2.2">2,2</option><option value="2.3">2,3</option><option value="2.4">2,4</option></select></label>
@@ -29,7 +30,7 @@
       <h2>Uma jornada<br>através do tempo</h2>
       <p class="library-description">Os caminhos de Lu Li</p>
       <div class="book-rule"></div>
-      <p class="chapter-count">44 capítulos disponíveis</p>
+      <p class="chapter-count">51 capítulos disponíveis</p>
       <nav id="chapter-list" aria-label="Capítulos"></nav>
       <div class="library-footer"><span aria-hidden="true">◷</span><p>Um capítulo de cada vez.<br><span>Leia no seu ritmo.</span></p></div>
     </aside>

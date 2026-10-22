@@ -253,3 +253,79 @@ Backup: backups/offline-331-333-20261021205838/ contém chapters.js, index.html,
 Validação: node --check chapters.js e app.js aprovados; node tests/reader.test.cjs aprovado com 44 IDs consecutivos, comparação integral dos TXT 297–333, navegação até 333 e retorno ao 332, retomada, preferências, controles e armazenamento bloqueado. O teste de igualdade foi ajustado para normalizar CRLF dos TXT desta máquina para LF antes da comparação, sem mudar o conteúdo dos arquivos; primeira execução detectou essa diferença de finais de linha. git diff --check aprovado. Conferência visual real não executada; testes usam DOM simulado.
 
 Estado: leitor offline 290–333 completo. Nenhum TXT pendente até 333. Sem staging, commit, push ou implantação remota. Próximo passo: atualizar index.html no navegador para conferir os três capítulos novos; Git permanece manual.
+
+## Capítulo 334 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/334 - O primeiro dono do Caderno de Roubo de Vida.txt sob autorização permanente de tradução/TXT. Termos, personagens e cristais mantidos conforme capítulos anteriores. Takagi Jue e Toyota Natsume preservados provisoriamente como no original, com asteriscos por romanização incerta. Ruídos de extração removidos e referências a papéis/sujeito da instrução sobre carregar o cristal resolvidas pelo contexto. Preservada a divergência narrativa entre a notícia de seis presos e os laudos de seis mortos; não foi inventada explicação.
+
+Continuidade: Yang Zhen’er recebe um ano de vida; Zhang Jun investiga seis mortes por parada cardíaca com intervalo inferior a um minuto, sem conclusão. Cristais protetores distribuídos e vinculados aos membros por gotas de sangue. Lu Li analisa candidatos japoneses reunidos por Morris, começando por Matsuzaki Yuya (18), Takagi Jue (25) e Toyota Natsume (30). Apesar do título, o trecho recebido termina no terceiro dossiê; ainda não houve escolha nem entrega do caderno.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, asteriscos de itálico em pares (separadores de cena excluídos da contagem), sequência narrativa e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–333; TXT 334 aguarda integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 335 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/335 - A vigilância de Lu Li.txt sob autorização permanente de tradução/TXT. Mantidos Matsuzaki Yuya e Caderno de Roubo de Vida; introduzidos Kota Nagano e Fukuyama Shuko conforme grafia recebida. Nome de Lu Li ilegível para Yuya preservado como efeito narrativo explícito. Fala final sobre uma grande brecha interpretada provisoriamente e marcada com asteriscos. Resíduo numérico removido; referência inconsistente à vizinha como homem idoso ajustada ao contexto, sem mudar o acontecimento.
+
+Continuidade: caderno entregue a Matsuzaki Yuya e acompanhado por câmeras de Lu Li. Yuya traduz as regras e testa o caderno em Kota Nagano e na vizinha Fukuyama Shuko; após o segundo teste, declara que pretende mudar o mundo. Lu Li critica a brecha deixada por ele. Morte de Nagano mostrada em queda de motocicleta; preservada a sequência original sem inventar explicação adicional sobre a parada cardíaca prevista nas regras.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separador de cena tratado à parte), nomes, sequência e encerramento conferidos; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–333; TXT 334–335 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 336 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/336 - A inauguração do trem subterrâneo.txt sob autorização permanente de tradução/TXT. Padronizados Stepan Razin, Sociedade Razin, HM/Caçadores de Deuses, Povo de Sangue Azul e Trem Celeste de Ligação entre o Mundo Intraterrestre e a Superfície. Atribuição contraditória do ataque à base americana preservada como no original e marcada com asteriscos. Velocidade de seis metros por segundo preservada e marcada por incompatibilidade aparente com o contexto, sem inventar unidade ou fator de correção. Ruídos de extração removidos; college entrance examination e radio station interpretados como altitude e plataforma conforme contexto.
+
+Continuidade: HM reconstitui ataque à base indiana e procura obrigar A a sair de Xangai. Stepan Razin sobrevive a ataque de míssil graças ao cristal de aceleração temporal de cem vezes, mas deixa seus subordinados na aeronave. Trem Celeste praticamente concluído sob aceleração de mil vezes. Lu Li, Shen Youchu, Du Weiwei e Zhuge Liang chegam por elevador a estação a trezentos metros de profundidade, onde são convidados a embarcar por uma mulher do Povo de Sangue Azul.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), nomes e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–333; TXT 334–336 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 337 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/337 - A criação de um universo de fantasia.txt sob autorização permanente de tradução/TXT. Mantidos Mundo Intraterrestre, Trem Celeste, Corpo de Combate, Povo de Sangue Azul, Mundo de Antimatéria 03 e Planeta 04. Império Charlemagne, continente Dia e nome Saint Charlemagne Wens (variantes Wins/Wens no original) preservados provisoriamente com marcas de incerteza. Travessia do núcleo terrestre interpretada como acesso ao Mundo Intraterrestre e marcada; área de dez mil quilômetros corrigida provisoriamente para quilômetros quadrados conforme capítulo 327 e marcada. Origem biológica da iluminação e descrição da composição primordial mantidas como incertas. Resíduo 140 removido; referência inicial a Du Weiwei como secretário ajustada à função estabelecida de Shen Youchu.
+
+Continuidade: funcionária do trem é neta do imperador Charlemagne XXIII. Primeiro trecho vai da estação a 300 metros até conexão a 19,7 quilômetros; Trem Celeste leva três horas até o Mundo Intraterrestre a cerca de 600 quilômetros. Grupo visita laboratório 03, a mais de 200 quilômetros do desembarque. Cinco cidades do Planeta 02 (incluindo 177, 298 e 33) produzem antimatéria e agora somam centenas de milhões de habitantes. Newton, Galileu e Faraday recebem Lu Li; domínios temporais são estabelecidos e equipes se revezam. Criação do universo ainda em preparação no ponto em que termina o trecho recebido.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares, sequência, distâncias e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–333; TXT 334–337 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 338 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/338 - Planeta 04 - a origem do universo de ficção científica.txt sob autorização permanente de tradução/TXT. Mantidos termos e nomes dos projetos anteriores. Custos diários de 327 milhões e 2,7 milhões de anos preservados e marcados como incertos por incompatibilidade aparente com os multiplicadores informados. Área de dez mil mu (aproximadamente 667 hectares) preservada e marcada por divergência com dez mil quilômetros quadrados dos capítulos anteriores; nenhuma unidade foi silenciosamente substituída. Descrição histórica do ginkgo e frase corrompida sobre vapor na superfície também marcadas. Resíduo numérico 140 removido.
+
+Continuidade: Lu Li estabelece aceleração de um bilhão de vezes no Mundo de Antimatéria 03, limite de aceleração que consegue perceber. Semente de ginkgo 12782 resiste brevemente e depois é aniquilada. Newton e Faraday continuam experiências. Planeta 04 tem 250 metros de diâmetro, lua e cinco planetas adicionais no ambiente simulado; projeto dirigido por Xia Quande, Hou Gaoming, Anthony Gretel e outros. Lu Li estabelece aceleração de dez milhões de vezes após preparação das condições de vida. Clube se define como observador da civilização; criação do universo de fantasia ainda experimental.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separador de cena tratado à parte), números e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–333; TXT 334–338 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 339 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/339 - O hipócrita.txt sob autorização permanente de tradução/TXT. Mantidos Corte Celestial, Sociedade dos Eremitas da Montanha Verde, Cidade Flutuante, Banco do Tempo, Trem Celeste, Stepan Razin e Caderno de Roubo de Vida. Sacro Império Carolíngio (variante do nome Charlemagne no capítulo 337), nomes dos soberanos, mistura vitoriana/medieval, retorno dos seis administradores a seus postos e menção isolada a depósito marcados como incertos. Fragmento inicial de extração removido; nenhuma explicação inventada para o depósito.
+
+Continuidade: Zhuge Liang recebe os três soberanos e ordena mobilização de mais de 900 mil trabalhadores para a Cidade Flutuante. Lu Li considera Banco do Tempo no Mundo Intraterrestre e domínio temporal no trajeto do trem. Recebe notícia do ataque a Stepan Razin, manda localizar a base russa da HM e enviar novo cristal. Yuya participa do funeral de Fukuyama Shuko fingindo tristeza, prepara proteção do caderno, escreve e destrói planos e pretende agir após ir para a Universidade de Kyoto. Lu Li acompanha por vídeo.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separador de cena tratado à parte), nomes, sequência e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–333; TXT 334–339 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 340 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/340 - Qin Shi Huang - Ying Zheng e a imortalidade.txt sob autorização permanente de tradução/TXT. Mantidos Zhang Chujing, Lu Li, Mundo de Antimatéria 03 e Planeta 04; nomes históricos em português ou romanização do original. Fragmentos numéricos de extração removidos. Pós-escrito do autor desejando feliz 2020 preservado como parte do original, sem tratá-lo como data atual. Não acrescentadas cenas de viagem no tempo nem concessão de imortalidade ausentes do trecho recebido.
+
+Continuidade: Zhang Chujing percebe que Lu Li sabe de suas ações e não a impede. Lu Li registra cliente Xue Juanjuan, 19 anos, transação de um ano. Planeja os catorze membros anteriores a Zhuge Liang: Três Soberanos, Imperador Amarelo Xuanyuan, Laozi, Shakyamuni, Jesus, Zhuangzi, Qin Shi Huang/Ying Zheng, Mozi, Guiguzi, Aristóteles, Platão e Sócrates. Primeiros quatro números definidos; demais nomes listados sem ordem cronológica definitiva. Intenção de trazê-los após criação inicial dos projetos 03/04 e de deixar ruínas para descoberta no presente. Imortalização de Ying Zheng ainda é plano, apesar do título.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, marcações conferidas (separador de cena tratado à parte), lista de quatorze candidatos, sequência e pós-escrito final conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–333; TXT 334–340 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+
+## Cabeçalho compacto com engrenagem — 21/10/2026
+
+Escopo aprovado pelo usuário com “aplique”. Alterados index.html, styles.css e app.js para uma linha com índice de três barras à esquerda, título centralizado e engrenagem à direita. Controles existentes movidos para região expansível dentro do cabeçalho, abaixo da linha do título e acima do conteúdo, inicialmente recolhida. Barra de progresso preservada. Altura do cabeçalho sincronizada ao abrir/fechar e redimensionar, mantendo índice e cálculo de progresso alinhados. Painel usa botão com aria-controls/aria-expanded e identificação acessível. Estado de abertura transitório; preferências de leitura e chave de armazenamento preservadas.
+
+Backup: backups/cabecalho-compacto-20261022T001206/ contém aplicação, testes e documentação anteriores. Reversão seletiva descrita no LEIA-ME. Não houve alterações em chapters.js, TXT ou inclusão dos capítulos 334–340. Leitor continua 290–333.
+
+Validação: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado, incluindo painel recolhido, abertura/fechamento repetidos com geometria simulada variável, preservação de posição no meio do texto, atualização de altura, tema salvo, painel recolhido ao reabrir, ordenação dos botões e índice único. Cenários existentes de navegação, índice móvel/computador, Escape, retomada, armazenamento e conteúdo integral continuam passando. Comparação com backup confirmou restante do HTML intacto. git diff --check aprovado.
+
+Conferência visual tentada com a skill computer-use e navegador integrado; abertura de file:// recusada pela política de URL da ferramenta. Não foi tentado contorno. Revisão visual real permanece pendente, e os testes com DOM simulado não a substituem. Próximo passo: usuário atualizar index.html e conferir painel no celular/computador. Sem staging, commit, push ou publicação remota.
+
+
+## Preparação offline 334–340 — 21/10/2026
+
+Comando “publique” executado sob autorização permanente. Integrados todos os sete TXT pendentes, 334–340, em chapters.js, preservando títulos, itálicos e separadores de cena. Índice atualizado para 51 capítulos (290–340), testes e LEIA-ME atualizados. Comparação estrutural confirmou preservação integral dos capítulos 290–333. Cabeçalho compacto, app.js, styles.css, TXT, progresso e preferências preservados.
+
+Backup: backups/offline-334-340-20261021211404/ contém chapters.js, index.html, tests/reader.test.cjs, LEIA-ME.md e REVISAO-OPERACIONAL.md anteriores. Reversão seletiva no LEIA-ME. Sem staging, commit, push ou implantação remota. Validação final registrada abaixo após execução.
+
+Validação final: node --check chapters.js e app.js aprovados; node tests/reader.test.cjs aprovado com 51 IDs consecutivos, comparação integral dos TXT 297–340, navegação até 340 e retorno ao 339, painel de aparência, preservação da posição, índice, preferências e armazenamento. git diff --check aprovado. Conteúdo e marcações dos novos capítulos importados diretamente dos TXT. Conferência visual real permanece pendente; testes usam DOM simulado. Leitor offline completo até 340, sem TXT pendentes de integração. Próximo passo: atualizar index.html no navegador e revisar antes do commit/push manual.

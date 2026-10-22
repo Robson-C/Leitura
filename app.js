@@ -70,7 +70,21 @@
     $('text-width').value = settings.width;
     if (keepPlace) { rendering = true; requestAnimationFrame(() => { restore(ratio); rendering = false; updateProgress(); persist(); }); }
   }
-  function headerOffset() { return ($('topbar').getBoundingClientRect().height || 76) + 12; }
+  function syncHeaderHeight() {
+    const height = $('topbar').getBoundingClientRect().height;
+    if (height) document.documentElement.style.setProperty('--header-height',height + 'px');
+  }
+  function toggleAppearance() {
+    const ratio = getProgress();
+    const panel = $('appearance-panel');
+    panel.hidden = !panel.hidden;
+    $('appearance-toggle').setAttribute('aria-expanded',String(!panel.hidden));
+    $('appearance-toggle').setAttribute('aria-label',panel.hidden ? 'Mostrar opções de aparência' : 'Esconder opções de aparência');
+    syncHeaderHeight();
+    rendering = true;
+    requestAnimationFrame(() => { restore(ratio); rendering = false; updateProgress(); persist(); });
+  }
+  function headerOffset() { return ($('topbar').getBoundingClientRect().height || 60) + 12; }
   function getProgress() {
     const article = $('reader');
     const start = article.getBoundingClientRect().top + window.scrollY - headerOffset();
@@ -152,6 +166,8 @@
   $('previous').addEventListener('click',() => { const index = chapters.indexOf(current); if(index>0) navigate(chapters[index-1].id); });
   $('next').addEventListener('click',() => { const index = chapters.indexOf(current); if(index<chapters.length-1) navigate(chapters[index+1].id); });
   $('brand').addEventListener('click',event => { event.preventDefault(); window.scrollTo(0,0); });
+  $('appearance-panel').hidden = true;
+  $('appearance-toggle').addEventListener('click',toggleAppearance);
   $('index-toggle').addEventListener('click',() => toggleLibrary(!(isMobile() ? mobileLibraryOpen : sidebarVisible)));
   $('index-close').addEventListener('click',() => { toggleLibrary(false); $('index-toggle').focus(); });
   $('font-decrease').addEventListener('click',() => { settings.fontSize = Math.max(16,settings.fontSize-1); applySettings(); });
@@ -179,10 +195,11 @@
   document.addEventListener('click',event => {
     if (isMobile() && mobileLibraryOpen && !event.target.closest('#library, #index-toggle')) toggleLibrary(false);
   });
-  window.addEventListener('resize',() => { syncLibrary(); updateProgress(); });
+  window.addEventListener('resize',() => { syncHeaderHeight(); syncLibrary(); updateProgress(); });
   window.addEventListener('hashchange',() => { updateProgress(); persist(); render(hashChapter(),true); });
   window.addEventListener('scroll',() => { if(rendering) return; updateProgress(); clearTimeout(saveTimer); saveTimer = setTimeout(persist,180); },{passive:true});
   window.addEventListener('pagehide',() => { if(!rendering) updateProgress(); persist(); });
+  syncHeaderHeight();
   applySettings(false);
   render(hashChapter() || stored.chapter || chapters[0].id);
 })();

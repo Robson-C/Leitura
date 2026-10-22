@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 333 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui os capítulos 290 a 340 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -69,7 +69,7 @@ Backup anterior: backups/offline-300-304-20261021-140610/. Para reverter somente
 
 O comando “publique” autoriza preparar integralmente a versão offline com os TXT traduzidos pendentes, índice, testes, documentação e backup, sem pedir a mesma confirmação novamente. Não executa commit/push nem implantação online.
 
-Versão atual: 44 capítulos, de 290 a 333. Atualize index.html para acessar os novos capítulos 331–333. Seus textos e itálicos correspondem aos TXT originais.
+Versão atual: 51 capítulos, de 290 a 340. Atualize index.html para acessar os novos capítulos 334–340. Seus textos e itálicos correspondem aos TXT originais.
 
 Backup desta preparação: backups/offline-305-310-20261021-161031/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e REVISAO-OPERACIONAL.md da cópia e reader.test.cjs em tests/. Os TXT e a nova autorização permanente em AGENTS.md podem ser mantidos independentemente da reversão do conteúdo. Commit e push manuais pelo usuário.
 
@@ -87,3 +87,15 @@ Incluídos os dez capítulos 321–330 integralmente a partir dos TXT, preservan
 ## Versão offline 290–333
 
 Incluídos integralmente os TXT 331–333, preservando títulos, itálicos e separadores de cena. Índice com 44 capítulos. Backup: backups/offline-331-333-20261021205838/. Para reverter apenas esta integração, restaure chapters.js, index.html, LEIA-ME.md e tests/reader.test.cjs a partir dessa cópia, preservando os TXT, e registre a reversão em REVISAO-OPERACIONAL.md. Commit e push continuam manuais. Conferência visual real permanece pendente.
+
+
+## Cabeçalho compacto e painel de aparência — 21/10/2026
+
+O topo agora tem uma linha: botão de três barras à esquerda, número e título do capítulo centralizados e engrenagem à direita. O índice mantém o comportamento anterior. A engrenagem abre e fecha a faixa de aparência abaixo do título e antes do conteúdo, com fonte, tema, espaçamento, largura, restaurar padrão e porcentagem. O painel começa recolhido a cada abertura; as preferências de leitura continuam salvas. A barra fina de progresso permanece na base do cabeçalho.
+
+Backup: backups/cabecalho-compacto-20261022T001206/. Reversão seletiva: restaurar index.html, styles.css, app.js e tests/reader.test.cjs; consultar a documentação anterior no backup e registrar eventual reversão. Capítulos e TXT não foram alterados. Testes automatizados aprovados; conferência visual no navegador local pendente porque a política do navegador da ferramenta bloqueia file://. Abra index.html no seu navegador para conferir o resultado.
+
+
+## Versão offline 290–340
+
+Incluídos integralmente os sete TXT 334–340, preservando títulos, itálicos e separadores de cena. Índice com 51 capítulos. Cabeçalho compacto com engrenagem preservado. Backup: backups/offline-334-340-20261021211404/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e tests/reader.test.cjs dessa cópia, preservando os TXT, e registrar a reversão em REVISAO-OPERACIONAL.md. Commit e push manuais. Revisão visual real pendente.
