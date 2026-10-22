@@ -133,7 +133,7 @@
     $('reading-time').textContent = Math.max(1,Math.ceil(chapter.body.trim().split(/\s+/).length/200)) + ' min de leitura';
     $('chapter-content').replaceChildren();
     const note = document.createElement('p'); note.className = 'author-note';
-    note.textContent = 'Pedido do autor: assinatura completa e assinatura automática.';
+    note.textContent = typeof chapter.authorNote === 'string' ? chapter.authorNote : 'Pedido do autor: assinatura completa e assinatura automática.';
     if (chapter.authorNote !== false) $('chapter-content').append(note);
     $('chapter-content').append(content(chapter.body));
     $('previous').disabled = index === 0; $('next').disabled = index === chapters.length-1;

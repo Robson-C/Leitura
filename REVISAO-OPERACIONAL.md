@@ -663,3 +663,133 @@ Backup: backups/offline-372-383-20261022-092852/ contém chapters.js, index.html
 Validação efetiva: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado com 94 IDs consecutivos, corpos dos TXT 297–383 idênticos ao leitor, navegação até 383 e retorno ao 382, extremos, índice, painel de aparência, retomada, preferências, armazenamento e recursos locais. Comparação estrutural confirmou capítulos 290–371 integralmente preservados; títulos novos conferidos com os TXT. git diff --check aprovado. Testes com DOM simulado; revisão visual real no navegador não executada.
 
 Estado: preparação offline completa até 383; nenhum TXT pendente de integração até esse número. Não há entradas não resolvidas no índice Git nesta conferência (git ls-files -u sem saída); a pendência antiga de conflito não se mantém. Nenhum staging, commit, push ou implantação executado pelo assistente. Próximo passo seguro: usuário abrir/atualizar index.html, conferir visualmente e fazer commit/push manual incluindo os doze novos TXT e todos os arquivos modificados desta versão.
+
+
+## Capítulo 384 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/384 - A cidade do terror.txt. Mantidos Isaac Newton, Zhang Xiao, Li Jun, Shen Youchu e Anthony Gretel, unificando a separação Anthony/Greta do original. Mecanismo de medo de budismo/taoismo e afirmação contraditória de concentração máxima de um grau interpretados com marcação de incerteza. Preservados experimento ficcional, planos de transformação terrestre e nota autoral de Ano-Novo; ruído numérico e palavra isolada fire removidos.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separador e encerramento autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 384 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384 aguarda publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 385 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/385 - Vinte mil anos atrás - preparando as ruínas.txt. Preservados Liu Yang, Árvore do Mundo, Mundo de Antimatéria 03, treze sementes e distribuição sete continentes/quatro oceanos/duas na China. Referência divergente a nove sementes interpretada como aquelas sementes, com marca de incerteza; vinte mil anos do título e vinte e dois mil/20.000 a.C. da narrativa preservados. Relógio, frase corrompida de implantação da consciência e áreas reservadas das ruínas marcados como incertos. Saudação do título registrada como nota própria, sem inventar pedido de assinatura ausente no título recebido; nota final integral mantida.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, oito marcadores de itálico excluindo separador e encerramento autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 385 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–385 aguardam publique. Atenção na próxima integração: TXT 385 usa Nota do título original na segunda linha, não Pedido do autor; extrair corpo após terceira linha e preservar a nota sem inventar assinatura. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 386 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/386 - Os países descobrem a identidade de A.txt. Mantidos codinome A, Antártida, energia espiritual e Era do Declínio do Dharma. Lista contraditória que repete Estados Unidos interpretada como EUA/Reino Unido/França/Rússia conforme composição posterior e marcada. Posição corrompida da imagem, transição da tradução da fala e nota final Quinta parte marcadas como incertas. Saudação do título preservada como Nota do título original; nenhum pedido de assinatura inventado. Ruído publicitário e número isolado removidos.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, oito marcadores de itálico excluindo separador e encerramento autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 386 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–386 aguardam publique. Na próxima integração, TXT 385 e 386 usam Nota do título original na segunda linha; preservar nota, não inventar assinatura e extrair corpo após terceira linha. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 387 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/387 - O pós-graduando que saltou de um prédio.txt. Mantidos Lu Li, Kong Heman, Árvore do Mundo e energia espiritual de um grau. Região vizinha a Xangai citada como delta do Rio das Pérolas no original interpretada como delta do Yangtzé e marcada; Universidade Tongda preservada com incerteza, sem equiparação automática a instituição real. Introduzidos Zhang Wenhan e Zhang Hongmei. Narrativa ficcional preservada integralmente, sem adicionar orientação ou explicação médica externa.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separador e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 387 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–387 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 388 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/388 - O mundo mudou.txt. Mantidos Zhang Wenhan, Huang Xiulian, Peng Hao, Zhang Xiao, Yang Zhen’er e Universidade Tongda. Identificação da prima Yu Yanjun marcada como incerta pelo contexto disponível. Pronomes contraditórios da idosa e de Lu Li alinhados aos personagens. Preservadas narrativa ficcional, sequência de cinco dias, apartamento 303 e nota final; ruídos numéricos isolados removidos. Saudação do título registrada como Nota do título original, sem inventar pedido de assinatura.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico excluindo separadores e encerramento autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 388 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–388 aguardam publique. Na próxima integração, TXT 385, 386 e 388 possuem nota de título na segunda linha, em vez de Pedido do autor; preservar sem inventar assinatura. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 389 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/389 - Zhu Xueqing e Yang Zhen’er sentem ciúmes.txt. Mantidos Zhu Xueqing, Yang Zhen’er, Reino Qingyun, Shi Sheng, Morris e Mundo de Antimatéria 03. Denominação ambígua do estágio marcial de ascensão marcada com asteriscos. Referências corrompidas Li Hao martial arts world e Martial Arts World No. 03 alinhadas aos mundos já identificados; palavra fire isolada removida. Pesquisa final preserva os caracteres 鬼, 见 e 见鬼 com tradução em português para manter coerência da sequência de digitação.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 389 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–389 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 390 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/390 - Acontecimentos estranhos por toda parte.txt. Mantidos Lu Li, Universidade Tongda, Huang Xiulian, Weibo e Baidu Tieba; introduzido Liu Yongsheng. Plataforma Xiaohu e causa incomum de inanição/terror marcadas como incertas, sem corrigir a anomalia ficcional relatada pelo legista. Relatos de usuários preservados como relatos; nota autoral integral mantida.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separador e encerramento autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 390 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–390 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 391 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/391 - O Departamento de Ocorrências Especiais.txt. Introduzidos Departamento de Ocorrências Especiais e chefe da força-tarefa Deng Qingshu; mantidos Lu Li, Shen Youchu, Dao Celestial e Mundo de Antimatéria 03. Trecho corrompido sobre atmosfera dos barcos de pesca interpretado como contenção da repercussão pública e marcado; fragmento final Cinco mantido com asteriscos. Preservados números de vítimas e natureza hipotética das regras dos fantasmas; ruído publicitário removido.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separadores e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 391 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–391 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 392 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/392 - Revelar ao público.txt. Título inglês ambíguo is released interpretado como Revelar ao público conforme tema final e marcado no título do TXT. Introduzido Zheng Taishun; mantidos Deng Qingshu e Departamento de Ocorrências Especiais. Identificação de chamada interpretada como notificação da transferência e encerramento corrompido da votação marcados como incertos. Classes D/C/B/A/S, C+ observado e caráter apenas projetado de A/S preservados, assim como números e venda de cinco anos. Ruídos numéricos isolados removidos.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, seis marcadores de itálico e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 392 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–392 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 393 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/393 - Olá.txt. Mantidos Deng Qingshu, Departamento de Ocorrências Especiais e introduzido Chang Yunfeng, chefe da divisão de Xangai. Mountain City traduzida como Chongqing; pontuação contraditória da saudação/quem é você organizada pelos interlocutores explícitos. Preservados cinquenta e dois países, quarenta e três votos favoráveis, três contrários e seis abstenções. Ruídos numéricos isolados removidos, inclusive 153 recorrente antes de cidades.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, sem marcações de incerteza necessárias no texto final e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 393 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–393 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 394 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/394 - O jogador vende todo o seu tempo de vida em um dia.txt. Mantidos Chang Yunfeng, Zheng Taishun, classe S e Era do Declínio do Dharma. Variante Zheng Tianshun unificada como Zheng Taishun; frase em que Chang observa o próprio chefe sair alinhada a Lu Li pelo contexto; ruídos Li Hao e fire removidos. Preservados valores de cinco/dez anos e idades cumulativas 35+5, 35+15 e 35+25. Final contém pedido de vender tempo restante e anuência de Lu Li, sem inventar transferência posterior.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, sem marcações de incerteza e encerramento completo conferido. Primeira contagem incluiu separadores de cena por engano; verificação refeita excluindo-os, aprovada. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 394 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–394 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 395 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/395 - O olhar de Lu Li.txt. Mantidos Zheng Taishun, Lu Li e valores de sete milhões e meio, quatro milhões e duzentos mil, três milhões e duzentos mil e um milhão de yuans. Referência isolada a drogas interpretada como apostas pelo contexto anterior, com marca de incerteza; variante coreana Jung Tae-soon unificada como Zheng Taishun. Preservados pagamento arredondado a catorze anos e reserva de vinte e quatro horas, visitas à família e encerramento.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico excluindo separador e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 395 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–395 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 396 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/396 - A convocação de uma entrevista coletiva.txt. Mantidos classes B, energia espiritual, Comando Internacional de Ocorrências Especiais e Shakyamuni. Versos de formulação incerta e nota final Quinta parte marcados com asteriscos. Preservados publicação às 12h13, remoção em menos de três minutos, coletiva às 14h e intervalo final de duas horas conforme original, sem corrigir cronologia ficcional. Pedido de assinatura separado do título e ruído publicitário intermediário removido.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separadores e encerramento autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 396 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–396 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 397 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/397 - A verdade revelada.txt. Mantidos Deng Qingshu e Departamento de Ocorrências Especiais; introduzidos Zhang Guozhi e Liu Zhiyong. Horários contraditórios da Europa e dos Estados Unidos preservados com marca de incerteza, sem correção factual externa. Quinze dias de mudanças ambientais preservados. Ruído de pontuação/número isolado removido; encerramento mantém arma apontada sem inventar disparo.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 397 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–397 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 398 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/398 - A nova era.txt. Mantidos Deng Qingshu, Comando Internacional de Ocorrências Especiais e Yang Zhen’er. Introduzida Era do Renascimento da Energia Espectral. Título ambíguo commander-in-chief interpretado como dirigente máximo do país e marcado. Número ficcional 10021, arma ultravioleta e orientações da coletiva preservados como parte da narrativa, sem transformá-los em instruções externas reais. Ruído numérico isolado removido.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico excluindo separadores e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 398 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–398 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 399 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/399 - Baiyujing está prestes a ser concluída.txt. Jade Capital do título traduzida como Baiyujing conforme cidade já estabelecida. Mantidos Ilhas Sel, Changliu, Yanyu, Tan Yanyu, Corte Celestial, Planeta 04 e nomes científicos anteriores. Formulação ambígua da camada histórica de Yue Zhongqi, Grupo De Zhao e fragmento final Accepted marcados como incertos. Preservados códigos B.001/B.002/B.003, três ilhas principais, oitenta e uma menores, prazo de cinco meses e seiscentos quilômetros.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, seis marcadores de itálico excluindo separador e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 399 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–399 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 400 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/400 - Uma grandiosa civilização em miniatura.txt. Mantidos Nikola Tesla, Anthony Gretel, Hou Gaoming, Shen Youchu e Planeta 04; introduzidos Yagu e Sistema Climático Rei Dragão. Relação temporal invertida no original interpretada como um dia real/quinhentos e quarenta e seis anos internos e marcada. Descrição técnica do vapor, massa de 419 milhões de toneladas e dois números corrompidos da contagem regressiva marcados como incertos. Preservadas explicação ficcional de civilização tipo I e ampliação de quase dez mil metros, sem verificação científica externa.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, dez marcadores de itálico e encerramento completo conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 400 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–383; TXT 384–400 aguardam publique. Próximo passo: entregar tradução/TXT.
+
+
+## Preparação offline 384–400 — 22/10/2026
+
+Comando publique executado sob autorização permanente. Conferidos dezessete TXT pendentes, 384–400, sem lacunas ou duplicatas. Conteúdo integral importado em chapters.js, índice atualizado para 111 capítulos consecutivos 290–400, testes e LEIA-ME atualizados. app.js recebeu suporte mínimo a authorNote textual para preservar a saudação de Ano-Novo dos capítulos 385, 386 e 388, sem inventar pedido de assinatura; comportamento authorNote=false do 320 preservado. Textos anteriores, TXT, styles.css, cabeçalho com engrenagem, controles, progresso e preferências não alterados. Pasta Kanban desta máquina utilizada conforme continuidade.
+
+Backup: backups/offline-384-400-20261022-162521/ guarda chapters.js, index.html, app.js, reader.test.cjs, LEIA-ME.md e revisão anterior; confirmado como ignorado pelo Git. Reversão seletiva: restaurar os arquivos correspondentes e reader.test.cjs em tests/, preservar TXT e registrar a reversão nesta continuidade. Revisão anterior disponível para consulta.
+
+Validação efetiva: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado com 111 IDs consecutivos, corpos dos TXT 297–400 idênticos ao leitor, navegação até 400 e retorno ao 399, notas de Ano-Novo em 385/386/388, ausência de nota no 320, extremos, índice, painel de aparência, retomada, preferências e armazenamento. Comparação estrutural confirmou 290–383 integralmente preservados; títulos novos extraídos diretamente dos TXT. git diff --check aprovado. git ls-files -u sem entradas. Testes usam DOM simulado; revisão visual real não executada.
+
+Estado: preparação offline completa até 400, sem TXT pendentes de integração até esse número. Nenhum staging, commit, push ou implantação executado. Próximo passo seguro: usuário abrir/atualizar index.html, conferir visualmente e fazer commit/push manual incluindo os dezessete TXT novos e os arquivos finais modificados.
