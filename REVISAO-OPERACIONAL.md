@@ -329,3 +329,173 @@ Comando “publique” executado sob autorização permanente. Integrados todos 
 Backup: backups/offline-334-340-20261021211404/ contém chapters.js, index.html, tests/reader.test.cjs, LEIA-ME.md e REVISAO-OPERACIONAL.md anteriores. Reversão seletiva no LEIA-ME. Sem staging, commit, push ou implantação remota. Validação final registrada abaixo após execução.
 
 Validação final: node --check chapters.js e app.js aprovados; node tests/reader.test.cjs aprovado com 51 IDs consecutivos, comparação integral dos TXT 297–340, navegação até 340 e retorno ao 339, painel de aparência, preservação da posição, índice, preferências e armazenamento. git diff --check aprovado. Conteúdo e marcações dos novos capítulos importados diretamente dos TXT. Conferência visual real permanece pendente; testes usam DOM simulado. Leitor offline completo até 340, sem TXT pendentes de integração. Próximo passo: atualizar index.html no navegador e revisar antes do commit/push manual.
+
+## Capítulo 341 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/341 - O nascimento da Árvore do Mundo.txt sob autorização permanente de tradução/TXT. Mantidos Mundo de Antimatéria 03, Isaac Newton, ginkgo e Clube da Longevidade. Termo anti-antimatter activity interpretado provisoriamente como capacidade de resistir à antimatéria; pétalas durante germinação e frase final corrompida sobre limitações ambientais e controle marcadas com asteriscos. Lu Lijie padronizado como Lu Li conforme contexto. Removidos pedido promocional intrusivo por flores e resíduo final de extração; narrativa e pedido de assinatura do título preservados.
+
+Continuidade: uma semana depois, semente de ginkgo de aproximadamente 120 milhões de anos, encontrada sob geleira pela estação antártica do clube e modificada pelos pesquisadores, adapta-se ao mundo 03. Germina e cresce sob aceleração de um bilhão de vezes; ao dia seguinte, árvore de centenas de metros forma continente com suas raízes. Lu Li a nomeia Árvore do Mundo. Novas sementes sobrevivem por mais tempo e algumas alcançam a terra sob a copa. Árvore para de crescer, indicadores seguem mudando. Lu Li volta ao antigo prédio e começa a planejar controle e vigilância das formas de vida; criaturas fantásticas ainda são possibilidade, não ocorrência confirmada.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares, sequência, números e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341 aguarda integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 342 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/342 - De volta ao rio do tempo.txt sob autorização permanente de tradução/TXT. Mantidos Mundo de Antimatéria 03, Planeta 04, Suiren, Tang Zhaorui e Comitê de Proteção do Espaço-Tempo. Biografia fragmentada de Suiren interpretada provisoriamente com morte em 4354 a.C. e marcada; classificação animal antiga e termo zhi preservados com marca de incerteza. Intervalo de 6.372 anos e destino 4353 a.C. mantidos e marcados por divergência aparente com a referência biográfica e cronologia de capítulos anteriores. Ação corrompida do sangue do tigre interpretada com asteriscos, sem acrescentar método de abate. Ruído 140 removido.
+
+Continuidade: relatórios 03/04 positivos; Lu Li planeja enviar consciências dos quinze primeiros membros ao mundo 03 para liderar a civilização. Decide antecipar viagem temporal, reduzir aceleração dos dois mundos para acumular reservas e estudar civilizações antigas. Planeja comitê protetor, linhagens secretas de pessoas resgatadas da morte e ruínas pré-históricas. Após cerca de meio mês de preparo, viaja à época de Suiming e usa pele de tigre como roupa. Três dias depois chega à tribo, onde Suiren está velho, há dias sem comer e perto da morte; encontro e concessão de imortalidade ainda não ocorreram no trecho recebido.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares, sequência, planos e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–342 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 343 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/343 - O soberano Sui aprende artes marciais.txt sob autorização permanente de tradução/TXT. Emperor Sui/Suihuang traduzido como soberano Sui, identificando Suiren e evitando confusão com dinastia Sui. Land e wind em falas interpretados como os nomes Lu e Feng pelo contexto explícito. Referência a centenas de anos de luta ajustada provisoriamente para longa luta, com asteriscos, pela idade declarada de 108 anos. Província do norte preservada como geografia incerta; nenhuma identificação adicional inventada. Mantidos caracteres 陆, nome Feng Yunruo, distância de mil milhas e descrição geológica conforme texto-fonte. Ruído 140 removido.
+
+Continuidade: em 4353 a.C., Suiren tem 108 anos e 1 dia, 2 horas, 20 minutos e 23 segundos restantes. Lu Li apresenta-se como Lu em forma ancestral e deus do tempo. Dois dias depois, tribo lamenta morte pública do soberano, enquanto Suiren rejuvenescido parte com Lu Li. Grupo acolhe antigos à beira da morte, rejuvenescidos sem imortalidade, e aprende artes marciais; chega a Shennongjia com centenas de homens e mulheres. Lu Li pretende estabelecer ali base secreta e linhagens do Comitê de Proteção do Espaço-Tempo. Texto não detalha a transação com Suiren nem os termos de sua longevidade; não foram acrescentados.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separador de cena tratado à parte), dados de Suiren, sequência e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–343 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 344 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/344 - O túmulo do próprio Lu Li.txt sob autorização permanente de tradução/TXT. Introduzidos Clã Oculto e Salão de Aplicação da Lei; preservados Suiren/Feng Yunruo, Fuxi, Shennong, Xuanyuan, Shennongjia e Yangtzé. Diagrama numérico de Fuxi, ideograma 陆 descrito como antigo, salto de dois mil anos até 518 a.C., referência isolada a depósito e tradução dos versos finais marcados por ambiguidade ou inconsistência. Hanguan Valley alinhado ao Passo de Hangu identificado no próprio trecho. Resíduo inicial de extração removido.
+
+Continuidade: cem anos depois da chegada a Shennongjia, Clã Oculto cria e treina descendentes sob regras rígidas. Suiren é mestre de artes marciais e acompanha encontro com Fuxi; Lu Li revela controle temporal. Narrativa passa por Shennong e Imperador Amarelo, levados à rede do clã. Após mais de dois mil anos de desenvolvimento, Lu Li constrói próprio mausoléu sob afluente do Yangtzé, com armadilhas, rio subterrâneo e cenas antigas; pretende que seja descoberto no presente. Despede-se dos quatro ancestrais, entra no caixão e avança no tempo até 518 a.C. Sai pelo rio subterrâneo e chega ao Passo de Hangu; Yin Xi observa aura púrpura anunciando sábio vindo do leste. Encontro com Laozi ainda não ocorreu no trecho recebido.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), sequência, data e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–344 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 345 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/345 - A escrita do Tao Te Ching com Laozi.txt sob autorização permanente de tradução/TXT. Padronizados Yin Xi (variantes Yi happy/Yixi/Yi Xi), Laozi/Li Er, Passo de Hangu, Clã Oculto e nomes dos quatro ancestrais. Guan Yin interpretado como autodesignação do guardião do passo conforme contexto. Data 471 d.C. preservada e marcada por contradição com a passagem de apenas décadas desde 518 a.C.; expressão fallen from grace mantida provisoriamente como caído em desgraça, com asteriscos. Fragmentos numéricos e de extração removidos. Recitação filosófica traduzida do texto recebido, sem substituir por edição externa do Tao Te Ching.
+
+Continuidade: Yin Xi recebe Laozi no passo; Lu Li intervém recitando abertura do Tao Te Ching e debate com Laozi durante a noite. Ambos desaparecem; Yin Xi registra clássico, mas menção ao jovem coautor desaparece por interferência de outra força. Posteriormente Laozi chega a Shennongjia; quatro ancestrais confirmam imortalidade concedida por Lu, embora a concessão não seja mostrada diretamente. Identificam-se Xuanyuan, Jiang Shinian (Shennong), Feng Fuxi e Feng Yunruo (Suiren). Suiren explica que Lu é deus do tempo.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), diálogos, nomes e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–345 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 346 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/346 - O encontro com Qin Shi Huang.txt sob autorização permanente de tradução/TXT. Mantidos Shakyamuni, Laozi, Suiren, Fuxi, Shennong, Xuanyuan, Guiguzi, Mozi, Zhuangzi e Clã Oculto. Data 383 d.C., Templo Tianguan, passagens doutrinárias fragmentadas e cronologia Baiyue/219 a.C. preservados com marcas de incerteza. Diálogo corrompido sobre reencontro interpretado provisoriamente como afirmação de Lu Li, respaldada pela repetição explícita de Ying Zheng no próprio trecho, e marcado com asteriscos. Removidos ruídos de extração e pedido promocional intrusivo de flores; pedido de assinatura do título preservado.
+
+Continuidade: Lu Li encontra Shakyamuni aos 80 anos com 3 minutos e 23 segundos restantes e concede imortalidade; Buda segue a Shennongjia. Imortalização de figuras orientais e ocidentais resumida pela narrativa. Lu Li recebe pirâmide invertida subterrânea no baixo Nilo em troca de trinta anos de vida ao faraó. Em 219 a.C., visita Ying Zheng durante chuva no monte Tai e demonstra domínio temporal; promete reencontro, mas ainda não concede imortalidade. Imperador retoma cerimônia Fengshan e faz juramento observado por Lu Li.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separador de cena tratado à parte), sequência, números e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–346 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 347 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/347 - A morte do Primeiro Imperador.txt sob autorização permanente de tradução/TXT. Sand Dune/Shaqiu/Wind Hill Palace unificados como Palácio de Shaqiu conforme contexto. Mantidos Feng Que, Li Si, Xunzi, Clã Oculto e Qin Shi Huang. Disposed of interpretado provisoriamente como eliminou, com asteriscos, por ambiguidade do destino das testemunhas; duração de cinco anos de viagens preservada e marcada por divergência aparente com a sequência 219–210 a.C. Fragmento 0.5 da fala do imortal removido como ruído, preservando promessa explícita do capítulo 346. Outros resíduos numéricos removidos.
+
+Continuidade: em 210 a.C., Lu Li chega a Shaqiu no dia da morte histórica do Primeiro Imperador. Descendente Feng Que revela que substituiu Li Si após morte inesperada do original no caminho para Qin, seguindo sua trajetória histórica; clã planeja substituto para execução dois anos depois. Lu Li reconhece custo pessoal dessa missão. Vai ao imperador agonizante e o envolve no domínio temporal; Ying Zheng o vê e julga ser alucinação. Apesar do título, trecho termina antes de morte ou concessão de imortalidade.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separador de cena tratado à parte), sequência, data e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–347 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 348 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/348 - Ying Zheng mata pessoalmente Qin Er Shi - Hu Hai.txt sob autorização permanente de tradução/TXT. Padronizados Hu Hai (Huhai), Qin Er Shi, Zhao Gao, Yan Le, Fusu, Clã Oculto e Palácio Wangyi. Alternância contraditória youngest/second son resolvida pelo contexto usando filho mais novo ou Segundo Imperador, sem redefinir filiação. Frase de desculpa corrompida interpretada provisoriamente e marcada; abalone interpretado provisoriamente como peixe de cheiro forte para encobrir cadáver e marcado. Fala final I'm all better now traduzida como Estou pronto conforme despedida. Resíduo 140 removido.
+
+Continuidade: Ying Zheng tem 49 anos e 2 horas, 34 minutos e 9 segundos restantes; Lu Li oferece imortalidade mediante morte simulada e afastamento dos assuntos do mundo. Cadáver substituto providenciado pelo Clã Oculto; Ying Zheng acompanha conspiração e decadência de Qin com Lu Li. Em 207 a.C., vai ao Palácio Wangyi no dia da morte de Hu Hai e pessoalmente o fere mortalmente com espada tomada de Yan Le, sem alterar data destinada. Lu Li e Ying Zheng desaparecem; Yan Le anuncia suicídio. Plano do caderno e projetos 03/04 não avançam neste trecho.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), dados, sequência e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–348 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 349 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/349 - O encontro com o pequeno Salvador Jesus.txt sob autorização permanente de tradução/TXT. Mantidos Qin Shi Huang/Ying Zheng, Clã Oculto, Shennongjia e nomes dos imortais; introduzidos Belém e Pôncio Pilatos conforme versão portuguesa. Intervalos de duzentos/cem/mil anos e contagem de treze imortais preservados com marcas por divergências aparentes da cronologia e contagem anteriores. Daoist Canon traduzido genericamente como clássico daoista na fala, sem inventar nova obra. Alegação sobre arqueologia e ressurreição preservada como pensamento ficcional de Lu Li e marcada como incerta, sem apresentá-la como verificação externa. Infant/baby Jesus traduzido como menino/pequeno Jesus conforme idade explícita de três anos.
+
+Continuidade: Lu Li leva Ying Zheng ao Clã Oculto, onde ancestrais o recebem; povoado tem quase dez mil integrantes e excedentes serão enviados ao mundo. Falta Jesus no plano de imortalização; Lu Li quer investigar ressurreição. Avança ao ano 1 d.C. e contempla rotina do clã; em 3 d.C., visita Jesus aos três anos diante de oficina de carpinteiro em Belém. Pede móveis, espera com menino e conhece seu pai artesão. Nome do pai não informado e não foi acrescentado; concessão de imortalidade ou investigação da crucificação ainda não ocorreu.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), nomes, sequência e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–349 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 350 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/350 - Então a pele de Deus é amarela.txt sob autorização permanente de tradução/TXT. Preservados personagens e enredo religioso ficcional do original, sem substituir a narrativa por versões externas; grafias portuguesas Jerusalém, Judeia, Gólgota e Tomé. Fragmento Blood was seen traduzido provisoriamente como O sangue se fez visível e marcado com asteriscos. Resíduo 8. removido. Pedido de assinatura mantido na linha editorial habitual.
+
+Continuidade: em 33 d.C., Lu Li observa Última Ceia, prisão e crucificação. Jesus tem 33 anos, inicialmente 23 minutos e 12 segundos restantes, depois 12 minutos e 9 segundos. Clã Oculto descobre organização preparando sósia para falsa ressurreição; Lu Li decide tornar lenda real, concede vida eterna com manifestação adiada e é visto por Jesus como Deus. Jesus sai do túmulo três dias depois, aparece aos discípulos, conversa com Tomé e, quarenta dias depois, parte com Lu Li sob domínio temporal, interpretado pelos fiéis como ascensão. Organização do sósia permanece sem nome no trecho.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), dados, sequência e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–340; TXT 341–350 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+
+## Preparação offline 341–350 — 21/10/2026
+
+Comando “publique” executado sob autorização permanente. Integrados todos os dez TXT pendentes, 341–350, em chapters.js, preservando títulos, itálicos e separadores de cena. Índice atualizado para 61 capítulos (290–350), testes e LEIA-ME atualizados. Comparação estrutural confirmou preservação integral dos capítulos 290–340. Cabeçalho compacto, app.js, styles.css, TXT, progresso e preferências preservados.
+
+Backup: backups/offline-341-350-20261021213439/ contém chapters.js, index.html, tests/reader.test.cjs, LEIA-ME.md e REVISAO-OPERACIONAL.md anteriores. Reversão seletiva no LEIA-ME. Sem staging, commit, push ou implantação remota. Validação final registrada abaixo após execução.
+
+Validação final: node --check chapters.js e app.js aprovados; node tests/reader.test.cjs aprovado com 61 IDs consecutivos, comparação integral dos TXT 297–350, navegação até 350 e retorno ao 349, painel de aparência, posição de leitura, índice, preferências e armazenamento. git diff --check aprovado. Conteúdo integral dos novos capítulos importado diretamente dos TXT. Conferência visual real permanece pendente; testes usam DOM simulado. Leitor offline completo até 350, sem TXT pendentes de integração. Próximo passo: atualizar index.html e revisar antes do commit/push manual.
+
+## Capítulo 351 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/351 - O retorno de Lu Li - mil anos se passaram.txt sob autorização permanente de tradução/TXT. Título preserva mil anos, enquanto narrativa informa dois mil. Padronizados Isaac Newton, Chen Yun’an, Machi X (variante March X), Laozi e Suiren. Dito atribuído a Guiguzi e frase atribuída a Sócrates preservados com marcas de incerteza; identificação pelos membros mantém essas atribuições ficcionais. Fala de Xuanyuan com descendência invertida no original interpretada provisoriamente como todos dizem ser meus descendentes, com asteriscos. Removidos fragmentos numéricos e pedido intrusivo de flores. Não acrescentadas explicações externas sobre religião ou citações.
+
+Continuidade: Lu Li retorna à era moderna e convoca veteranos pelo aplicativo Longevidade durante viagem de trem a Xangai. Grupo explicita números: 01 Suiren, 02 Fuxi, 03 Shennong, 04 Xuanyuan, 05 Laozi, 06 Shakyamuni, 07 Mozi, 08 Sócrates, 09 Platão, 10 Guiguzi, 11 Aristóteles, 12 Zhuangzi, 13 Qin Shi Huang e 014 Jesus. Newton, Bill, Buffett, famílias Rong/Chen e demais reagem e deduzem identidades. Veteranos aceitam convocação; encontro presencial ainda não ocorreu no trecho recebido.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), mensagens dos catorze números, nomes e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–350; TXT 351 aguarda integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 352 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/352 - O santuário ancestral do daoismo.txt sob autorização permanente de tradução/TXT. Mantidos Clã Oculto, Suiren, Laozi, Zhuangzi, Shakyamuni, Jesus e Guiguzi. Shencheng traduzido como Xangai. Menção inconsistente a Suiren e catorze outros ajustada ao total explícito de catorze presentes. Província do norte, frase sobre especialistas desaparecendo/recuando, posição suprema nas camadas do mundo, energia que se dispersa, contraste budista corrompido e Estado Pontifício do Vaticano marcados como incertos. Parêntese que confundia nome Lu com terra removido como ruído de tradução. Distâncias em li preservadas, sem conversão silenciosa.
+
+Continuidade: Zhuge Liang recebe mensagem no Mundo Intraterrestre. Mensageiro transmite convocação aos catorze ancestrais em Shennongjia; há quinze construções centrais. Lu Li pede encontro em Xangai e manifestação prévia de quatro figuras nos centros de fé: Laozi/Zhuangzi ao monte Longhu, Shakyamuni a Lumbini, Jesus a Jerusalém e Vaticano. Partida causa fenômenos celestes, percebidos em Longhu, Putuo e Basílica de São Pedro. Ancestrais especulam sobre plano de Lu de quase dez mil anos. Lu Li observa efeitos em Xangai; trecho termina com sino de Longhu, antes dos encontros nos santuários.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), nomes, destinos e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–350; TXT 351–352 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 353 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/353 - As ruínas do túmulo de Lu Li são reveladas.txt sob autorização permanente de tradução/TXT. Mantidos monte Longhu, Yin Xi/Lao Dan, Passo de Hangu e Yangtzé; introduzidos Gao Fujun, Wang Di, Sichuan e Minjiang. Tianshi Mansion traduzido como Mansão do Mestre Celestial; cargo corrompido master craftsman of the Celestial Master Talisman interpretado provisoriamente como responsável pela mansão e marcado. Lay Buddhists ajustado a visitantes no contexto daoista. Alegação sobre reconhecimento da história chinesa/Shang preservada como narrativa ficcional incerta, com asteriscos. Profundidade de 140 metros mantida e marcada por possível ruído numérico. Pós-escrito e indicação de livro preservados; título traduzido provisoriamente e em itálico.
+
+Continuidade: Longhu fecha templos e expulsa visitantes para receber sábios; Gao Fujun reconhece ritual de acolhimento semelhante ao de Laozi. Autoridades tomam conhecimento. Trecho do Minjiang seca e revela pavimento de dezenas de milhares de metros quadrados sob o lodo; professor Wang Di coordena investigação, alerta superiores e convoca especialistas. Título identifica ruínas como túmulo de Lu Li, mas equipe ainda não confirmou identidade no texto recebido.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), nomes, sequência e pós-escrito final conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–350; TXT 351–353 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulos 354–355 no mesmo envio — 21/10/2026
+
+Arquivo recebido sob título 354 continha também cabeçalho explícito Chapter 355 Prehistoric Secrets e todo o capítulo seguinte. Traduzidos e separados em capitulos/354 - As ruínas do antigo Egito aparecem.txt e capitulos/355 - Segredos pré-históricos.txt sob autorização permanente de tradução/TXT. Divisão preservada: 354 termina na descoberta das equipes no Egito; 355 começa com descrição da pirâmide e termina no diálogo com Zhu Xueqing. Nenhum trecho do 355 foi rotulado como 354.
+
+Padronizados Zhihu (variante Xiaohu), Chen Jing, Zhang Chujing, baía de Huangpu e Zhu Xueqing. Leather goods company interpretado provisoriamente como empresa de fachada de design de roupas e marcado. Stavri Anos/Arnos e Nefarud/Nefarious/Nevardfa unificados provisoriamente com marcas de incerteza. Intervalo 380–399 a.C. e período tardio preservados como incertos, sem reconstrução histórica externa. Shanghai capital of China ajustado para Xangai, China. Título duplicado, marcador 1/2, aviso do site sobre redirecionamento, número 140 na porta e outros resíduos de extração removidos; não tratados como instruções do usuário.
+
+Continuidade 354: Lu Li data túmulo por volta de 2550 a.C., com mais de 4.570 anos, e observa notícia/repercussão. Chen Jing vende segundo ano após gastar 300 mil yuans; idade muda de 20+1 para 20+2 e tempo restante de 51 para 50 anos, 2 meses, 8 dias, 12 horas, 20 minutos e 33 segundos. Zhang Chujing fornece cargos de aparência respeitável às jovens.
+
+Continuidade 355: Anos e Guicciardini descobrem múmia real de Nefarud em câmara separada da oficial. Registros sugerem morte simulada e mobilização de mais de cem mil escravos. Desenho revela pirâmide invertida subterrânea no baixo Nilo; universidades e imagens NASA apoiam busca, equipamentos detectam estrutura gigantesca. Lu Li volta ao apartamento; Zhu Xueqing pede ajuda com lâmpada.
+
+Validação: ambos os TXT lidos com UTF-8 estrito, sem caractere de substituição e com itálicos em pares (separadores de cena tratados à parte); divisão, dados, início e encerramento comparados com o original. git diff --check aprovado. Nenhuma tradução anterior substituída. Leitor permanece 290–350; TXT 351–355 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 356 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/356 - Homenagens aos sábios.txt sob autorização permanente de tradução/TXT. Mantidos Laozi, Zhuangzi, Clã Oculto, monte Longhu, Mansão do Mestre Celestial e recitação do Tao Te Ching conforme capítulo 345. Introduzidos Reino Dan, Quanzhen, Zhengyi, Zhang Jintao, Yue Chongdai, Taiqing, Nanhua, Li Weichuan e Zhang Liqian. Localização de Shennongjia no norte, cargos atribuídos a Yue Chongdai no presente da narrativa e direção norte da energia preservados com marcas de incerteza. Interrogation room omitido como ruído incompatível com cena exterior. Distâncias em quilômetros, milhas e li mantidas conforme cada ocorrência, sem uniformização arbitrária. Pedido intrusivo por flores e resíduo final removidos.
+
+Continuidade: catorze imortais alcançaram ou superaram quarto estágio marcial, Reino Dan. Laozi e Zhuangzi percorrem mais de mil quilômetros em um dia e uma noite. Mestres de várias escolas se reúnem em Longhu, identificam sinais ligados ao Boi Verde e Nanhua e preparam incenso por sessenta li. Recebem e reverenciam os dois, que entram na mansão. Laozi pergunta identidades; ninguém confirma e ele começa a recitar abertura do Tao Te Ching. Revelação explícita das identidades ainda não concluída no trecho.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares, nomes, sequência e recitação final conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–350; TXT 351–356 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulos 357–358 no mesmo envio — 21/10/2026
+
+Arquivo recebido sob título 357 continha segundo cabeçalho Lu Li's true identity, sem número, com novo pedido de assinatura e narrativa contínua própria. Criados capitulos/357 - Eu sou Li Er.txt e capitulos/358 - A verdadeira identidade de Lu Li.txt sob autorização permanente de tradução/TXT. Número 358 inferido pela sequência e informado ao usuário; conferir identidade textual antes de aceitar futuro envio explícito 358 para evitar duplicação ou conflito. 357 termina no plano de usar ruínas para influenciar civilização; 358 começa em Estabelecer uma identidade para mim mesmo e termina na preparação da contagem regressiva de Wang Lu.
+
+Padronizados Laozi/Li Er/Dan, Zhuangzi/Zhuang Zhou/Zixiu, Zhang Jintao e demais personagens. Citação corrompida de Zhuangzi, datas atribuídas a Laozi, reação do interlocutor do telefone, nomes das civilizações lendárias, número treze de imortais e datação 4000 a.C. marcada por inconsistência aparente com idade mínima de quatro mil anos. Mantida natureza ficcional do plano de civilizações anteriores, sem afirmações de comprovação externa. Gossip e four trigrams resolvidos como Oito Trigramas pelo diagrama e lista explícita de oito nomes. Removidos título duplicado, 1/2, ruídos 0.5/03 e aviso de redirecionamento do site; não tratados como instruções do usuário.
+
+Continuidade 357: Laozi e Zhuangzi ensinam Dao, revelam nomes e linhas de longevidade de 2.600 e 2.400 anos. Departamento Nove reporta identidades aos superiores. Lu Li considera fabricar vestígios de eras de fantasia/ficção científica e ser percebido como sobrevivente de civilização anterior.
+
+Continuidade 358: Lu Li define camadas de identidade fictícia e vestígios em várias civilizações para envolver autoridades, clube e ancestrais em seu jogo. Praça do Minjiang investigada por Li Ji, Wang Di, Qian Mu, Wu Han e Chen Ke. Ruínas formam Oito Trigramas; equipes encontram saliências giratórias nas bases. Wang Lu prepara contagem de dez segundos para girá-las simultaneamente; mecanismo ainda não acionado no trecho recebido.
+
+Validação: ambos os TXT lidos com UTF-8 estrito, sem caractere de substituição, itálicos em pares (separadores de cena tratados à parte); divisão, nomes, início e encerramento conferidos com o original. git diff --check aprovado. Nenhuma tradução anterior substituída. Leitor permanece 290–350; TXT 351–358 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 359 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/359 - A abertura do palácio subterrâneo.txt sob autorização permanente de tradução/TXT. Mantidos Wang Lu, Li Ji, Wang Di, Qian Mu, Wu Han, Guicciardini e Stavri Anos, além dos quatro ancestrais. Stavri/Professor Anos no encerramento unificados no nome previamente estabelecido, sem criar pessoa adicional. Contagem parcial 10, 9, 8, 3, 2, 1, 0 preservada como seleção narrativa do original; nenhum número intermediário inventado. Pós-escrito do autor mantido.
+
+Continuidade: oito mecanismos dos trigramas acionados simultaneamente abrem escadaria no centro da praça do Minjiang. Equipe ainda não desceu; Clã Oculto informa aos quatro ancestrais que túmulo de Lu foi aberto, e eles sorriem. No Egito, Guicciardini apresenta pirâmide invertida, possivelmente com mais de dois milhões de blocos. Entrada identificada sob laje de cinco metros; explosões graduais autorizadas pelo grupo abrem passagem estreita. Exploradores ainda contemplam acesso; interior não explorado no trecho recebido.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, marcações conferidas (separadores de cena tratados à parte), sequência, medidas e pós-escrito final comparados com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–350; TXT 351–359 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+## Capítulo 360 — 21/10/2026
+
+Traduzido integralmente e criado capitulos/360 - Lu Li usa o Caderno de Roubo de Vida.txt sob autorização permanente de tradução/TXT. Mantidos Ilhas Sel, Baiyujing, Changliu, Yanyu, Grupo de Energia Supercondutora, HM/Caçadores de Deuses, Matsuzaki Yuya e Caderno de Roubo de Vida. Vivienne Tam preservado e marcado por identificação incerta, sem equiparação automática a Tan Yanyu. Sophia/Sofia Sesserly unificada provisoriamente como Sophia Sesserly, com asteriscos. Khorgos preservado como local incerto, sem tratá-lo como país. Mantida ironia do texto sobre não ser impiedoso ao usar o caderno; sem acrescentar novas mortes ou investigação técnica externa.
+
+Continuidade: HM usa bloqueios econômicos e prisões para conter clube; cidades das Ilhas Sel paralisadas, centenas de bilhões congelados, negócios de energia/ambiente/biotecnologia afetados e Yan Guan/Qiu Yong presos. Lu Li espera usar redes de Buda e Jesus para localizar bases e planeja agir com caderno quando obtiver dados. Yuya em Kyoto mata criminosos durante sono, torna-se conhecido como Kira, enfrenta investigação com entrada do FBI e crê controlar destino sem interferência divina. Lu Li observa cada movimento. Apesar do título, novo uso pessoal do caderno contra bases da HM ainda é intenção, não execução no trecho.
+
+Validação: UTF-8 estrito, ausência de caractere de substituição, itálicos em pares (separadores de cena tratados à parte), relatórios, sequência e encerramento conferidos com o original; git diff --check aprovado. Nenhum TXT anterior substituído. Leitor permanece 290–350; TXT 351–360 aguardam integração offline. Sem staging, commit, push ou implantação remota.
+
+
+## Preparação offline 351–360 — 21/10/2026
+
+Comando “publique” executado sob autorização permanente. Integrados todos os dez TXT pendentes, 351–360, em chapters.js, preservando títulos, itálicos e separadores de cena. Índice atualizado para 71 capítulos (290–360), testes e LEIA-ME atualizados. Comparação estrutural confirmou preservação integral dos capítulos 290–350. Divisão 354/355 e 357/358 preservada conforme TXT; número 358 permanece inferido do cabeçalho sem número no envio, conforme registro anterior. Cabeçalho compacto, app.js, styles.css, TXT, progresso e preferências preservados.
+
+Backup: backups/offline-351-360-20261021215113/ contém chapters.js, index.html, tests/reader.test.cjs, LEIA-ME.md e REVISAO-OPERACIONAL.md anteriores. Reversão seletiva no LEIA-ME. Sem staging, commit, push ou implantação remota. Validação final registrada abaixo após execução.
+
+Validação final: node --check chapters.js e app.js aprovados; node tests/reader.test.cjs aprovado com 71 IDs consecutivos, comparação integral dos TXT 297–360, navegação até 360 e retorno ao 359, painel de aparência, posição de leitura, índice, preferências e armazenamento. git diff --check aprovado. Conteúdo integral dos novos capítulos importado diretamente dos TXT. Conferência visual real permanece pendente; testes usam DOM simulado. Leitor offline completo até 360, sem TXT pendentes de integração. Próximo passo: atualizar index.html e revisar antes do commit/push manual.
