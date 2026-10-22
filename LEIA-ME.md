@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 371 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui os capítulos 290 a 383 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -116,3 +116,8 @@ Incluídos integralmente os dez TXT 351–360, preservando títulos, itálicos e
 Incluídos integralmente os onze TXT 361–371, preservando títulos, itálicos, separadores de cena e notas finais do autor. Índice com 82 capítulos consecutivos. Os capítulos 331–360 foram trazidos pelo usuário do Git e já estavam integrados; nenhum salto de numeração foi necessário. Cabeçalho compacto com engrenagem, controles, progresso e preferências preservados. Nesta máquina, a preparação foi realizada em C:/Users/robson.colaco/Documents/Kanban/Leitura; o caminho Curso/Leitura registrado em AGENTS.md refere-se ao outro computador.
 
 Backup: backups/offline-361-371-20261022-080602/. Reversão seletiva: restaurar chapters.js, index.html e LEIA-ME.md dessa cópia, e reader.test.cjs em tests/; manter os TXT e registrar a reversão em REVISAO-OPERACIONAL.md. O backup também guarda a revisão anterior para consulta. Commit e push continuam manuais. Conferência visual real no navegador permanece pendente.
+
+
+## Versão offline 290–383
+
+Incluídos integralmente os doze TXT 372–383, preservando títulos, itálicos, separadores e notas autorais. Índice com 94 capítulos consecutivos. Cabeçalho, engrenagem, controles, progresso e preferências preservados. Backup: backups/offline-372-383-20261022-092852/. Reversão seletiva: restaurar chapters.js, index.html e LEIA-ME.md dessa cópia e reader.test.cjs em tests/; manter TXT e registrar a reversão na revisão operacional. O backup guarda também a revisão anterior para consulta. Commit e push manuais; conferência visual real no navegador pendente.

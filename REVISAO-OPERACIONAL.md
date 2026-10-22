@@ -570,3 +570,96 @@ Backup: backups/offline-361-371-20261022-080602/ contém chapters.js, index.html
 Validação efetiva: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado com 82 IDs consecutivos, comparação integral dos TXT 297–371 com os corpos do leitor, navegação até 371 e retorno ao 370, extremos, retomada, painel de aparência, índice, preferências e armazenamento. Comparação estrutural com backup confirmou capítulos 290–360 integralmente preservados; títulos 361–371 comparados com TXT. Primeira checagem de diff detectou marcadores de conflito na revisão operacional, provenientes da sincronização; removidos somente os três delimitadores, preservando integralmente os dois blocos históricos (331–360 e 361–371). git diff --check final aprovado. Testes com DOM simulado, sem conferência visual real no navegador.
 
 Estado: preparação offline 290–371 concluída, sem TXT pendentes de integração até 371. Índice do Git ainda sinaliza REVISAO-OPERACIONAL.md como UU, embora o conteúdo do arquivo já esteja conciliado; os onze TXT também aparecem preparados no índice por operação externa. Nenhum staging, commit, push, stash ou implantação foi executado pelo assistente. Pendente ao usuário: revisar/atualizar index.html, marcar a resolução de REVISAO-OPERACIONAL.md no Git ao preparar o commit e incluir todos os arquivos finais modificados; então fazer commit/push manual. Não enviar versão enquanto essa resolução no índice e a revisão humana estiverem pendentes.
+
+## Capítulo 372 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/372 - Mundo de Antimatéria 03 - a humanidade contra todas as raças.txt. Mantidos Reino Secreto da Roda e do Mar, Dragões Verdadeiros, Kunpeng, Fênix Imortais e Taotie Ancestrais. Introduzidos Reino Secreto do Palácio do Dao, Reino Secreto dos Quatro Extremos e Reino Secreto da Transformação do Dragão. Contagem contraditória de participantes alinhada ao total explícito de quinze. Escala ambígua da migração, ataque do ancião dragão e chuva de sangue marcados como incertos.
+
+Validação efetiva: decodificação UTF-8 estrita, zero caracteres de substituição, seis marcadores de itálico excluindo separadores, encerramento completo conferido e git diff --check aprovado. Arquivo novo sem substituir tradução anterior, sem necessidade de backup. Reversão seletiva: remover apenas o TXT 372 e registrar a reversão. Sem alteração na aplicação, staging, commit, push ou implantação. Leitor permanece 290–371, conforme preparação anterior; TXT 372 aguarda comando “publique” para integração. Próximo passo: entregar tradução/TXT. Pendência anterior de marcar a revisão operacional como resolvida no índice Git permanece sob responsabilidade manual do usuário, sem manipulação do índice neste trabalho.
+
+## Capítulo 373 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/373 - A criação do Dao Celestial e o retorno.txt. Mantidos Mundo de Antimatéria 03, Árvore do Mundo, quinze sábios totais e demais termos anteriores. Introduzidos Reino Secreto da Plataforma Imortal e Dao Celestial. Vestes do general, denominação do novo reino, analogia corrompida dos sinais de satélite e tomada da consciência da árvore marcados como incertos. Contagens contraditórias alinhadas ao total explícito de quinze; removido ruído de pontuação isolada.
+
+Validação efetiva: leitura UTF-8 estrita, zero caracteres de substituição, oito marcadores de itálico excluindo separadores de cena, encerramento completo conferido; git diff --check aprovado. Arquivo novo sem substituir tradução anterior, sem necessidade de backup. Reversão seletiva: remover apenas o TXT 373 e registrar a reversão. Sem alteração na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–373 aguardam “publique”. Pendência anterior de resolução da revisão operacional no índice Git não alterada neste trabalho. Próximo passo: entregar tradução/TXT.
+
+
+## Capítulo 374 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/374 - Nova integrante - a dirigente do Grupo L’Oréal.txt. Mantidos Reino Qingyun, Ancestral Demoníaco Shi Sheng, Transformação da Força, Força Oculta, Mundo de Antimatéria 03 e Shen Youchu. Variantes do nome da visitante unificadas como Liliane Bettencourt conforme identificação no encerramento do original, com primeira ocorrência nos dados marcada como incerta. Movimento de saída da cadeira de rodas também marcado. Narrativa ficcional preservada, sem pesquisa externa; fragmento isolado fire removido.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separador de cena e encerramento completo conferido. Tentativa inicial de validação em PowerShell falhou por aspas tipográficas no nome; conferência refeita em Node, aprovada. Arquivo novo sem substituir tradução anterior ou necessidade de backup. Reversão seletiva: remover somente o TXT 374 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–374 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Capítulo 375 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/375 - Uma cidade de luzes e perigos.txt. Mantidos Liliane Bettencourt, Suiren, Xia Lingling, Zhao Xiaowei, Zhang Chujing, Chen Jing e Reino Qingyun. Referência final corrompida a uma forma de vida de pedra interpretada como Shi Sheng conforme caixão de jade e continuidade, com asteriscos. Valores, durações, contratos e sequência narrativa preservados; sem acrescentar preço ou quantidade de vida vendida pelas jovens, ausentes no original.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico excluindo separador de cena e encerramento conferido. Arquivo novo sem substituição de tradução anterior ou necessidade de backup. Reversão seletiva: remover apenas TXT 375 e registrar a reversão. Sem mudanças na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–375 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada neste trabalho.
+
+
+## Capítulo 376 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/376 - A mentira monumental de Lu Li.txt. Mantidos Reino Qingyun, Shi Sheng, Suiren, Gang Jin e Ancestral Marcial Li Ji. Progressão contraditória do reino do Núcleo ao Gang Jin, denominação do estágio de ascensão, gesto dos dedos e fragmento final Cinco marcados como incertos. Última referência corrompida a vida de pedra alinhada ao personagem Shi Sheng. Ruídos publicitários e numéricos isolados removidos, sequência das nove tribulações e cinco dias preservada.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, oito marcadores de itálico excluindo separadores e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 376 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–376 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Capítulo 377 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/377 - Uma conversa por telefone com A.txt. Mantidos Minjiang, Li Ji, Wang Di, Departamento Dez, Três Soberanos, Imperador Amarelo e codinome A. Obstáculo associado a fenômenos celestes interpretado como formação e marcado como incerto. Acionamento corrompido das autoridades traduzido como acionamento do mecanismo conforme contexto. Preservados mortos, feridos, dimensões e nota final de Ano-Novo; ruído numérico isolado removido. O título anuncia conversa, mas a narrativa termina na intenção de telefonar, sem inventar ligação efetiva.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico excluindo separadores e encerramento completo da nota autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 377 e registrar a reversão. Sem mudanças na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–377 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Capítulo 378 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/378 - As declarações de Lu Li.txt. Mantidos HM/Caçadores de Deuses, Kira, Shen Youchu, Fan Yongxiang e Adams no masculino conforme continuidade. País do Sol que Nunca se Põe traduzido como Reino Unido e país insular como Japão conforme contexto. Expressão corporal corrompida no encerramento interpretada como olhos baixos e silêncio, marcada com asteriscos. Ruídos numéricos isolados removidos; conteúdo ficcional e fala final preservados integralmente.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico excluindo separadores e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 378 e registrar a reversão. Sem mudanças na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–378 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Capítulo 379 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/379 - A peça sacrificada - Matsuzaki Yuya é preso.txt. Mantidos Matsuzaki Yuya, Kyoto e Caderno que Rouba Vidas. Trecho ambíguo sobre moradia vazia e porta trancada marcado; chamado corrompido da mãe interpretado como Yuya e marcado. Referência Li Hao Chinese handwriting traduzida como caligrafia vigorosa pelo contexto. Relógio e transferência final do caderno/páginas preservados por interpretação incerta com asteriscos. Nota final do autor mantida.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, catorze marcadores de itálico excluindo separadores e encerramento da nota autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 379 e registrar a reversão. Sem alterações na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–379 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Capítulo 380 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/380 - Matsuzaki Yuya - Vou contar tudo.txt. Mantidos Matsuzaki Yuya, Kota Nagano, Shuko Fukuyama, Caderno que Rouba Vidas, HM e Adams. Nome Watanabe Taishi marcado por leitura incerta. Frase contraditória que o chama de jogador interpretada como peça do jogo e marcada. Contagem regressiva parcial preservada com reticências; ruído de pontuação/número isolado removido. Nota final do autor mantida como parte do texto fornecido, sem apresentá-la como orientação externa atual.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, quatro marcadores de itálico excluindo separadores e encerramento autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 380 e registrar a reversão. Sem mudanças na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–380 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Capítulo 381 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/381 - Impulsionando a transformação da civilização terrestre.txt. Mantidos Planeta 04, Mundo de Antimatéria 03, Dao Celestial, Árvore do Mundo, Reino Qingyun, Shi Sheng e nomes padronizados de Galileu, Tesla e Ohm. Classificação temporal inadequada dos cientistas resolvida com referência marcada como incerta; enumeração corrompida de Trem Celeste, Corte Celestial, Bancos do Tempo, culto e escolas reorganizada em trechos marcados. Faixa de poder dos seres na Plataforma Imortal e fragmento final Cinco também marcados. Total de quinze participantes preservado conforme capítulos anteriores. Ruído publicitário removido.
+
+Validação efetiva: decodificação UTF-8 estrita, nenhum caractere de substituição, dezesseis marcadores de itálico excluindo separadores e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 381 e registrar a reversão. Sem mudanças na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–381 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Capítulo 382 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/382 - Um segredo estarrecedor.txt. Mantidos Mundo de Antimatéria 03, Reino Qingyun, Shi Sheng, Ancestral Marcial Li Ji e Reino Secreto da Plataforma Imortal. Introduzidos cidade de Lingxu, reino de Yan e Céu-Caverna de Lingxu. Formulação inicial sobre civilização, condensação da percepção divina, denominação da seita, seção da biblioteca e frase corrompida Lu Munian sobre idade do ancestral marcadas como incertas. Referências a vida de pedra alinhadas a Shi Sheng pelo contexto; ruído numérico isolado removido. Nota final do autor preservada.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, dez marcadores de itálico excluindo separadores e encerramento autoral conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 382 e registrar a reversão. Sem mudanças na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–382 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Capítulo 383 — 22/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/383 - Um fantasma criado pelo homem.txt. Mantidos Isaac Newton, Zhang Xiao, Li Jun, Shen Youchu, Tang Zhaorui, Hou Gaoming, Du Weiwei e Mundo de Antimatéria 03. Referência ambígua à mão estendida de Li Jun marcada como incerta; variante Du Wei alinhada a Du Weiwei conforme contexto. Escala zero a dez graus e tempos preservados; ruído numérico isolado removido. Alegação dos vinte e um gramas preservada como fala ficcional de Newton, sem validação factual externa ou apresentação como aconselhamento médico.
+
+Validação efetiva: leitura UTF-8 estrita, nenhum caractere de substituição, dois marcadores de itálico e encerramento conferido. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 383 e registrar a reversão. Sem mudanças na aplicação, staging, commit, push ou implantação. Leitor permanece na preparação 290–371; TXT 372–383 aguardam publique. Próximo passo: entregar tradução/TXT. Pendência anterior no índice Git não alterada.
+
+
+## Preparação offline 372–383 — 22/10/2026
+
+Comando publique executado sob autorização permanente. Conferido leitor 290–371 e doze TXT pendentes 372–383, sem lacunas ou duplicatas. Importados integralmente os doze capítulos em chapters.js, preservando títulos, itálicos, separadores e notas finais. Índice atualizado para 94 capítulos consecutivos 290–383; testes e LEIA-ME atualizados. app.js, styles.css, cabeçalho com engrenagem, controles, progresso, preferências e TXT preservados. Trabalho realizado na pasta Kanban desta máquina conforme continuidade.
+
+Backup: backups/offline-372-383-20261022-092852/ contém chapters.js, index.html, reader.test.cjs, LEIA-ME.md e revisão operacional anteriores; confirmado como ignorado pelo Git. Reversão seletiva: restaurar arquivos correspondentes e reader.test.cjs em tests/, conservar TXT e registrar reversão nesta continuidade; revisão anterior disponível para consulta.
+
+Validação efetiva: node --check app.js e chapters.js aprovados; node tests/reader.test.cjs aprovado com 94 IDs consecutivos, corpos dos TXT 297–383 idênticos ao leitor, navegação até 383 e retorno ao 382, extremos, índice, painel de aparência, retomada, preferências, armazenamento e recursos locais. Comparação estrutural confirmou capítulos 290–371 integralmente preservados; títulos novos conferidos com os TXT. git diff --check aprovado. Testes com DOM simulado; revisão visual real no navegador não executada.
+
+Estado: preparação offline completa até 383; nenhum TXT pendente de integração até esse número. Não há entradas não resolvidas no índice Git nesta conferência (git ls-files -u sem saída); a pendência antiga de conflito não se mantém. Nenhum staging, commit, push ou implantação executado pelo assistente. Próximo passo seguro: usuário abrir/atualizar index.html, conferir visualmente e fazer commit/push manual incluindo os doze novos TXT e todos os arquivos modificados desta versão.
