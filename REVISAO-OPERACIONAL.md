@@ -1264,3 +1264,129 @@ Preferência explícita deste pedido registrada em AGENTS.md: não repetir tradu
 Backup: backups/offline-446-455-20261023-081610/, com arquivos anteriores chapters.js, index.html, LEIA-ME.md, AGENTS.md, REVISAO-OPERACIONAL.md, tests/reader.test.cjs e manifesto da rodada. Reversão seletiva da integração: restaurar arquivos de conteúdo/índice/documentação/testes, manter TXT e preferência nova e registrar reversão.
 
 Validação efetiva: node tests/reader.test.cjs aprovado, incluindo 166 IDs consecutivos, corpos TXT 297–455 idênticos, títulos e notas 446–455, ausência de nota 450, navegação até 455 e retorno 454, retomada, preferências, controles, armazenamento bloqueado e recursos locais. node --check chapters.js, node --check app.js e git diff --check aprovados. Nenhum conflito não resolvido na leitura inicial de git ls-files -u. Conferência visual real não realizada nesta rodada. Preparação offline concluída, sem TXT pendente até 455. Sem staging, commit, push ou implantação remota. Próximo passo: revisão e commit/push manuais pelo usuário.
+
+
+## Capítulo 456 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/456 - A possibilidade de espaços-tempos paralelos.txt. Mantidos Lu Li, Peng Hao, Yan Yi, Shen Youchu, Clube da Longevidade e Rio do Tempo. Propostas sobre futuro, paradoxos e mundos paralelos mantidas como reflexões ficcionais, sem afirmar viagem realizada ou fazer pesquisa externa. Alegação de jamais participar de eventos passados preservada e marcada por divergência com intervenções históricas anteriores. Referências de primeira pessoa do narrador normalizadas pelo contexto; ruídos promocionais 0/00 e marcador final five removidos.
+
+Continuidade: Lu dispensa impedir ações estrangeiras e pretende vender técnicas básicas por Yan Yi; passeio no litoral de Xangai provoca iluminação, relógios nos olhos e hipóteses de viagem horizontal. Considera risco de paradoxo e ausência do clube durante sua falta. Recorda perigo inicial no Rio do Tempo e decide preparar-se antes de agir. Registra investigação no caderno corporal, sem experimentar viagem futura/paralela; final considera outra versão de si.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois marcadores de itálico equilibrados, título, pendência explícita e encerramento conferidos; 7108 caracteres. Arquivo novo sem substituir tradução anterior, dispensado backup. Reversão seletiva: remover apenas TXT 456 e registrar reversão. Leitor permanece 290–455; TXT 456 aguarda publique. Sem alterações na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status conforme preferência vigente.
+
+
+## Capítulo 457 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/457 - Universos paralelos e a hipótese de viajar para o futuro.txt. Mantidos Lu Li, Clube da Longevidade e Rio do Tempo. Referente ambíguo do pedido de morte na carta ao segundo anterior preservado e marcado em itálico. Argumentos contraditórios sobre linhas temporais, troca de versões e existência como ponto mantidos como hipóteses ficcionais do personagem, sem correção científica nem declarar comprovação ou viagem executada. Primeira pessoa isolada do narrador normalizada; ruídos 200 e 0.5 removidos.
+
+Continuidade: Lu adia travessia paralela por custo e poder insuficiente, analisa viagem futura, concebe troca de lugares com outras versões e depois existência única como ponto fora do Rio do Tempo. Recorda ausência do próprio reflexo, considera informação/tecnologia futura aplicada ao presente e encerra iniciando estudo da possibilidade de retroceder o tempo. Nenhum experimento realizado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois marcadores de itálico equilibrados, título, pergunta final e encerramento conferidos; 7131 caracteres. Arquivo novo sem substituir tradução anterior, dispensado backup. Reversão seletiva: remover apenas TXT 457 e registrar reversão. Leitor permanece 290–455; TXT 456–457 aguardam publique. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status conforme preferência vigente.
+
+
+## Capítulo 458 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/458 - O desenvolvimento da habilidade de reversão temporal.txt. Mantidos Lu Li, professor Tang, Clube da Longevidade, concessão de tempo e reversão temporal. Formulação truncada sobre separar concessão/custo, limite máximo da vida restante e condição final de apagar existência interpretados pelo contexto e marcados como incertos. Pronomes narrativos normalizados, ruído 200 removido. Regras e argumentos científicos preservados como ficção, sem pesquisa externa nem correções conceituais.
+
+Continuidade: reflexão leva a dois experimentos com formigas no laboratório particular do antigo prédio. Primeiro: patas recuperam, mas saldo cai a dez dias, doze horas e cinco minutos; beneficiária paga com futuro. Segundo: concede vida antes de regenerar, e tempo concedido não é anulado. Lu conclui reversão do estado físico sem alterar tempo global e possível regeneração enquanto resta vida; cogita apagar pessoa até inexistência, mas não demonstra esse último efeito. Hipóteses iniciais sobre anulação de tempo são distinguidas dos resultados posteriores.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis marcadores de itálico equilibrados, título, saldo, segundo experimento e encerramento completos conferidos; 6953 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 458 e registrar reversão. Leitor permanece 290–455; TXT 456–458 aguardam publique. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status conforme preferência vigente.
+
+
+## Capítulo 459 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/459 - Obsessão.txt. Mantidos Lu Li, Shen Youchu, Tan Yanyu (Yan Yu), Yan Yi, Bai Suzhen, Morris, Mundo 03, Ilhas Sel (Saul/Sol/Sole) e Mundo Intraterrestre. Referentes da aplicação contratual das habilidades, raiz do ginkgo e sujeito da obsessão final interpretados e marcados em itálico; última fala alinhada provisoriamente à obsessão de Yan sem reescrever original anterior. Técnicas/magic manuals tratadas como manuais de técnicas de cultivo pelo contexto.
+
+Continuidade: Lu descreve regras próprias subordinadas ao tempo e habilidades derivadas de venda/concessão/reversão. Três ilhas principais e treze pequenas concluídas, vinte e uma pequenas previstas; cogita transferir funcionários e adia linha magnética direta de Xangai. Yan com aura assassina perto do quarto grau recebe 28 manuais para negociação internacional; três superiores destinados ao governo chinês. Métodos disponíveis em nuvem interna de Morris com permissões. Lu pede fim negociado da guerra com Bai e alerta arrogância demoníaca; hostilidade de Yan permanece.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis marcadores de itálico equilibrados, título, contagens de ilhas/manuais e encerramento completos conferidos; 7386 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 459 e registrar reversão. Leitor permanece 290–455; TXT 456–459 aguardam publique. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status conforme preferência vigente.
+
+
+## Capítulo 460 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/460 - Um novo fantasma de classe A.txt. Mantidos Lu Li, Yan Yi, Bai Suzhen, Tan Yanyu, Liu Zhujun, Peng Hao, Clã Oculto, Tianhui por continuidade e Mundo 03. Introduzido A301, Alma Enfeitiçadora. Fala isolada sobre sair agora mantida e marcada por emissor ambíguo; declaração de lealdade que atribuía tudo a Mr. Peng Hao normalizada para senhor/Lu Li e marcada. Pronomes de Liu normalizados ao feminino, primeira pessoa do narrador normalizada e ruído !8 removido. Não acrescentada identificação oficial à jovem em capítulo anterior.
+
+Continuidade: Clã Oculto relata A301 intermediário A, força equivalente a quarto grau, domínio que enfeitiça e fortalece fantasmas; oeste de Hunan, quatro B no ápice, oito B variados e quase cem C. Lu prevê cooperação Yan/Bai e envia Liu, já no quarto grau inicial sob energia nível 2, para auxiliá-los. Nenhum combate ainda narrado. Lu toma café com Peng, reflete sobre comuns/despertos e vê revista destacando quatro famílias de Xangai.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro marcadores de itálico equilibrados, título, identificação, contingentes, grau de Liu e encerramento conferidos; 7152 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 460 e registrar reversão. Leitor permanece 290–455; TXT 456–460 aguardam publique. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status conforme preferência vigente.
+
+
+## Capítulo 462 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/462 - Hoje é domingo.txt. Mantidos Lu Li, Yang Zhen’er, Zhu Xueqing, Peng Hao, Shen Youchu, Yan Yi, Bai Suzhen, Liu Zhujun, Tianhui, Reino Demoníaco e Hunan. Início corrompido interpretado como despertar de Lu; saída de bicicleta conservada apesar da entrada seguinte no carro; referência a dois fatores decisivos interpretada como dois momentos de atuação de Liu; montanhas/rio não nomeados no original preservados sem identificação geográfica externa. Quatro trechos marcados em itálico. Ruído 0.5 removido e pronomes normalizados.
+
+Continuidade: manhã após encontro com Yang, saída com vizinha Zhu, chegada ao escritório e promessa de passeio dominical com Shen. Relatório confirma campanha: Liu aniquila grupo B e mata A com ferimento no braço; Yan/Bai feridos compreendem avanço, ficam protegidos por Liu e saem no quarto grau inicial. Governo reconhece demônios apenas no âmbito dos despertos, estabelece território arrendado e administração pela Tianhui, encerra guerra. Preservadas baixas e referência explícita a inimigos abaixo da classe C sem correção arbitrária.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, oito marcadores de itálico equilibrados, título, avanço e encerramento conferidos; 6161 caracteres. TXT 461 não encontrado nesta pasta; não inventado conteúdo intermediário. Arquivo novo sem substituir tradução anterior, dispensado backup. Reversão seletiva: remover apenas TXT 462 e registrar reversão. Leitor permanece 290–455; TXT 456–460 e 462 aguardam publique, lacuna 461 a resolver antes da integração consecutiva. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
+
+
+## Capítulo 463 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/463 - O retorno de Liu Zhujun.txt. Mantidos Lu Li, Deng Qingshu, Clã Oculto, Yan Yi, Liu Zhujun, concessão de tempo e reversão temporal. Nota autoral somente assinatura completa, conforme título original. Sem avisá-lo conservado como referente ambíguo; demônios na campanha conservado e marcado por divergência com fantasmas; Xuan Mo interpretado como aura profunda e misteriosa, sem introduzir nome próprio, marcado. Pronomes normalizados ao contexto, screen 03 removido como ruído.
+
+Continuidade: conversa sem imagem com autoridade agradece três manuais; investigações persistem. Liu retorna, acumula quase mil anos de treino e tem braço esquerdo enfaixado após A. Ferida de cinco dias, saldo 130 anos, onze meses e vinte dias, idade registrada dezessete. Lu aplica reversão parcial, provoca falta de ar e contrações por incompatibilidade na fronteira temporal; amplia para corpo inteiro e estabiliza. Regra descoberta exige envolver todo beneficiário. Não acrescentado saldo final nem encerramento definitivo da cura, ausentes no original.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis marcadores de itálico equilibrados, título, saldo, regra e encerramento conferidos; 7212 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 463 e registrar reversão. Leitor permanece 290–455; TXT 456–460 e 462–463 aguardam publique, lacuna 461 permanece conforme leitura anterior. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
+
+
+## Capítulo 464 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/464 - Primeiro teste da habilidade.txt. Mantidos Lu Li, Liu Zhujun, Yan Yi, Bai Suzhen, Suirenshi, Shennongshi, Ying Zheng/Qin Shi Huang, Fuxi, Zhuge Liang, Mundo 03, Povo de Sangue Azul, Banco do Tempo e Trem Celeste. Shencheng normalizado para Xangai. Referente da competitividade mantido ambíguo e marcado; resposta I wish you success in your mission interpretada conforme ação de Liu como Cumprirei a missão e marcada. Pronomes de Liu normalizados ao feminino, primeira pessoa narrativa normalizada, ruído de pontuação 8 removido.
+
+Continuidade: reversão cura braço em segundos e devolve corpo ao estado de cinco dias antes sem reduzir força/energia percebida. Lu planeja novo experimento em vez de concluir regra universal. Liu relata estrangeiros; Lu dispensa ação se regulares e pacíficos. Entrega um método melhor a ela e dois a Yan/Bai; energia aproxima nível 3, sementes ainda não brotaram apesar de raízes crescentes. Lu vai ao Mundo Intraterrestre; Ying Zheng ajuda Zhuge Liang contra rebeldes despertos do Povo de Sangue Azul; Fuxi verifica nova formação defensiva. Nenhum experimento novo realizado ainda.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro marcadores de itálico equilibrados, título, força preservada, nível, destinatários dos manuais e encerramento conferidos; 7105 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 464 e registrar reversão. Leitor permanece 290–455; TXT 456–460 e 462–464 aguardam publique, lacuna 461 permanece conforme leitura anterior. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
+
+
+## Capítulo 465 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/465 - Verificação da habilidade.txt. Mantidos Lu Li, Suirenshi, Shennongshi, Liu Zhujun, Shen Youchu, Peng Hao, Tan Yanyu, Du Weiwei, Laozi/Li Er, Mundo 03 e Trem Celeste. Lu Fali normalizado para Lu Li; gesto count the items interpretado como gesto manual e marcado. Yunruo em fala de Suirenshi tratado como ruído de autorreferência e marcado na interpretação Fui indiscreto. Infancy and early childhood interpretado como vocativo Youchu, marcado, sem inserir nova personagem. Ruído 200 removido.
+
+Continuidade: habitantes menores que formigas do Mundo 03 servem como sujeitos; reversão com comando adicional devolve corpo e energia espiritual aos registros de um mês antes. Lu conclui que energia exige intenção específica e pode ser afetada seletivamente; inexistência completa permanece inferência, não experimento demonstrado. Retorna à superfície, encontra Shen após reunião mensal e sai para compras; Peng os conduz a rua de marcas sofisticadas a quatro ou cinco quilômetros.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis marcadores de itálico equilibrados excluindo separador, título, resultado experimental, ordem explícita e encerramento conferidos; 6927 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 465 e registrar reversão. Leitor permanece 290–455; TXT 456–460 e 462–465 aguardam publique, lacuna 461 permanece conforme leitura anterior. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
+
+
+## Capítulo 466 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/466 - Na companhia de Shen Youchu.txt. Mantidos Lu Li, Shen Youchu, Peng Hao, Bai Suzhen, Reino Demoníaco, Império Celestial e classe B. Expressão straight man traduzida pelo sentido contextual de falta de sensibilidade romântica, sem sentido de orientação sexual. Texto sem passagens que exigissem marcação específica de incerteza; nenhum itálico inserido artificialmente. Ruídos promocionais 0/00/5 removidos; pronomes normalizados pelo contexto.
+
+Continuidade: passeio de compras e bolo com Shen, vigilância discreta por Peng, agentes seguidores tolerados; relações públicas impedem circulação ampla da aparência de Lu. Shen adormece e retorna ao quarto. Bai aguarda no escritório e explica controle do tamanho corporal, estabilização da base e eliminação secreta de dissidentes. Fantasmas proliferam; Lu recomenda comércio segundo regras humanas. Bai pede recrutamento externo, Lu recusa domínio único sem competição mas autoriza subjugar demônios de pequenos países; encerra com surpresa de Bai, sem ação executada.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, zero marcadores de itálico, título, controle corporal, ressalva de países pequenos e encerramento conferidos; 6912 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 466 e registrar reversão. Leitor permanece 290–455; TXT 456–460 e 462–466 aguardam publique, lacuna 461 permanece conforme leitura anterior. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
+
+
+## Capítulo 467 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/467 - Um experimento que comprova a viagem ao futuro e aos espaços-tempos paralelos.txt. Mantidos Lu Li, Bai Suzhen, Rio do Tempo e Clube da Longevidade. Introduzido Gênesis como missão de primeira prioridade. Cada momento visitado uma vez interpretado e marcado; porta ainda não aberta conservada com incerteza por sequência anterior. Oscilações interpretadas como emocionais pelo contexto. Modelo temporal e comprovações são fatos da narrativa ficcional, sem pesquisa ou correções científicas. Ruídos 200 e 0.5 removidos; primeira pessoa isolada normalizada ao narrador.
+
+Continuidade: saldo supera cinco bilhões de anos; Lu avança um minuto gastando dez e permanência custa dez vezes. Constata existência única, retorna e faz escolha à porta, cria futuro distinto. Vê gota perpendicular ao rio e reentra no futuro original um segundo após sua saída, concluindo restauração impede sobreposição. Registra pesquisa/desenvolvimento de paralelos como segunda prioridade, subordinada a confirmar ausência de impacto na linha atual; não leva acompanhantes. Planeja Gênesis e conquista/criação de mundos miniatura, exige distanciamento emocional. Terceiro ponto permanece reticências do original, sem invenção.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro marcadores de itálico equilibrados, título, saldo, custos, retorno, prioridades e encerramento conferidos; 6956 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 467 e registrar reversão. Leitor permanece 290–455; TXT 456–460 e 462–467 aguardam publique, lacuna 461 permanece conforme leitura anterior. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
+
+
+## Capítulo 468 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/468 - Reunião de rotina do Grupo S.txt. Mantidos Lu Li, Peng Hao, Shen Youchu, Deng Qingshu, Yan Yi, Bai Suzhen, Tianhui, Reino Demoníaco, Grupo S e Clube da Longevidade. Sam’s Country normalizado para Estados Unidos; cultivation secret formulas para técnicas. Nome Inez Woz conservado com incerteza; Yan velho interpretado como jovem pelo contexto de pouca experiência e idade anterior, marcado; 200 países conservado como duzentos e marcado por possível ruído, sem suprimir número silenciosamente. Licensing authority interpretado como autoridade administrativa conforme contexto de repartição de poder. Sem nota de assinatura ausente do título original; futura integração com authorNote false.
+
+Continuidade: Lu ainda precisa verificar efeitos dos mundos paralelos. EUA pagam 28 bilhões por 28 livros e treinam jovens em força secreta anticlube sob ameaça de morte. Grupo S sem dirigente principal recebe opinião dele via Número Dois, mantém parceria e limites. Aprova auxiliar experiente para supervisionar Yan e repartir poder; adia restrições de autonomia demoníaca. Agentes sofrem baixas investigando organizações estrangeiras; Número Cinco propõe ajudar clube se A concordar, retribuindo técnicas gratuitas. Conversa não apresenta execução da intervenção.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis marcadores de itálico equilibrados excluindo separador, título, ausência de nota, preço, decisões e encerramento conferidos; 7116 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 468 e registrar reversão. Leitor permanece 290–455; TXT 456–460 e 462–468 aguardam publique, lacuna 461 permanece conforme leitura anterior. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
+
+
+## Capítulo 469 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/469 - Notícias de Po Yee.txt. Fonte inclui título duplicado e indicação 1/2, mas contém narrativa contínua até rota demoníaca; todo o conteúdo disponível traduzido em um TXT, sem duplicar título e sem inventar parte ausente. Baoyi/Po I/Po Yee alinhados a Po Yee conforme continuidade; mantidos Deng Qingshu, Lu Li, Zhang Jian, Tang Zhaorui, Peng Hao, Suirenshi, Bai Suzhen, Yan Yi, Tianhui, Grupo S, Mundo 03, Engenharia da Vida e Trem Celeste. Duas frases corrompidas sobre execuções repetidas e permanência de condenados na prisão conservadas e marcadas em itálico. Ruído ;8 removido e pronomes normalizados.
+
+Continuidade: Lu dispensa intervenção contra estrangeiros e entrega pedido de organização extraordinária legítima; Deng buscará aprovação superior, ainda não concedida. Zhang convoca visita à base malásia via Mundo Intraterrestre. Tang desenvolve Poção do Despertar com insumos Mundo 03 e energia nível 10; declara ausência de efeitos observados, mas necessidade de três/quatro fases clínicas permanece. Condenado desperta relâmpagos, quebra vidro e é morto por Peng com aceleração cem vezes. Produção é uma dose diária sob aceleração dez mil vezes, ervas exigem décadas/séculos. Lu condiciona área agrícola acelerada a resultados clínicos; nenhum uso em membro do clube ainda narrado. Visita dura dias. Instrui rota intraterrestre ao território demoníaco, cuja primeira cidade está em construção; não estende acesso especial à Tianhui, mantendo Yan nos transportes de superfície.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro marcadores de itálico equilibrados, título, trecho final, dose, etapas clínicas, teste e rota conferidos; 13920 caracteres. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 469 e registrar reversão. Leitor permanece 290–455; TXT 456–460 e 462–469 aguardam publique, lacuna 461 permanece conforme leitura anterior. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
+
+
+## Capítulo 471 — 23/10/2026
+
+Tradução integral e TXT UTF-8 criados sob autorização permanente em capitulos/471 - O incidente inesperado com a Equipe 26.txt. Mantidos Lu Li, Tang Zhaorui, Poção do Despertar, Zhang Xiao, Peng Hao, Liu Zhujun, família Rong e Clube da Longevidade. Fusang normalizado para Japão. Benkuma/Honkuma/Benxiong unificados provisoriamente como Benkuma, primeira ocorrência marcada sem inventar topônimo real. Trial phase interpretado como perda de contato e marcado. Afirmação clube sem despertos mantida e marcada por contradição com Liu e membros já despertos. Passado estava no aeroporto conservado e marcado por possível divergência temporal. Ruídos promocionais 0/5 removidos e pronomes de Liu normalizados.
+
+Continuidade: Lu planeja conquistar paralelos para obter informação, preparando forças nucleares e despertar de equipes no presente, sem poder trazer recursos materiais. Zhang informa Equipe 26 com mais da metade perdida nas montanhas a leste de Benkuma, pedido de socorro dois minutos antes. Lu vai com Peng e Liu via jato Rong de Hongqiao; tripulação pronta em meia hora, duas horas passam desde aviso ainda em viagem. Chegada revela cheiro de sangue/decomposição e ruído se aproximando, sem confronto narrado. Equipes usam aceleração duas vezes, líderes dez.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, oito marcadores de itálico equilibrados, título, equipe, intervalos, aeroporto e encerramento conferidos; 7108 caracteres. Capítulos ausentes conferidos nesta pasta: 461, 470. Não inventado conteúdo intermediário. Arquivo novo sem substituir tradução anterior; backup dispensado. Reversão seletiva: remover apenas TXT 471 e registrar reversão. Leitor permanece 290–455; TXT 456–460, 462–469 e 471 aguardam publique. Sem mudanças na aplicação, staging, commit, push ou implantação. Entrega apenas link e breve status.
