@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui os capítulos 290 a 455 traduzidos nesta conversa. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui 192 capítulos entre 290 e 483. Os números 461 e 470 não existem no material enviado e foram pulados por autorização do usuário, preservando os números e títulos originais. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -69,7 +69,7 @@ Backup anterior: backups/offline-300-304-20261021-140610/. Para reverter somente
 
 O comando “publique” autoriza preparar integralmente a versão offline com os TXT traduzidos pendentes, índice, testes, documentação e backup, sem pedir a mesma confirmação novamente. Não executa commit/push nem implantação online.
 
-Versão atual: 166 capítulos, de 290 a 455. Atualize index.html para acessar os novos capítulos 446–455. Textos, notas autorais e itálicos correspondem aos TXT originais.
+Versão atual: 192 capítulos, de 290 a 483, sem 461 e 470. Atualize index.html para acessar os 26 capítulos novos. Textos, notas autorais e itálicos correspondem aos TXT originais.
 
 Backup desta preparação: backups/offline-305-310-20261021-161031/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e REVISAO-OPERACIONAL.md da cópia e reader.test.cjs em tests/. Os TXT e a nova autorização permanente em AGENTS.md podem ser mantidos independentemente da reversão do conteúdo. Commit e push manuais pelo usuário.
 
@@ -156,3 +156,8 @@ Conferidos os quinze capítulos 431–445 contra os originais enviados: narrativ
 ## Versão offline 290–455
 
 Incluídos os dez TXT 446–455 integralmente, com títulos, incertezas e separadores preservados. Índice com 166 capítulos consecutivos. Capítulo 450 sem nota de assinatura, conforme original. Backup: backups/offline-446-455-20261023-081610/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e tests/reader.test.cjs da cópia; manter os TXT e registrar reversão. AGENTS.md anterior incluído para consulta. Controles, progresso e preferências preservados. Commit e push manuais; conferência visual real não realizada nesta rodada.
+
+
+## Versão offline 290–483 — saltos autorizados
+
+Incluídos integralmente 26 TXT: 456–460, 462–469 e 471–483. Usuário confirmou que 461 e 470 não existem e autorizou pular sem renumerar. Navegação segue os capítulos disponíveis; títulos, textos, notas e incertezas preservados. Capítulos 468, 479 e 481 sem nota de assinatura, conforme TXT; 463 traz apenas assinatura completa. Backup: backups/offline-456-483-20261023-162458/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e tests/reader.test.cjs da cópia, manter TXT e registrar reversão. AGENTS.md anterior guardado para consulta. Controles, progresso e preferências preservados. Commit e push manuais; conferência visual real não realizada nesta rodada.

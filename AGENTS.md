@@ -36,3 +36,8 @@ O comando não autoriza commit, push, criação de PR, mudanças de credenciais/
 ## Entrega das traduções — preferência de 23/10/2026
 
 O usuário dispensou a repetição integral da tradução na conversa. Continuar traduzindo integralmente e gerando TXT UTF-8, com incertezas entre asteriscos simples; responder apenas com link do TXT e breve status pertinente. Inclusão no leitor continua pelo comando publique; commit e push manuais.
+
+
+## Numeração 461 e 470 — esclarecimento de 23/10/2026
+
+O usuário confirmou que os capítulos 461 e 470 não existem no material desta obra e autorizou a publicação offline pulando esses números. Preservar números e títulos originais dos demais, sem criar capítulos fictícios ou renumerar. Esta autorização resolve essas duas lacunas específicas.
