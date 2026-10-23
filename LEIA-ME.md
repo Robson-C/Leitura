@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 192 capítulos entre 290 e 483. Os números 461 e 470 não existem no material enviado e foram pulados por autorização do usuário, preservando os números e títulos originais. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui 192 capítulos: 279–320 (numeração corrigida), seguidos dos atuais 332–483, ainda em conferência. Os números 461 e 470 não existem no material enviado e foram pulados por autorização do usuário, preservando os números e títulos originais. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
 
 ## Leitura
 
@@ -69,7 +69,7 @@ Backup anterior: backups/offline-300-304-20261021-140610/. Para reverter somente
 
 O comando “publique” autoriza preparar integralmente a versão offline com os TXT traduzidos pendentes, índice, testes, documentação e backup, sem pedir a mesma confirmação novamente. Não executa commit/push nem implantação online.
 
-Versão atual: 192 capítulos, de 290 a 483, sem 461 e 470. Atualize index.html para acessar os 26 capítulos novos. Textos, notas autorais e itálicos correspondem aos TXT originais.
+Versão atual: 192 capítulos, 279–320 e atuais 332–483, sem 461 e 470. Atualize index.html para acessar os 26 capítulos novos. Textos, notas autorais e itálicos correspondem aos TXT originais.
 
 Backup desta preparação: backups/offline-305-310-20261021-161031/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e REVISAO-OPERACIONAL.md da cópia e reader.test.cjs em tests/. Os TXT e a nova autorização permanente em AGENTS.md podem ser mantidos independentemente da reversão do conteúdo. Commit e push manuais pelo usuário.
 
@@ -161,3 +161,75 @@ Incluídos os dez TXT 446–455 integralmente, com títulos, incertezas e separa
 ## Versão offline 290–483 — saltos autorizados
 
 Incluídos integralmente 26 TXT: 456–460, 462–469 e 471–483. Usuário confirmou que 461 e 470 não existem e autorizou pular sem renumerar. Navegação segue os capítulos disponíveis; títulos, textos, notas e incertezas preservados. Capítulos 468, 479 e 481 sem nota de assinatura, conforme TXT; 463 traz apenas assinatura completa. Backup: backups/offline-456-483-20261023-162458/. Reversão seletiva: restaurar chapters.js, index.html, LEIA-ME.md e tests/reader.test.cjs da cópia, manter TXT e registrar reversão. AGENTS.md anterior guardado para consulta. Controles, progresso e preferências preservados. Commit e push manuais; conferência visual real não realizada nesta rodada.
+
+
+## Índice por centenas — 23/10/2026
+
+O índice reúne capítulos em grupos recolhíveis 201–300, 301–400, 401–500 e assim por diante, conforme houver conteúdo. Mesmo começando no capítulo 290, o primeiro rótulo permanece 201–300 para acomodar inclusões futuras. Ao abrir ou mudar de capítulo, somente sua centena fica expandida. Os botões permitem abrir e fechar outros grupos manualmente sem alterar a leitura. Números, títulos, progresso e preferências são preservados.
+
+Backup: backups/indice-centenas-20261023-165054/. Para reverter somente este ajuste, restaurar app.js, styles.css e tests/reader.test.cjs da cópia; registrar a reversão na revisão operacional. A cópia anterior de LEIA-ME.md e REVISAO-OPERACIONAL.md está disponível para consulta. Commit e push continuam manuais.
+
+
+## Numeração parcial confirmada — 23/10/2026
+
+Confirmados e renumerados somente os antigos 290–311 para 279–300. Nomes/cabeçalhos dos quinze TXT existentes nesse intervalo ajustados; capítulos iniciais sem TXT próprio permanecem completos em chapters.js. Títulos e corpos preservados. Correspondência em NUMERACAO-CAPITULOS.json. Os atuais 312 em diante aguardam conferência: o salto temporário 300→312 não representa conteúdo removido.
+
+O leitor migra uma única vez o capítulo e as posições salvos do esquema anterior, mantendo preferências; guarda a cópia local em entrelinhas.reading.v1.before-numbering-1. Links antigos do intervalo são convertidos ao carregar um navegador com estado antigo; em instalação nova ou estado já migrado, o link usa a numeração corrigida. Um link antigo isolado não permite distinguir, por exemplo, o antigo 290 do novo 290.
+
+Backup: backups/renumeracao-279-300-20261023-171533/. Reversão exige restaurar chapters.js/app.js/testes e os nomes/cabeçalhos TXT segundo manifest.json da cópia, além de registrar reversão. Para progresso já migrado no navegador, a cópia before-numbering-1 preserva estado anterior; restaurá-la apenas junto da versão antiga do leitor. Commit e push manuais; revisão visual real não realizada.
+
+
+## Segunda etapa de renumeração — 23/10/2026
+
+Confirmado antigo 331 Sou apenas um júnior… como 320; renumerados antigos 312–331 para 301–320. Agora a faixa confirmada é 279–320, seguida dos atuais 332 em diante, ainda em conferência. Nenhum texto removido. Vinte TXT renomeados e cabeçalhos ajustados, com títulos/corpos preservados. Tabela NUMERACAO-CAPITULOS.json atualizada. Migração versão 2 atende navegadores originais ou já migrados na etapa 1, sem deslocar novamente IDs corrigidos. Snapshot local before-numbering-2 preserva estado anterior à segunda etapa.
+
+Backup: backups/renumeracao-301-320-20261023-172212/. Para reverter apenas a segunda etapa, restaurar aplicação/conteúdo/testes/tabela e nomes/cabeçalhos TXT conforme manifesto; manter pendentes fora do intervalo e registrar reversão. Se o navegador já migrou, restaurar snapshot before-numbering-2 junto ao leitor da etapa 1. Commit e push manuais; conferência visual real não realizada.
+
+
+## Terceira etapa: capítulos 321–344
+
+Aplicados antigos 332–356: 332–354→321–343, 355 unido integralmente ao 343 e 356→344. Leitor com 191 capítulos; faixa corrigida 279–344, seguida temporariamente de 357 em diante. Conferência alcançou marco 357→345, cuja divisão com 358 segue pendente. Migração versão 3 guarda snapshot before-numbering-3 e estima proporcionalmente a posição nas partes unidas, preservando preferências.
+
+Backup: backups/renumeracao-321-344-20261023T203143/. Reverter fontes e TXT pelo manifest.json, preservando pendentes fora do intervalo; para navegador migrado, restaurar snapshot before-numbering-3 junto à versão anterior. Testes automatizados aprovados; revisão visual real não realizada. Commit e push manuais.
+
+
+## Quarta etapa: capítulos 345–346
+
+Antigos 357/358 unidos integralmente no 345 — Eu sou Li Er; antigo 359 renumerado 346 — A abertura do palácio subterrâneo. Faixa corrigida 279–346, 190 capítulos offline. Segue temporariamente antigo 360 em diante, ainda em conferência. Migração versão 4 mantém preferências e estima posição por caracteres na união, guardando snapshot before-numbering-4.
+
+Backup: backups/renumeracao-345-346-20261023T203520/. Reverter fontes e nomes/TXT conforme manifest.json e, para navegador migrado, restaurar snapshot before-numbering-4 junto ao leitor anterior. Testes automatizados aprovados; revisão visual real não realizada. Commit e push manuais.
+
+
+## Quinta etapa: capítulos 347–356
+
+Antigos 360–367→347–354; antigos 368/369 unidos integralmente no 355; antigo 370→356. Faixa corrigida 279–356, 189 capítulos offline. Antigos 371 em diante aguardam conferência. Migração versão 5 guarda snapshot before-numbering-5 e estima posição proporcional na união, preservando preferências.
+
+Backup: backups/renumeracao-347-356-20261023T203805/. Reverter fontes e TXT pelo manifest.json; progresso já migrado requer snapshot before-numbering-5 junto ao leitor anterior. Testes automatizados aprovados, revisão visual real não realizada. Commit e push manuais.
+
+
+## Sexta etapa: capítulos 357–402
+
+Antigos 371–414→357–400; antigos 415/416 unidos integralmente no 401; antigo 417→402. Faixa corrigida 279–402, 188 capítulos offline. Antigos 418 em diante aguardam conferência. Migração versão 6 preserva preferências e estima posição na união, com snapshot before-numbering-6 para reversão.
+
+Backup: backups/renumeracao-357-402-20261023T204041/. Reverter fontes e TXT pelo manifest.json, retirando destinos antes de restaurar origens por haver sobreposição de IDs. Navegador migrado requer snapshot before-numbering-6 junto ao leitor anterior. Testes automatizados aprovados; revisão visual real não realizada. Commit e push manuais.
+
+
+## Sétima etapa: capítulos 403–446
+
+Antigos 418–460→403–445; antigo 462→446. Sem conteúdo para antigo 461, a sequência corrigida segue contínua. Faixa corrigida 279–446, 188 capítulos offline no total. Antigos 463 em diante aguardam conferência. Migração versão 7 preserva posições e preferências, com snapshot before-numbering-7.
+
+Backup: backups/renumeracao-403-446-20261023T204336/. Reverter fontes e TXT pelo manifest.json, retirando destinos antes de restaurar origens devido à sobreposição. Navegador migrado requer snapshot before-numbering-7 junto ao leitor anterior. Testes automatizados aprovados; revisão visual real não realizada. Commit e push manuais.
+
+
+## Oitava etapa: capítulos 447–475
+
+Antigos 463–469→447–453 e antigos 471–492→454–475, sem conteúdo para antigo 470. Numeração corrigida até 475. Leitor contém 279–466 (188 capítulos consecutivos); nove TXT 467–475 aguardam publique para inclusão. Textos preservados. Migração versão 8 mantém posições e preferências com snapshot before-numbering-8.
+
+Backup: backups/renumeracao-447-475-20261023T204850/. Reverter fontes e TXT segundo manifest.json, retirando destinos antes de restaurar origens por sobreposição. Navegador migrado requer snapshot before-numbering-8 junto à versão anterior. Testes automatizados aprovados; revisão visual real não realizada. Commit e push manuais.
+
+
+## Publicação offline atual — 279–475
+
+Incluídos os nove TXT 467–475. Leitor com 197 capítulos consecutivos, sem pendentes. Numeração corrigida conforme NUMERACAO-CAPITULOS.json; conteúdo e controles preservados, migração versão 8.
+
+Backup: backups/offline-467-475-20261023T204958/. Para reverter apenas inclusão, restaurar chapters.js/index.html/testes/tabela do backup, preservar TXT e registrar reversão. Testes automatizados aprovados; revisão visual real não realizada. Arquivos prontos na pasta oficial para commit e push manuais.

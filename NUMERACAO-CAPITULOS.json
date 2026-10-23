@@ -1,0 +1,1016 @@
+{
+  "version": 8,
+  "confirmed": [
+    {
+      "old": 290,
+      "new": 279,
+      "title": "Encontro com Li Shimin"
+    },
+    {
+      "old": 291,
+      "new": 280,
+      "title": "Lu Li fala sobre a origem da humanidade"
+    },
+    {
+      "old": 292,
+      "new": 281,
+      "title": "A Sociedade dos Eremitas da Montanha Verde"
+    },
+    {
+      "old": 293,
+      "new": 282,
+      "title": "Leonardo da Vinci pinta um retrato de Lu Li"
+    },
+    {
+      "old": 294,
+      "new": 283,
+      "title": "A morte de Leonardo da Vinci"
+    },
+    {
+      "old": 295,
+      "new": 284,
+      "title": "Ordem de convocação!"
+    },
+    {
+      "old": 296,
+      "new": 285,
+      "title": "Organizações misteriosas no longo rio da história"
+    },
+    {
+      "old": 297,
+      "new": 286,
+      "title": "A carta de Lu Li"
+    },
+    {
+      "old": 298,
+      "new": 287,
+      "title": "O suicídio de Galileu: uma luta contra o destino!"
+    },
+    {
+      "old": 299,
+      "new": 288,
+      "title": "O diálogo entre Lu Li e Galileu"
+    },
+    {
+      "old": 300,
+      "new": 289,
+      "title": "Deus Jeová ainda está vivo?"
+    },
+    {
+      "old": 301,
+      "new": 290,
+      "title": "Zhuge Liang muda de posição na sequência!"
+    },
+    {
+      "old": 302,
+      "new": 291,
+      "title": "O terror da humanidade!"
+    },
+    {
+      "old": 303,
+      "new": 292,
+      "title": "O retorno: membros ainda mais antigos do Clube da Longevidade!"
+    },
+    {
+      "old": 304,
+      "new": 293,
+      "title": "Os rastros que Lu Li deixou na história"
+    },
+    {
+      "old": 305,
+      "new": 294,
+      "title": "O despertar de Yang Zhen’er"
+    },
+    {
+      "old": 306,
+      "new": 295,
+      "title": "Eles tocaram no que era proibido"
+    },
+    {
+      "old": 307,
+      "new": 296,
+      "title": "A história saiu de seu curso!"
+    },
+    {
+      "old": 308,
+      "new": 297,
+      "title": "As ações da Sociedade dos Eremitas da Montanha Verde"
+    },
+    {
+      "old": 309,
+      "new": 298,
+      "title": "A chegada: meu sobrenome é Zhuge!"
+    },
+    {
+      "old": 310,
+      "new": 299,
+      "title": "A concessão de autoridade à Corte Celestial"
+    },
+    {
+      "old": 311,
+      "new": 300,
+      "title": "A criação de dois universos!"
+    },
+    {
+      "old": 312,
+      "new": 301,
+      "title": "A tentação do demônio"
+    },
+    {
+      "old": 313,
+      "new": 302,
+      "title": "Um vislumbre de luz no desespero"
+    },
+    {
+      "old": 314,
+      "new": 303,
+      "title": "A jovem que se aproxima do abismo"
+    },
+    {
+      "old": 315,
+      "new": 304,
+      "title": "Os Três Soberanos ocupam os três primeiros números?!"
+    },
+    {
+      "old": 316,
+      "new": 305,
+      "title": "A descoberta de “Deus” pela equipe ultrassecreta"
+    },
+    {
+      "old": 317,
+      "new": 306,
+      "title": "Ele pretende transformar a ordem do mundo?"
+    },
+    {
+      "old": 318,
+      "new": 307,
+      "title": "Matar um deus: o conflito entre a humanidade e Lu Li!"
+    },
+    {
+      "old": 319,
+      "new": 308,
+      "title": "O amadurecimento do demônio"
+    },
+    {
+      "old": 320,
+      "new": 309,
+      "title": "A reunião mundial da organização HM"
+    },
+    {
+      "old": 321,
+      "new": 310,
+      "title": "As nações se unem e tomam a palavra!"
+    },
+    {
+      "old": 322,
+      "new": 311,
+      "title": "O primeiro embate à distância"
+    },
+    {
+      "old": 323,
+      "new": 312,
+      "title": "Ele… morreu!"
+    },
+    {
+      "old": 324,
+      "new": 313,
+      "title": "Uma descoberta chocante!"
+    },
+    {
+      "old": 325,
+      "new": 314,
+      "title": "O centro do turbilhão!"
+    },
+    {
+      "old": 326,
+      "new": 315,
+      "title": "Rong Yiyou, membro de nível três!"
+    },
+    {
+      "old": 327,
+      "new": 316,
+      "title": "O medo… se abate!"
+    },
+    {
+      "old": 328,
+      "new": 317,
+      "title": "Lu Li é o inimigo mais aterrador da humanidade!"
+    },
+    {
+      "old": 329,
+      "new": 318,
+      "title": "Uma sala cheia de ancestrais!"
+    },
+    {
+      "old": 330,
+      "new": 319,
+      "title": "O discurso de Lu Li!"
+    },
+    {
+      "old": 331,
+      "new": 320,
+      "title": "Sou apenas um júnior…"
+    },
+    {
+      "old": 332,
+      "new": 321,
+      "title": "O desenvolvimento das habilidades e a criação do Caderno da Morte"
+    },
+    {
+      "old": 333,
+      "new": 322,
+      "title": "O poder do Caderno de Roubo de Vida"
+    },
+    {
+      "old": 334,
+      "new": 323,
+      "title": "O primeiro dono do Caderno de Roubo de Vida"
+    },
+    {
+      "old": 335,
+      "new": 324,
+      "title": "A vigilância de Lu Li"
+    },
+    {
+      "old": 336,
+      "new": 325,
+      "title": "A inauguração do trem subterrâneo"
+    },
+    {
+      "old": 337,
+      "new": 326,
+      "title": "A criação de um universo de fantasia"
+    },
+    {
+      "old": 338,
+      "new": 327,
+      "title": "Planeta 04: a origem do universo de ficção científica"
+    },
+    {
+      "old": 339,
+      "new": 328,
+      "title": "O hipócrita"
+    },
+    {
+      "old": 340,
+      "new": 329,
+      "title": "Qin Shi Huang: Ying Zheng e a imortalidade"
+    },
+    {
+      "old": 341,
+      "new": 330,
+      "title": "O nascimento da Árvore do Mundo"
+    },
+    {
+      "old": 342,
+      "new": 331,
+      "title": "De volta ao rio do tempo"
+    },
+    {
+      "old": 343,
+      "new": 332,
+      "title": "O soberano Sui aprende artes marciais"
+    },
+    {
+      "old": 344,
+      "new": 333,
+      "title": "O túmulo do próprio Lu Li"
+    },
+    {
+      "old": 345,
+      "new": 334,
+      "title": "A escrita do Tao Te Ching com Laozi"
+    },
+    {
+      "old": 346,
+      "new": 335,
+      "title": "O encontro com Qin Shi Huang"
+    },
+    {
+      "old": 347,
+      "new": 336,
+      "title": "A morte do Primeiro Imperador"
+    },
+    {
+      "old": 348,
+      "new": 337,
+      "title": "Ying Zheng mata pessoalmente Qin Er Shi, Hu Hai"
+    },
+    {
+      "old": 349,
+      "new": 338,
+      "title": "O encontro com o pequeno Salvador Jesus"
+    },
+    {
+      "old": 350,
+      "new": 339,
+      "title": "Então… a pele de Deus é amarela"
+    },
+    {
+      "old": 351,
+      "new": 340,
+      "title": "O retorno de Lu Li: mil anos se passaram"
+    },
+    {
+      "old": 352,
+      "new": 341,
+      "title": "O santuário ancestral do daoismo"
+    },
+    {
+      "old": 353,
+      "new": 342,
+      "title": "As ruínas do túmulo de Lu Li são reveladas"
+    },
+    {
+      "old": 354,
+      "new": 343,
+      "title": "As ruínas do antigo Egito aparecem"
+    },
+    {
+      "old": 355,
+      "new": 343,
+      "title": "Segredos pré-históricos",
+      "mergedInto": 343
+    },
+    {
+      "old": 356,
+      "new": 344,
+      "title": "Homenagens aos sábios"
+    },
+    {
+      "old": 357,
+      "new": 345,
+      "title": "Eu sou Li Er"
+    },
+    {
+      "old": 358,
+      "new": 345,
+      "title": "A verdadeira identidade de Lu Li",
+      "mergedInto": 345
+    },
+    {
+      "old": 359,
+      "new": 346,
+      "title": "A abertura do palácio subterrâneo"
+    },
+    {
+      "old": 360,
+      "new": 347,
+      "title": "Lu Li usa o Caderno de Roubo de Vida"
+    },
+    {
+      "old": 361,
+      "new": 348,
+      "title": "Onde está o imperador Suiren?!"
+    },
+    {
+      "old": 362,
+      "new": 349,
+      "title": "Jesus: Eu voltei."
+    },
+    {
+      "old": 363,
+      "new": 350,
+      "title": "O “Ceifador” invisível!"
+    },
+    {
+      "old": 364,
+      "new": 351,
+      "title": "A guerra entre a humanidade e um deus!"
+    },
+    {
+      "old": 365,
+      "new": 352,
+      "title": "O retorno dos catorze sábios!"
+    },
+    {
+      "old": 366,
+      "new": 353,
+      "title": "Liu Bei desaparece da história!"
+    },
+    {
+      "old": 367,
+      "new": 354,
+      "title": "O impulso do “Banco do Tempo”!"
+    },
+    {
+      "old": 368,
+      "new": 355,
+      "title": "A obra de Lu Li!"
+    },
+    {
+      "old": 369,
+      "new": 355,
+      "title": "O despertar do terror!",
+      "mergedInto": 355
+    },
+    {
+      "old": 370,
+      "new": 356,
+      "title": "Eu escolho… a humanidade!"
+    },
+    {
+      "old": 371,
+      "new": 357,
+      "title": "O Ancestral Marcial Lu Li abre o Reino Secreto da Roda e do Mar!"
+    },
+    {
+      "old": 372,
+      "new": 358,
+      "title": "Mundo de Antimatéria 03: a humanidade contra todas as raças!"
+    },
+    {
+      "old": 373,
+      "new": 359,
+      "title": "A criação do Dao Celestial e o retorno!"
+    },
+    {
+      "old": 374,
+      "new": 360,
+      "title": "Nova integrante: a dirigente do Grupo L’Oréal!"
+    },
+    {
+      "old": 375,
+      "new": 361,
+      "title": "Uma cidade de luzes e perigos!"
+    },
+    {
+      "old": 376,
+      "new": 362,
+      "title": "A mentira monumental de Lu Li!"
+    },
+    {
+      "old": 377,
+      "new": 363,
+      "title": "Uma conversa por telefone com “A”!"
+    },
+    {
+      "old": 378,
+      "new": 364,
+      "title": "As declarações de Lu Li!"
+    },
+    {
+      "old": 379,
+      "new": 365,
+      "title": "A peça sacrificada: Matsuzaki Yuya é preso!"
+    },
+    {
+      "old": 380,
+      "new": 366,
+      "title": "Matsuzaki Yuya: Vou contar tudo!"
+    },
+    {
+      "old": 381,
+      "new": 367,
+      "title": "Impulsionando a transformação da civilização terrestre!"
+    },
+    {
+      "old": 382,
+      "new": 368,
+      "title": "Um segredo estarrecedor!"
+    },
+    {
+      "old": 383,
+      "new": 369,
+      "title": "Um fantasma criado pelo homem!"
+    },
+    {
+      "old": 384,
+      "new": 370,
+      "title": "A cidade do terror!"
+    },
+    {
+      "old": 385,
+      "new": 371,
+      "title": "Vinte mil anos atrás: preparando as ruínas."
+    },
+    {
+      "old": 386,
+      "new": 372,
+      "title": "Os países descobrem a identidade de “A”!"
+    },
+    {
+      "old": 387,
+      "new": 373,
+      "title": "O pós-graduando que saltou de um prédio."
+    },
+    {
+      "old": 388,
+      "new": 374,
+      "title": "O mundo mudou!"
+    },
+    {
+      "old": 389,
+      "new": 375,
+      "title": "Zhu Xueqing e Yang Zhen’er sentem ciúmes!"
+    },
+    {
+      "old": 390,
+      "new": 376,
+      "title": "Acontecimentos estranhos por toda parte!"
+    },
+    {
+      "old": 391,
+      "new": 377,
+      "title": "O Departamento de Ocorrências Especiais."
+    },
+    {
+      "old": 392,
+      "new": 378,
+      "title": "*Revelar ao público!*"
+    },
+    {
+      "old": 393,
+      "new": 379,
+      "title": "“Olá.”"
+    },
+    {
+      "old": 394,
+      "new": 380,
+      "title": "O jogador vende todo o seu tempo de vida em um dia."
+    },
+    {
+      "old": 395,
+      "new": 381,
+      "title": "O olhar de Lu Li."
+    },
+    {
+      "old": 396,
+      "new": 382,
+      "title": "A convocação de uma entrevista coletiva."
+    },
+    {
+      "old": 397,
+      "new": 383,
+      "title": "A verdade revelada!"
+    },
+    {
+      "old": 398,
+      "new": 384,
+      "title": "A nova era!"
+    },
+    {
+      "old": 399,
+      "new": 385,
+      "title": "Baiyujing está prestes a ser concluída!"
+    },
+    {
+      "old": 400,
+      "new": 386,
+      "title": "Uma grandiosa civilização em miniatura!"
+    },
+    {
+      "old": 401,
+      "new": 387,
+      "title": "O Clube da Longevidade exposto ao mundo!"
+    },
+    {
+      "old": 402,
+      "new": 388,
+      "title": "Não se pode olhar diretamente para… Deus!"
+    },
+    {
+      "old": 403,
+      "new": 389,
+      "title": "Alguém está nos investigando."
+    },
+    {
+      "old": 404,
+      "new": 390,
+      "title": "A última base dos Caçadores de Deuses!"
+    },
+    {
+      "old": 405,
+      "new": 391,
+      "title": "Nesta guerra, Deus venceu!"
+    },
+    {
+      "old": 406,
+      "new": 392,
+      "title": "Um hino à humanidade!"
+    },
+    {
+      "old": 407,
+      "new": 393,
+      "title": "O controle de Lu Li."
+    },
+    {
+      "old": 408,
+      "new": 394,
+      "title": "Pelo futuro da humanidade!"
+    },
+    {
+      "old": 409,
+      "new": 395,
+      "title": "A escolha dos representantes públicos do Clube da Longevidade!"
+    },
+    {
+      "old": 410,
+      "new": 396,
+      "title": "*A revelação!* Uma comunidade com um futuro compartilhado para a humanidade!"
+    },
+    {
+      "old": 411,
+      "new": 397,
+      "title": "A torrente dos tempos! Em fúria"
+    },
+    {
+      "old": 412,
+      "new": 398,
+      "title": "Caos! Aconteceu alguma coisa"
+    },
+    {
+      "old": 413,
+      "new": 399,
+      "title": "Estamos sendo observados"
+    },
+    {
+      "old": 414,
+      "new": 400,
+      "title": "Somos apenas brinquedos de Deus"
+    },
+    {
+      "old": 415,
+      "new": 401,
+      "title": "O surgimento de uma grande era"
+    },
+    {
+      "old": 416,
+      "new": 401,
+      "title": "O grito das pessoas comuns na torrente",
+      "mergedInto": 401
+    },
+    {
+      "old": 417,
+      "new": 402,
+      "title": "A resposta"
+    },
+    {
+      "old": 418,
+      "new": 403,
+      "title": "Lu Li e o Prêmio Nobel da Paz"
+    },
+    {
+      "old": 419,
+      "new": 404,
+      "title": "O discurso de Newton no Panteão"
+    },
+    {
+      "old": 420,
+      "new": 405,
+      "title": "Sou Zhuge Liang, natural de Yangdu, em Langya"
+    },
+    {
+      "old": 421,
+      "new": 406,
+      "title": "O Grupo Global do Clube da Longevidade"
+    },
+    {
+      "old": 422,
+      "new": 407,
+      "title": "Um ano de vida por 7,84 bilhões de dólares"
+    },
+    {
+      "old": 423,
+      "new": 408,
+      "title": "Funcionário de nível 100"
+    },
+    {
+      "old": 424,
+      "new": 409,
+      "title": "Inacreditável"
+    },
+    {
+      "old": 425,
+      "new": 410,
+      "title": "A visita"
+    },
+    {
+      "old": 426,
+      "new": 411,
+      "title": "O intercâmbio entre duas grandes civilizações"
+    },
+    {
+      "old": 427,
+      "new": 412,
+      "title": "A guerra de escravização"
+    },
+    {
+      "old": 428,
+      "new": 413,
+      "title": "A base americana da HM, os Caçadores de Deuses"
+    },
+    {
+      "old": 429,
+      "new": 414,
+      "title": "Só existe uma doença no mundo"
+    },
+    {
+      "old": 430,
+      "new": 415,
+      "title": "A situação mundial"
+    },
+    {
+      "old": 431,
+      "new": 416,
+      "title": "As preferências pessoais de Lu Li"
+    },
+    {
+      "old": 432,
+      "new": 417,
+      "title": "A grande sorte do dono do restaurante e de sua esposa"
+    },
+    {
+      "old": 433,
+      "new": 418,
+      "title": "O ponto de virada do mundo"
+    },
+    {
+      "old": 434,
+      "new": 419,
+      "title": "O roteiro de Lu Li"
+    },
+    {
+      "old": 435,
+      "new": 420,
+      "title": "Flores para Lu Li"
+    },
+    {
+      "old": 436,
+      "new": 421,
+      "title": "Documento nº 1 sobre exames físicos completos"
+    },
+    {
+      "old": 437,
+      "new": 422,
+      "title": "A operação"
+    },
+    {
+      "old": 438,
+      "new": 423,
+      "title": "As três raças: humanos, fantasmas e demônios"
+    },
+    {
+      "old": 439,
+      "new": 424,
+      "title": "A transação"
+    },
+    {
+      "old": 440,
+      "new": 425,
+      "title": "Contratos especiais de trabalho"
+    },
+    {
+      "old": 441,
+      "new": 426,
+      "title": "A chegada de Lu Li"
+    },
+    {
+      "old": 442,
+      "new": 427,
+      "title": "A criação de uma organização extraordinária"
+    },
+    {
+      "old": 443,
+      "new": 428,
+      "title": "Cinema"
+    },
+    {
+      "old": 444,
+      "new": 429,
+      "title": "O fantasma nº B103"
+    },
+    {
+      "old": 445,
+      "new": 430,
+      "title": "A ascensão da família Rong"
+    },
+    {
+      "old": 446,
+      "new": 431,
+      "title": "Os despertos da família Rong"
+    },
+    {
+      "old": 447,
+      "new": 432,
+      "title": "Subjugando a Serpente Branca"
+    },
+    {
+      "old": 448,
+      "new": 433,
+      "title": "Raça demoníaca: Bai Suzhen"
+    },
+    {
+      "old": 449,
+      "new": 434,
+      "title": "Correntes ocultas"
+    },
+    {
+      "old": 450,
+      "new": 435,
+      "title": "A família Rong de Xangai"
+    },
+    {
+      "old": 451,
+      "new": 436,
+      "title": "Membro nº 141"
+    },
+    {
+      "old": 452,
+      "new": 437,
+      "title": "Missão de iniciante"
+    },
+    {
+      "old": 453,
+      "new": 438,
+      "title": "Roteiro"
+    },
+    {
+      "old": 454,
+      "new": 439,
+      "title": "Os pensamentos de Lu Li"
+    },
+    {
+      "old": 455,
+      "new": 440,
+      "title": "Objetivo final"
+    },
+    {
+      "old": 456,
+      "new": 441,
+      "title": "A possibilidade de espaços-tempos paralelos"
+    },
+    {
+      "old": 457,
+      "new": 442,
+      "title": "Universos paralelos e a hipótese de viajar para o futuro"
+    },
+    {
+      "old": 458,
+      "new": 443,
+      "title": "O desenvolvimento da habilidade de reversão temporal"
+    },
+    {
+      "old": 459,
+      "new": 444,
+      "title": "Obsessão"
+    },
+    {
+      "old": 460,
+      "new": 445,
+      "title": "Um novo fantasma de classe A"
+    },
+    {
+      "old": 462,
+      "new": 446,
+      "title": "Hoje é domingo"
+    },
+    {
+      "old": 463,
+      "new": 447,
+      "title": "O retorno de Liu Zhujun"
+    },
+    {
+      "old": 464,
+      "new": 448,
+      "title": "Primeiro teste da habilidade"
+    },
+    {
+      "old": 465,
+      "new": 449,
+      "title": "Verificação da habilidade"
+    },
+    {
+      "old": 466,
+      "new": 450,
+      "title": "Na companhia de Shen Youchu"
+    },
+    {
+      "old": 467,
+      "new": 451,
+      "title": "Um experimento que comprova a viagem ao futuro e aos espaços-tempos paralelos"
+    },
+    {
+      "old": 468,
+      "new": 452,
+      "title": "Reunião de rotina do Grupo S"
+    },
+    {
+      "old": 469,
+      "new": 453,
+      "title": "Notícias de Po Yee"
+    },
+    {
+      "old": 471,
+      "new": 454,
+      "title": "O incidente inesperado com a Equipe 26"
+    },
+    {
+      "old": 472,
+      "new": 455,
+      "title": "Inimigo desconhecido"
+    },
+    {
+      "old": 473,
+      "new": 456,
+      "title": "Habilidades estranhas"
+    },
+    {
+      "old": 474,
+      "new": 457,
+      "title": "Apenas um sobrevivente!"
+    },
+    {
+      "old": 475,
+      "new": 458,
+      "title": "O manipulador nos bastidores"
+    },
+    {
+      "old": 476,
+      "new": 459,
+      "title": "O poder desmedido da reversão temporal"
+    },
+    {
+      "old": 477,
+      "new": 460,
+      "title": "Missão cumprida!"
+    },
+    {
+      "old": 478,
+      "new": 461,
+      "title": "Cidade fantasma!"
+    },
+    {
+      "old": 479,
+      "new": 462,
+      "title": "Pedindo ajuda ao Clube da Longevidade!"
+    },
+    {
+      "old": 480,
+      "new": 463,
+      "title": "Plano de formação de pessoal!"
+    },
+    {
+      "old": 481,
+      "new": 464,
+      "title": "Instrutora Liu Zhujun!"
+    },
+    {
+      "old": 482,
+      "new": 465,
+      "title": "O casal desafortunado"
+    },
+    {
+      "old": 483,
+      "new": 466,
+      "title": "Ataque inimigo"
+    },
+    {
+      "old": 484,
+      "new": 467,
+      "title": "A tribulação de Liu Zhujun"
+    },
+    {
+      "old": 485,
+      "new": 468,
+      "title": "O pedido de Tesla"
+    },
+    {
+      "old": 486,
+      "new": 469,
+      "title": "O aperfeiçoamento da Poção do Despertar"
+    },
+    {
+      "old": 487,
+      "new": 470,
+      "title": "Manipulando a gravidade"
+    },
+    {
+      "old": 488,
+      "new": 471,
+      "title": "Primeiro teste da gravidade"
+    },
+    {
+      "old": 489,
+      "new": 472,
+      "title": "Fantasmas e monstros: Tigre Negro"
+    },
+    {
+      "old": 490,
+      "new": 473,
+      "title": "A crise chega"
+    },
+    {
+      "old": 491,
+      "new": 474,
+      "title": "Relatório sobre os cristais"
+    },
+    {
+      "old": 492,
+      "new": 475,
+      "title": "Recomendação"
+    }
+  ],
+  "pendingFromOld": 493,
+  "notes": "Aplicados antigos 290–492 como 279–475, com quatro uniões e ausências dos antigos 461/470. Leitor offline completo 279–475; nenhum TXT pendente. Esquema de migração 8 preservado."
+}

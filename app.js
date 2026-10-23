@@ -6,6 +6,62 @@
   const defaults = { theme: 'sepia', fontSize: 20, lineHeight: 1.9, width: 720 };
   let stored = {}, storageAvailable = true;
   try { stored = JSON.parse(localStorage.getItem(key) || '{}') || {}; } catch { storageAvailable = false; }
+  // Cada etapa migra apenas os IDs ainda pertencentes ao esquema anterior.
+  const numberingSteps = [
+    {version:1,min:290,max:311},
+    {version:2,min:312,max:331},
+    {version:3,min:332,max:356},
+    {version:4,min:357,max:359},
+    {version:5,min:360,max:370},
+    {version:6,min:371,max:417},
+    {version:7,min:418,max:462},
+    {version:8,min:463,max:492}
+  ];
+  if (stored.chapter != null) {
+    for (const step of numberingSteps) {
+      if ((Number(stored.numberingVersion) || 0) >= step.version) continue;
+      try { localStorage.setItem(key + '.before-numbering-' + step.version,JSON.stringify(stored)); } catch {}
+      const correct = id => step.version===8 && Number(id)>=463 && Number(id)<=469 ? Number(id)-16 : step.version===8 && Number(id)>=471 && Number(id)<=492 ? Number(id)-17 : step.version===8 ? Number(id) : step.version===7 && Number(id)===462 ? 446 : step.version===7 && Number(id)>=418 && Number(id)<=460 ? Number(id)-15 : step.version===7 ? Number(id) : step.version===6 && Number(id)===416 ? 401 : step.version===6 && Number(id)===417 ? 402 : step.version===6 && Number(id)>=371 && Number(id)<=415 ? Number(id)-14 : step.version===5 && Number(id)===369 ? 355 : step.version===5 && Number(id)===370 ? 356 : step.version===5 && Number(id)>=360 && Number(id)<=368 ? Number(id)-13 : step.version===4 && (Number(id)===357 || Number(id)===358) ? 345 : step.version===4 && Number(id)===359 ? 346 : step.version===3 && Number(id)===355 ? 343 : step.version===3 && Number(id)===356 ? 344 : Number(id)>=step.min && Number(id)<=step.max ? Number(id)-11 : Number(id);
+      // A união usa proporção de caracteres; o snapshot preserva o estado exato anterior.
+      let mergedPosition;
+      if (step.version===3) {
+        const split = 0.5011705685618729;
+        const oldPositions = stored.positions || {};
+        const first = split * Math.max(0,Math.min(1,Number(oldPositions[354]) || 0));
+        const second = split + (1-split) * Math.max(0,Math.min(1,Number(oldPositions[355]) || 0));
+        mergedPosition = Number(stored.chapter)===354 ? first : Number(stored.chapter)===355 ? second : oldPositions[355]!=null ? second : first;
+      }
+      if (step.version===4) {
+        const split = 0.5259412780656304;
+        const oldPositions = stored.positions || {};
+        const first = split * Math.max(0,Math.min(1,Number(oldPositions[357]) || 0));
+        const second = split + (1-split) * Math.max(0,Math.min(1,Number(oldPositions[358]) || 0));
+        mergedPosition = Number(stored.chapter)===357 ? first : Number(stored.chapter)===358 ? second : oldPositions[358]!=null ? second : first;
+      }
+      if (step.version===5) {
+        const split = 0.4893842887473461;
+        const oldPositions = stored.positions || {};
+        const first = split * Math.max(0,Math.min(1,Number(oldPositions[368]) || 0));
+        const second = split + (1-split) * Math.max(0,Math.min(1,Number(oldPositions[369]) || 0));
+        mergedPosition = Number(stored.chapter)===368 ? first : Number(stored.chapter)===369 ? second : oldPositions[369]!=null ? second : first;
+      }
+      if (step.version===6) {
+        const split = 0.511680550525172;
+        const oldPositions = stored.positions || {};
+        const first = split * Math.max(0,Math.min(1,Number(oldPositions[415]) || 0));
+        const second = split + (1-split) * Math.max(0,Math.min(1,Number(oldPositions[416]) || 0));
+        mergedPosition = Number(stored.chapter)===415 ? first : Number(stored.chapter)===416 ? second : oldPositions[416]!=null ? second : first;
+      }
+      stored = {...stored,numberingVersion:step.version,chapter:correct(stored.chapter),positions:Object.fromEntries(
+        Object.entries(stored.positions || {}).map(([id,position]) => [correct(id),position]))};
+      if (step.version===3) stored.positions[343] = mergedPosition;
+      if (step.version===4) stored.positions[345] = mergedPosition;
+      if (step.version===5) stored.positions[355] = mergedPosition;
+      if (step.version===6) stored.positions[401] = mergedPosition;
+      const oldHash = location.hash.match(/^#capitulo-(\d+)$/);
+      if (oldHash && Number(oldHash[1])>=step.min && Number(oldHash[1])<=step.max) location.hash = '#capitulo-' + correct(oldHash[1]);
+    }
+  }
   const bounded = (value, min, max, fallback) => Number.isFinite(Number(value)) && Number(value) >= min && Number(value) <= max ? Number(value) : fallback;
   const settings = {
     theme: ['light','sepia','dark'].includes(stored.settings?.theme) ? stored.settings.theme : defaults.theme,
@@ -19,9 +75,15 @@
   const positions = {};
   for (const chapter of chapters) positions[chapter.id] = bounded(stored.positions?.[chapter.id],0,1,0);
   let current = chapters[0], rendering = false, saveTimer;
+  const chapterGroups = new Map();
+  const groupStart = id => Math.floor((id-1)/100)*100+1;
+  function setGroupOpen(group, open) {
+    group.list.hidden = !open;
+    group.button.setAttribute('aria-expanded',String(open));
+  }
   function persist() {
     try {
-      localStorage.setItem(key, JSON.stringify({ settings, positions, chapter: current.id, sidebarVisible }));
+      localStorage.setItem(key, JSON.stringify({ numberingVersion:8, settings, positions, chapter: current.id, sidebarVisible }));
       storageAvailable = true;
     } catch { storageAvailable = false; }
     $('save-status').textContent = storageAvailable ? 'Progresso salvo neste navegador' : 'Salvamento indisponível neste navegador';
@@ -141,6 +203,7 @@
       if (Number(link.dataset.chapter) === chapter.id) link.setAttribute('aria-current','page');
       else link.removeAttribute('aria-current');
     });
+    for (const [start, group] of chapterGroups) setGroupOpen(group,start === groupStart(chapter.id));
     mobileLibraryOpen = false;
     syncLibrary();
     requestAnimationFrame(() => {
@@ -155,13 +218,28 @@
   }
   function hashChapter() { const match = location.hash.match(/^#capitulo-(\d+)$/); return match ? Number(match[1]) : null; }
   for (const chapter of chapters) {
+    const start = groupStart(chapter.id);
+    if (!chapterGroups.has(start)) {
+      const section = document.createElement('div'); section.className = 'chapter-group';
+      const button = document.createElement('button'); button.className = 'chapter-group-toggle';
+      button.type = 'button'; button.textContent = start + '–' + (start+99);
+      const list = document.createElement('div'); list.className = 'chapter-group-list';
+      list.id = 'chapter-group-' + start;
+      button.setAttribute('aria-controls',list.id);
+      const group = {button,list};
+      setGroupOpen(group,false);
+      button.addEventListener('click',() => setGroupOpen(group,list.hidden));
+      section.append(button,list);
+      $('chapter-list').append(section);
+      chapterGroups.set(start,group);
+    }
     const link = document.createElement('a'); link.className = 'chapter-link';
     link.href = '#capitulo-' + chapter.id; link.dataset.chapter = chapter.id;
     const number = document.createElement('span'); number.className = 'number'; number.textContent = chapter.id;
     const name = document.createElement('span'); name.className = 'name'; name.textContent = chapter.title;
     link.append(number,name);
     link.addEventListener('click',event => { event.preventDefault(); navigate(chapter.id); });
-    $('chapter-list').append(link);
+    chapterGroups.get(start).list.append(link);
   }
   $('previous').addEventListener('click',() => { const index = chapters.indexOf(current); if(index>0) navigate(chapters[index-1].id); });
   $('next').addEventListener('click',() => { const index = chapters.indexOf(current); if(index<chapters.length-1) navigate(chapters[index+1].id); });

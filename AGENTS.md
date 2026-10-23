@@ -41,3 +41,48 @@ O usuário dispensou a repetição integral da tradução na conversa. Continuar
 ## Numeração 461 e 470 — esclarecimento de 23/10/2026
 
 O usuário confirmou que os capítulos 461 e 470 não existem no material desta obra e autorizou a publicação offline pulando esses números. Preservar números e títulos originais dos demais, sem criar capítulos fictícios ou renumerar. Esta autorização resolve essas duas lacunas específicas.
+
+
+## Renumeração em conferência — 23/10/2026
+
+Usuário confirmou atual 290 Encontro com Li Shimin como 279 e atual 311 A criação de dois universos como 300 e autorizou renumerar somente esse intervalo. Aplicada correspondência antigos 290–311 → 279–300, sem mudança narrativa. Consulte NUMERACAO-CAPITULOS.json. Atuais 312 em diante ainda aguardam conferência; NÃO aplicar deslocamento global nem renumerar novos capítulos por suposição. Correção futura será contínua conforme marcos confirmados pelo usuário. Saltos antigos 461/470 continuam referência da fonte até fechamento da auditoria.
+
+
+## Segunda faixa confirmada — 23/10/2026
+
+Usuário confirmou antigo 331 Sou apenas um júnior… como 320 e autorizou corrigir esse intervalo. Aplicados antigos 312–331 → 301–320, somando faixa confirmada antiga 290–331 → 279–320. A pendência passa a começar no antigo 332. Exemplo antigo 363 como 350 ainda diverge da contagem em dois capítulos: não extrapolar nem remover conteúdo. Consultar versão 2 de NUMERACAO-CAPITULOS.json; manter números de fonte e número correto distintos.
+
+
+## Terceira faixa e primeira união confirmadas — 23/10/2026
+
+Aplicados sob confirmação explícita antigos 332–354→321–343, antigo 355 unido ao 343 e antigo 356→344. Faixa corrigida 279–344, esquema versão 3, 191 capítulos offline. Marco antigo 357→345 conferido, mas anexo reúne 357/358: união/divisão desses pendente de conferência e autorização. Não extrapolar antigos 357 em diante. Consulte tabela e revisão operacional; TXT 484–492 continuam pendentes.
+
+
+## Quarta etapa confirmada — 23/10/2026
+
+Usuário autorizou união antigos 357/358→345 e antigo 359→346. Aplicado integralmente em TXT e leitor, esquema versão 4, 190 capítulos offline. Faixa corrigida/conferida 279–346. Antigos 360 em diante aguardam conferência e aprovação; não extrapolar. Marcos 363→350 e demais permanecem referências de auditoria. Pendentes 484–492 preservados. Consulte tabela e revisão operacional para backup e migração.
+
+
+## Quinta etapa confirmada — 23/10/2026
+
+Aplicados sob aprovação explícita antigos 360–367→347–354, união 368/369→355 e antigo 370→356. Faixa corrigida/conferida 279–356, esquema versão 5, 189 capítulos offline. Antigos 371 em diante aguardam conferência e aprovação; não extrapolar. Pendentes 484–492 preservados. Tabela e revisão operacional registram correspondência, backup e migração.
+
+
+## Sexta etapa confirmada — 23/10/2026
+
+Aplicados sob aprovação explícita antigos 371–414→357–400, união 415/416→401 e antigo 417→402. Faixa corrigida/conferida 279–402, esquema versão 6, 188 capítulos offline. Antigos 418 em diante aguardam conferência e aprovação; não extrapolar. Pendentes 484–492 preservados. Consulte tabela e revisão operacional para backup, reversão e migração.
+
+
+## Sétima etapa confirmada — 23/10/2026
+
+Aplicados sob aprovação explícita antigos 418–460→403–445 e antigo 462→446. Faixa corrigida/conferida 279–446, esquema versão 7, 188 capítulos offline. Ausência do antigo 461 não cria lacuna corrigida. Antigos 463 em diante aguardam conferência e aprovação; não extrapolar. Pendentes 484–492 preservados. Consulte tabela e revisão operacional para correspondência, backup e migração.
+
+
+## Oitava etapa confirmada — 23/10/2026
+
+Aplicados sob confirmação explícita antigos 463–469→447–453 e antigos 471–492→454–475, sem antigo 470. Renumeração concluída até 475; leitor contém 279–466, 188 capítulos consecutivos. Nove TXT pendentes antigos 484–492 agora são 467–475 e aguardam publique; não confundir renumeração dos TXT com inclusão offline. Esquema versão 8. Consultar NUMERACAO-CAPITULOS.json e revisão operacional para correspondências, backups e migração. Novos capítulos: usuário fornece numeração da fonte; distinguir do número correto, não extrapolar se houver indício de divergência.
+
+
+## Publicação offline 279–475 concluída — 23/10/2026
+
+Usuário solicitou publique; nove TXT 467–475 integrados integralmente. Leitor com 197 capítulos consecutivos 279–475, nenhum TXT pendente. Tabela sem flags offlinePending; esquema de migração 8 preservado. Commit e push manuais. Consultar revisão operacional para validação e backup. Próximo número correto esperado 476; a numeração da fonte continua distinta e deve ser conferida se houver divergência.
