@@ -31,3 +31,8 @@ Commit, push e publicação são responsabilidade manual do usuário. A instruç
 Quando o usuário disser “publique”, executar sem nova confirmação a preparação completa da publicação offline nesta pasta: identificar todos os capítulos já traduzidos em TXT ainda ausentes do leitor, incluí-los integralmente preservando as incertezas, atualizar índice/contagem, testes e documentação, criar backup proporcional, revisar e validar a versão local completa. Informar o resultado e limitações. Aguardar esclarecimento em caso de lacunas, conflitos de versões ou necessidade de mudanças materiais fora desse escopo.
 
 O comando não autoriza commit, push, criação de PR, mudanças de credenciais/permissões ou implantação remota. Commit e push continuam manuais pelo usuário. Preservar aplicação, controles, progresso e preferências; correções funcionais independentes exigem seu escopo próprio. O simples envio de um capítulo autoriza tradução e TXT; a integração no leitor acontece quando solicitado “publique” ou explicitamente autorizada.
+
+
+## Entrega das traduções — preferência de 23/10/2026
+
+O usuário dispensou a repetição integral da tradução na conversa. Continuar traduzindo integralmente e gerando TXT UTF-8, com incertezas entre asteriscos simples; responder apenas com link do TXT e breve status pertinente. Inclusão no leitor continua pelo comando publique; commit e push manuais.

@@ -35,9 +35,9 @@ function boot(saved, failStorage = false, hash = '', width = 1280) {
   return {get,themes,browser,location,listeners,documentListeners,context,flush,saved:()=>JSON.parse(persisted),changeHash(value){location.hash=value;listeners.hashchange();flush();}};
 }
 const app=boot();
-assert.deepEqual(Array.from(app.browser.READING_CHAPTERS,c=>c.id),Array.from({length:156},(_,i)=>290+i));
+assert.deepEqual(Array.from(app.browser.READING_CHAPTERS,c=>c.id),Array.from({length:166},(_,i)=>290+i));
 for(const c of app.browser.READING_CHAPTERS){assert(c.body.length>4000,`Capítulo ${c.id} vazio ou truncado`);assert.equal((c.body.replace(/^\*\*\*$/gm,'').match(/\*/g)||[]).length%2,0);}
-assert.equal(app.get('chapter-list').children.length,156);
+assert.equal(app.get('chapter-list').children.length,166);
 assert.equal(app.get('chapter-title').textContent,'Encontro com Li Shimin');
 assert.equal(app.get('previous').disabled,true);
 assert.equal(app.get('next').disabled,false);
@@ -53,7 +53,7 @@ assert.equal(app.saved().settings.theme,'dark');
 const resumed=boot(JSON.stringify(app.saved()));assert.equal(resumed.get('body').dataset.theme,'dark');assert.equal(resumed.browser.scrollY,3500);
 app.changeHash('#capitulo-296');assert.equal(app.get('next').disabled,false);
 app.get('next').click();app.changeHash('#capitulo-297');assert.equal(app.get('chapter-title').textContent,'A carta de Lu Li');
-for (const id of Array.from({length:149},(_,i)=>297+i)) {
+for (const id of Array.from({length:159},(_,i)=>297+i)) {
  app.changeHash('#capitulo-'+id);
  const filename=fs.readdirSync(path.join(root,'capitulos')).find(name=>name.startsWith(id+' - '));
  assert(filename,'TXT ausente: '+id);
@@ -65,7 +65,7 @@ for (const id of Array.from({length:149},(_,i)=>297+i)) {
 }
 assert.equal(app.get('next').disabled,true);assert.equal(app.get('previous').disabled,false);
 app.changeHash('#capitulo-299');assert.equal(app.get('next').disabled,false);
-for(let id=300;id<=445;id++) {
+for(let id=300;id<=455;id++) {
  app.get('next').click();assert.equal(app.location.hash,'capitulo-'+id);
  app.changeHash('#capitulo-'+id);assert.equal(app.get('chapter-number').textContent,'CAPÍTULO '+id);
 }
@@ -74,8 +74,8 @@ assert.equal(app.get('chapter-content').children.some(node=>node.className==='au
 app.changeHash('#capitulo-320');
 assert.equal(app.get('chapter-content').children.some(node=>node.className==='author-note'),false);
 assert(app.browser.READING_CHAPTERS.find(c=>c.id===320).body.startsWith('Em uma cafeteria'));
-app.changeHash('#capitulo-445');
-app.get('previous').click();assert.equal(app.location.hash,'capitulo-444');app.changeHash('#capitulo-444');
+app.changeHash('#capitulo-455');
+app.get('previous').click();assert.equal(app.location.hash,'capitulo-454');app.changeHash('#capitulo-454');
 
 
 for(let id=411;id<=445;id++) {
@@ -163,7 +163,7 @@ appearance.get('theme').value='dark';appearance.get('theme').handlers.change();a
 assert.equal(appearance.saved().settings.theme,'dark');
 assert.equal(boot(JSON.stringify(appearance.saved())).get('appearance-panel').hidden,true);
 const html=fs.readFileSync(path.join(root,'index.html'),'utf8');
-assert(html.includes('156 capítulos disponíveis'));
+assert(html.includes('166 capítulos disponíveis'));
 assert.equal((html.match(/id="index-toggle"/g)||[]).length,1);
 assert(html.indexOf('id="index-toggle"')<html.indexOf('id="header-title"'));
 assert(html.indexOf('id="header-title"')<html.indexOf('id="appearance-toggle"'));
@@ -173,4 +173,15 @@ assert(!html.includes('id="settings"'));assert(!html.includes('class="reading-ba
 for(const match of appSource.matchAll(/\$\('([^']+)'\)/g)) assert(html.includes('id="'+match[1]+'"'),'ID ausente: '+match[1]);
 for(const match of html.matchAll(/(?:src|href)="([^"#]+)"/g)){assert(!/^(https?:)?\/\//.test(match[1]),'Recurso externo');assert(fs.existsSync(path.join(root,match[1])));}
 assert(!/\bfetch\s*\(|XMLHttpRequest|@import|https?:\/\//.test(appSource+chapterSource+fs.readFileSync(path.join(root,'styles.css'),'utf8')));
-console.log('OK: 156 capítulos, TXT 297–445 idênticos ao leitor; navegação e extremos; retomada e preferências; controles; dados inválidos; armazenamento bloqueado; recursos locais.');
+console.log('OK: 166 capítulos, TXT 297–455 idênticos ao leitor; navegação e extremos; retomada e preferências; controles; dados inválidos; armazenamento bloqueado; recursos locais.');
+
+for(let id=446;id<=455;id++){
+ app.changeHash("#capitulo-"+id);
+ const chapter=app.browser.READING_CHAPTERS.find(c=>c.id===id);
+ const file=fs.readdirSync(path.join(root,"capitulos")).find(n=>n.startsWith(id+" - "));
+ const lines=fs.readFileSync(path.join(root,"capitulos",file),"utf8").replace(/\r\n/g,"\n").split("\n");
+ assert.equal(chapter.title,lines[0].replace(/^Capítulo \d+ — /,""));
+ const note=app.get("chapter-content").children.find(n=>n.className==="author-note");
+ if(id===450){assert.equal(chapter.authorNote,false);assert.equal(note,undefined);}
+ else assert.equal(note.textContent,lines[1]);
+}
