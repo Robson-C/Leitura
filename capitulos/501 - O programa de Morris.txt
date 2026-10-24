@@ -1,0 +1,141 @@
+Capítulo 501 — O programa de Morris
+
+— Parece que Zhang Lulu não está em Xangai.
+
+O olhar de Lu Li era sério. Passara uma hora desde que chegara à casa de Zhang Qiu. Durante aquele período, ele e Morris haviam vasculhado toda a região ao redor.
+
+Embora Morris tivesse examinado todos os equipamentos de vigilância de Xangai antes de chegarem, ainda deixara passar muitas câmeras particulares.
+
+Agora, todas estavam sendo utilizadas. Fossem câmeras de hotéis ou residências, haviam sido invadidas e colocadas em funcionamento.
+
+Mesmo assim, não encontravam Zhang Lulu.
+
+Era como se ela tivesse desaparecido de repente.
+
+Os drones já haviam se espalhado por uma grande distância, mas ainda não encontraram qualquer vestígio dela.
+
+As imagens na tela do computador mudavam sem parar. As câmeras captavam incontáveis rostos, que eram separados pelo programa para a comparação facial.
+
+De repente…
+
+— Senhor, um drone transmitiu uma imagem!
+
+Naquele momento, Morris enviou uma fotografia ao computador de Lu Li. Ao vê-la, ele ficou intrigado.
+
+A pessoa retratada não era Zhang Lulu.
+
+Mas as palavras seguintes de Morris fizeram seu olhar esfriar aos poucos.
+
+— Esta imagem acabou de chegar de um drone. Parece ser um traficante de pessoas.
+
+A fotografia mostrava um homem de cerca de quarenta anos, com uma criança nos braços e outra nas costas.
+
+As crianças não pareciam muito velhas, talvez tivessem apenas seis ou sete anos.
+
+Sem observar com atenção, qualquer um poderia pensar que ele era o pai das duas. Sorria, tornando difícil imaginar que fosse um traficante.
+
+Mas o resultado do sistema indicava que era um suspeito.
+
+O motivo era simples: as fotos das duas crianças, desaparecidas no dia anterior, constavam de um comunicado policial recente.
+
+— Avise a polícia. Deixe esse tipo de problema para os profissionais!
+
+A principal tarefa deles era encontrar Zhang Lulu. Além disso, aquele era um assunto policial. Se interferissem, poderiam cometer erros e provocar uma reação vingativa no suspeito.
+
+Ele poderia, por exemplo, fazer as duas crianças de reféns, ou até matá-las brutalmente, antes de desaparecer nas montanhas, onde ninguém o encontraria.
+
+— Espere!
+
+Lu Li fez uma pausa repentina.
+
+— Depois que o prenderem, peça à polícia que pergunte se ele também sequestrou Zhang Lulu!
+
+Ao terminar, olhou para fora do veículo. Zhang Xiao conversava com Zhang Qiu e a esposa, tentando tranquilizá-los.
+
+— Certo.
+
+Morris assentiu e entrou em contato com as pessoas responsáveis, entre elas Deng Qingshu. Era melhor deixar aquilo a cargo dele, já que fazia parte do mesmo sistema.
+
+Logo, chegaram notícias de seu lado.
+
+— Encontraram a criança?
+
+— Encontramos — respondeu Deng Qingshu.
+
+— Ela está bem? — perguntou Lu Li.
+
+— Está viva, mas recebeu comprimidos para dormir. Ele estava prestes a levar as crianças para uma negociação quando o pegamos em flagrante. Também investigamos seus antecedentes. Tem ficha criminal e saiu da prisão há poucos meses. Não esperávamos que voltasse a cometer crimes tão depressa.
+
+— Nossos colegas também detiveram a pessoa com quem ele negociaria. As duas crianças estão completamente seguras. Estou levando-as de volta, e já avisamos as famílias para virem buscá-las.
+
+— Só duas crianças? — perguntou Lu Li de repente.
+
+— Aguarde um momento, por favor.
+
+Deng Qingshu pareceu entrar em contato com alguém. Pouco depois, voltou a falar:
+
+— Senhor, acabei de consultar os colegas da outra equipe. Não encontraram outras crianças no local desse sujeito.
+
+— Também estamos reunindo informações sobre ele. Pelo que sabemos até agora, havia apenas duas crianças, sem uma terceira.
+
+Lu Li franziu levemente a testa e suspirou. Confiava na capacidade de Deng Qingshu.
+
+Embora ele frequentemente levasse a pior ao lidar com o Clube da Longevidade, possuía competência pessoal. Caso contrário, não teria se tornado chefe de um departamento especial.
+
+Além disso, respondia diretamente ao mais alto escalão. A autoridade que exercia provavelmente não era inferior à de altos funcionários comuns.
+
+Onde Zhang Lulu teria ido parar?
+
+Depois de desligar, Lu Li esfregou a testa. Praticamente haviam revirado Xangai inteira, mas ainda não encontraram a menina.
+
+Aonde ela poderia ter ido?!
+
+“Será que realmente fugiu de Xangai?”
+
+De repente, um mau pressentimento o atingiu.
+
+Se ela realmente saíra da cidade, como poderiam encontrá-la com os recursos atuais?
+
+Naquela época, qualquer câmera conectada à rede podia se tornar uma via de exposição da privacidade. Sem a proteção de um firewall poderoso, muitos hackers conseguiam invadi-las com facilidade, executando códigos simples para coletar informações.
+
+Para garantir a própria segurança, só restaria desconectar-se da internet. Mas quem, naquele tempo, conseguiria permanecer em um lugar sem rede por um ou dois anos?
+
+Lu Li, porém, não queria recorrer àquele método a menos que fosse absolutamente necessário. Já seria uma forma de agir contra o Império Celestial.
+
+Talvez até obter autorização fosse difícil.
+
+Afinal, seu objetivo era encontrar uma criança.
+
+Depois de mais uma hora de trabalho, os doze drones estavam retornando para recarregar antes de retomar as operações.
+
+— Como está indo?
+
+Lu Li esfregou os olhos. Depois de encarar a tela por duas horas seguidas, estavam cansados.
+
+— Senhor, aguarde um instante.
+
+Morris olhava fixamente para a tela enquanto inseria linha após linha de código. Mas tudo era escrito em caracteres chineses.
+
+Uma linguagem de programação em chinês!
+
+Conhecimento de mais de cem anos no futuro!
+
+Quando digitou a última linha, o programa começou a funcionar perfeitamente.
+
+— Senhor, poderia dar uma olhada neste programa…
+
+Morris enviou o código recém-escrito ao computador de Lu Li. Ao ver a tela inteira tomada por caracteres chineses densamente agrupados, ele ficou um pouco atônito.
+
+Esfregou a testa, sentindo uma leve tontura. Até ele, um nativo, quase se perdera naquele emaranhado. Morris, que não estudava chinês havia muito tempo, já era capaz de escrever um programa daquele nível.
+
+Realmente merecia ser chamado de gênio.
+
+Claro, aquilo também era resultado do domínio de aceleração temporal, que lhe proporcionava incontáveis horas de estudo.
+
+Além disso, os livros fortalecidos pelo tempo que Lu Li lhe dera, com uma linguagem de programação baseada em caracteres chineses, o ajudavam gradualmente a compreender tudo.
+
+Agora, ele já utilizava aquela linguagem para reescrever o código.
+
+— O que é isto?
+
+Lu Li já não conseguia compreender o programa.

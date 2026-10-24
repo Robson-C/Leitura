@@ -1139,8 +1139,93 @@
       "old": 518,
       "new": 500,
       "title": "O segundo plano"
+    },
+    {
+      "old": 519,
+      "new": 501,
+      "title": "O programa de Morris"
+    },
+    {
+      "old": 520,
+      "new": 502,
+      "title": "O problema das iterações do programa"
+    },
+    {
+      "old": 521,
+      "new": 503,
+      "title": "O Sistema da Longevidade e o Olho da Longevidade"
+    },
+    {
+      "old": 522,
+      "new": 504,
+      "title": "Missão cumprida"
+    },
+    {
+      "old": 523,
+      "new": 505,
+      "title": "O supercomputador Longevidade"
+    },
+    {
+      "old": 524,
+      "new": 506,
+      "title": "Deuses!"
+    },
+    {
+      "old": 525,
+      "new": 506,
+      "title": "O deus misterioso?"
+    },
+    {
+      "old": 526,
+      "new": 507,
+      "title": "Os agradecimentos de Zhang Qiu"
+    },
+    {
+      "old": 527,
+      "new": 508,
+      "title": "Correntes ocultas"
+    },
+    {
+      "old": 528,
+      "new": 509,
+      "title": "A viagem de GODS à China"
+    },
+    {
+      "old": 529,
+      "new": 510,
+      "title": "Dale"
+    },
+    {
+      "old": 530,
+      "new": 511,
+      "title": "Billy Geese"
+    },
+    {
+      "old": 531,
+      "new": 512,
+      "title": "Pausa para o almoço"
+    },
+    {
+      "old": 532,
+      "new": 513,
+      "title": "Criando obstáculos"
+    },
+    {
+      "old": 533,
+      "new": 514,
+      "title": "Impasse"
+    },
+    {
+      "old": 534,
+      "new": 515,
+      "title": "Salvando a situação"
+    },
+    {
+      "old": 535,
+      "new": 516,
+      "title": "A chegada de Dale"
     }
   ],
-  "pendingFromOld": 519,
-  "notes": "Leitor offline completo: 222 capítulos consecutivos 279–500, nenhum TXT pendente. Fontes 497/498 reunidas no capítulo 480 conforme confirmação; fontes 499–518 correspondem a 481–500. Fonte 518→500 explicitamente confirmada pelo usuário. Esquema de migração 8 preservado. Próximo correto 501, fonte esperada 519, sujeita à conferência."
+  "pendingFromOld": 536,
+  "notes": "Leitor offline completo: 238 capítulos consecutivos 279–516, nenhum TXT pendente. Fontes 519–523 correspondem a 501–505; fontes 524/525 reunidas integralmente no 506 por confirmação explícita; fonte 526→507 confirmada, fontes 527–535 correspondem a 508–516. Esquema de migração 8 preservado. Próximo correto 517, fonte esperada 536, sujeita à conferência."
 }

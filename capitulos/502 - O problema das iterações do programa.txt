@@ -1,0 +1,131 @@
+Capítulo 502 — O problema das iterações do programa
+
+— É o código reescrito, voltado principalmente à identificação. Também incorporei mecanismos de autoaprendizado por aprendizagem profunda e de *evolução de classes*.
+
+— Para adaptá-lo melhor, reconstruí um sistema simples que permite sua execução e suas iterações.
+
+— Já vasculhamos Xangai inteira sem encontrar a senhorita Zhang Lulu. Isso significa que é muito provável que ela tenha saído da cidade.
+
+— Quanto ao motivo de as câmeras não a encontrarem, só há duas possibilidades.
+
+— Primeiro: ela despertou, e sua habilidade é semelhante à interferência de ondas eletromagnéticas, ou até à invisibilidade.
+
+— Segundo: um desperto poderoso a levou embora!
+
+— Mas, independentemente de qual seja a hipótese, é impossível alguém evitar por completo os dispositivos eletrônicos, mesmo por um período curto, ou não entrar em contato com pessoas no dia a dia!
+
+— E, assim que houver contato, a chance de ser detectado por este código de identificação será muito alta!
+
+Ao ouvir Morris, Lu Li entreabriu a boca. Ele usava palavras simples para descrever algo extremamente difícil.
+
+O novo código precisava passar por iterações contínuas. No fim, talvez fosse capaz de identificar dezenas de milhares de pessoas em um único segundo.
+
+Quanto mais iterações, mais pessoas conseguiria reconhecer.
+
+O assustador era que aquele sistema de aprendizagem profunda podia executar buscas automaticamente, atualizando-se enquanto invadia terminais e cumpria as exigências inseridas previamente.
+
+— Mas isso significa que nosso supercomputador não será suficiente.
+
+Morris coçou a cabeça. Sua estimativa inicial era de que o programa exigiria cinquenta quadrilhões de operações de ponto flutuante.
+
+O supercomputador que montara, porém, só conseguia executar pouco mais de dez trilhões, muito abaixo do necessário para rodar aquele sistema e programa.
+
+— Então, agora precisamos de um supercomputador mais avançado?
+
+Lu Li respirou fundo. Um código de identificação poderoso exigia mais armazenamento, especialmente se precisassem procurar em cidades fora de Xangai.
+
+A capacidade necessária seria ainda maior.
+
+— Para processar todos os dados de Xangai e, depois, realizar as iterações e a evolução, quanto espaço de memória seria necessário?
+
+— Uma estimativa inicial de mais de quatrocentos terabytes.
+
+Morris lhe forneceu um número preciso.
+
+— E para cobrir uma área centrada em Xangai, estendendo-se por três mil quilômetros ao redor, quantas iterações seriam necessárias?
+
+— Mais de cento e vinte!
+
+— Então, quanto armazenamento temos atualmente no depósito?
+
+— Provavelmente restam menos de dez petabytes. Depois de mais de cento e vinte iterações, serão necessários cerca de cem petabytes de espaço em discos.
+
+Levando a mão à testa, Lu Li perguntou:
+
+— Então, para executar esse programa e sistema, precisamos de um supercomputador com capacidade de cinquenta quadrilhões de operações de ponto flutuante por segundo, além de um conjunto de racks de discos com capacidade próxima de *cem petaflops*?
+
+— Sim!
+
+Morris assentiu.
+
+Ao vê-lo confirmar, Lu Li ficou um pouco desconcertado. Acabara de planejar que ele montasse um supercomputador de duzentos quadrilhões de operações por segundo e já fornecera os recursos.
+
+Os materiais provavelmente ainda estavam a caminho.
+
+Agora, precisavam de uma máquina capaz de realizar pelo menos *quinhentos quadrilhões* de operações de ponto flutuante por segundo.
+
+— Que dor de cabeça.
+
+Lu Li suspirou.
+
+— Não temos escolha a não ser usar nossas habilidades.
+
+Os processadores para supercomputadores não podiam ser comprados facilmente dentro do país. Dependiam quase inteiramente de importação. Uma transação tão grande certamente atrairia a atenção dos Estados Unidos.
+
+Além disso, como o país ficava muito perto do México, havia o risco de o Rei Fantasma perceber a chegada de pessoas ligadas a Lu Li e enviar subordinados para lhes causar problemas.
+
+Embora ele não se importasse, aquela repetição seria irritante.
+
+— Vamos obter diretamente um milhão de processadores.
+
+Lu Li balançou a cabeça e ligou para Liu Zhujun. Naquela situação, só a intervenção dela poderia impedir que fossem capturados pelo Rei Fantasma.
+
+Ali já era meia-noite, mas nos Estados Unidos ainda era manhã. Se fossem naquele momento, o Rei Fantasma provavelmente não teria saído da cidade fantasma.
+
+A segurança ainda seria relativamente alta.
+
+Meia hora depois, Liu Zhujun desceu do céu, trazendo uma camada de geada.
+
+Alguns minutos depois, saiu do veículo e desapareceu em um piscar de olhos.
+
+— Mesmo com aceleração de cem vezes, a viagem de ida e volta aos Estados Unidos para concluir a compra ainda levará quase meia hora.
+
+— Vamos voltar e liberar espaço primeiro. Também precisamos instalar um sistema novo. Teremos muito trabalho.
+
+Peng Hao foi chamado para dirigir, enquanto Zhang Xiao recebeu a tarefa de ficar e tranquilizar o primo. Depois, o motorhome partiu.
+
+Primeiro, Lu Li voltou ao escritório do antigo prédio e retirou um livro da estante. Dentro dele, havia um CD de instalação do novo sistema.
+
+Poderiam utilizar diretamente o sistema completo, em vez da versão rudimentar de Morris.
+
+Ao mesmo tempo, Lu Li encontrou alguns livros de programação na sala dele, aplicou o Fortalecimento Temporal e criou ali um espaço de aceleração para estudarem rapidamente.
+
+Uma nova linguagem de programação exigia muitos conhecimentos relacionados.
+
+Meia hora depois, Liu Zhujun desceu do céu. Acima de sua cabeça, quatro grandes contêineres de transporte cobertos de gelo a acompanhavam. Então, pousaram no pátio.
+
+— Peng Hao, transforme este lugar em um espaço de gravidade zero, com exceção de nós.
+
+Lu Li retirou o domínio de aceleração de Liu Zhujun e ampliou o espaço acelerado da sala até envolver o prédio inteiro.
+
+— Sim!
+
+Peng Hao bateu o pé no chão, e uma aura se espalhou. Os quatro contêineres flutuaram silenciosamente. Suas portas se abriram, revelando incontáveis processadores embalados, também suspensos.
+
+— Youchu, Zhujun e Peng Hao ficarão responsáveis por instalar os processadores e os discos nos racks. Morris e eu cuidaremos da configuração do novo sistema.
+
+Lu Li distribuiu as tarefas com método. Ao mesmo tempo, jogou para Liu Zhujun um livro básico fortalecido.
+
+— Aproveite para aprender um pouco de programação também.
+
+— Ah, é mesmo.
+
+Assim que entrou no prédio, virou-se para ela.
+
+— Cubra com gelo os andares acima e abaixo de onde fica o supercomputador. Com tantos equipamentos funcionando juntos, uma dissipação irregular de calor pode facilmente causar uma pane.
+
+— Já estabeleci uma aceleração temporal de cem vezes neste prédio. Precisamos montar este supercomputador de *cem quadrilhões* de operações de ponto flutuante no menor tempo possível!
+
+Os quatro contêineres trazidos por Liu Zhujun continham apenas os racks essenciais e discos com capacidade de cem petabytes. Todo o espaço restante estava cheio de processadores.
+
+Uma contagem aproximada indicava mais de quinhentos mil.

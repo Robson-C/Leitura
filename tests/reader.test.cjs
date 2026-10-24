@@ -36,11 +36,11 @@ function boot(saved, failStorage = false, hash = '', width = 1280) {
   return {get,themes,browser,location,listeners,documentListeners,context,flush,saved:()=>JSON.parse(persisted),changeHash(value){location.hash=value;listeners.hashchange();flush();}};
 }
 const app=boot();
-const expectedIds=Array.from({length:203},(_,i)=>290+i).filter(id=>![355,358,369,416,461,470].includes(id)).map(id=>id<=354?id-11:id===356?344:id===357?345:id===359?346:id>=360&&id<=368?id-13:id===370?356:id>=371&&id<=415?id-14:id===417?402:id>=418&&id<=460?id-15:id===462?446:id>=463&&id<=469?id-16:id>=471?id-17:id).concat(Array.from({length:25},(_,i)=>476+i));
+const expectedIds=Array.from({length:203},(_,i)=>290+i).filter(id=>![355,358,369,416,461,470].includes(id)).map(id=>id<=354?id-11:id===356?344:id===357?345:id===359?346:id>=360&&id<=368?id-13:id===370?356:id>=371&&id<=415?id-14:id===417?402:id>=418&&id<=460?id-15:id===462?446:id>=463&&id<=469?id-16:id>=471?id-17:id).concat(Array.from({length:41},(_,i)=>476+i));
 assert.deepEqual(Array.from(app.browser.READING_CHAPTERS,c=>c.id),expectedIds);
 for(const c of app.browser.READING_CHAPTERS){assert(c.body.length>4000,`Capítulo ${c.id} vazio ou truncado`);assert.equal((c.body.replace(/^\*\*\*$/gm,'').match(/\*/g)||[]).length%2,0);}
-assert.equal(app.get('chapter-list').children.length,3);
-assert.equal(app.context.document.querySelectorAll('.chapter-link').length,222);
+assert.equal(app.get('chapter-list').children.length,4);
+assert.equal(app.context.document.querySelectorAll('.chapter-link').length,238);
 assert.equal(app.get('chapter-title').textContent,'Encontro com Li Shimin');
 assert.equal(app.get('previous').disabled,true);
 assert.equal(app.get('next').disabled,false);
@@ -73,7 +73,7 @@ for(const id of expectedIds.filter(id=>id>=289)) {
  app.changeHash('#capitulo-'+id);assert.equal(app.get('chapter-number').textContent,'CAPÍTULO '+id);
 }
 assert.equal(app.get('next').disabled,true);
-assert.equal(app.get('chapter-content').children.some(node=>node.className==='author-note'),true);
+assert.equal(app.get('chapter-content').children.some(node=>node.className==='author-note'),false);
 app.changeHash('#capitulo-309');
 assert.equal(app.get('chapter-content').children.some(node=>node.className==='author-note'),false);
 assert(app.browser.READING_CHAPTERS.find(c=>c.id===309).body.startsWith('Em uma cafeteria'));
@@ -166,7 +166,7 @@ appearance.get('theme').value='dark';appearance.get('theme').handlers.change();a
 assert.equal(appearance.saved().settings.theme,'dark');
 assert.equal(boot(JSON.stringify(appearance.saved())).get('appearance-panel').hidden,true);
 const html=fs.readFileSync(path.join(root,'index.html'),'utf8');
-assert(html.includes('222 capítulos disponíveis'));
+assert(html.includes('238 capítulos disponíveis'));
 assert.equal((html.match(/id="index-toggle"/g)||[]).length,1);
 assert(html.indexOf('id="index-toggle"')<html.indexOf('id="header-title"'));
 assert(html.indexOf('id="header-title"')<html.indexOf('id="appearance-toggle"'));
@@ -208,12 +208,12 @@ const lastResume=boot(JSON.stringify({numberingVersion:8,chapter:466,positions:{
 assert.equal(lastResume.get("chapter-number").textContent,"CAPÍTULO 466");
 assert.equal(lastResume.get("body").dataset.theme,"dark");
 assert(lastResume.browser.scrollY>0);
-console.log("OK: 222 capítulos, TXT disponíveis 286–500 idênticos; títulos e notas; navegação 445↔446 e 453↔454; retomada 466; controles, preferências e recursos locais.");
+console.log("OK: 238 capítulos, TXT disponíveis 286–516 idênticos; títulos e notas; navegação 445↔446 e 453↔454; retomada 466; controles, preferências e recursos locais.");
 
 // Centenas, limites, abertura manual e preservação da posição.
 const grouped=boot();
 const groups=grouped.get("chapter-list").children;
-assert.deepEqual(groups.map(g=>g.children[0].textContent),["201–300","301–400","401–500"]);
+assert.deepEqual(groups.map(g=>g.children[0].textContent),["201–300","301–400","401–500","501–600"]);
 const openGroups=()=>groups.filter(g=>!g.children[1].hidden).map(g=>g.children[0].textContent);
 assert.deepEqual(openGroups(),["201–300"]);
 for(const [id,label] of [[300,"201–300"],[301,"301–400"],[400,"301–400"],[401,"401–500"],[466,"401–500"]]){
@@ -350,29 +350,36 @@ const eightAgain=boot(JSON.stringify(eight.saved()));assert.equal(eightAgain.bro
 for(const [source,target] of [[463,447],[469,453],[471,454],[483,466]]){
  const result=boot(JSON.stringify({...stateEight,chapter:source}),false,'#capitulo-'+source);assert.equal(result.get('chapter-number').textContent,'CAPÍTULO '+target);
 }
-assert.deepEqual(Array.from(app.browser.READING_CHAPTERS,c=>c.id),Array.from({length:222},(_,i)=>279+i));
-for(let id=467;id<=500;id++)assert(fs.readdirSync(path.join(root,'capitulos')).some(f=>f.startsWith(id+' - ')));
-assert.equal(app.browser.READING_CHAPTERS.filter(c=>c.id>=467).length,34);
-console.log('OK: numeração contínua 279–500 no leitor; TXT 467–475 integrados; migração versão 8.');
+assert.deepEqual(Array.from(app.browser.READING_CHAPTERS,c=>c.id),Array.from({length:238},(_,i)=>279+i));
+for(let id=467;id<=516;id++)assert(fs.readdirSync(path.join(root,'capitulos')).some(f=>f.startsWith(id+' - ')));
+assert.equal(app.browser.READING_CHAPTERS.filter(c=>c.id>=467).length,50);
+console.log('OK: numeração contínua 279–516 no leitor; TXT 467–475 integrados; migração versão 8.');
 
 // Publicação offline: último capítulo e retomada com número corrigido.
-const finalResume=boot(JSON.stringify({numberingVersion:8,chapter:500,positions:{500:.55},settings:{theme:'dark'}}));
-assert.equal(finalResume.get('chapter-title').textContent,'O segundo plano');assert.equal(finalResume.get('next').disabled,true);assert(finalResume.browser.scrollY>0);
+const finalResume=boot(JSON.stringify({numberingVersion:8,chapter:516,positions:{516:.55},settings:{theme:'dark'}}));
+assert.equal(finalResume.get('chapter-title').textContent,'A chegada de Dale');assert.equal(finalResume.get('next').disabled,true);assert(finalResume.browser.scrollY>0);
 app.changeHash('#capitulo-466');app.get('next').click();assert.equal(app.location.hash,'capitulo-467');
-for(let id=467;id<=500;id++){
+for(let id=467;id<=516;id++){
  app.changeHash('#capitulo-'+id);app.get('previous').click();assert.equal(app.location.hash,'capitulo-'+(id-1));
 }
-console.log('OK: publicação offline 279–500 completa, navegação e retomada do último capítulo.');
+console.log('OK: publicação offline 279–516 completa, navegação e retomada do último capítulo.');
 
 // Novos capítulos e união confirmada das fontes 497/498 no 480.
 app.changeHash('#capitulo-475');app.get('next').click();assert.equal(app.location.hash,'capitulo-476');
 const merged480=app.browser.READING_CHAPTERS.find(c=>c.id===480);assert(merged480.body.includes('Aqueles que me desafiam perecerão'));assert(merged480.body.includes('Ter armas, porém, poderia aliviar aquela situação.'));
-for(let id=476;id<=500;id++){const c=app.browser.READING_CHAPTERS.find(c=>c.id===id);app.changeHash('#capitulo-'+id);const note=app.get('chapter-content').children.find(n=>n.className==='author-note');assert.equal(note?.textContent,c.authorNote===false?undefined:c.authorNote);}
+for(let id=476;id<=516;id++){const c=app.browser.READING_CHAPTERS.find(c=>c.id===id);app.changeHash('#capitulo-'+id);const note=app.get('chapter-content').children.find(n=>n.className==='author-note');assert.equal(note?.textContent,c.authorNote===false?undefined:c.authorNote);}
 const numbering=JSON.parse(fs.readFileSync(path.join(root,'NUMERACAO-CAPITULOS.json'),'utf8'));assert(!numbering.confirmed.some(c=>c.offlinePending));for(const source of [497,498])assert.equal(numbering.confirmed.find(c=>c.old===source).new,480);
 console.log('OK: 476–487 completos, notas e duas partes do 480 preservadas; sem TXT pendente.');
 
 // Limite final 500 e retomada da nova publicação.
 app.changeHash('#capitulo-487');app.get('next').click();assert.equal(app.location.hash,'capitulo-488');
-app.changeHash('#capitulo-499');app.get('next').click();assert.equal(app.location.hash,'capitulo-500');app.changeHash('#capitulo-500');assert.equal(app.get('next').disabled,true);app.get('previous').click();assert.equal(app.location.hash,'capitulo-499');
+app.changeHash('#capitulo-499');app.get('next').click();assert.equal(app.location.hash,'capitulo-500');app.changeHash('#capitulo-500');assert.equal(app.get('next').disabled,false);app.get('previous').click();assert.equal(app.location.hash,'capitulo-499');
 for(let source=506;source<=518;source++)assert.equal(numbering.confirmed.find(c=>c.old===source).new,source-18);
 console.log('OK: TXT 488–500 integrais, numeração fonte/correta, limite 500 e retomada preservados.');
+
+// Nova centena, união 524/525 e limite final 516.
+app.changeHash('#capitulo-500');app.get('next').click();assert.equal(app.location.hash,'capitulo-501');app.changeHash('#capitulo-501');assert.equal(app.get('chapter-list').children[3].children[1].hidden,false);
+const union506=app.browser.READING_CHAPTERS.find(c=>c.id===506);assert(union506.body.includes('O deus misterioso?'));assert(union506.body.endsWith('cidade de *LSJ*.'));for(const source of [524,525])assert.equal(numbering.confirmed.find(c=>c.old===source).new,506);
+app.changeHash('#capitulo-515');app.get('next').click();assert.equal(app.location.hash,'capitulo-516');app.changeHash('#capitulo-516');assert.equal(app.get('next').disabled,true);app.get('previous').click();assert.equal(app.location.hash,'capitulo-515');
+const finalGroup=boot(JSON.stringify({numberingVersion:8,chapter:516,positions:{516:.4},settings:{theme:'sepia'}}));assert.equal(finalGroup.get('chapter-number').textContent,'CAPÍTULO 516');assert.equal(finalGroup.get('chapter-list').children[3].children[1].hidden,false);assert(finalGroup.browser.scrollY>0);assert.equal(finalGroup.saved().settings.theme,'sepia');
+console.log('OK: 501–516 integrais, grupo 501–600, duas partes do 506 e retomada final 516.');
