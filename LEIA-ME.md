@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 192 capítulos: 279–320 (numeração corrigida), seguidos dos atuais 332–483, ainda em conferência. Os números 461 e 470 não existem no material enviado e foram pulados por autorização do usuário, preservando os números e títulos originais. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor; não representam o título oficial da obra. As passagens de interpretação incerta continuam em itálico.
+Inclui 209 capítulos consecutivos, de 279 a 487. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
 
 ## Leitura
 
@@ -228,8 +228,15 @@ Antigos 463–469→447–453 e antigos 471–492→454–475, sem conteúdo par
 Backup: backups/renumeracao-447-475-20261023T204850/. Reverter fontes e TXT segundo manifest.json, retirando destinos antes de restaurar origens por sobreposição. Navegador migrado requer snapshot before-numbering-8 junto à versão anterior. Testes automatizados aprovados; revisão visual real não realizada. Commit e push manuais.
 
 
-## Publicação offline atual — 279–475
+## Publicação offline anterior — 279–475
 
 Incluídos os nove TXT 467–475. Leitor com 197 capítulos consecutivos, sem pendentes. Numeração corrigida conforme NUMERACAO-CAPITULOS.json; conteúdo e controles preservados, migração versão 8.
 
 Backup: backups/offline-467-475-20261023T204958/. Para reverter apenas inclusão, restaurar chapters.js/index.html/testes/tabela do backup, preservar TXT e registrar reversão. Testes automatizados aprovados; revisão visual real não realizada. Arquivos prontos na pasta oficial para commit e push manuais.
+
+
+## Publicação offline atual — 279–487
+
+Incluídos integralmente os doze TXT 476–487. Leitor com 209 capítulos consecutivos, sem TXT pendente. As fontes 497/498 permanecem juntas no 480, incluindo subtítulo, pedido autoral e separador. Aplicação e esquema de migração 8 preservados.
+
+Backup: backups/offline-476-487-20261024T144804761/. Para reverter esta inclusão, restaurar chapters.js, index.html, testes e tabela do backup; preservar TXT e registrar reversão. Cópias dos documentos e manifesto SHA-256 também disponíveis. Validação automatizada descrita na revisão operacional; conferência visual real pendente. Commit e push manuais.

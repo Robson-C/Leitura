@@ -86,3 +86,8 @@ Aplicados sob confirmação explícita antigos 463–469→447–453 e antigos 4
 ## Publicação offline 279–475 concluída — 23/10/2026
 
 Usuário solicitou publique; nove TXT 467–475 integrados integralmente. Leitor com 197 capítulos consecutivos 279–475, nenhum TXT pendente. Tabela sem flags offlinePending; esquema de migração 8 preservado. Commit e push manuais. Consultar revisão operacional para validação e backup. Próximo número correto esperado 476; a numeração da fonte continua distinta e deve ser conferida se houver divergência.
+
+
+## Publicação offline 279–487 concluída — 24/10/2026
+
+Doze TXT 476–487 incluídos integralmente por comando publique. Leitor com 209 capítulos consecutivos, sem TXT pendente; fontes 497/498 reunidas no 480 conforme confirmação explícita. Tabela sem offlinePending, esquema de migração 8 mantido. Próximo correto 488, fonte esperada 506, sujeito à conferência. Commit/push manuais; consultar revisão operacional para validação e backup.

@@ -1009,8 +1009,73 @@
       "old": 492,
       "new": 475,
       "title": "Recomendação"
+    },
+    {
+      "old": 493,
+      "new": 476,
+      "title": "A expedição!"
+    },
+    {
+      "old": 494,
+      "new": 477,
+      "title": "O fuzil de precisão antimaterial"
+    },
+    {
+      "old": 495,
+      "new": 478,
+      "title": "Um fantasma com habilidade de teletransporte?"
+    },
+    {
+      "old": 496,
+      "new": 479,
+      "title": "O pedido de Lu Li"
+    },
+    {
+      "old": 497,
+      "new": 480,
+      "title": "Avaliação: Rei Demônio de classe SS"
+    },
+    {
+      "old": 498,
+      "new": 480,
+      "title": "Aqueles que me desafiam perecerão"
+    },
+    {
+      "old": 499,
+      "new": 481,
+      "title": "Viagem à Quarta Era Solar"
+    },
+    {
+      "old": 500,
+      "new": 482,
+      "title": "O retorno"
+    },
+    {
+      "old": 501,
+      "new": 483,
+      "title": "O chamado aviso"
+    },
+    {
+      "old": 502,
+      "new": 484,
+      "title": "O fortalecimento da Segurança Tianwei"
+    },
+    {
+      "old": 503,
+      "new": 485,
+      "title": "O pedido de Morris"
+    },
+    {
+      "old": 504,
+      "new": 486,
+      "title": "Reflexões sobre computadores quânticos"
+    },
+    {
+      "old": 505,
+      "new": 487,
+      "title": "Um pequeno experimento de modificação de armas"
     }
   ],
-  "pendingFromOld": 493,
-  "notes": "Aplicados antigos 290–492 como 279–475, com quatro uniões e ausências dos antigos 461/470. Leitor offline completo 279–475; nenhum TXT pendente. Esquema de migração 8 preservado."
+  "pendingFromOld": 506,
+  "notes": "Leitor offline completo: 209 capítulos consecutivos 279–487, nenhum TXT pendente. Fontes 493–496 correspondem a 476–479; fontes 497/498 reunidas integralmente no 480 por confirmação explícita; fontes 499–505 correspondem a 481–487. Esquema de migração 8 preservado. Próximo correto 488, fonte esperada 506, sujeita à conferência."
 }

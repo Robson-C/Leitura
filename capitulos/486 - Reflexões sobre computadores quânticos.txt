@@ -1,0 +1,100 @@
+Capítulo 486 — Reflexões sobre computadores quânticos
+Pedido do autor: assinatura completa e assinatura automática.
+
+Para Morris, os computadores e o mundo de códigos que vinha com eles eram tudo.
+
+Naturalmente, Lu Li também era tudo para ele. Afinal, aos seus olhos, era uma figura semelhante a um deus.
+
+Um bom supercomputador não só podia executar programas mais avançados, mas também realizar diversas simulações de alta exigência, como as de explosões nucleares.
+
+No entanto, o supercomputador que Morris possuía naquele momento provavelmente ficaria inutilizado depois de uma única simulação dessas.
+
+Mesmo que reunisse os dados de Liu Zhujun para simular combates, a máquina só conseguiria funcionar com grande dificuldade.
+
+Afinal, diversos programas ainda dependiam daquele supercomputador. Ele não podia destinar todos os recursos apenas ao programa de simulação de combate.
+
+Embora fosse possível alugar supercomputadores, até mesmo o Tianhe-2 da China, bastaria Lu Li fazer uma proposta para que, provavelmente, a alta liderança chinesa não se importasse em disponibilizá-lo.
+
+A longo prazo, porém, ainda seria mais conveniente ter uma máquina própria. Alguns programas importantes do Clube da Longevidade também dependiam de supercomputadores para funcionar.
+
+O aplicativo do clube, por exemplo. Francamente, Morris jamais colocaria o código de um aplicativo importante daqueles em uma máquina alugada, mesmo que não houvesse risco algum.
+
+Segurança e exclusividade eram as qualidades de que o Clube da Longevidade precisava em um supercomputador.
+
+— De quanto espaço você precisaria, aproximadamente?
+
+Lu Li perguntou suavemente. Sabia da importância de um bom supercomputador para uma organização.
+
+Embora as duas máquinas que ocupavam o primeiro e o segundo lugares do mundo estivessem basicamente operando em sua velocidade máxima, sem serem utilizadas em aplicações importantes, certamente já haviam realizado inúmeras simulações de explosões nucleares.
+
+Afinal, os países que buscavam supercomputadores de alto nível basicamente desejavam realizar simulações de explosões nucleares, ou até *testes de explosão no mundo real*.
+
+Além disso, na situação atual, quase todos os quinhentos melhores supercomputadores do mundo utilizavam processadores Intel. Se os Estados Unidos se recusassem a exportá-los para a China, as instituições chinesas de pesquisa em supercomputação provavelmente ficariam em uma situação difícil.
+
+— Mais de dois mil metros quadrados.
+
+Morris fez uma estimativa:
+
+— Com nossos recursos financeiros atuais, acredito que consigo montar um supercomputador com um desempenho geral relativamente alto. Sua velocidade de cálculo deve chegar a duzentos quadrilhões de operações por segundo. Embora não se compare ao Tianhe-2, ainda ficaria entre os cinquenta melhores do mundo.
+
+— Duzentos e cinquenta mil processadores, uma quantidade de discos de armazenamento e um número correspondente de racks…
+
+Tudo aquilo custaria de cem a duzentos milhões de yuans. Ele não sabia se Lu Li estaria disposto a lhe fornecer uma quantia tão grande.
+
+Lu Li refletiu por um instante, depois fez um gesto com a mão.
+
+— Não precisa se preocupar com dinheiro nem com o local. Apenas monte esse supercomputador.
+
+— Se vamos fazer, que seja o melhor!
+
+— Senhor, não há necessidade de ser o melhor. Duzentos quadrilhões de operações de ponto flutuante por segundo já são suficientes. Além disso, desde que haja espaço, poderemos atualizar o hardware depois.
+
+Morris recusou a sugestão. Um bom supercomputador não exigia apenas espaço, hardware, software e a escolha do local, mas também diversos códigos de otimização.
+
+Na verdade, ele queria pesquisar um novo sistema operacional. Mas, com seu nível atual de conhecimento, ainda não era capaz de desenvolver algo assim. Seria um empreendimento gigantesco.
+
+— Precisamos de um mundo-ferramenta?
+
+Lu Li perguntou.
+
+Em sua opinião, se os supercomputadores eram tão importantes para Morris, poderia projetar um mundo-ferramenta em que *a sobrevivência dependesse de supercomputadores cada vez mais avançados*, ampliando assim a reserva tecnológica do Clube da Longevidade naquela área.
+
+Se fosse possível, também gostaria de tentar construir um computador quântico. Mas aquilo não passava de uma ideia distante, pois era considerado algo aterrorizante no setor.
+
+Assim que surgisse, todos os segredos do mundo deixariam de ser segredos. Dos diversos sistemas de criptografia militares à privacidade das pessoas comuns, tudo poderia ser calculado por completo, sem omissões.
+
+— Senhor, se for possível, por favor, ajude-me a construir um.
+
+Morris assentiu, aceitando a proposta de Lu Li, embora não depositasse grandes esperanças nela.
+
+Um sistema novo certamente seria bom. Mas o ideal seria utilizar algo mais avançado e inteiramente novo, em vez de uma solução baseada no código aberto do Linux atual.
+
+Ainda assim, ele achava aquilo provavelmente impossível.
+
+Na arquitetura de código existente, seria difícil para qualquer sistema evitar completamente os códigos do Windows e do DOS. Um descuido, e acabariam no banco dos réus.
+
+— Computadores quânticos, computadores fotônicos…
+
+Observando Morris sair, Lu Li voltou os olhos para a janela. Sua visita o fizera lembrar de uma coisa: aquele mundo não podia existir sem tecnologia.
+
+Por mais despertos ou monstros que surgissem, não poderiam impedir o desenvolvimento tecnológico. Buscar pontos em comum, preservando as diferenças, era o rumo definitivo do desenvolvimento.
+
+Embora Bill fosse um dos membros do Clube da Longevidade, se Lu Li pedisse, ele certamente permitiria que o clube utilizasse o Windows. Talvez até se dispusesse a lhe mostrar o código-fonte.
+
+Mas nem Lu Li nem Morris estavam dispostos a utilizar um sistema comercial já consolidado. Além disso, o clube tinha segredos demais. Se Bill instalasse algumas portas de acesso ocultas no Windows, até Morris, com sua capacidade, poderia deixá-las passar despercebidas.
+
+O Clube da Longevidade não toleraria nenhuma possibilidade de erro. Por isso, nenhum dos dois propôs utilizar o código-fonte do Windows.
+
+Sabiam que aquilo estava fora de cogitação.
+
+— Deixe para lá. Computadores quânticos e fotônicos não são muito realistas.
+
+Lu Li balançou a cabeça. O hardware e os códigos necessários para operá-los não estavam disponíveis no mercado naquele momento. O código ainda era administrável; o verdadeiro problema era o hardware.
+
+— Se tivéssemos uma impressora 3D mais avançada, talvez conseguíssemos resolver o problema de fabricação do hardware de um computador quântico.
+
+Ele esfregou o queixo, mas logo balançou a cabeça com um sorriso amargo. Se a ideia de um computador quântico valesse um, uma impressora 3D perfeita valeria dez, ou até cem.
+
+Supostamente, seria algo capaz de imprimir qualquer coisa.
+
+Depois disso, Lu Li deixou aqueles pensamentos de lado por enquanto e enviou uma ordem à equipe de criação de mundos em miniatura no interior da Terra. Deveriam construir um mundo-ferramenta voltado ao sistema operacional do supercomputador. Quando estivesse pronto, ele iria até lá para definir o fluxo do tempo.
