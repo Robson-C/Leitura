@@ -1,0 +1,170 @@
+Capítulo 500 — O segundo plano
+Pedido do autor: assinatura completa e assinatura automática.
+
+— E então?
+
+— Senhor, acho melhor irmos investigar pessoalmente.
+
+Morris coçou a cabeça.
+
+— As câmeras de Xangai não encontram nenhuma informação sobre Zhang Lulu, nem nas proximidades de sua casa. Não parece possível que ela esteja apenas passeando por aí.
+
+Lu Li refletiu por um instante e assentiu.
+
+— Vamos. Vamos dar uma olhada no local.
+
+Olhou para Zhang Xiao e riu suavemente.
+
+— Não se preocupe. Somos o Clube da Longevidade.
+
+— Não é isso. Só que já é tão tarde, e ainda estou pedindo sua ajuda, senhor…
+
+Zhang Xiao nunca duvidara da capacidade de Lu Li. Mas já passava das dez da noite, e normalmente ele não cuidava de assuntos de trabalho àquela hora.
+
+— Não tem problema.
+
+Lu Li lhe deu um tapinha no ombro e olhou para Peng Hao.
+
+— Que tal providenciarmos um motorhome?
+
+Eram cinco pessoas. Para evitar imprevistos, levariam um veículo confortável, onde não ficariam apertados.
+
+— Sim.
+
+A família do primo de Zhang Xiao morava em um condomínio nos arredores de Xangai.
+
+Naquele momento, o primo e a esposa esperavam à entrada. Ao vê-lo aparecer, aproximaram-se depressa.
+
+— Primo, como estão as coisas?!
+
+— Qiu, está tudo bem. Não se preocupe.
+
+Seu primo se chamava Zhang Qiu. Tinha quase trinta anos, mas parecia muito mais velho que Lu Li.
+
+O tempo marcara seu rosto sem piedade.
+
+— Aquela menina! Quando voltar, vamos lhe dar uma bela lição!
+
+— Está bem, pare de se preocupar. Confie no seu primo.
+
+A esposa o repreendeu, um pouco sem saber o que fazer com seu comportamento.
+
+— Tudo bem.
+
+Zhang Xiao se virou para Morris.
+
+— Vamos subir?
+
+Ele já havia colocado no motorhome todos os equipamentos eletrônicos de que precisava. Estava lá dentro, de fones de ouvido, com as mãos trabalhando sem parar.
+
+— Não precisa. Podemos ficar aqui. Encontrei algumas imagens de câmeras particulares não cadastradas…
+
+A voz veio do interior do veículo, seguida por uma exclamação:
+
+— Hã?
+
+Quando Zhang Xiao e os demais pensaram que havia alguma notícia, ele continuou:
+
+— Há tantas câmeras escondidas por aqui?
+
+— Quem é o pervertido responsável por isso?
+
+Lu Li e os outros ficaram sem palavras.
+
+— Deixe-o trabalhar. Zhang Xiao, você deve conhecer a capacidade de Morris melhor do que qualquer um de nós.
+
+— Eu sei.
+
+Ele assentiu.
+
+— Só estou preocupado que meus parentes fiquem ansiosos.
+
+— Está tudo bem. Não temos pressa!
+
+Quando Zhang Qiu ia dizer algo, sua esposa lhe cobriu depressa a boca e sorriu.
+
+— Ele é assim mesmo. Está acostumado a ficar aflito, um mau hábito que adquiriu no trabalho. Confiamos no primo!
+
+— Vou ajudar também.
+
+Lu Li olhou para o casal, piscou e entrou no motorhome.
+
+O interior, antes espaçoso, agora estava tomado por incontáveis fios emaranhados. Vários notebooks ocupavam o chão e o sofá, junto de algumas caixas com cerca de meio metro de comprimento e largura.
+
+Ele pegou um computador que estava sobre o sofá.
+
+— Vamos começar.
+
+Girou o pescoço, alongou-se e deixou o olhar se acalmar. Pousou suavemente as mãos no teclado e soltou o ar.
+
+Logo, o som das teclas preencheu o ambiente. Linhas de código em inglês eram digitadas e executadas no programa.
+
+Ele e Morris otimizavam o código dos equipamentos de vigilância para acelerar a coleta de amostras e acrescentar um mecanismo de comparação facial.
+
+Originalmente, aquele mecanismo só seria implementado na máquina central, o terminal que recebia os dados enviados pelas câmeras.
+
+Mas os dois alteraram diretamente o código, redirecionando os dados para os supercomputadores instalados nas proximidades do local de trabalho de Morris.
+
+Agora, utilizavam aquelas máquinas para melhorar a eficiência da coleta e o mecanismo de comparação facial.
+
+Antes, os equipamentos só conseguiam identificar uma pessoa de cada vez. Com a atualização de Morris, passaram a identificar cinco. Naquele momento, os dois usavam a capacidade de processamento de ponto flutuante do supercomputador para ampliar ainda mais esse número.
+
+O preço era um código de execução mais avançado. O hardware já bastava, mas o código ainda não estava aperfeiçoado.
+
+E aquele era justamente o problema mais difícil que enfrentavam.
+
+Havia gente demais em Xangai.
+
+Morris encarava a tela, onde incontáveis linhas de código passavam rapidamente.
+
+— *Tanto o processamento visual quanto a velocidade de atualização do código são lentos demais.*
+
+— Nosso sistema operacional atual, baseado em Linux, simplesmente não consegue lidar com o código que inserimos!
+
+— Há câmeras demais em Xangai. Praticamente toda rua tem dezenas delas. A cidade inteira conta com quase cinco milhões, incluindo câmeras domésticas e todo tipo de câmera oculta minúscula. Todas estão dentro do alcance do nosso programa.
+
+— Mas…
+
+— Não basta!
+
+Morris cerrou os dentes. Antes, achava que era muito bom em programação. Ao receber o livro de Lu Li, porém, descobrira como o mundo era extraordinário.
+
+Agora, estavam sendo detidos por alguns milhões de câmeras!
+
+— E este código?
+
+Lu Li digitou uma linha, fez um teste e a enviou a Morris. Se fosse preciso apontar quem mais entendia de computadores no Clube da Longevidade, certamente seria ele.
+
+Lu Li era apenas um programador de conhecimentos incompletos.
+
+— Não, ainda é lento demais!
+
+Morris balançou a cabeça.
+
+— Já testei esse código antes. Agora, estamos concentrando a busca em uma expansão a partir do ponto onde estamos.
+
+— Se a senhorita Zhang Lulu estiver em algum terraço ou nas montanhas, nossas câmeras não servirão de nada.
+
+— Vamos executar o segundo plano.
+
+Lu Li olhou para ele e assentiu levemente.
+
+— É a única maneira.
+
+— Peng Hao, lance os drones.
+
+Lu Li pegou algumas caixas no veículo e as entregou a Peng Hao. Dentro delas, havia drones comprados recentemente.
+
+Fariam uma busca abrangente pelo ar.
+
+O alcance seria maior. Equipados com câmeras e processadores de primeira linha, conseguiam identificar quase cinquenta pessoas ao mesmo tempo!
+
+Peng Hao colocou doze drones no ar.
+
+Como eram controlados por um terminal de computador, Lu Li e Morris escreveram um programa de operação e busca automáticas.
+
+Assim, as próprias aeronaves executariam as missões.
+
+Mas suas baterias só permitiam três horas de uso contínuo. Depois, precisariam voltar para recarregar.
+
+Em três horas, considerando a velocidade dos drones, provavelmente só conseguiriam vasculhar metade de Xangai.

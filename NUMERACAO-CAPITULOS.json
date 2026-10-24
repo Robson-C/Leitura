@@ -1074,8 +1074,73 @@
       "old": 505,
       "new": 487,
       "title": "Um pequeno experimento de modificação de armas"
+    },
+    {
+      "old": 506,
+      "new": 488,
+      "title": "Um encontro por acaso?"
+    },
+    {
+      "old": 507,
+      "new": 489,
+      "title": "Modificação: Bastão telescópico"
+    },
+    {
+      "old": 508,
+      "new": 490,
+      "title": "Esta arma é anormal"
+    },
+    {
+      "old": 509,
+      "new": 491,
+      "title": "Teste prático"
+    },
+    {
+      "old": 510,
+      "new": 492,
+      "title": "Os Nove Portões da Vida e da Morte"
+    },
+    {
+      "old": 511,
+      "new": 493,
+      "title": "A arma de Peng Hao"
+    },
+    {
+      "old": 512,
+      "new": 494,
+      "title": "Dez flechas"
+    },
+    {
+      "old": 513,
+      "new": 495,
+      "title": "Fortalecimento de livros!"
+    },
+    {
+      "old": 514,
+      "new": 496,
+      "title": "Leitura rápida!"
+    },
+    {
+      "old": 515,
+      "new": 497,
+      "title": "Xiao Yuyu"
+    },
+    {
+      "old": 516,
+      "new": 498,
+      "title": "Fugindo de casa"
+    },
+    {
+      "old": 517,
+      "new": 499,
+      "title": "Busca sem resultado"
+    },
+    {
+      "old": 518,
+      "new": 500,
+      "title": "O segundo plano"
     }
   ],
-  "pendingFromOld": 506,
-  "notes": "Leitor offline completo: 209 capítulos consecutivos 279–487, nenhum TXT pendente. Fontes 493–496 correspondem a 476–479; fontes 497/498 reunidas integralmente no 480 por confirmação explícita; fontes 499–505 correspondem a 481–487. Esquema de migração 8 preservado. Próximo correto 488, fonte esperada 506, sujeita à conferência."
+  "pendingFromOld": 519,
+  "notes": "Leitor offline completo: 222 capítulos consecutivos 279–500, nenhum TXT pendente. Fontes 497/498 reunidas no capítulo 480 conforme confirmação; fontes 499–518 correspondem a 481–500. Fonte 518→500 explicitamente confirmada pelo usuário. Esquema de migração 8 preservado. Próximo correto 501, fonte esperada 519, sujeita à conferência."
 }
