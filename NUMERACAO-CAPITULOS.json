@@ -1228,118 +1228,99 @@
     {
       "old": 537,
       "new": 517,
-      "title": "A equipe de Billy",
-      "offlinePending": true
+      "title": "A equipe de Billy"
     },
     {
       "old": 538,
       "new": 518,
-      "title": "Boa cooperação",
-      "offlinePending": true
+      "title": "Boa cooperação"
     },
     {
       "old": 539,
       "new": 519,
-      "title": "GODS encontrada",
-      "offlinePending": true
+      "title": "GODS encontrada"
     },
     {
       "old": 540,
       "new": 520,
-      "title": "GTA5?",
-      "offlinePending": true
+      "title": "GTA5?"
     },
     {
       "old": 541,
       "new": 521,
-      "title": "Eu amo este lugar!",
-      "offlinePending": true
+      "title": "Eu amo este lugar!"
     },
     {
       "old": 542,
       "new": 522,
-      "title": "Atraso na rede",
-      "offlinePending": true
+      "title": "Atraso na rede"
     },
     {
       "old": 543,
       "new": 523,
-      "title": "O espetáculo chega ao fim",
-      "offlinePending": true
+      "title": "O espetáculo chega ao fim"
     },
     {
       "old": 544,
       "new": 524,
-      "title": "Bloqueando a passagem e salvando uma vida",
-      "offlinePending": true
+      "title": "Bloqueando a passagem e salvando uma vida"
     },
     {
       "old": 545,
       "new": 525,
-      "title": "O primeiro",
-      "offlinePending": true
+      "title": "O primeiro"
     },
     {
       "old": 546,
       "new": 526,
-      "title": "A presa de Peng Hao",
-      "offlinePending": true
+      "title": "A presa de Peng Hao"
     },
     {
       "old": 547,
       "new": 527,
-      "title": "Deus da Guerra",
-      "offlinePending": true
+      "title": "Deus da Guerra"
     },
     {
       "old": 548,
       "new": 528,
-      "title": "O Império Celestial!",
-      "offlinePending": true
+      "title": "O Império Celestial!"
     },
     {
       "old": 549,
       "new": 529,
-      "title": "Flores de sangue",
-      "offlinePending": true
+      "title": "Flores de sangue"
     },
     {
       "old": 550,
       "new": 530,
-      "title": "Persistência",
-      "offlinePending": true
+      "title": "Persistência"
     },
     {
       "old": 551,
       "new": 531,
-      "title": "Formigas",
-      "offlinePending": true
+      "title": "Formigas"
     },
     {
       "old": 552,
       "new": 532,
-      "title": "Missão cumprida?",
-      "offlinePending": true
+      "title": "Missão cumprida?"
     },
     {
       "old": 553,
       "new": 533,
-      "title": "Fechando o cerco",
-      "offlinePending": true
+      "title": "Fechando o cerco"
     },
     {
       "old": 554,
       "new": 534,
-      "title": "Desafio",
-      "offlinePending": true
+      "title": "Desafio"
     },
     {
       "old": 555,
       "new": 535,
-      "title": "Interrogatório",
-      "offlinePending": true
+      "title": "Interrogatório"
     }
   ],
   "pendingFromOld": 556,
-  "notes": "Leitor offline completo: 238 capítulos consecutivos 279–516. Fonte 537 traduzida como 517 por confirmação explícita após identificação do salto da fonte 536; não criado conteúdo para 536. Fontes 538–555 traduzidas como 518–535 na sequência confirmada. Fonte 541→521 confirmada e continuidade com 520 conferida. TXT 517–535 pendentes de inclusão offline. Fontes 524/525 reunidas integralmente no 506. Esquema de migração 8 preservado. Próximo correto 536, fonte esperada 556, sujeita à conferência."
+  "notes": "Leitor offline completo: 257 capítulos consecutivos 279–535, nenhum TXT pendente. Fonte 537→517 confirmada pelo usuário após salto da fonte 536; não criado conteúdo para essa fonte ausente. Fontes 538–555 correspondem a 518–535. Fontes 497/498 unidas no 480 e 524/525 no 506. Esquema de migração 8 preservado. Próximo correto 536, fonte esperada 556, sujeita à conferência."
 }
