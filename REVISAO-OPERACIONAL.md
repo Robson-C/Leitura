@@ -2256,3 +2256,165 @@ Comando publique executado sob autorização permanente. Dezenove TXT 517–535 
 Backup local: backups/offline-517-535-20261025T113721888/. Vinte e seis arquivos copiados (sete arquivos do leitor/testes/tabela/documentação e dezenove TXT), cada cópia conferida por SHA-256. Manifesto e resultado disponíveis na pasta. Comparação estrutural confirmou todos os238 objetos de capítulos anteriores inalterados e dezenove objetos novos idênticos aos TXT. Reversão: restaurar arquivos anteriores do backup, preservando traduções e registrando a reversão; não requer migração nova de progresso.
 
 Validação final: node tests/reader.test.cjs aprovado. Verificadas sequência257 IDs sem lacunas ou duplicatas; todos os TXT disponíveis286–535 comparados ao leitor; títulos e notas; transição516→517, último535 sem próximo e retorno534; retomada535 com posição, tema e fonte; índice501–600; preferências, armazenamento bloqueado e migrações existentes. Novo teste foi ajustado para disparar hashchange explicitamente no DOM simulado após clicar, conforme convenção dos testes existentes. git diff --check aprovado. UTF-8 estrito e equilíbrio de asteriscos validados antes da inclusão. Revisão visual real não realizada. Commit, push e implantação remota não executados; continuam manuais.
+
+
+## Capítulo 536 — Tecnologia antigravitacional — 28/10/2026
+
+Tradução integral da fonte 556, salva em capitulos/536 - Tecnologia antigravitacional.txt sob autorização permanente. Fonte: C:/Users/robson.colaco/.codex/attachments/5e753c8f-51f7-4dd5-87a9-11c5800d316e/Texto colado.txt. Correspondência 556→536 consistente com continuidade publicada até fonte555→535; registrada na tabela com offlinePending. Sem nota autoral no original; futura integração authorNote false. Arquivo novo, nenhuma tradução anterior substituída; reversão seletiva: remover somente este TXT e entrada da tabela, registrando reversão.
+
+Continuidade: GODS identificada como Liz George, hacker top dez; Lu cogita torná-la assistente de Morris no Olho da Longevidade. CIA falha em recuperar código apagado. Lu aprimora casualmente livro gravitacional e obtém tecnologia antigravitacional chinesa; possui antimatéria, mas precisa estudar princípios, previsão um mês. Busca combinar com Tecnologia de propulsão por dobra, já obtida. Fonte termina afirmando de forma truncada que versão atual não atinge luz/superluminal: interpretação marcada, sem inventar continuação. Tempo consumido 1:30 preservado e marcado por unidade indefinida. Pronomes de GODS normalizados no feminino, Maurice→Morris e Changsheng→Clube da Longevidade. Alegações científicas e políticas mantidas como ficção, sem correções factuais externas.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, título, duas incertezas, dados numéricos e final conferidos. Leitor/app/testes não alterados; permanece 257 capítulos 279–535. TXT536 aguarda publique; próximo correto537, fonte esperada557, sujeito à conferência. Sem staging, commit, push ou implantação.
+
+
+## Capítulo 537 — Motor de dobra — 28/10/2026
+
+Tradução integral da fonte 557, salva em capitulos/537 - Motor de dobra.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f95008fb-c0b3-4bb5-b7df-6c6cf8d90631/Texto colado.txt. Continuidade direta 556→536, agora 557→537, tabela com offlinePending. Sem nota autoral; futura integração authorNote false. Novo arquivo sem substituir existente; reversão seletiva remove apenas TXT e entrada correspondente, registrando reversão.
+
+Continuidade: limite do motor de dobra é 1% da luz, compatível com final anterior; Lu combina antigravidade e dobra, cogita bases orbitais e veículos. Estuda livro antigravitacional durante dia/noite, preenche quatro cadernos, Shen fornece café e adormece sob sobretudo. Ao amanhecer compreende linhas gerais, ainda precisa dominar conteúdo antes de repassar desenvolvimento aos subordinados. Não declarada construção concluída. Números científicos da fonte (300 milhões m/s, 880 mil e 8800 vezes som, 3 milhões m/s, 400 milhões km e um dia/meio) preservados como ficção, sem harmonização externa. Fórmula corrompida preservada aproximativamente e marcada em itálico, usando símbolo ∗ para não conflitar com marcadores; passagem almoço após céu escurecer interpretada como hora já passada e marcada. Ruídos promocionais 8/0/5 removidos.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, quatro asteriscos equilibrados, título, números, sequência narrativa e encerramento conferidos. Leitor/app/testes intactos: 257 capítulos 279–535; TXT536–537 aguardam publique. Próximo correto538, fonte esperada558, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 538 — Discussão — 28/10/2026
+
+Tradução integral da fonte 558, salva em capitulos/538 - Discussão.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f4f16bdf-1b13-4d6e-8155-6b692c069e36/Texto colado.txt. Correspondência 558→538 contínua após 557→537, registrada com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: após noite de estudo, Lu e Shen tomam café com Peng, Yan, Liu e Bai. Exército mexicano de cem mil aniquilado pelo Rei, suspeito oitavo grau, pode fortalecê-lo com energia da morte. Concentração espiritual inferior a seis graus limita avanço humano; nuvem imóvel é fonte de força do Rei, Lu preserva provação para humanidade. Bai no ápice quinto prestes ao sexto, com Yan/Liu sujeitos à concentração. Demônios inteligentes enviados a Bai; controle regional e restos ancestrais. Tianhui com muitos membros, poucos de alto nível; Yan pede campo temporal na base, Lu adia por prioridade antigravitacional. Frase There are still three of us interpretada como mais três pessoas que se juntariam (Yan/Liu/Bai), marcada em itálico. México normalizado de Mexican Kingdom, Tianhui e graus preservados. Não acrescentados detalhes técnicos/combate nem harmonização retroativa de fatos ficcionais.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, números e final conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535; TXT536–538 aguardam publique. Próximo correto539, fonte esperada559, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 539 — Coletiva de imprensa — 28/10/2026
+
+Tradução integral da fonte 559, salva em capitulos/539 - Coletiva de imprensa.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/ba0612df-d20f-4850-a66b-3924a3f89bbc/Texto colado.txt. Correspondência 559→539 contínua, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Lu ainda estuda antigravidade; concentração agora seis graus na escala Mundo03, sementes não germinam embora raízes cresçam. Mais de cinquenta despertos quarto grau ou acima no Império. Lu anuncia lançamento comercial da Poção do Despertar, prioriza Segurança Tianwei de Peng; produção atual cem frascos/dia limitada por ingredientes, tempo pode acelerar. Inspeciona Tang Zhaorui em Po Yee. Coletiva busca mitigar tiroteio Daller/CIA, consolidar influência e futuro espacial. Quatro famílias apoiam auditório; autoridades/imprensa convidadas, direitos de transmissão aos veículos, sem transmissão mundial própria. Deng Qingshu presente como chefe Eventos Especiais. Du apresenta clube como empresa e inicia anúncio de autorização comercial após ensaios, audiência desperta. Mantidos sete bilhões, menos cem milhões aptos e menos um milhão demônios conforme fonte; dados médicos/econômicos são narrativa ficcional, não avaliação externa. Maurice/Morris, Changsheng/Clube e Daler/Daller normalizados; Tianwei distinta de Tianhui. Sem novas interpretações marcadas.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, asteriscos equilibrados, numeração única, nomes, números e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535, TXT536–539 aguardam publique. Próximo correto540, fonte esperada560, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 540 — As diferentes versões da Poção do Despertar — 28/10/2026
+
+Tradução integral da fonte 560 salva em capitulos/540 - As diferentes versões da Poção do Despertar.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f929b093-121d-40c7-9bb3-f31de782ac6f/Texto colado.txt. Correspondência contínua 560→540 registrada com offlinePending. Sem nota autoral; futura integração authorNote false. Arquivo novo sem substituição, reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: auditório oitocentos lugares convertido para quase duas mil pessoas. Du apresenta versão civil diluída, cinco ciclos de quinze dias (75 dias); voluntário Xiao Lin, talento D, habilidade Fortalecimento, treinado em espaço temporal e sob confidencialidade, demonstra seis discos. Segunda versão civil desperta em um mês e melhora qualidade; preços ainda não anunciados. Deng considera impacto militar e ameaça internacional, preservado como ficção. Xiao Lin/Kobayashi unificado como Xiao Lin; Du Wei→Du Weiwei, Changsheng→Clube. Três incertezas marcadas: quinhentas libras em conflito com quinhentos jin/250kg na fonte; seis discos descritos como 1,5 vez peso corporal, mantido sem inventar tonelagem; frase corrompida sobre concordância do rei interpretada como enfrentar legião primeiro. Nenhuma alegação médica/científica da narrativa validada como fato real.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos equilibrados, numeração única, números, personagens e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–540 aguardam publique. Próximo correto541, fonte esperada561, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 541 — Problemas — 28/10/2026
+
+Tradução integral da fonte 561 salva em capitulos/541 - Problemas.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/6731405e-0eae-4383-9093-6630021d6c0d/Texto colado.txt. Correspondência contínua 561→541 registrada com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Peng identifica estrangeiro em área restrita, Zhang manda detê-lo; Segurança Tianwei o imobiliza. Zhang relata mais dez infiltrados monitorados e missões de agências de mais dez países em sites de hackers/mercenários; usa situação para treinar equipe, Lu permite e dispensa forças ocultas. Coletiva atrai trezentos mil visitantes. Du apresenta poção militar exclusiva para governos, exige condicionamento físico prévio e efeito cinco minutos a duas horas; público imagina exército dez mil. Preços serão no site, versão civil com estoque limitado. Du sai preventivamente, não despertou nem recebeu poção; empresa ainda com pessoal insuficiente para multidão duas mil. Tianwei preservada distinta da Tianhui; Du Weiwei e Clube normalizados. Alegações policiais, comerciais e médicas preservadas como ficção sem aconselhamento externo. Sem novas interpretações marcadas.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, asteriscos equilibrados, numeração única, nomes, números e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–541 aguardam publique. Próximo correto542, fonte esperada562, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 542 — Pedidos — 28/10/2026
+
+Tradução integral da fonte 562 salva em capitulos/542 - Pedidos.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/6159f018-2181-4625-85ef-fef381060c64/Texto colado.txt. Correspondência contínua 562→542 registrada com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituir versão existente; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Yan explica objetivo de demonstração de poder e adaptação do mundo antes da antigravidade. Deng busca primeiro lote, chega com Yan quando Shen anuncia pedido trinta mil frascos. Civil básica custo US$10/frasco, venda US$30, quinze/dias por ciclo, 75 frascos/US$2250; segunda trinta frascos, custo mais50%, venda US$10mil. Militar US$5milhões/frasco; encomenda trinta mil total US$150bilhões, custo total previsto até US$100milhões. Comprador Instituto Pesquisa Tecnológica Ryder, fornecedor Área51; Lu ironiza empresa privada não vender armas. Valores em dólares preservados, sem converter para yuans; treinamento após despertar mantido. Frase corrompida intenção rather than clube/Lu interpretada como objetivo não ser ganhar dinheiro e marcada, mantendo tensão com lucro como narrativa. Tianhui, Du Weiwei e Clube normalizados; ruídos promocionais removidos. Alegações sobre Área51 e fatos econômicos são ficção, sem pesquisa externa.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, cifras e final conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–542 aguardam publique. Próximo correto543, fonte esperada563, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 543 — Recusa — 28/10/2026
+
+Tradução integral da fonte 563 salva em capitulos/543 - Recusa.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/6baf3db5-470d-425d-9e69-808fede55165/Texto colado.txt. Correspondência contínua 563→543 registrada com offlinePending. Sem nota autoral, futura integração authorNote false. Arquivo novo sem substituir versão anterior; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Lu recusa indiretamente lote americano trinta mil com frete extra 50% (US$75bilhões), prefere vendas distribuídas. Shen transmite; Deng telefona, recebe verba dez bilhões yuans. Poção militar talento mínimo B e 78% classe B; Deng teme exército americano. Preço US$5milhões/mais trinta milhões yuans por frasco inviabiliza plano dez mil, nem quinhentos; Lu remete negociação a vendas por consideração ao trabalho de Deng. Talento e grau de cultivo mantidos distintos. Dois trechos incertos marcados: frete50% explicitado como adicional sobre valor do frasco conforme cálculo posterior; frase contraditória poder controlar negócio interpretada como viabilizar sem definir termos. Ruído 263 removido; Tianhui/Clube normalizados. Cifras, percentuais e comparação idade mental Yan preservados como ficção, sem conversão externa de moeda ou aconselhamento.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, numeração única, nomes, valores e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–543 aguardam publique. Próximo correto544, fonte esperada564, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 544 — Empresa de tecnologia — 28/10/2026
+
+Tradução integral da fonte 564 salva em capitulos/544 - Empresa de tecnologia.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/52a473cd-9959-4a32-8a34-79b9e1de0245/Texto colado.txt. Correspondência contínua 564→544 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Lu recusou lote americano mas aceitará pedidos menores, alega produção baixa e pode postergar entregas anos favorecendo Império; intermediários tornariam embargo ineficaz. Clube prioriza lucro e pode mudar base para Ilhas da Somália sob pressão. Deng teme fórmula copiada; ingredientes exclusivos Mundo03, Terra precisaria mil anos e concentração dez graus, talvez prazo reduzido com Árvores. Trecho de sementes ainda sem brotar com prazo reduzido reordenado como hipótese de desenvolvimento futuro e marcado em itálico. Deng pede apoio técnico, Lu oferece certo suporte a clientes fiéis, insiste poções medicamentos não armas. Xing Yu normalizado como Lu Li pelo interlocutor; expressão suicida idiomática traduzida como desistir de tudo, sem ação literal. Mantidos Yan quinto→sexto, cem/mil anos, cinco milhões e trinta mil/150bilhões conforme fonte. Alegações técnicas/geopolíticas e comparação nuclear mantidas como ficção sem validação externa.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, dados e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–544 aguardam publique. Próximo correto545, fonte esperada565, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 545 — Indústria militar — 28/10/2026
+
+Tradução integral da fonte 565 salva em capitulos/545 - Indústria militar.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/553d1d2c-3860-4421-987c-10a3997f8ce2/Texto colado.txt. Correspondência contínua 565→545, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição, reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Lu propõe investimento em fábrica militar mantendo natureza estatal nominal, pretende licença e divulgação aberta de tecnologias futuras; Deng levará pedido aos superiores, aprovação ainda pendente. Yan Er agora quinto grau e entusiasta de armas; Lu quer contratá-lo como dirigente da fábrica especial conjunta. Yan Yi exige consultar irmão, sem aceite inventado; Deng concorda transferência e ignora filiação de Yan Yi ao Clube. Referência fragmentada Wang Hao removida por destinatário inconsistente, fala sobre não roubar pessoal marcada em itálico. Pronomes de Deng normalizados e Changsheng Group/faction→Clube da Longevidade. Estratégia, licenças, armas futuras e participação de empresas em setor militar mantidas como narrativa ficcional, sem pesquisa jurídica/técnica externa nem instruções adicionais.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, grau e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–545 aguardam publique. Próximo correto546, fonte esperada566, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 546 — Ataque — 28/10/2026
+
+Tradução integral da fonte 566 salva em capitulos/546 - Ataque.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/7f169acd-b3c4-40ff-96d4-acf74cec15a4/Texto colado.txt. Correspondência contínua 566→546 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Peng/Zhang propõem distribuir equipe secreta mais vinte mil na Segurança Tianwei, metade em missões; Lu deixa decisão a eles com documento posterior. Morris comunica ataque ao supercomputador, Lu retorna; GODS/Liz já auxilia. Site ativo após coletiva, grande tráfego; ataques em grupo planejados, suspeita de motivo oculto ainda não revelado. Morris prevê meia hora antes de queda; Lu cogita acelerar formação de programadores olhando Peng/Zhang. Maurice→Morris, DOGS→GODS e Changsheng→Longevidade/Clube conforme contexto. Três trechos marcados: background too big como escala grande; inferência discutível ataque implica site comprometido preservada com marca; descrição truncada do IP/host reconstruída minimamente e marcada. Explicações cibernéticas da fonte mantidas como ficção, sem acrescentar procedimentos, ferramentas ou corrigir tecnicamente a narrativa. Ruído ?, removido.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, seis asteriscos equilibrados, numeração única, nomes, números e final conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–546 aguardam publique. Próximo correto547, fonte esperada567, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 547 — Resposta — 28/10/2026
+
+Tradução integral da fonte 567 salva em capitulos/547 - Resposta.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/76194072-d19f-4a11-9354-48b315ec86b5/Texto colado.txt. Correspondência contínua 567→547 com offlinePending. Sem nota autoral, futura integração authorNote false. Arquivo novo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Lu dá cinco minutos a dez despertos terceiro grau ou acima (Peng/Zhang/subordinados) com livros e aceleração para formar programadores; Deng mobiliza banda disponível Xangai. Morris via programa de voz confirma ataque cobertura e tentativa infiltração por equipe que domina chinês; sucesso não confirmado. Lu não pode acelerar equipamento por incompatibilidade temporal dos fluxos; volta bicicleta sob aceleração dez mil, faltam quatro minutos para equipe. Cem mil máquinas comprometidas exigiriam meio ano, provável alvo original instituto, mudado por lucro da poção; autores ainda não identificados. Três incertezas marcadas: rastrear pessoalmente por sujeito indefinido; filtragem/bloqueio/exclusão de arquivos na frase truncada; bicicleta oitenta e duas polegadas preservada sem corrigir número. Maurice→Morris, botnets/broiler chickens traduzidos como rede/máquinas comprometidas pelo contexto, sem multiplicar cem mil redes. Ruídos promocionais removidos. Explicações cibernéticas preservadas como ficção, sem acréscimo operacional externo.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, seis asteriscos equilibrados, numeração única, nomes, durações e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–547 aguardam publique. Próximo correto548, fonte esperada568, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 548 — Anúncio — 28/10/2026
+
+Tradução integral da fonte 568 salva em capitulos/548 - Anúncio.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/24c24b71-bcfe-4411-bfe2-be261cada435/Texto colado.txt. Correspondência contínua 568→548 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Lu propõe programa autoaprendizado, Morris aponta mínimo uma hora versus menos meia hora de resistência, primeira iteração incerta. Deng avisa vazamento notícia, site segue utilizável pelo menos dez minutos; ataque também pressiona imagem pública. Lu envia mensagem não identificada, dez aprendizes saem da aceleração. Escritório contábil americano revelado como hackers clandestinos CIA, cem mil máquinas preparadas para pesquisa desviadas para clube, outro grupo dá cobertura. Ainda não invadiram sistema em chinês; queda não equivaleria roubo. Dois trechos incertos marcados: fishing boat como opinião pública por contexto; primeira/maior missão contraditória com histórico reconstruída como primeira daquela importância. Botnet traduzida como rede de máquinas comprometidas, sem transformar cem mil computadores em cem mil redes. Ruído 8 removido; separador de cena adicionado na mudança geográfica. Alegações sobre CIA, sistemas e desempenho técnico mantidas como narrativa, sem pesquisa ou acréscimos operacionais.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro marcadores de incerteza equilibrados excluindo separador, numeração única, durações, nomes e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–548 aguardam publique. Próximo correto549, fonte esperada569, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 549 — O poder de Peng Hao — 28/10/2026
+
+Tradução integral da fonte 569 salva em capitulos/549 - O poder de Peng Hao.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f90c3cc9-c8de-4028-8124-da46b95d33fb/Texto colado.txt. Correspondência contínua 569→549 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: chefe hacker irritado com falha inteligência sobre sistema chinês. Clube anuncia ataque publicamente, chefe teme perda financiamento e manda Lauren reduzir sobrecarga para ganhar tempo de invasão. Mais vinte camadas contornadas mas invasão não concluída. Peng/dez retornam; Peng quarto grau testa aparelho iOS, escreve programa em chinês com execução incremental, propõe reescrever IA de Morris para verdadeira IA. Zhang deixa suspense sobre livros estudados; criação/contenção ainda não concluídas. Dois trechos incertos marcados: extensão em dez segundos na explicação truncada e metáfora brutalidade dos livros no final. 10s normalizado iOS pelo contexto e menção posterior, Peng Haoxue interpretado Peng Hao estudou, ruído263 removido. Lauren mantido sem inventar identidade. Separador na troca geográfica; alegações cibernéticas preservadas como ficção, sem detalhes operacionais adicionais.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, quatro marcadores de incerteza equilibrados excluindo separador, numeração única, nomes, dados e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–549 aguardam publique. Próximo correto550, fonte esperada570, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 550 — Pequena Wei — 28/10/2026
+
+Tradução integral da fonte 570 salva em capitulos/550 - Pequena Wei.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/7e9f074b-041a-4279-8051-b8f99aded3a6/Texto colado.txt. Correspondência contínua 570→550 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Peng prevê dez minutos para código IA, Lu anuncia técnicos trabalhando; hackers temem desligamento e perda financiamento. Peng termina e executa IA chamada Xiao Wei/Pequena Wei, cabeça robótica e voz mecânica neutra, opções de voz futuras. Base ainda pequena, pede minuto download; roda provisoriamente em sandbox/ambiente isolado não atingido, pretende mover para base principal depois. IA começa remover dados muito mais rápido que Morris/Liz, localização dos autores ainda não obtida. Pacotes language interpretados voz conforme contexto, nome apresentado uma vez Xiao Wei/Pequena Wei, depois Pequena Wei. Um trecho marcado pela formulação vaga large data on IP address changes. Ruído isolado The money removido. Alegações técnicas mantidas como ficção, sem detalhes operacionais externos.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, dois asteriscos equilibrados, numeração única, nomes, durações e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–550 aguardam publique. Próximo correto551, fonte esperada571, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 551 — A perseguição — 28/10/2026
+
+Tradução integral da fonte 571 salva em capitulos/551 - A perseguição.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f8a45bbd-fbee-40e6-bf93-5df03af788cb/Texto colado.txt. Correspondência contínua 571→551 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Pequena Wei aprende e limpa mais rápido que ataque, segue dezenas de rotas; Morris e outros dois deixam teclados. Chefe hacker percebe rastreamento apesar cobertura Lauren, mobiliza reservas sem sucesso, manda cortar energia. Funcionário tropeça e há demora na chave do quadro. Trecho de sujeito/passos confusos no quadro elétrico reconstruído minimamente e marcado. IA separa rastreamento em dois, Lu confirma duas equipes e planeja intimidação; localização final ainda não explicitada. Chefe pega arma e corre ao quadro, capítulo termina informando grupo armado, sem disparo narrado. Tianwei e Pequena Wei preservados; botnets traduzidas máquinas comprometidas. Separadores nas mudanças de cenário; conteúdo cibernético/armas mantido como ficção sem acréscimos operacionais.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, dois asteriscos de incerteza equilibrados excluindo separadores, numeração única, nomes e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–551 aguardam publique. Próximo correto552, fonte esperada572, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 552 — Eles foram pegos — 28/10/2026
+
+Tradução integral da fonte 572 salva em capitulos/552 - Eles foram pegos.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/85af2838-e3e3-496d-bc53-d5dd4576e3b2/Texto colado.txt. Correspondência contínua 572→552 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Lu anuncia espetáculo e divulga vídeo interativo com mapa até escritório americano e opção outro alvo. Chefe dispara acidentalmente para teto após esbarrão e depois destrói quadro elétrico, corta energia sem feridos explicitados. Vídeo revela que rastreamento já concluíra e câmeras gravavam enquanto simulação distraía hackers; exposição pública em menos cinco minutos após mensagem, ataque total uma hora conforme fonte. Outros hackers intimidados, vídeo termina em disparo no quadro. Lu publica nova mensagem, conteúdo ainda não revelado. Frase ambígua negociar responsabilidade pelo ataque interpretada como oferecer resolução e marcada. Ruídos promocionais/Five removidos; Clube normalizado, separadores nas mudanças de cenário. Violência/cibernética preservadas como narrativa sem acréscimos operacionais.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos de incerteza equilibrados excluindo separadores, numeração única, durações e final conferidos; git diff --check. Leitor/app/testes intactos: 257 capítulos 279–535. TXT536–552 aguardam publique. Próximo correto553, fonte esperada573, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Publicação offline 536–552 — 28/10/2026
+
+Comando publique executado sob autorização permanente. Incluídos integralmente dezessete TXT536–552, fontes556–572; leitor agora com 274 capítulos consecutivos279–552, nenhum TXT pendente. Títulos, corpos, incertezas e separadores preservados; dezessete capítulos sem nota autoral conforme originais. Todos os257 objetos anteriores comparados integralmente e inalterados. Atualizados chapters.js, index.html, testes, tabela e documentação; app.js/styles.css e esquema migração8 preservados.
+
+Backup local backups/offline-536-552-20261028T185513/, sete arquivos anteriores do leitor/tabela/testes/docs e dezessete TXT, manifest.json com IDs e hashes SHA-256 dos TXT; dezessete cópias e originais conferidos pelos hashes. Reversão seletiva: restaurar chapters.js/index.html/testes/tabela do backup, preservar TXT e registrar reversão; regras/docs anteriores disponíveis para consulta, sem apagar continuidade posterior. Sem migração nova de progresso necessária.
+
+Validação efetiva: node tests/reader.test.cjs aprovado, sequência274 IDs sem duplicatas/lacunas, todos os TXT disponíveis286–552 idênticos ao leitor, notas e marcações, transição535→536, último552 sem próximo e retorno551, retomada552 com tema/fonte/posição, centena501–600, controles/preferências/armazenamento bloqueado e migrações anteriores. node --check app.js e chapters.js aprovados. UTF-8 estrito, ausência de substituição e asteriscos equilibrados conferidos nos dezessete TXT. Revisão visual real não realizada. Sem staging/commit/push/implantação. Próximo passo: usuário revisar arquivos e realizar Git manual, ou enviar fonte573 esperada como correto553, sujeita à conferência.

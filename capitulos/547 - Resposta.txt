@@ -1,0 +1,111 @@
+Capítulo 547 — Resposta
+
+— Peguem estes livros e leiam.
+
+Ao sair do escritório, Lu Li jogou para Peng Hao e os demais alguns livros de programação que retirara da estante. Precisava transformá-los em bons programadores em pouquíssimo tempo.
+
+— Vocês têm cinco minutos. Quando terminarem, vão diretamente até Morris e o ajudem a encontrar o responsável pelo ataque.
+
+À sua frente, estavam Peng Hao e um grupo de dez pessoas. Além dele e de Zhang Xiao, havia alguns de seus subordinados. No espaço de aceleração temporal criado por Lu Li, passariam de pessoas comuns, sem formação naquela área, a programadores experientes.
+
+Era o método mais eficaz de que dispunha. Afinal, para manter o supercomputador Longevidade funcionando normalmente, já pedira a Deng Qingshu que mobilizasse toda a largura de banda disponível em Xangai.
+
+Aquilo era apenas tapar um buraco abrindo outro. Mais cedo ou mais tarde, os hackers consumiriam tudo.
+
+Lu Li criou um espaço de aceleração temporal para o grupo, encontrou uma cadeira e se sentou, aguardando em silêncio que concluíssem a transformação.
+
+Os dez eram despertos e possuíam suas próprias habilidades. Todos já haviam alcançado o terceiro grau ou superior e não precisavam mais comer, beber nem fazer suas necessidades. Já atingiram o estado de abstinência de alimentos.
+
+Por isso, Lu Li não encarregou ninguém de preparar refeições.
+
+Desde que a energia espiritual daquele mundo não fosse interrompida, não morreriam de fome.
+
+Ao seu lado, Shen Youchu massageava delicadamente seus ombros.
+
+Naquele instante, o celular tocou. Ao ver que era Morris, Lu Li franziu levemente a testa. Teria acontecido outro problema?
+
+— Senhor.
+
+A voz mecânica de Morris veio do aparelho. Era um pequeno programa que ele próprio criara: gravava o que desejava dizer, discava para o destinatário e transmitia a mensagem.
+
+Quando vira aquilo pela primeira vez, Lu Li ficara sem palavras. Até que ponto aquele homem conseguia ser preguiçoso?
+
+Agora, porém, Morris estava com as mãos presas ao teclado. Não tinha condições nem de fazer uma ligação. O programa gravava sua voz automaticamente e ligava para o número indicado, sem que precisasse mover as mãos.
+
+Bastava falar.
+
+— Por enquanto, trabalhando com Liz, consegui confirmar uma coisa: estão usando esse ataque como cobertura enquanto outra ação tenta penetrar secretamente em nosso sistema.
+
+— Além disso, os invasores parecem dominar o chinês. Estão tentando decifrar nosso novo sistema. Não acredito que consigam entrar, mas ainda representam uma ameaça em potencial.
+
+A expressão de Lu Li se tornou sombria. Seu sistema utilizava uma tecnologia de centenas de anos no futuro, desenvolvida de forma independente pelo Império Celestial. Não se baseava em nenhuma linguagem de programação atual.
+
+Ainda assim, havia gente conseguindo avançar na tentativa de decifrá-lo. Aquilo certamente envolvia o esforço de mais de uma pessoa.
+
+Um único hacker não conseguiria quebrar um sistema daqueles, principalmente com uma linguagem tão desconhecida. Devia haver uma equipe organizando e planejando tudo.
+
+— Então há duas equipes nos atacando agora?
+
+Lu Li cerrou levemente o punho. Também poderiam pertencer a um único grupo. Antes de identificarem os responsáveis, não seria possível ter certeza.
+
+*Por enquanto, ele não pensava em rastreá-los pessoalmente.*
+
+Olhou para Peng Hao e os demais, ainda dentro do espaço de aceleração temporal, com a testa franzida. Se até gênios como Morris e Liz estavam de mãos atadas, as chances de capturar os invasores eram pequenas.
+
+Afinal, os dois não lidavam apenas com a tentativa de invasão. Também precisavam *filtrar, bloquear e apagar os arquivos enviados pelo ataque*.
+
+Porém, não conseguiam excluí-los na mesma velocidade com que os adversários despejavam mais dados inúteis.
+
+Se aquilo se prolongasse, seria inevitável que o supercomputador Longevidade sofresse danos. Precisavam correr contra o tempo.
+
+Infelizmente, Lu Li não podia aplicar seu poder temporal àquelas máquinas. Isso provocaria uma incompatibilidade nos intervalos de tempo dos fluxos de dados.
+
+O risco poderia ser ainda maior do que o representado pelo próprio ataque.
+
+— Quando eles saírem, mande-os até lá.
+
+Lu Li falou baixinho para Shen Youchu, que estava atrás dele. Depois, levantou-se, pegou o sobretudo ao lado, afagou seus cabelos e sorriu.
+
+— Logo estará tudo resolvido.
+
+No primeiro passo, um espaço de aceleração temporal de dez mil vezes envolveu seu corpo. Em um piscar de olhos, chegou ao estacionamento, encontrou sua bicicleta de *oitenta e duas polegadas* e saiu pedalando.
+
+Sob a aceleração de dez mil vezes, voltou para junto de Morris em poucos segundos. Ao chegar à porta, desfez o espaço temporal que o envolvia.
+
+Os dois pareciam nem ter percebido sua chegada.
+
+— Como está a situação?
+
+Embora já soubesse a resposta, não conseguiu evitar a pergunta.
+
+— Ainda nada.
+
+Morris deu de ombros, sem tirar as mãos do teclado. Se parasse, alguma coisa ruim aconteceria.
+
+— Que dor de cabeça…
+
+Lu Li esfregou a testa. Peng Hao e os demais ainda precisavam de mais quatro minutos. Enquanto isso, algumas pessoas na internet já pareciam ter percebido que havia algo errado com o site oficial do clube.
+
+— Não há como atacar a rede de máquinas que eles controlam? — perguntou.
+
+— Isso seria lento demais.
+
+Morris balançou a cabeça. Seria a pior das alternativas. Pelas condições do ataque, as duas equipes adversárias controlavam pelo menos cem mil computadores comprometidos.
+
+Os ataques partiam dessas máquinas. Por isso era tão difícil localizar os responsáveis, a menos que examinassem os computadores um por um.
+
+Ainda assim, aquilo seria mais demorado do que analisar a origem dos arquivos inúteis.
+
+Afinal, preparar pelo menos cem mil máquinas comprometidas teria levado quase meio ano, ou até mais.
+
+Elas precisavam estar conectadas e ligadas para que os invasores acionassem o vírus com acesso oculto instalado anteriormente e o utilizassem no ataque aos servidores do Clube da Longevidade.
+
+Era fácil imaginar quantas etapas estavam envolvidas.
+
+Talvez as redes preparadas por aquelas equipes nem se destinassem originalmente ao clube, mas a algum instituto de pesquisa de onde pretendessem roubar informações técnicas.
+
+Por acaso, o lançamento da Poção do Despertar fizera certas pessoas farejarem uma oportunidade de lucro. Por isso, haviam mudado o alvo.
+
+Afinal, apenas seis meses antes, o Clube da Longevidade nem sequer justificaria o trabalho de mobilizar aquelas máquinas.
+
+Só podiam dizer que tinham acabado na mira dos invasores por uma coincidência.

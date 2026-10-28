@@ -1,0 +1,105 @@
+Capítulo 548 — Anúncio
+
+— E se criássemos um programa com um mecanismo de aprendizado próprio para encontrá-los?
+
+Lu Li pensou em outra possibilidade.
+
+Logo, porém, descartou a ideia. Um código capaz de aprender sozinho também precisava de tempo para ser atualizado.
+
+Infelizmente, seu poder temporal não podia ser aplicado àquelas máquinas. Elas precisavam de uma conexão de rede para atualizar os dados. Se os intervalos de tempo ficassem desordenados, a atualização não poderia ser concluída.
+
+Ao ouvir a sugestão, Morris balançou a cabeça.
+
+— Só conseguimos resistir por menos de meia hora. Como os programas seguem regras fixas, é difícil para eles distinguir as diferenças entre os fluxos de dados. Vão apenas executar o código original. Mesmo acrescentando um mecanismo de aprendizado, ainda precisaríamos de tempo para coletar esses fluxos e fazer as atualizações correspondentes.
+
+— Mas isso demoraria muito. Esses dados já ocupam quase todo o armazenamento de que dispomos…
+
+— Mesmo com o código de aprendizado mais rápido que temos, seria necessária pelo menos uma hora para processar todos os dados em uma nova iteração. Nesse intervalo, nossos servidores cairiam.
+
+— Além disso, a primeira atualização talvez não conseguisse localizar os responsáveis com precisão. Se tivéssemos azar, poderíamos precisar de mais um dia para ajustá-la.
+
+Lu Li esfregou a testa. Era realmente um problema complicado. Aquilo estava fora do alcance de seu poder sobre o tempo e só poderia ser resolvido por meios técnicos.
+
+De repente, seu celular tocou. Seu olhar ficou imediatamente atento. Era Deng Qingshu.
+
+Quando desligou, estava com a testa franzida.
+
+— Algumas pessoas já perceberam a anormalidade no nosso site. Parece que a informação foi divulgada pelos próprios invasores.
+
+Graças aos esforços de Morris e Liz, o site oficial do Clube da Longevidade continuava acessível e poderia ser consultado normalmente por pelo menos mais dez minutos.
+
+Mas alguém já sabia do ataque e espalhava a notícia rapidamente pelas redes sociais. Aquilo deixara de parecer um simples imprevisto.
+
+Os adversários estavam preparados. Principalmente no que dizia respeito à divulgação: certamente haviam planejado aquela etapa.
+
+Agora que a notícia se espalhara, se o clube não conseguisse conter o ataque, sua imagem sofreria um golpe.
+
+— *É exatamente essa a pressão da opinião pública que eles querem criar.*
+
+— Desta vez, não temos escolha. Precisamos expulsá-los.
+
+Havia um brilho perigoso no olhar de Lu Li. Deng Qingshu acabara de informar que várias instituições oficiais de Xangai haviam percebido o tráfego anormal no site do clube.
+
+Com o passar do tempo, cada vez mais pessoas acompanhariam o assunto. Quando a polêmica aumentasse, haveria quem fizesse qualquer coisa para conseguir cliques.
+
+Artigos atacando a imagem do Clube da Longevidade ganhariam popularidade e talvez até recebessem muito apoio.
+
+Lu Li encontrou um contato no celular, enviou uma mensagem e guardou o aparelho.
+
+Alguns minutos depois, em um corredor do antigo prédio, não muito longe dali, o campo de aceleração temporal de dez mil vezes ao redor de Peng Hao e dos demais foi desfeito em silêncio. Ao sair, cada um soltou um suspiro e se espreguiçou.
+
+Passar tanto tempo ali dentro, com a obrigação de terminar todos aqueles livros, fora realmente exaustivo.
+
+O conhecimento adquirido, porém, era extraordinário. Afinal, tratava-se de técnicas de programação de centenas de anos no futuro. Lu Li escolhera cuidadosamente aqueles livros para lidar com a emergência.
+
+Agora, estavam prontos.
+
+***
+
+Enquanto isso, do outro lado do planeta, nos Estados Unidos, todos faziam hora extra em um escritório de contabilidade aparentemente comum. Era madrugada, mas permaneciam diante dos computadores.
+
+Observando com atenção, seria possível ver fluxos de dados correndo sem parar pelas telas. Naquele momento, porém, todos coçavam a cabeça, com os rostos vermelhos.
+
+— Maldição!
+
+Um homem gordo e careca bateu com força na mesa à sua frente. Sua expressão estava sombria.
+
+— Não conseguimos entrar! Como é possível não conseguirmos entrar?!
+
+— Mesmo que a linguagem de programação seja diferente, como ainda não rompemos a defesa depois de tantos ataques?!
+
+Pouco antes, haviam recebido uma ordem dos superiores: invadir o mais depressa possível um servidor no Império Celestial e obter seus dados, principalmente informações técnicas.
+
+A recompensa prometida era absurdamente alta. Aquilo dera a todos um enorme estímulo, levando-os a atacar de maneira frenética.
+
+Bastaram pouco mais de dez minutos, porém, para ficarem furiosos. Haviam mobilizado mais de cem mil computadores comprometidos, originalmente reservados para atacar instalações de pesquisa de outro país. Mesmo assim, não encontravam uma única brecha nas defesas adversárias.
+
+Aquele escritório de contabilidade era, na verdade, um grupo de hackers não registrado oficialmente, ligado à CIA. Na aparência, ajudava clientes a resolver problemas financeiros todos os dias.
+
+Nos bastidores, era uma organização de coleta de informações a serviço da agência. Sua tarefa cotidiana consistia em ampliar continuamente a rede de máquinas sob seu controle.
+
+Depois, utilizavam essas máquinas para atacar servidores de institutos de pesquisa e outros alvos, roubar os dados e entregá-los à CIA.
+
+No passado, nenhum servidor resistira por meia hora aos seus ataques. Afinal, não se tratava de um único hacker, mas de uma equipe de centenas de pessoas. Agora, ainda contavam com outro grupo, que prestava apoio e lhes dava cobertura.
+
+Mas e naquele momento?
+
+Apesar dos ataques incessantes de uma centena de pessoas, o servidor permanecia firme como uma rocha. Mesmo que caísse sob o volume de dados, ainda assim não teriam conseguido invadi-lo.
+
+Bastaria aos responsáveis desligar a máquina e, mais tarde, apagar os dados inúteis para voltar a utilizá-la. Depois disso, os invasores teriam de enfrentar um sistema de proteção aprimorado.
+
+Aquele método não funcionaria outra vez. Precisariam encontrar uma alternativa.
+
+Aquilo contrariava os padrões de atuação do grupo.
+
+*Era sua primeira grande missão daquela importância. Não podiam cometer erro algum!*
+
+— Esse sistema é difícil demais de atacar!
+
+Os programadores esfregavam as cabeças cada vez mais calvas. Custava-lhes acreditar que um sistema daqueles tivesse realmente vindo do Império Celestial.
+
+— Quem foi que disse que eles não conseguiam criar o próprio sistema operacional? — reclamou um deles. — Nos últimos anos, diziam que tudo o que faziam era mudar a aparência do Linux. Então alguém pode me explicar de onde saiu esse sistema programado inteiramente com caracteres chineses?
+
+— Por que não ouvimos absolutamente nada sobre ele?!
+
+— Agora precisamos usar chinês para escrever os programas de ataque. Isso é difícil demais!

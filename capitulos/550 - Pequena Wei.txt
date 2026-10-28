@@ -1,0 +1,109 @@
+Capítulo 550 — Pequena Wei
+
+— Quanto tempo falta para terminar?
+
+Lu Li olhou para Peng Hao e perguntou.
+
+— Dez minutos, senhor.
+
+Peng Hao respondeu sem parar de digitar. A quantidade de código necessária para aquela inteligência artificial era maior do que imaginara, por isso precisaria de mais tempo para escrevê-la.
+
+Afinal, tratava-se de uma IA. Outras pessoas precisariam de uma equipe trabalhando por meses, ou até anos, para criar um programa comercialmente viável.
+
+Peng Hao, por outro lado, conseguiria concluir o seu em menos de meia hora, graças aos conhecimentos adquiridos naqueles livros.
+
+Trechos de código que, na atualidade, pareciam especialmente difíceis de desenvolver tornavam-se simples para ele. Além disso, utilizava uma nova linguagem de programação.
+
+A menos que um programador aprendesse aquela linguagem, suas chances de atacar a inteligência artificial com sucesso seriam praticamente nulas. Poderia até sofrer um contra-ataque.
+
+Afinal, no projeto de Peng Hao, a IA seria capaz de aprender por conta própria e teria um alto grau de liberdade. Sua base de dados se apoiaria no supercomputador Longevidade, o que lhe daria uma capacidade de processamento extraordinária.
+
+Lu Li assentiu de leve. Depois, pegou o celular e abriu as redes sociais. Agora que o clube se apresentara ao mundo, precisava lidar com a situação e dar uma resposta às pessoas comuns.
+
+“Aguardem um momento. Nossos técnicos estão trabalhando com urgência para resolver o problema.”
+
+Assim que publicou a mensagem, muitos jornalistas que acompanhavam as contas do Clube da Longevidade farejaram uma oportunidade de ganhar dinheiro. Alguns começaram imediatamente a preparar matérias sobre a organização.
+
+As pessoas comuns, porém, tinham suas dúvidas. O que o clube pretendia fazer?
+
+Nos Estados Unidos, o chefe gordo e careca da equipe de hackers também viu a mensagem. Sua expressão mudou.
+
+Em geral, quando uma presa se pronunciava nas redes sociais, significava que desligaria o servidor, tornando o ataque ineficaz.
+
+Afinal, fosse qual fosse a modalidade, os ataques precisavam de uma conexão com a internet. Eles não queriam passar o dia inteiro olhando para o computador.
+
+— Mais rápido! Acelerem!
+
+O homem rugia com os subordinados, mas eles se lamentavam em silêncio. O sistema fora escrito em uma linguagem de programação inteiramente nova. Como poderiam acelerar o trabalho?
+
+Já era impressionante terem conseguido avançar até ali. Decifrar aquele sistema seria extremamente difícil!
+
+Queriam dizer ao chefe que poderiam apenas despejar mais dados inúteis contra o clube e derrubar seus servidores por alguns dias. Assim, a missão seria considerada apenas um fracasso parcial, e os superiores ainda liberariam o financiamento.
+
+Mas não ousavam apresentar a ideia. Sabiam muito bem o quanto o chefe se importava com a própria imagem. Se fracassassem, ele poderia usar aquilo contra eles mais tarde, ou até descontar parte de seus salários.
+
+Dependiam daquele dinheiro para pagar as dívidas do cartão de crédito. Por isso, seguiram suas ordens e guardaram as sugestões para si. O dinheiro era mais importante.
+
+Peng Hao continuava digitando. Enquanto isso, Morris estava com a testa coberta de suor e os dentes cerrados. O volume de dados enviado pelos adversários era grande demais para seus métodos de filtragem. Se aquilo continuasse, só lhes restaria desligar o sistema à força.
+
+Naquele instante…
+
+— Senhor, está tudo pronto!
+
+Peng Hao se levantou. O último trecho de código apareceu na tela à sua frente. Quando apertou Enter, o programa que escrevera começou a funcionar imediatamente.
+
+Em um clarão repentino, a cabeça de um robô surgiu na tela. Uma voz mecânica soou:
+
+— Olá, senhor.
+
+Lu Li achou aquilo bastante interessante. A voz era tão artificial porque Peng Hao ainda não carregara um pacote de voz na IA.
+
+— Senhor, preparei mais de dez pacotes de voz para escolher…
+
+Como não sabia de qual tipo Lu Li gostaria, só pudera preparar várias opções e esperar que ele decidisse.
+
+— Pode deixar assim.
+
+Lu Li fez um gesto com a mão. Aquela voz mais primitiva era interessante. Se depois não gostasse, bastaria trocar o pacote.
+
+O mais importante era resolver a crise.
+
+— Senhor, tomei a liberdade de dar um nome à inteligência artificial. Ela se chama Xiao Wei, Pequena Wei — disse Peng Hao.
+
+— Está bem. Você decide.
+
+Lu Li riu baixinho, sem demonstrar preocupação com o nome. Lançou um olhar a Morris e depois se voltou para a figura na tela.
+
+— Podemos começar?
+
+— Sim, senhor — respondeu Pequena Wei, com sua voz neutra.
+
+— Analisei o fluxo de dados há um segundo. Porém, como minha base de dados ainda é pequena demais, não consigo localizar os invasores com as informações atuais. Por favor, conceda-me um minuto para baixar da internet os dados de que preciso.
+
+Lu Li assentiu, concordando com a sugestão.
+
+— O servidor da Pequena Wei não está no supercomputador Longevidade?
+
+Estava um pouco intrigado. A IA de Peng Hao parecia inteligente demais. Além disso, o supercomputador ainda estava sob ataque. Como ela conseguia funcionar em uma máquina prestes a cair?
+
+— Senhor, quando estava preparando a arquitetura, encontrei alguns arquivos de um ambiente isolado que eu havia deixado no sistema. Essa parte ainda não foi atingida. Por isso, instalei primeiro o programa da Pequena Wei ali. Assim que resolvermos o ataque, transferirei os dados para a base principal — explicou Peng Hao.
+
+Um minuto depois, a voz dela voltou a soar.
+
+— Senhor, estou pronta. Podemos começar agora?
+
+— Comece.
+
+Lu Li olhou para Morris e Liz, que estavam quase enlouquecendo, esfregou a testa e autorizou a ação.
+
+— Estou executando uma tarefa de exclusão de dados. Vou remover os arquivos desnecessários e procurar *grandes conjuntos de informações sobre mudanças de endereços IP*. Esses registros podem conter a localização dos invasores.
+
+A voz pausada de Pequena Wei fez Morris erguer levemente a cabeça. O que ela pretendia fazer era justamente o que os dois já estavam tentando. Porém, havia dados demais, e sua velocidade de processamento não acompanhava o fluxo. Por isso, a limpeza era tão lenta.
+
+— Isso…!
+
+De repente, Liz soltou uma exclamação de espanto. As linhas densas de código na tela à sua frente desapareciam a uma velocidade visível a olho nu.
+
+Era muitas vezes mais rápido do que eles haviam conseguido até então.
+
+Logo depois, novos dados chegaram, mas foram apagados imediatamente. Afinal, enquanto a limpeza avançava de um lado, os adversários continuavam despejando dados inúteis do outro.

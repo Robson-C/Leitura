@@ -1,0 +1,121 @@
+Capítulo 546 — Ataque
+
+— Senhor, estamos caminhando para nos tornar fornecedores de armamentos?
+
+Depois que Yan Yi saiu com Deng Qingshu, Zhang Xiao, que permanecera ao lado sem ousar interromper, não conseguiu conter a pergunta. Como ex-militar, sabia muito bem o que significava entrar naquele ramo.
+
+— Mais ou menos. De todo modo, será uma cooperação com o Império Celestial.
+
+Lu Li deu de ombros, sem negar.
+
+— Mas a Segurança Tianwei também precisa reforçar seu quadro de funcionários.
+
+Lançou um olhar significativo a Zhang Xiao e Peng Hao. Naquele momento, os dois dirigiam a empresa e cuidavam da segurança de todo o Clube da Longevidade.
+
+— Senhor, queremos dividir a equipe secreta em grupos e integrá-los à nossa empresa de segurança — disse Peng Hao de repente.
+
+A equipe secreta contava com mais de vinte mil integrantes, mas apenas metade estava em missões.
+
+A maioria dos demais só podia permanecer na base, realizando seus treinamentos. Em vez de deixá-los ali, seria melhor levá-los para a Segurança Tianwei.
+
+Assim, reforçariam o pessoal de segurança sem precisar treinar novos funcionários do zero.
+
+Quando recebessem uma missão, bastaria saírem para cumpri-la.
+
+Lu Li tamborilou de leve os dedos sobre a mesa. Depois, sorriu e assentiu.
+
+— Vocês dois podem decidir tudo isso. Basta me entregarem um documento quando chegar a hora.
+
+— Sim, senhor!
+
+Naquele instante, porém, ele recebeu uma ligação de Morris. O conteúdo o fez franzir a testa.
+
+— Nosso supercomputador está sob ataque.
+
+Lu Li lançou um olhar aos dois, deu a informação e se levantou. Mal se ergueu, Peng Hao já saiu correndo. Zhang Xiao abriu a porta da sala de descanso e aguardou sua passagem.
+
+Precisava voltar.
+
+O carro avançou depressa pelas ruas, em direção ao local onde Morris trabalhava. Os ataques eram frequentes demais. Talvez não fossem obra de apenas uma ou duas pessoas.
+
+Até Morris estava tendo dificuldades para lidar com eles.
+
+— Que tipo de ataque?
+
+Ao lado de Lu Li, Shen Youchu demonstrava confusão no rosto delicado.
+
+— DoS.
+
+Ele respondeu, mas percebeu que aquilo não bastava como explicação e acrescentou:
+
+— Um ataque distribuído de negação de serviço.
+
+— É um pequeno truque de mais de vinte anos atrás. Mas, desta vez, *a escala é grande demais*, então está dando algum trabalho.
+
+Lu Li não esperava que alguma organização decidisse atacar o sistema do supercomputador logo depois da coletiva.
+
+No entanto, não acreditava que o objetivo fosse apenas derrubá-lo. Certamente havia uma intenção mais profunda.
+
+Para descobrir qual era, precisaria chegar ao local.
+
+Ataques distribuídos de negação de serviço eram uma tática comum entre hackers. Consistiam em enviar grandes quantidades de pacotes de dados para consumir memória, capacidade de processamento e largura de banda do alvo, paralisando sua rede.
+
+Embora aquele método já fosse um tanto ultrapassado, técnicas novas poderiam estar escondidas por trás das antigas.
+
+Talvez o site oficial do Clube da Longevidade tivesse sido invadido. Como estava hospedado no supercomputador Longevidade, *o fato de a máquina estar sofrendo aquele ataque indicaria que o site fora comprometido*.
+
+O ataque utilizava técnicas convencionais de invasão para obter o controle de um site e, depois, executar comandos no servidor para instalar um processo de controle, capaz de receber instruções específicas do invasor.
+
+Não haveria alvo mais adequado do que o site oficial do clube. *Por meio dele, encontrariam o endereço IP do alvo e empregariam o sistema de ataque previamente instalado contra o supercomputador Longevidade.*
+
+Afinal, até supercomputadores precisavam de uma conexão de rede. Eram computadores de proporções enormes e, a rigor, não diferiam tanto de uma máquina comum.
+
+Porém, utilizavam sistemas operacionais desenvolvidos sob medida, incompatíveis com os disponíveis no mercado.
+
+Se a largura de banda e o servidor fossem relativamente limitados, um ataque daqueles poderia derrubar o alvo em um instante.
+
+A conexão e a máquina utilizadas pelo supercomputador Longevidade, entretanto, não eram algo com que qualquer pessoa pudesse lidar.
+
+Sobrecarregá-las com recursos de baixo nível levaria tempo.
+
+Diante daquele tipo de ataque, a única opção inicial era ampliar continuamente a largura de banda e a capacidade de armazenamento, garantindo que o servidor não caísse.
+
+Depois, aproveitariam o tempo ganho para localizar os responsáveis e rastrear o ataque até sua origem.
+
+Quando Lu Li chegou à sala do supercomputador, Morris já digitava freneticamente. Ao seu lado, GODS, também conhecida como Liz, estava coberta de suor. Encarava a tela sem desviar os olhos, com as mãos voando sobre o teclado enquanto colaborava com ele.
+
+Precisavam encontrar os responsáveis o mais depressa possível.
+
+O fato de dois gênios da programação terem sido levados àquele estado mostrava que enfrentavam um grupo e que o ataque fora planejado com antecedência.
+
+— Como está a situação? — perguntou Lu Li.
+
+Morris interrompeu o trabalho, com o rosto sombrio.
+
+— Não conseguimos encontrar nada. Eles estão despejando dados inúteis demais de uma só vez. Precisamos examiná-los, localizar as informações relevantes no meio de tudo isso e usá-las para chegar aos responsáveis.
+
+— Mas é lento demais. Talvez derrubem nossos servidores antes que consigamos encontrá-los.
+
+Lu Li franziu profundamente a testa. O site oficial do Clube da Longevidade continuava funcionando. O supercomputador que o hospedava não podia apresentar problemas.
+
+Afinal, se acontecesse alguma coisa, o site sairia do ar.
+
+Em circunstâncias normais, aquilo não seria tão grave. O problema era que tinham acabado de realizar a coletiva, e muita gente estava acessando a página. Se ela caísse naquele momento, depois precisariam dar explicações ao público.
+
+— Pelo visto, por enquanto, só podemos ampliar o armazenamento e a largura de banda.
+
+Lu Li se sentiu um pouco sem alternativas. Não imaginara que criar uma nova linguagem para o sistema chamaria a atenção de hackers — ou, melhor dizendo, de certas organizações.
+
+— Aguentem por enquanto. Vou procurar uma solução.
+
+Esfregou a testa. A única saída, naquele momento, era aumentar o número de pessoas trabalhando. Com a vantagem numérica, poderiam encontrar vestígios dos adversários em meio àqueles dados inúteis e capturá-los diretamente.
+
+Era o método mais seguro e viável de que dispunham.
+
+— Senhor, é melhor se apressar. Com a largura de banda e o armazenamento que temos, só conseguimos resistir por mais meia hora.
+
+Enquanto falava, Morris voltou a mover as mãos sobre o teclado. Era difícil demais para apenas duas pessoas lidar com aquela situação.
+
+— Vocês…
+
+Lu Li olhou para Peng Hao e Zhang Xiao, passou a mão pelo queixo e percebeu que só havia uma saída: aprimorar as habilidades de programação de algumas pessoas o mais rápido possível.

@@ -1319,8 +1319,93 @@
       "old": 555,
       "new": 535,
       "title": "Interrogatório"
+    },
+    {
+      "old": 556,
+      "new": 536,
+      "title": "Tecnologia antigravitacional"
+    },
+    {
+      "old": 557,
+      "new": 537,
+      "title": "Motor de dobra"
+    },
+    {
+      "old": 558,
+      "new": 538,
+      "title": "Discussão"
+    },
+    {
+      "old": 559,
+      "new": 539,
+      "title": "Coletiva de imprensa"
+    },
+    {
+      "old": 560,
+      "new": 540,
+      "title": "As diferentes versões da Poção do Despertar"
+    },
+    {
+      "old": 561,
+      "new": 541,
+      "title": "Problemas"
+    },
+    {
+      "old": 562,
+      "new": 542,
+      "title": "Pedidos"
+    },
+    {
+      "old": 563,
+      "new": 543,
+      "title": "Recusa"
+    },
+    {
+      "old": 564,
+      "new": 544,
+      "title": "Empresa de tecnologia"
+    },
+    {
+      "old": 565,
+      "new": 545,
+      "title": "Indústria militar"
+    },
+    {
+      "old": 566,
+      "new": 546,
+      "title": "Ataque"
+    },
+    {
+      "old": 567,
+      "new": 547,
+      "title": "Resposta"
+    },
+    {
+      "old": 568,
+      "new": 548,
+      "title": "Anúncio"
+    },
+    {
+      "old": 569,
+      "new": 549,
+      "title": "O poder de Peng Hao"
+    },
+    {
+      "old": 570,
+      "new": 550,
+      "title": "Pequena Wei"
+    },
+    {
+      "old": 571,
+      "new": 551,
+      "title": "A perseguição"
+    },
+    {
+      "old": 572,
+      "new": 552,
+      "title": "Eles foram pegos"
     }
   ],
   "pendingFromOld": 556,
-  "notes": "Leitor offline completo: 257 capítulos consecutivos 279–535, nenhum TXT pendente. Fonte 537→517 confirmada pelo usuário após salto da fonte 536; não criado conteúdo para essa fonte ausente. Fontes 538–555 correspondem a 518–535. Fontes 497/498 unidas no 480 e 524/525 no 506. Esquema de migração 8 preservado. Próximo correto 536, fonte esperada 556, sujeita à conferência."
+  "notes": "Leitor offline completo: 274 capítulos consecutivos 279–552, nenhum TXT pendente. Fontes 556–572 correspondem a 536–552. Esquema de migração 8 preservado. Próximo correto 553, fonte esperada 573, sujeito à conferência."
 }

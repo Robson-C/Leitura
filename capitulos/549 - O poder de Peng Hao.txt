@@ -1,0 +1,117 @@
+Capítulo 549 — O poder de Peng Hao
+
+— Calem a boca!
+
+O homem gordo e careca rugiu, furioso. Como líder da equipe, possuía bastante autoridade. Naquele momento, estava profundamente irritado.
+
+O que aquela gente da CIA e do FBI estava fazendo? Como não haviam recebido nem sequer a notícia de que o Império Celestial possuía um sistema independente?
+
+E agora exigiam que atacassem algo assim às pressas? Não era procurar problemas?
+
+Diante daquela linguagem nova, precisariam passar meses reaprendendo a programar. Sem livros e fundamentos teóricos correspondentes, o processo poderia demorar ainda mais.
+
+Mesmo assim, tinham de atacar o sistema. Era começar diretamente no inferno.
+
+O pior era a pressão de saber que o adversário poderia desligar os servidores a qualquer momento. Se isso acontecesse, precisariam permanecer diante dos computadores, aguardando que fossem ligados novamente para iniciar outra rodada de ataques.
+
+Quanto à possibilidade de serem capturados pela polícia cibernética, não tinham medo. Estavam nos Estados Unidos. Não importava o que o Império Celestial dissesse: os americanos não os entregariam.
+
+Além disso, talvez nem conseguissem encontrá-los.
+
+— Chefe! Chefe, aconteceu uma coisa!
+
+De repente, um dos subordinados gritou:
+
+— O Clube da Longevidade anunciou nas redes sociais que está sofrendo um ataque!
+
+A expressão do homem mudou drasticamente.
+
+— Acelerem a invasão! Precisamos entrar antes que desliguem o servidor, ou todo o nosso ataque terá sido em vão!
+
+Só de pensar nas consequências de um fracasso, sentiu o coração apertar. Sua equipe fizera um esforço enorme para preparar aqueles mais de cem mil computadores comprometidos.
+
+Com um orçamento anual limitado e sem missões específicas, muitas vezes precisavam recorrer à assistência social para sobreviver. Era uma situação difícil demais.
+
+Finalmente haviam conseguido uma tarefa decente. Mesmo que fosse apenas pela recompensa, precisavam dar tudo de si.
+
+— Mais rápido! Mais rápido! — rugiu.
+
+Como o clube tomara a iniciativa de anunciar o ataque, o controle da situação começava a mudar de mãos. Se não concluíssem a invasão, seria o Clube da Longevidade quem ditaria a narrativa.
+
+A organização não perderia nada com o ataque. Pelo contrário, poderia ampliar ainda mais sua influência.
+
+Ao pensar naquilo, o homem estremeceu. Já conseguia imaginar como os americanos passariam a enxergar sua equipe.
+
+Certamente restringiriam o financiamento.
+
+— Mandem Lauren e o pessoal dele diminuírem um pouco o ritmo. Precisamos de mais tempo para invadir.
+
+Lauren comandava a outra equipe. Seu grupo despejava dados inúteis no servidor do clube, mantendo os responsáveis ocupados, enquanto a equipe do homem careca tentava penetrar no sistema.
+
+Uma única empresa privada conseguira mobilizar duas equipes de hackers de nível mundial e mantê-las ocupadas por tanto tempo.
+
+Aquilo já não podia ser explicado apenas pela capacidade de seus integrantes. Havia uma diferença completa de nível técnico.
+
+Não podiam deixar de admirar o sistema do Império Celestial. Era muito mais sofisticado do que qualquer outro que conheciam e praticamente eliminava todas as brechas de invasão que conseguiam imaginar.
+
+Agora, só lhes restava contornar suas camadas de proteção.
+
+Nem sequer sabiam quantas existiam. Apenas tinham certeza de que já haviam ultrapassado mais de vinte.
+
+Era de enlouquecer.
+
+***
+
+Enquanto isso, no Império Celestial, Lu Li olhou com curiosidade para Peng Hao e os demais, que acabavam de voltar correndo.
+
+— Já terminaram de ler tudo?
+
+— Sim, senhor! Terminamos! — respondeu Peng Hao em voz alta.
+
+— Quer tentar?
+
+Lu Li pegou um celular sobre a mesa de Morris. Era um dos brinquedos com que ele costumava se distrair. Em termos simples, um aparelho de testes.
+
+Aquele dispositivo utilizava o sistema iOS. Havia outro com a versão mais básica do Android. Além dos dois, os armários da mesa guardavam vários aparelhos de teste com diferentes sistemas de celular. Todos eram brinquedos de Morris.
+
+Muitos notebooks também estavam equipados com sistemas diversos, desde o antigo Windows XP até o mais recente Windows 10. Incontáveis sistemas estavam distribuídos por diferentes computadores.
+
+Lu Li entregou a Peng Hao um aparelho com iOS. Ele assentiu com firmeza e pegou o notebook que preparara.
+
+Ligou-o, conectou o cabo de dados ao celular e começou a trabalhar. Suas mãos se moviam cada vez mais depressa, até deixarem apenas rastros diante dos olhos.
+
+Afinal, também era um desperto do quarto grau.
+
+Logo, incontáveis linhas de código começaram a se renovar e correr pela tela. A linguagem utilizada era o chinês.
+
+Peng Hao empregava aquela linguagem para estabelecer compatibilidade com o iOS e, assim, concluir o trabalho de decifrar o sistema.
+
+O que intrigava Lu Li era que ele não parecia pretender invadi-lo diretamente. Em vez disso, escrevia outro programa.
+
+Mais surpreendente ainda: programava e executava ao mesmo tempo. Escrevia um trecho e o colocava para rodar. Aquilo também era uma das vantagens da nova linguagem, que permitia certo grau de extensão durante a execução.
+
+*Desde que a linha seguinte fosse acrescentada em até dez segundos, o programa poderia continuar rodando, com seu funcionamento atualizado em tempo real.*
+
+Era uma linguagem de programação extraordinariamente poderosa.
+
+— Senhor, não acho que tentar decifrar diretamente esse programa seja a melhor ideia. Mesmo que consigamos fazer isso e melhorá-lo desta vez, eles ainda poderão encontrar outra oportunidade de invadi-lo no futuro.
+
+— Acho que devemos reescrever o programa para que ele consiga lidar livremente com esse tipo de ataque. Assim, não ficaremos em uma situação tão passiva quanto a de hoje.
+
+Lu Li assentiu de leve. Aquela seria uma solução definitiva para o problema.
+
+Estava curioso para saber o que Peng Hao pretendia fazer.
+
+Quando perguntou, recebeu uma resposta surpreendente.
+
+— Estou reescrevendo uma parte do código de inteligência artificial deixado por Morris. Vou combinar o que aprendi com o programa dele para criar uma nova IA.
+
+— Essa será uma verdadeira inteligência artificial!
+
+Lu Li passou a mão pelo queixo. Depois, olhou para Zhang Xiao.
+
+— Vocês não pretendem ajudar?
+
+— Hehe, senhor… O senhor não viu os livros que Peng Hao estudou. *São praticamente a expressão máxima da brutalidade.*
+
+Zhang Xiao fez uma pausa, deixando todos em suspense.
