@@ -2418,3 +2418,120 @@ Comando publique executado sob autorização permanente. Incluídos integralment
 Backup local backups/offline-536-552-20261028T185513/, sete arquivos anteriores do leitor/tabela/testes/docs e dezessete TXT, manifest.json com IDs e hashes SHA-256 dos TXT; dezessete cópias e originais conferidos pelos hashes. Reversão seletiva: restaurar chapters.js/index.html/testes/tabela do backup, preservar TXT e registrar reversão; regras/docs anteriores disponíveis para consulta, sem apagar continuidade posterior. Sem migração nova de progresso necessária.
 
 Validação efetiva: node tests/reader.test.cjs aprovado, sequência274 IDs sem duplicatas/lacunas, todos os TXT disponíveis286–552 idênticos ao leitor, notas e marcações, transição535→536, último552 sem próximo e retorno551, retomada552 com tema/fonte/posição, centena501–600, controles/preferências/armazenamento bloqueado e migrações anteriores. node --check app.js e chapters.js aprovados. UTF-8 estrito, ausência de substituição e asteriscos equilibrados conferidos nos dezessete TXT. Revisão visual real não realizada. Sem staging/commit/push/implantação. Próximo passo: usuário revisar arquivos e realizar Git manual, ou enviar fonte573 esperada como correto553, sujeita à conferência.
+
+
+## Capítulo 553 — Convite — 28/10/2026
+
+Tradução integral da fonte 573 salva em capitulos/553 - Convite.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/1262ccd0-d570-4425-accc-61560af929b5/Texto colado.txt. Correspondência contínua 573→553, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Lu adverte publicamente, Pequena Wei identifica escritório clandestino CIA; não envia homens nem usa forças ocultas. Morris quer estudar mais. IA nível humano com autorização para assuntos importantes; pergunta truncada sobre detectar ataque antecipadamente interpretada e marcada. Lu convida hackers pelo Twitter (tui normalizado), recompensa US$100milhões ou bitcoin, declara ausência responsabilidade legal como fala ficcional. Zhang/equipe defenderão para treino e intimidação, Pequena Wei reserva decisiva, livros adicionais via Shen. Lauren aparece brevemente; duas equipes identificadas, sem prisão física acrescentada. Ruído280 removido, Clube/Pequena Wei normalizados. Discurso de autorização de ataques e alegações sobre CIA mantidos como narrativa, sem efeito sobre autorização de ferramentas nem pesquisa externa.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos de incerteza equilibrados excluindo separador, numeração única, personagens, valor e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552; TXT553 aguarda publique. Próximo correto554, fonte esperada574, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 554 — Impressora 3D — 28/10/2026
+
+Tradução integral da fonte 574 salva em capitulos/554 - Impressora 3D.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/a66fbe02-d103-4f49-8e48-88bd4f4324c3/Texto colado.txt. Correspondência contínua 574→554, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Newton/Galileu levam Lu e Shen ao laboratório intraterrestre, mais100m², seis impressoras idênticas de mais30m² cada segundo fonte, sem corrigir incompatibilidade espacial implícita. Imprime objetos inteiros, peças drone/câmera sem espelho esquecidas ao estudar exoesqueleto. Estrutura leve como ossos/dura diamante mas defesa insuficiente, buscam matéria-prima Mundo03/04 ou universo. Lu promete livros, quer exoesqueleto segunda arma para despertos comuns enfrentarem superiores. Cultivo de Liu/Bai/Yan contra Rei oitavo mantido. Galileo→Galileu, inner world→Mundo Intraterrestre, dust→pó de impressão; ruídos03/280 removidos. Frase livros semelhantes a impressoras sem sistema completo interpretada como tecnologias de impressão e marcada. Alegações científicas mantidas como ficção, sem verificação externa ou detalhes adicionais de fabricação.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, quantidades e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–554 aguardam publique. Próximo correto555, fonte esperada575, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 555 — Experimento — 28/10/2026
+
+Tradução integral da fonte 575 salva em capitulos/555 - Experimento.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/dec9c587-3e32-4f00-b458-9e8f4a6fc539/Texto colado.txt. Correspondência contínua 575→555, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: impressora demonstra carroceria em menos quinze minutos; peças finas separadas, Lu visita base e fala com Suiren sobre futuro espacial. Busca fonte energética, urânio indisponível, funcionário recomenda isolamento/traje. Newton/Galileu imprimem câmara Wilson, califórnio252 presente em equipamento médico do reino intraterrestre, funcionário traz caixa. Shen retorna a reunião. Final Lu deposita material na câmara, sem resultado experimental nem reator construído narrado. Dois trechos incertos marcados: termo controlado para reator indefinido na fonte; materiais substitutos para experiências de fissão sem especificação. Reflective normalizado radioativo por contexto, frase recebimento dinheiro removida como corrupção sem transação contextual, Suirenshi→Suiren. Alegações nucleares e procedimentos do original traduzidos como ficção, sem acrescentar passos, materiais, parâmetros ou pesquisa externa.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, numeração única, nomes, números e final conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–555 aguardam publique. Próximo correto556, fonte esperada576, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 556 — Matérias-primas — 28/10/2026
+
+Tradução integral da fonte 576 salva em capitulos/556 - Matérias-primas.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f7841be9-44db-47ea-9721-949bc668f218/Texto colado.txt. Correspondência contínua 576→556 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Lu observa nuvem do califórnio e procura urânio; Yan/Bai combatem fantasma S equivalente sexto, Bai contém, Yan ferido, batalha não encerrada explicitamente. Yan não acessa material e indica Deng. Deng cogita pouca quantidade sob aprovações, mas pedido duzentos quilos/vinte reatores o leva à recusa. Nenhum material obtido ou reator construído. Termos Tianhui, Departamento de Eventos Especiais, Mundo Intraterrestre e Rússia normalizados. Frase truncada relação motores/dez quilos/reator mantida como cálculo ficcional e marcada, sem parâmetros adicionais. Demais alegações nucleares inclusive destruição país são narrativa/avaliação de personagem, não instrução factual; não acrescentada pesquisa externa, método enriquecimento ou especificação técnica.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, quantidades e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–556 aguardam publique. Próximo correto557, fonte esperada577, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 557 — Forças ocultas — 28/10/2026
+
+Tradução integral da fonte 577 salva em capitulos/557 - Forças ocultas.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/bf36b9fe-4660-41e9-91a0-73095173d69e/Texto colado.txt. Correspondência contínua 577→557 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Deng também recusa materiais alternativos; Lu cogita trítio/fusão, percebe que não obterá e desliga. Quer livros aprimorados para energia dos motores, decide recorrer forças ocultas americanas. Email criptografado a Steven Hull, líder Illuminati e subordinado, gera chamada secreta; Hull promete ajuda, material ainda não pedido explicitamente na ligação nem obtido. Rússia descartada por proximidade; alegação encenação dos desdobramentos marcada por referente temporal ambíguo. Dados e explicações nucleares do original mantidos como narrativa sem adição de parâmetros/métodos ou verificação factual externa. Ruídos280/0/8/Five removidos; nomes de organizações normalizados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, dados e final conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–557 aguardam publique. Próximo correto558, fonte esperada578, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 558 — Vinte gramas — 28/10/2026
+
+Tradução integral da fonte 578 salva em capitulos/558 - Vinte gramas.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/a875bd48-2e94-415c-8767-505e5fe4ef5a/Texto colado.txt. Correspondência contínua 578→558 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Hull inicialmente só oferece urânio comercial baixo/médio, depois promete até vinte gramas trítio por interceptação de transporte, cogita culpar cidade mexicana; nenhum material entregue no capítulo. Lu aceita e deixa laboratório. Pais Lu Youguo/Yu Qin em Hongjia, Taizhou/Jiangsu planejam visitar Xangai, roupas/comida e trem; desconhecem identidade/riqueza, vida concedida atuará após vida original. Dois trechos incertos marcados: fala contraditória concentração comercial maior que altamente enriquecido reconstruída segundo baixo/médio dito em seguida; trítio/deutério como catalisadores preservado com marca. Steven/Hur→Steven Hull, mother dirigida esposa naturalizada querida, Mundo Intraterrestre e Clube normalizados. Afirmações e plano nuclear/criminal preservados como narrativa fornecida, sem acrescentar métodos, parâmetros, contatos ou verificação externa.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos de incerteza equilibrados excluindo separador, numeração única, nomes, quantidade e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–558 aguardam publique. Próximo correto559, fonte esperada579, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 559 — Os problemas de Lu Li — 28/10/2026
+
+Tradução integral da fonte 579 salva em capitulos/559 - Os problemas de Lu Li.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/fea5b72d-4732-4046-a4e2-799b92f90a71/Texto colado.txt. Correspondência contínua 579→559 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Yu Qin anuncia visita em três dias e exige endereço; Lu teme revelar riqueza/identidade, empresta residência comum Peng, rejeita residência cinquenta milhões. Avisa aplicativo suspender contatos e aparições, especialmente quatro famílias. Rong Yiyou quer receber pais, já os investigou, imagina reencarnações; outros incluindo rei Sião/Suiren curiosos. Lu promete pontos dobrados e nível membro mais um para missão de cumprir afastamento; mais cem celebram. Chen Yunping vê oportunidade com irmão no final, plano ainda não revelado. Vida/encarnação preservada como interpretação dos membros, não confirmação objetiva de reencarnação. Pronomes Lu/Yu corrigidos, Rong Yiyou/Suiren/Tianwei normalizados; ruído03 removido. Sem novas interpretações incertas marcadas.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, asteriscos equilibrados, numeração única, nomes, valores e final conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–559 aguardam publique. Próximo correto560, fonte esperada580, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 560 — Ideias — 28/10/2026
+
+Tradução integral da fonte 580 salva em capitulos/560 - Ideias.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/6a1383f8-5bdf-4b33-a9a9-a86b01626293/Texto colado.txt. Correspondência contínua 580→560 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Chen Yun’an sugere recepção ostensiva, Chen Yunping rejeita, busca favor pais sem ofender Lu; origem transportes e rivalidade Rong. Lu muda para residência Peng após despedir Yang. Equipe pratica computadores noite inteira, capacidade agora lealdade e tempo/livros permitem formar gênios. Mais quarenta milhões anos/dia e saldo além idade Terra mantidos. Fonte diz gasto mais rápido que ganho mas conclui não faltar tempo: contradição preservada e marcada, sem inversão silenciosa. Armazém de Tempo/celeiro em Po Yee mantidos conforme metáfora. Morris aperfeiçoa IA feita sobre fundamentos próprios, corrige falhas leves da pressa Peng. Mr.Chen inconsistente normalizado senhor/Lu Li, Peng Haoxue como Peng aprendeu, ruído removido. Pequena Wei/Morris/Chen/Yang padronizados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, números e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–560 aguardam publique. Próximo correto561, fonte esperada581, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 561 — Preparativos — 28/10/2026
+
+Tradução integral da fonte 581 salva em capitulos/561 - Preparativos.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/2eb6647d-1a81-474f-a36f-b9e542e3113e/Texto colado.txt. Correspondência contínua 581→561 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: apartamento Peng mais90m² cheio musculação; Lu usa segundo quarto sem deslocar dono, instala roupas/notebook/livros, bagunça propositalmente para pais poderem cuidar. Planeja estação, conselhos, praça alimentação, quarto aos pais/sofá para si e excursão, sem afirmar que visita já ocorreu. Evita antigo prédio e membros; supervisão pessoal de contratos de membros, outros por funcionários. Poção mantém finanças, impressora3D reservada, exoesqueleto será comercializado após aperfeiçoamento. Peng não entende segredo. Um trecho marcado por sujeito inconsistente He would only go: interpretado membros visitando para cumprimentar Lu. Life forms→tempo de vida por contexto comercial, Growth Club→Clube da Longevidade; pronomes e mudança planejamento futuro normalizados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, dimensão e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–561 aguardam publique. Próximo correto562, fonte esperada582, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 562 — Recepção na estação — 28/10/2026
+
+Tradução integral da fonte 582 salva em capitulos/562 - Recepção na estação.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/7ca1a5e4-e637-48d8-9149-eb70064cd924/Texto colado.txt. Correspondência contínua 582→562 com offlinePending. Título Receiving the Car adaptado à cena de recepção ferroviária, sem carro recebido na narrativa. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Rong Yiyou/filhos discutem noite inteira, Zhijian sugere obedecer, Zhikuan teme teste lealdade; Yiyun talento divino treina montanhas sem sinal. Song idem, Kong Yuntao tranquilo por prima Kong Heman ligada a Lu. Três dias passam; Lu recebe pais estação, malas e saco mais10kg com comida preparada pela mãe. Yu Qin cobra casamento/roupa quente, Lu alega plumas/ilha calor; pai atenua comparações Xiao Ming com preço imóveis Xangai. Nomes Kong conferidos nos TXT anteriores; Shencheng normalizada Xangai, pronomes e referência senhor normalizados. Não acrescentada visita residencial nem reação de terceiros ainda ausentes. Sem novas interpretações incertas marcadas.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, asteriscos equilibrados, numeração única, nomes, durações/quantidade e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–562 aguardam publique. Próximo correto563, fonte esperada583, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 563 — Casamento? — 28/10/2026
+
+Tradução integral da fonte 583 salva em capitulos/563 - Casamento.txt (sem interrogação no nome por restrição Windows; título interno Casamento?) sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/b23cce7b-ac71-4be2-b7ea-00994412b6e9/Texto colado.txt. Correspondência contínua 583→563 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: mãe insiste casamento/economia, quer ônibus dois yuans/seis total; pai fuma e não ajuda. Rong Zhijian surge para carona, quase chama senhor, família rastreou trem, estaciona em praça proibida; Lu sorri e Rong teme expulsão/divisão família. Yu Qin feliz com economia, Lu Youguo reconhece Bentley sem logos pois estuda carros após aposentadoria. Segredo de Lu ainda não revelado, carona ainda não concluída. Dois trechos marcados: frase casamento do vizinho invertida na fonte reconstruída conforme capítulo anterior; decisão contra vontade interpretada como contrariar instruções de Lu. Nomes Lu Youguo/Yu Qin/Rong e Clube mantidos.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, numeração única, nome de arquivo válido, cifras e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–563 aguardam publique. Próximo correto564, fonte esperada584, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 564 — A linha entre a vida e a morte — 28/10/2026
+
+Tradução integral da fonte 584 salva em capitulos/564 - A linha entre a vida e a morte.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/fc130de8-64fe-4cae-815c-ad438aa74abc/Texto colado.txt. Correspondência contínua 584→564, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Lu considera punir famílias; Rong inventa colega/equipe, tratamento respeitoso com pais da mesma idade. Lu mantém segredo até término vida original e menciona contrato como aposentadoria. Água luxo mais20yuans agrava irritação, Rong inventa transporte VIP reembolsado. Mãe pede apresentar esposa, Rong quase perde volante. Entrega família, fala baixo e foge; pai pede tolerância com suposto funcionário, Lu aceita, punição evitada sem morte. Três passagens marcadas: perigo atribuído Lu na fonte interpretado famílias ameaçadas; frase já viveram mais10anos vertida como concessão adicional por continuidade sem envelhecimento consumado; get a picture interpretado tapinha conforme gesto na porta. Vocativos Uncle/Auntie naturalizados senhor/senhora; alegações de água/despertar preservadas como anúncios ficcionais, sem validação médica externa.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos equilibrados, numeração única, nomes, valores e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 274 capítulos 279–552. TXT553–564 aguardam publique. Próximo correto565, fonte esperada585, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Publicação offline 553–564 — 28/10/2026
+
+Comando publique executado sob autorização permanente. Doze TXT553–564 (fontes573–584) integrados integralmente; leitor com286 capítulos consecutivos279–564, nenhum TXT pendente. Títulos, corpos, incertezas e separadores preservados; doze sem nota autoral conforme originais. Todos os274 objetos anteriores comparados integralmente e inalterados. Atualizados chapters.js/index.html/testes/tabela/docs; app.js/styles.css e esquema8 preservados.
+
+Backup local backups/offline-553-564-20261028T191208/, sete fontes/documentação anteriores e doze TXT; dezenove cópias verificadas por SHA-256 antes da edição, manifest.json com hashes e IDs adicionados. Reversão seletiva: restaurar chapters.js/index.html/testes/tabela anteriores, preservar TXT e registrar reversão; demais documentos do backup servem de referência sem apagar continuidade posterior. Sem migração nova de progresso.
+
+Validação efetiva: node tests/reader.test.cjs aprovado; sequência286 IDs sem lacunas/duplicatas, todos os TXT disponíveis286–564 idênticos ao leitor, títulos/notas/itálicos, transição552→553, último564 sem próximo/retorno563, retomada564 com tema/fonte/posição e grupo501–600, controles/preferências/armazenamento e migrações anteriores. node --check app.js e chapters.js aprovados. UTF-8 estrito, ausência substituição e asteriscos equilibrados nos doze TXT. Revisão visual real não realizada. Sem staging/commit/push/implantação. Próximo passo: usuário revisar e fazer Git manual, ou enviar fonte585 esperada correto565, sujeita à conferência.

@@ -1404,8 +1404,68 @@
       "old": 572,
       "new": 552,
       "title": "Eles foram pegos"
+    },
+    {
+      "old": 573,
+      "new": 553,
+      "title": "Convite"
+    },
+    {
+      "old": 574,
+      "new": 554,
+      "title": "Impressora 3D"
+    },
+    {
+      "old": 575,
+      "new": 555,
+      "title": "Experimento"
+    },
+    {
+      "old": 576,
+      "new": 556,
+      "title": "Matérias-primas"
+    },
+    {
+      "old": 577,
+      "new": 557,
+      "title": "Forças ocultas"
+    },
+    {
+      "old": 578,
+      "new": 558,
+      "title": "Vinte gramas"
+    },
+    {
+      "old": 579,
+      "new": 559,
+      "title": "Os problemas de Lu Li"
+    },
+    {
+      "old": 580,
+      "new": 560,
+      "title": "Ideias"
+    },
+    {
+      "old": 581,
+      "new": 561,
+      "title": "Preparativos"
+    },
+    {
+      "old": 582,
+      "new": 562,
+      "title": "Recepção na estação"
+    },
+    {
+      "old": 583,
+      "new": 563,
+      "title": "Casamento?"
+    },
+    {
+      "old": 584,
+      "new": 564,
+      "title": "A linha entre a vida e a morte"
     }
   ],
   "pendingFromOld": 556,
-  "notes": "Leitor offline completo: 274 capítulos consecutivos 279–552, nenhum TXT pendente. Fontes 556–572 correspondem a 536–552. Esquema de migração 8 preservado. Próximo correto 553, fonte esperada 573, sujeito à conferência."
+  "notes": "Leitor offline completo: 286 capítulos consecutivos 279–564, nenhum TXT pendente. Fontes 573–584 correspondem a 553–564. Esquema de migração 8 preservado. Próximo correto 565, fonte esperada 585, sujeito à conferência."
 }
