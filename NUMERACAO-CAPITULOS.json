@@ -1464,8 +1464,38 @@
       "old": 584,
       "new": 564,
       "title": "A linha entre a vida e a morte"
+    },
+    {
+      "old": 585,
+      "new": 565,
+      "title": "Funcionários"
+    },
+    {
+      "old": 586,
+      "new": 566,
+      "title": "O entregador"
+    },
+    {
+      "old": 587,
+      "new": 567,
+      "title": "O pequeno plano de Peng Hao"
+    },
+    {
+      "old": 588,
+      "new": 568,
+      "title": "Treinamento das tropas"
+    },
+    {
+      "old": 589,
+      "new": 569,
+      "title": "Reunião"
+    },
+    {
+      "old": 590,
+      "new": 570,
+      "title": "Teoria dos negócios"
     }
   ],
   "pendingFromOld": 556,
-  "notes": "Leitor offline completo: 286 capítulos consecutivos 279–564, nenhum TXT pendente. Fontes 573–584 correspondem a 553–564. Esquema de migração 8 preservado. Próximo correto 565, fonte esperada 585, sujeito à conferência."
+  "notes": "Leitor offline completo: 292 capítulos consecutivos 279–570, nenhum TXT pendente. Fontes 585–590 correspondem a 565–570. Esquema de migração 8 preservado. Próximo correto 571, fonte esperada 591, sujeito à conferência."
 }

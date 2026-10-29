@@ -275,3 +275,10 @@ Backup: backups/offline-536-552-20261028T185513/. Para reverter inclusão, resta
 Doze TXT553–564 incluídos integralmente. Leitor com286 capítulos consecutivos e nenhum pendente; fontes573–584→553–564. Esquema8/controles preservados.
 
 Backup: backups/offline-553-564-20261028T191208/. Reverter inclusão restaurando chapters.js/index.html/testes/tabela anteriores, mantendo traduções e registrando reversão. Testes automatizados e sintaxe aprovados; revisão visual real não realizada. Arquivos na pasta oficial prontos para commit/push manuais.
+
+
+## Publicação offline atual — 279–570
+
+Seis TXT565–570 incluídos integralmente. Leitor com292 capítulos consecutivos e nenhum pendente; fontes585–590→565–570. Esquema8/controles preservados.
+
+Backup: backups/offline-565-570-20261029T115453/. Para reverter inclusão, restaurar chapters.js/index.html/testes/tabela anteriores, manter traduções e registrar reversão. Testes automatizados e sintaxe aprovados; revisão visual real não realizada. Arquivos locais prontos para commit/push manuais.

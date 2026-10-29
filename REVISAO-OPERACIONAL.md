@@ -2535,3 +2535,66 @@ Comando publique executado sob autorização permanente. Doze TXT553–564 (font
 Backup local backups/offline-553-564-20261028T191208/, sete fontes/documentação anteriores e doze TXT; dezenove cópias verificadas por SHA-256 antes da edição, manifest.json com hashes e IDs adicionados. Reversão seletiva: restaurar chapters.js/index.html/testes/tabela anteriores, preservar TXT e registrar reversão; demais documentos do backup servem de referência sem apagar continuidade posterior. Sem migração nova de progresso.
 
 Validação efetiva: node tests/reader.test.cjs aprovado; sequência286 IDs sem lacunas/duplicatas, todos os TXT disponíveis286–564 idênticos ao leitor, títulos/notas/itálicos, transição552→553, último564 sem próximo/retorno563, retomada564 com tema/fonte/posição e grupo501–600, controles/preferências/armazenamento e migrações anteriores. node --check app.js e chapters.js aprovados. UTF-8 estrito, ausência substituição e asteriscos equilibrados nos doze TXT. Revisão visual real não realizada. Sem staging/commit/push/implantação. Próximo passo: usuário revisar e fazer Git manual, ou enviar fonte585 esperada correto565, sujeita à conferência.
+
+
+## Capítulo 565 — Funcionários — 29/10/2026
+
+Tradução integral da fonte 585 salva em capitulos/565 - Funcionários.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/ba1d0b43-f79d-4de5-8091-3f0834982c2b/Texto colado.txt. Correspondência contínua 585→565 registrada com offlinePending. Sem nota autoral, futura integração authorNote false. Arquivo novo sem substituir tradução existente; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Zhang encontra Lu/pais na entrada, Lu percebe que avisou membros mas não funcionários. Grupos distintos, Suiren/outros do passado participam ambos. Peng leva Zhang para beber antes de exposição, pai pergunta senhor, Lu alega tratamento da empresa. Irmãos Chen fingem corrida casual para burlar missão, fogem sob olhar Lu; pai reconhece vagamente de lista, Lu inventa seguranças. Mãe pergunta imóveis, cinquenta/sessenta mil yuans metro; Lu quer entrar antes de mais encontros. Patrimônio Peng maior dez bilhões versus ativos inferiores preservado com marca por distinção contraditória fonte, sem corrigir silenciosamente. Suiren/Chen Yun’an/Tianwei/Clube padronizados. Sem chegada ao apartamento ou revelação de identidade acrescentadas.
+
+Validação efetiva: UTF-8 estrito, sem caracteres de substituição, dois asteriscos equilibrados, numeração única, nomes, valores e final conferidos; git diff --check. Leitor/app/testes intactos: 286 capítulos 279–564. TXT565 aguarda publique. Próximo correto566, fonte esperada586, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 566 — O entregador — 29/10/2026
+
+Tradução integral da fonte 586 salva em capitulos/566 - O entregador.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f55963b3-828d-4add-ba84-6228f2d8283c/Texto colado.txt. Correspondência contínua 586→566 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: pais entram apartamento musculação, perguntam Peng, Lu inventa colega hospedado em imóvel próprio. Pai não insiste, pensa salário pode ser maior. Pais informam duas jaquetas queimadas no transporte, reembolso e outros pacotes; mãe quer compras/passeio e estende visita. Quarto bagunçado leva Lu a arrumar tudo sob ordens. Song Yaoru chega fingindo entregador após dois dias de preparo, Lu irritado contém agressão, sem golpe narrado. Valor quatro/cinco mil das duas jaquetas preservado e marcado por indefinição unitário/total; não inventada causa incêndio. Ruído280 removido, pronomes/Clube e nomes mantidos.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, valores e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 286 capítulos 279–564. TXT565–566 aguardam publique. Próximo correto567, fonte esperada587, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 567 — O pequeno plano de Peng Hao — 29/10/2026
+
+Tradução integral da fonte 587 salva em capitulos/567 - O pequeno plano de Peng Hao.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/4565a0c8-1017-4271-a98f-e5946ec48fcb/Texto colado.txt. Correspondência contínua 587→567, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Song cumprimenta pais e entrega suplementos/ginseng até três mil, Lu fecha porta e guarda bilhete explicativo; pai acha entregador familiar. Família sai comer, Peng aparece alegando segurança e condição colega apartamento, mãe compara físicos. Lu não responde desculpa movimentação americana, cogita tarefas extras, Peng estaciona MercedesS500 e oferece transporte. Nenhum restaurante/embarque ainda narrado. Uma frase marcada: fonte atribui agitação aos pais, contexto refere subordinados que aparecem na visita, corrigida com incerteza. Song/Peng/Clube/Tianwei normalizados; ruídos promocionais removidos e vocativos parentescos naturais senhor/senhora.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, valor e final conferidos; git diff --check. Leitor/app/testes intactos: 286 capítulos 279–564. TXT565–567 aguardam publique. Próximo correto568, fonte esperada588, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 568 — Treinamento das tropas — 29/10/2026
+
+Tradução integral da fonte 588 salva em capitulos/568 - Treinamento das tropas.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/aaa6b154-d743-40d9-952f-aa39fca2948f/Texto colado.txt. Correspondência contínua 588→568 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: restaurante shopping, Kong Yuntao acrescenta pratos, Lu assume pedidos e reclama internamente das quatro famílias; mãe insiste casamento por refeição quase duas horas. Ligação de integrante Illuminati avisa plano americano duzentos despertos elite para tomar fórmula. Lu escolhe treino de tropas, quer pais fora antes e Illuminati atrasando operação; caos poderia facilitar materiais de Hull. Origem plano Billy Geese, liberado detenção por CIA com ciência prévia Lu/Deng. Ataque ainda não executado, não inventada identidade do interlocutor. Frase pais reservados contradiz mãe falante preservada e marcada em itálico. Billy Giss→Billy Geese, Clube/Steven Hull normalizados, ruído promocional removido. Dados e planos violentos mantidos como ficção sem acréscimos operacionais.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, números e final conferidos; git diff --check. Leitor/app/testes intactos: 286 capítulos 279–564. TXT565–568 aguardam publique. Próximo correto569, fonte esperada589, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 569 — Reunião — 29/10/2026
+
+Tradução integral da fonte 589 salva em capitulos/569 - Reunião.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/1d86c592-0aa8-452d-a50d-c7e5e9467974/Texto colado.txt. Correspondência contínua 589→569 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: retrospecto Billy Geese rebaixado a agente inicial após fracasso, reúne poção e apresenta a superiores. Reunião subterrânea CIA com diretor Jerome Eddie, Billy em pé sem direito assento e financiadores influentes. Aquisição indireta e análise exigiriam pelo menos ano, possível mascaramento de ingredientes. Morris deixou 404 e acesso para registrar reação ao programa roubado, depois descarta imagens. Diretor alerta dissuasão comparável nuclear e busca financiamento; idoso mais80 contesta, identidade ainda não dada. Jerome/Eddie unificado como nome, Clube/Billy padronizados; ruído280 removido. Alegações sobre CIA, vigilância, economia e medicamentos são ficção preservada sem pesquisa factual nem acréscimos operacionais. Sem novos trechos incertos marcados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, asteriscos equilibrados, numeração única, nomes, durações e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 286 capítulos 279–564. TXT565–569 aguardam publique. Próximo correto570, fonte esperada590, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 570 — Teoria dos negócios — 29/10/2026
+
+Tradução integral da fonte 590 salva em capitulos/570 - Teoria dos negócios.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/7ae1973b-de32-48c2-8aa1-0259fe544fea/Texto colado.txt. Correspondência contínua 590→570 com offlinePending. Sem nota autoral, futura integração authorNote false. Arquivo novo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: velho principal financiador CIA não entende importância poção, demais idem; Jerome explica produção despertos, três versões e amostras civis encomendadas ainda não recebidas. Hipótese milhão doses/dia e cem milhões em seis meses, proporção americana1/1000, mais fortes quarto grau, técnicas compradas do Império. Diretor primeiro interpreta silêncio como serenidade, depois entende ignorância. Quatro trechos marcados: prazos meio mês/mês e meio/duas-três horas divergentes do lançamento anterior; presentes jovens contradiz idosos; mil frascos/dia por dez anos para toda população com escala inconsistente mantido; frase repetida quantidade de despertos reconstruída como força nacional. Nenhuma cifra harmonizada silenciosamente nem pesquisa factual externa. Jerome Eddie/Clube/Império padronizados; linguagem de patrocínio/negócios mantida.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, oito asteriscos equilibrados, numeração única, nomes, cifras/prazos e final conferidos; git diff --check. Leitor/app/testes intactos: 286 capítulos 279–564. TXT565–570 aguardam publique. Próximo correto571, fonte esperada591, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Publicação offline 565–570 — 29/10/2026
+
+Comando publique executado sob autorização permanente. Seis TXT565–570 (fontes585–590) incluídos integralmente; leitor com292 capítulos consecutivos279–570, nenhum TXT pendente. Títulos, corpos e incertezas preservados; seis sem nota autoral conforme originais. Todos os286 objetos anteriores comparados integralmente e inalterados. Alterados chapters.js/index.html/testes/tabela/docs; app.js/styles.css e esquema8 preservados.
+
+Backup local backups/offline-565-570-20261029T115453/: sete fontes/documentação anteriores e seis TXT; treze cópias verificadas por SHA-256 antes da edição, manifest.json com hashes e IDs adicionados. Reversão seletiva: restaurar chapters.js/index.html/testes/tabela anteriores, preservar TXT e registrar reversão; docs/regras anteriores disponíveis para referência sem apagar continuidade posterior. Sem migração nova de progresso.
+
+Validação efetiva: node tests/reader.test.cjs aprovado; sequência292 IDs sem duplicatas/lacunas, todos os TXT disponíveis286–570 idênticos ao leitor, títulos/notas/itálicos, transição564→565, último570 sem próximo e retorno569, retomada570 com tema/fonte/posição e centena501–600, controles/preferências/armazenamento e migrações anteriores. node --check app.js e chapters.js aprovados. UTF-8 estrito, ausência substituição e asteriscos equilibrados nos seis TXT. Revisão visual real não realizada. Sem staging/commit/push/implantação. Próximo passo: usuário revisar e fazer Git manual, ou enviar fonte591 esperada correto571, sujeita à conferência.
