@@ -1494,8 +1494,84 @@
       "old": 590,
       "new": 570,
       "title": "Teoria dos negócios"
+    },
+    {
+      "old": 591,
+      "new": 571,
+      "title": "Exigências"
+    },
+    {
+      "old": 592,
+      "new": 572,
+      "title": "Proposta aprovada"
+    },
+    {
+      "old": 593,
+      "new": 573,
+      "title": "O monociclo de Morris"
+    },
+    {
+      "old": 594,
+      "new": 574,
+      "title": "Motor magnetohidrodinâmico"
+    },
+    {
+      "old": 595,
+      "new": 575,
+      "title": "Apresentando pretendentes"
+    },
+    {
+      "old": 596,
+      "new": 576,
+      "title": "A venda de algumas coisinhas"
+    },
+    {
+      "old": 597,
+      "new": 576,
+      "title": "Partida",
+      "mergedInto": 576
+    },
+    {
+      "old": 598,
+      "new": 577,
+      "title": "De volta a Xangai"
+    },
+    {
+      "old": 599,
+      "new": 578,
+      "title": "Lucas Fils"
+    },
+    {
+      "old": 600,
+      "new": 579,
+      "title": "O ataque!"
+    },
+    {
+      "old": 601,
+      "new": 580,
+      "title": "Formação"
+    },
+    {
+      "old": 602,
+      "new": 581,
+      "title": "Luz e escuridão"
+    },
+    {
+      "old": 603,
+      "new": 582,
+      "title": "Missão concluída"
+    },
+    {
+      "old": 604,
+      "new": 583,
+      "title": "Canais"
+    },
+    {
+      "old": 605,
+      "new": 584,
+      "title": "Os últimos ajustes"
     }
   ],
   "pendingFromOld": 556,
-  "notes": "Leitor offline completo: 292 capítulos consecutivos 279–570, nenhum TXT pendente. Fontes 585–590 correspondem a 565–570. Esquema de migração 8 preservado. Próximo correto 571, fonte esperada 591, sujeito à conferência."
+  "notes": "Leitor offline: 306 capítulos consecutivos 279–584. Todos os TXT integrados, sem pendências. Fontes 596/597 reunidas no 576; fonte 605→584. Próximo correto 585, fonte esperada 606, sujeito à conferência. Esquema de migração 8 preservado."
 }

@@ -2598,3 +2598,142 @@ Comando publique executado sob autorização permanente. Seis TXT565–570 (font
 Backup local backups/offline-565-570-20261029T115453/: sete fontes/documentação anteriores e seis TXT; treze cópias verificadas por SHA-256 antes da edição, manifest.json com hashes e IDs adicionados. Reversão seletiva: restaurar chapters.js/index.html/testes/tabela anteriores, preservar TXT e registrar reversão; docs/regras anteriores disponíveis para referência sem apagar continuidade posterior. Sem migração nova de progresso.
 
 Validação efetiva: node tests/reader.test.cjs aprovado; sequência292 IDs sem duplicatas/lacunas, todos os TXT disponíveis286–570 idênticos ao leitor, títulos/notas/itálicos, transição564→565, último570 sem próximo e retorno569, retomada570 com tema/fonte/posição e centena501–600, controles/preferências/armazenamento e migrações anteriores. node --check app.js e chapters.js aprovados. UTF-8 estrito, ausência substituição e asteriscos equilibrados nos seis TXT. Revisão visual real não realizada. Sem staging/commit/push/implantação. Próximo passo: usuário revisar e fazer Git manual, ou enviar fonte591 esperada correto571, sujeita à conferência.
+
+
+## Capítulo 571 — Exigências — 29/10/2026
+
+Tradução integral da fonte 591 salva em capitulos/571 - Exigências.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/d521e046-9455-4ee8-8a30-f0b33376a69e/Texto colado.txt. Correspondência contínua 591→571 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Jerome pressiona financiadores, dez milhões despertos EUA/Império, dois mil/dia EUA, população mais400milhões, cem anos e projeção1,4bilhão/10anos preservadas como argumentos ficcionais. Número americano marcado pela divergência com proporção1/1000 anterior; não harmonizada aritmética nem estimativas. Financiadores reagem a elogios Império, Jerome pede dinheiro/equipamentos/Equipe51, ataque surpresa para roubar fórmula sob retórica recuperar direito. Equipe secreta treinada meses, demonstração prometida, aprovação ainda não narrada. Jerome/Eddie unificado, Poção/Clube/Império e Equipe51 padronizados. Alegações políticas, econômicas e guerra mantidas como narrativa sem pesquisa externa.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, cifras e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 292 capítulos 279–570. TXT571 aguarda publique. Próximo correto572, fonte esperada592, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 572 — Proposta aprovada — 29/10/2026
+
+Tradução integral da fonte 592 salva em capitulos/572 - Proposta aprovada.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/ee7689af-66c8-4312-aef6-ba42852ea098/Texto colado.txt. Correspondência contínua 592→572 com offlinePending. Cabeçalho corrompido Proposal592 passed resolvido título Proposta aprovada. Sem nota autoral, futura integração authorNote false. Arquivo novo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: financiadores temem guerra/bloqueio e patrimônio, Jerome cita Rússia/Japão/Império Britânico mobilizados e hipotetiza tecnologias superiores sem saber. Billy recorda combate monstros e diferença EUA/Império. Financiador máximo anônimo aprova verba/equipamentos/tropasÁrea51 e promete explicar presidente, aprovação presidencial ainda não narrada. Dois trechos incertos marcados: imprevisíveis perante Império como incerteza resultado; Jerome dislike como insistência sem prova sucesso. Billy Giss→Billy Geese, Jerome Eddie/Clube padronizados, ruídos promocionais removidos. Alegações geopolíticas/violentas preservadas como ficção sem pesquisa factual ou acréscimos operacionais.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, numeração única, nomes, durações e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 292 capítulos 279–570. TXT571–572 aguardam publique. Próximo correto573, fonte esperada593, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 573 — O monociclo de Morris — 29/10/2026
+
+Tradução integral da fonte 593 salva em capitulos/573 - O monociclo de Morris.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/d3c24f2b-b4d2-4677-a004-20600fd70d6f/Texto colado.txt. Correspondência contínua 593→573 com offlinePending. Título balance bike normalizado monociclo conforme veículo de uma roda descrito; sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: principal financiador exige desaparecimento Clube, Jerome quer tecnologias. Lu planeja usar duzentos invasores treino, Peng/Liu supervisionam, pais antes fora; não comunicado Deng ainda. Mãe quer limpeza/estadia até reenvio, Lu prefere pais quarto. Morris entra burlando fechadura inteligente, Lu o apresenta segurança; pai pergunta chaves. Monociclo autônomo com IA de Peng, voz infantil neutra, Morris quase revela organização e disfarça como presente chefe, Lu percebe alvo pais. Dois trechos incertos marcados: operação com uma mão em comando de equilíbrio e human assistant interpretado assistente pessoal. Mudanças de cenário com separador, nomes/Clube padronizados. Sem transporte/combate ou engenharia adicional inventados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos de incerteza equilibrados excluindo separador, numeração única, nomes, números e final conferidos; git diff --check. Leitor/app/testes intactos: 292 capítulos 279–570. TXT571–573 aguardam publique. Próximo correto574, fonte esperada594, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 574 — Motor magnetohidrodinâmico — 29/10/2026
+
+Tradução integral da fonte 594 salva em capitulos/574 - Motor magnetohidrodinâmico.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/c1fea597-e333-4e06-a571-8592118187ad/Texto colado.txt. Correspondência contínua 594→574 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Morris pede livro MHD visto estante, quer aprender fora programação, Lu promete após visita pais e manda voltar por risco ataque. Monociclo com dois braços varre/conversa, Pequena Wei pediu instalação, IA equiparada criança com restrições. Livros temporais descritos empréstimo quase permanente. Pai suspeita empresa pequena produzir tecnologia, Lu inventa entusiastas e custo mais100mil, mãe irrita com gasto versus casamento. Fala My son capable as security guard interpretada como segurança do filho pelo contexto e marcada. Monociclo padronizado apesar alternância bike/scooter, Maurice→Morris, XiaoWei→Pequena Wei. Explicação MHD e alegações tecnológicas mantidas como ficção sem validação externa, ruídos8/280 removidos.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, valor e final conferidos; git diff --check. Leitor/app/testes intactos: 292 capítulos 279–570. TXT571–574 aguardam publique. Próximo correto575, fonte esperada595, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 575 — Apresentando pretendentes — 29/10/2026
+
+Tradução integral da fonte 595 salva em capitulos/575 - Apresentando pretendentes.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/ca1230ca-722c-47b4-9064-ca0dbf600a5c/Texto colado.txt. Correspondência contínua 595→575 com offlinePending. Título partner interpretado pretendentes conforme casamenteira. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: pai aceita hobbies com sustento garantido; Lu diz Peng/Morris abriram empresa, pais descansam no quarto preparado, Lu ocupa principal e dois no sofá. Reflete tecnologias como guia progresso; manhã pais conversam, Yu Qin quer estender visita para arranjar namoradas aos dois. Eles recusam romance por lealdade/vida longa, pedem socorro, Lu os defende e atrai cobrança. Uma passagem temporal marcada: idade milhares/dezenas milhares mas tempo descontado só Lu e idade original preservados sem resolver contradição. Zhao Jin inconsistente normalizado pais pelo contexto; Sam→americanos, Maurice→Morris, teacher→senhor, Slave isolado removido como ruído. Sem parceiros efetivamente apresentados, casamento/ataque ainda não executados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, numeração única, nomes, durações e encerramento conferidos; git diff --check. Leitor/app/testes intactos: 292 capítulos 279–570. TXT571–575 aguardam publique. Próximo correto576, fonte esperada596, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 576 — A venda de algumas coisinhas — 29/10/2026
+
+Tradução integral do anexo com fontes596 e597 (Partida), reunidas no correto576 sem descartar segunda narrativa. Salva em capitulos/576 - A venda de algumas coisinhas.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/29e849ad-7246-41bd-8786-8c0febed8b94/Texto colado.txt. Cabeçalho1/2 mas anexo contém ambos os títulos e final completo fornecido; não afirmar verificação de páginas externas. União registrada na tabela com offlinePending, subtítulo Partida preservado no corpo. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e duas entradas correspondentes, registrando reversão.
+
+Continuidade: pais deixam cobrança casamento mas querem cozinhar/ficar; Lu dá cartão três milhões yuans, alega lucro tecnológico e dividendos. Visita shopping, compras até cem mil, refeições, pais partem dois dias depois por pedido casamenteira; segredo ainda preservado. Lu volta dirigente e prepara defesa: Yan/Liu/Bai em Xangai, Peng equipe combate intercepta duzentos, vitória com mortes; Hull obterá materiais em paralelo. Rei oitavo será alvo futuro com sétimos suficientes; governo informado permite treino exigindo civis seguros e ressarcimento danos, elevador subterrâneo justifica preservar cidade. Olho da Longevidade limitado Xangai, sem identidades invasores ainda. Yuan/dollar alternado no parágrafo do cartão normalizado yuans conforme moeda explicitamente inicial e cifra três milhões; idênticos patrimônios divergentes da fonte mantidos sem reescrever capítulos anteriores. Ruídos promocionais/8/5 removidos. Sem procedimentos técnicos ou resultado de batalha inventados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, separadores equilibrados, numeração única por TXT e duas fontes vinculadas corretamente, nomes, valores, ambas as partes e encerramento conferidos; git diff --check. Leitor/app/testes intactos:292 capítulos279–570. TXT571–576 aguardam publique. Próximo correto577, fonte esperada598, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 577 — De volta a Xangai — 29/10/2026
+
+Tradução integral da fonte598 salva em capitulos/577 - De volta a Xangai.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/6ca7b141-3a4f-4d82-9c0f-d1ac65e1a6ae/Texto colado.txt. Correspondência598→577 após união596/597→576, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Arquivo novo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Billy retorna Hongqiao via pequeno país, guia jovens Caçadores de Deuses, trinta/quarenta equipes totalduzentos incluindo guias. Deng evacua áreas, custos partilhados após proposta tecnológica de Lu. Peng/Yan/Liu/Bai supervisionam, Deng junto Yan. Hull prepara roubo carga militar especial, nenhum material tomado ainda; possível compra futura via Bill (distinto Billy). Névoa abaixo3m, aroma grama, pacote ReiDragão88mil, primeiro cliente Deng coagido por Yan a adiantar, pedido Lu. Invasores confundem com poluição, combate ainda não começou. Trecho evitar combatentes alto nível interferirem marcado por função ambígua dos supervisores; Billy/Giss fragmentados normalizados pessoa única, Steven/Hull unificados, ruído297 removido. Mantidos supervisão Peng neste capítulo versus liderança anterior sem reescrever; Bill preservado sem inventar sobrenome.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos de incerteza equilibrados excluindo separadores, numeração única, nomes, valores e encerramento conferidos; git diff --check. Leitor/app/testes intactos:292 capítulos279–570. TXT571–577 aguardam publique. Próximo correto578, fonte esperada599, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 578 — Lucas Fils — 29/10/2026
+
+Tradução integral da fonte599 salva em capitulos/578 - Lucas Fils.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/e2e5790d-35fa-4e81-85ec-9daccb63bea9/Texto colado.txt. Correspondência599→578 após união596/597→576, tabela com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente e registra reversão.
+
+Continuidade: Lucas arrogante reclama hotel, Billy teme armadilha e pretende só guiar. Lu estuda motores/impressoras enquanto aguarda, Olho integrado autorização policial, ataques digitais reiniciam com cobertura antes incursão. Lucas próximo quinto lidera maiscem, define roubo documentos escritório e poção militar, suborno voluntários e visão através objetos de Pullman Williams confirmam estoque. Vinte homens com Pullman, demais Lucas; grupo se dispersa sob vigilância Lu, combate ainda não descrito. Dois trechos marcados: frase quebrada Lucas maisforte após polícia reconstruída insuficiência diante força dominante; distribuição grupos corrigida minimamente para equipe vinte liderada Pullman. Billy Keith/Giss/Geese unificado, Lucas Phil/Fields/Fils→Lucas Fils, Eye Eternity/Immortality→Olho da Longevidade, Galileo→Galileu, ruído297 removido. Alegações cibernéticas/combate mantidas como narrativa sem acréscimos operacionais.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, numeração única, nomes, números e final conferidos; git diff --check. Leitor/app/testes intactos:292 capítulos279–570. TXT571–578 aguardam publique. Próximo correto579, fonte esperada600, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 579 — O ataque! — 29/10/2026
+
+Tradução integral da fonte600 salva em capitulos/579 - O ataque.txt (exclamação mantida título interno) sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/b69814e9-3d38-429f-8c0b-262945acfd03/Texto colado.txt. Correspondência600→579 após união596/597→576 com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Billy abandonado segue porto/cruzeiro fuga, quer aposentadoria e não mais promoção; bicicleta observada sem apropriação narrada. Lucas chega antigo prédio, auxiliar Mond Clive avisa Pullman atacou antes ordem, Lucas interpreta rivalidade e inicia ofensiva. Barreira formações Fuxi bloqueia e repele, Lu/grupo assistem gramado invisíveis. Fuxi quinto próximo sexto, quase mil anos cultivo acelerado, barreira pode suportar Liu/grupo com preparação. Nome corrompido Nuo Zhao da formação anterior não identificável, frase sem atribuição reconstruída e marcada. Billy Giss/Geese e Lucas Phils/Fils unificados; Slave isolado removido. Sem destruição barreira/resultado luta ou morte acrescentados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos de incerteza equilibrados excluindo separador, numeração única, nomes, graus/duração e encerramento conferidos; git diff --check. Leitor/app/testes intactos:292 capítulos279–570. TXT571–579 aguardam publique. Próximo correto580, fonte esperada601, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 580 — Formação — 29/10/2026
+
+Tradução integral da fonte601 salva em capitulos/580 - Formação.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/12fe6d37-0d3f-4dc5-87f1-b84facde992e/Texto colado.txt. Correspondência601→580 após união596/597→576, com offlinePending. Sem nota autoral, futura integração authorNote false. Novo arquivo sem substituição; reversão seletiva remove somente TXT e entrada correspondente, registrando reversão.
+
+Continuidade: Pequena Wei informa posições dos aliados; névoa não impede sensores. Mond Clive atingido, Lucas abandona comando para duelo, Mond organiza reação. Fuxi divide e contém campo, preserva cafeteria e retorna a projeto quase concluído no Mundo Intraterrestre. Lucas controla ar e usa bastão de meteorito, dez exemplares/nove guardados. Oponente Yan Er, irmão de Yan Yi, quinto grau suprimido ao quarto; duelo sem resultado. Lu observa painel de quase duzentos, Shen serve frutas. Nomes fragmentados unificados; intenção de roubar documentos preservada como objetivo, sem afirmar sucesso. Três trechos incertos marcados: relação da surpresa com forças secretas, gesto que apresenta bastão e pipas no pátio. Nenhum mecanismo adicional inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos equilibrados, numeração única e tabela versão8 preservada; tradução integral conferida com o anexo. git diff --check aprovado (somente avisos de conversão LF/CRLF). Leitor/app/testes sem alterações neste pedido:292 capítulos279–570. TXT571–580 aguardam publique. Próximo correto581, fonte esperada602, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 581 — Luz e escuridão — 29/10/2026
+
+Tradução integral da fonte602 salva em capitulos/581 - Luz e escuridão.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/ce1f0e91-8e2f-4aed-aa75-4bd4673187af/Texto colado.txt. Correspondência602→581 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove novo arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Yan Yi identifica brechas Lucas, Yan Er quinze anos civis/mais mil com aceleração. Deng assiste. Steven Hull intercepta veículos e verifica materiais radioativos, entrega ainda pendente; Lu pede prolongar combate para facilitar tomada trítio/urânio. Yan Er enfrenta Lucas, fogo retorna após vácuo e denuncia técnicas aceleradas que consomem expectativa de vida, negociadas com advertência aos americanos. Quase metade usou técnicas; talento mínimo classeA. Lucas sente ameaça, duelo ainda sem desfecho. Heavenly Society vertida Sociedade Celeste com incerteza por identidade organizacional não clara; Império Celestial preservado para país. Ruídos promocionais Requesting flowers e Part5 removidos, sem cortar narrativa. Steven/Hul/Hull e Lucas/Phils/Fils normalizados.
+
+Validação: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, tradução e encerramento conferidos com o anexo. Leitor e aplicação intactos:292 capítulos279–570; TXT571–581 aguardam publique. Próximo correto582, fonte esperada603, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 582 — Missão concluída — 29/10/2026
+
+Tradução integral da fonte603 salva em capitulos/582 - Missão concluída.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/04d1637a-e964-4e9a-a506-b620df00e685/Texto colado.txt. Correspondência603→582 com offlinePending; esquema8 preservado. Arquivo novo sem substituição; reversão seletiva remove somente TXT e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Pullman/vinte barrados formação fundos, agride subordinado; poder céu/terra sustenta defesa. Após mais uma hora, feridos estabilizados por Yan/grupo evitando mortes e custo ressurreição. Steven Hull confirma tomada trezentos gramas trítio/cinquenta quilos urânio, ainda sem entrega; Lu associa ao núcleo antigravidade/dobra e livros fissão/fusão. Illuminati ocultos sob aparência mercenários; dificuldade transporte e reação ameaçadora Lu encerram anexo. Ruído297 retirado, Steven/Hu Er/Hull normalizados; frase contraditória sobre adversários perceberem operação reconstruída genericamente e marcada com asteriscos. Alegações técnicas ficcionais preservadas sem detalhe adicional ou resultado inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:292 capítulos279–570. TXT571–582 aguardam publique. Próximo correto583, fonte esperada604, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 583 — Canais — 29/10/2026
+
+Tradução integral da fonte604 salva em capitulos/583 - Canais.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/4cdef431-82c9-411e-8337-87150a2736f2/Texto colado.txt. Correspondência604→583 com offlinePending; esquema8 preservado. Novo arquivo sem substituição; reversão seletiva remove novo TXT e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lu exige materiais independentemente perdas; Steven propõe destróier sob cobertura exercício EUA/Japão em Iwo Jima, exercício duas semanas, encontro três dias durante patrulha antecipada. Lu interpreta ameaça China/ilhas protegidas por Fuxi e elevador intraterrestre, aceita encontro e considera comprar cruzeiro para férias/recebimento. Compra/transferência/navio ainda não concretizados. Entrega do próprio destróier somente hipótese final Steven, distinta da carga. Steven/Hur/Hu Er/Hull unificados; Fusang vertido Japão. Nome geográfico Somali e distância contraditória com ruído7297 marcados como incertos (sete a oito mil quilômetros); nenhuma correção geográfica inventada. Ruído inicial8 removido; ficção traduzida sem detalhe operacional adicional.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, texto integral e final conferidos. Leitor/aplicação intactos:292 capítulos279–570. TXT571–583 aguardam publique. Próximo correto584, fonte esperada605, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 584 — Os últimos ajustes — 29/10/2026
+
+Tradução integral da fonte605 salva em capitulos/584 - Os últimos ajustes.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/5c1c1642-cd67-480c-8737-b8f030c5760d/Texto colado.txt. Correspondência605→584 com offlinePending e esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove novo arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lu encerra prolongamento e altera névoa para sol; Liu/grupo sexto grau mata/captura invasores antes visibilidade, Bai remove corpos/prisioneiros e limpa rua. Satélites só veem normalidade. Pullman e vinte homens entregues Deng para vantagem diplomática. Billy espera cruzeiro partir uma hora, teme fracasso/CIA e esconde-se cobertas; figura atravessa porta ondulante e deixa caixa poção verde, conteúdo/identidade não revelados. Sociedade Celeste permanece incerta; frase final normalidade sem luta reconstruída com marca de dúvida por contradição literal na fonte. Zhao isolado da limpeza e slaves no diálogo final retirados como ruídos sem referente. Quantidade Pullman e vinte preservada conforme final fonte, sem harmonizar a vinte total anterior. Sem nova morte/identidade/desfecho inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos de incerteza equilibrados excluindo separador, número/fonte únicos, texto integral e encerramento conferidos. Leitor/aplicação intactos:292 capítulos279–570. TXT571–584 aguardam publique. Próximo correto585, fonte esperada606, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Publicação offline 571–584 — concluída em 29/10/2026
+
+Autorização: comando publique, no escopo permanente de preparação offline completa, sem staging, commit, push ou implantação remota. Estado anterior conferido:292 capítulos279–570 e quatorze TXT únicos571–584 pendentes, sem lacunas.
+
+Aplicado: quatorze capítulos completos anexados em chapters.js, índice atualizado para306, testes ampliados até584, tabela sem offlinePending e documentos atualizados. Todos os292 objetos anteriores permaneceram idênticos. Textos, títulos, incertezas e divisão interna Partida do576 preservados; união das fontes596/597→576 conferida. Esquema de migração8, app.js e styles.css sem alteração. Leitor atual306 capítulos consecutivos279–584; nenhum TXT pendente. Próximo correto585, fonte esperada606, sujeito à conferência.
+
+Backup local: backups/offline-571-584-20261029T202950/,21 arquivos copiados (sete arquivos de aplicação/documentação e quatorze TXT), SHA-256 de cada cópia conferido; manifest-sha256.json e publication-summary.json disponíveis. Reversão seletiva: restaurar chapters.js/index.html/tests/reader.test.cjs/NUMERACAO-CAPITULOS.json do backup, manter os TXT, atualizar documentação com estado revertido; não restaurar documentos completos sobre registros posteriores. Backups ignorados pelo Git.
+
+Validação executada: node tests/reader.test.cjs aprovado, cobrindo306 IDs, equivalência dos TXT disponíveis286–584, navegação, retomada/progresso, preferências, controles, índice por centenas/mobile em DOM simulado, migrações1–8, duas partes576, notas ausentes nos novos capítulos e renderização de itálico no584. node --check app.js e node --check chapters.js aprovados; git diff --check sem erros, somente avisos LF/CRLF. Revisão visual em navegador real não realizada; não declarar teste visual. Nenhuma dependência instalada.
+
+Entrega local completa para revisão e commit/push manuais do usuário. Publicação remota não executada.
