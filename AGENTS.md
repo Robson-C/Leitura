@@ -126,3 +126,8 @@ Seis TXT565–570 integrados por comando publique. Leitor com292 capítulos cons
 ## Publicação offline 279–584 concluída — 29/10/2026
 
 Quatorze TXT571–584 integrados integralmente por comando publique. Leitor com306 capítulos consecutivos279–584, nenhum TXT pendente. Fontes591–596→571–576;596/597 reunidas no576;598–605→577–584. Esquema8, controles, progresso e preferências preservados. Próximo correto585, fonte esperada606, sujeito à conferência. Commit/push manuais; backup e validação na revisão operacional.
+
+
+## Publicação offline 279–600 concluída — 30/10/2026
+
+Dezesseis TXT585–600 integrados integralmente por comando publique. Leitor com322 capítulos consecutivos279–600, nenhum TXT pendente; fontes606–621→585–600, marco621→600 confirmado explicitamente. Esquema8, controles, progresso e preferências preservados. Próximo correto601, fonte esperada622, sujeito à conferência. Commit/push manuais; backup e validação na revisão operacional.

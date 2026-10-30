@@ -2737,3 +2737,243 @@ Backup local: backups/offline-571-584-20261029T202950/,21 arquivos copiados (set
 Validação executada: node tests/reader.test.cjs aprovado, cobrindo306 IDs, equivalência dos TXT disponíveis286–584, navegação, retomada/progresso, preferências, controles, índice por centenas/mobile em DOM simulado, migrações1–8, duas partes576, notas ausentes nos novos capítulos e renderização de itálico no584. node --check app.js e node --check chapters.js aprovados; git diff --check sem erros, somente avisos LF/CRLF. Revisão visual em navegador real não realizada; não declarar teste visual. Nenhuma dependência instalada.
 
 Entrega local completa para revisão e commit/push manuais do usuário. Publicação remota não executada.
+
+
+## Capítulo 585 — Sucesso! — 30/10/2026
+
+Tradução integral da fonte606 salva em capitulos/585 - Sucesso.txt (exclamação preservada no título interno), sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/a91b252e-cde5-4beb-8c89-47023a793d36/Texto colado.txt. Correspondência606→585 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove novo arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Jerome aguarda notícia e prepara ataque laser por submarino nuclear furtivo com poderes despertos, mas ordem não chega a ser emitida neste anexo. Billy encontra caixa com poção militar/fórmula e atribui sucesso à missão sem conhecer remetente; avisa diretor por vídeo de cruzeiro já em viagem. Agentes atrás Jerome fazem movimentos discretos, identidade/intenção não reveladas. Final Billy indica Lucas/grupo talvez permaneçam China. Fonte atribui suspirar e plano contingência a Lucas Fils apesar contexto CIA: reconstruído como Jerome Eddie com incerteza explícita. Cidade JJS preservada e marcada sem expansão inventada. Geese/Gis e Lucas Fields normalizados, ruído8 removido. Alegações técnicas ficcionais mantidas sem acréscimo operacional.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos de incerteza equilibrados excluindo separador, número/fonte únicos, conteúdo integral e encerramento conferidos. Leitor/aplicação intactos:306 capítulos279–584. TXT585 aguarda publique. Próximo correto586, fonte esperada607, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 586 — Sob ataque — 30/10/2026
+
+Tradução integral da fonte607 salva em capitulos/586 - Sob ataque.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/2f48c4ea-20cc-4213-b3e2-613c262b12d5/Texto colado.txt. Correspondência607→586 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Jerome abandona Lucas/grupo após notícia fórmula; infiltrados transmitem notícia e centenas agências perseguem Billy. Cabine explodida, Billy reage, protege caixa e esconde-se banheiro com braço ferido; missão ainda sem entrega. Deng recebe Pullman/vinte, preocupa mortes e ignora violência Yan. Lu solicita iate/cruzeiro em dois dias para encontro em três; nenhuma compra confirmada. Fonte afirma obtenção deutério por eletrólise água mar, preservada como narrativa sem aprofundar alegação. CIA/FBI sob ataques organizados em massa, Jerome manda investigar, secretária aproxima-se no final. Billy Keith/Gis/Geese e Lucas Fells/Fils normalizados, Steven/Hur unificado; ruídos promocionais e Five final removidos. Nenhum ataque laser consumado nem identidade nova acrescentados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, separadores de cena preservados, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Sem trecho de interpretação adicional incerta neste TXT. Leitor/aplicação intactos:306 capítulos279–584. TXT585–586 aguardam publique. Próximo correto587, fonte esperada608, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 587 — Missão designada — 30/10/2026
+
+Tradução integral da fonte608 salva em capitulos/587 - Missão designada.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/c9d2e302-63cb-4470-9d13-7d2d88d7ff5a/Texto colado.txt. Correspondência608→587 com offlinePending; esquema8 preservado. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lin Zizhen poupado/contratado por Lu, Daller em disputa após morte líder. Aplicativo intermediário mantido por Zhuge Liang/Suiren cobra30porcento; tarefas anteriores ar pradaria/peixes/vulcão. Nova missão investigar relações funcionários CIA e mudanças, sem infiltração profunda. Lin rejeita equipe para preservar prêmio, Lu revela concorrência equipe30 versus ele, só lado vencedor recebe. Recompensa anunciada6milhões e aumento possível30porcento; fonte muda pensamento para8milhões, mantidos ambos e discrepância marcada, sem calcular/reinventar cifra. Regra gorjeta0,5porcento ambígua preservada com marca. Linzi Town/Linzizhen unificados Lin Zizhen, Daler→Daller, Suirenshi→Suiren, Shencheng→Xangai;297 ruído retirado. Nenhuma etapa operacional adicional inventada.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, conteúdo integral e encerramento conferidos. Leitor/aplicação intactos:306 capítulos279–584. TXT585–587 aguardam publique. Próximo correto588, fonte esperada609, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 588 — Nossa tecnologia — 30/10/2026
+
+Tradução integral da fonte609 salva em capitulos/588 - Nossa tecnologia.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/54e03c4c-0afd-4da8-88bb-77d2d13ec2f1/Texto colado.txt. Correspondência609→588 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lu considera essência tempo mas prioriza reatores fissão/fusão para antigravidade/dobra, quer fornecer fissão mais avançada à China, decide ler. CIA contém ataques sem invasão confirmada, outras organizações também atingidas, não ajuda FBI. Financiador exige narrativa tecnologia originalmente americana roubada pelo clube; Jerome inicialmente não compreende, ameaçado demissão, depois entende pretexto para fabricação/venda e culpa invertida. Duzentas e uma pessoas ignoradas pelos chefes, sem retorno da equipe/entrega Billy confirmado. Frase confusa sobre fusão e adaptação dois reatores marcada; frase retórica país versus empresa reconstruída com dúvida. Jerome fragmentado unificado, Billy Giss→Geese, Sam→Estados Unidos, ruído297 removido. Sem detalhe técnico novo, declaração sobre roubo preservada como fala do personagem.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, texto integral e encerramento conferidos. Leitor/aplicação intactos:306 capítulos279–584. TXT585–588 aguardam publique. Próximo correto589, fonte esperada610, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 589 — Missão concluída — 30/10/2026
+
+Tradução integral da fonte610 salva em capitulos/589 - Missão concluída.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/b6a3b1da-0a8e-4a54-82d4-59ea7b9e3574/Texto colado.txt. Correspondência610→589 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove novo arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lin chega LSJ sob identidade descartável e muda aparência, vai investigar funcionários CIA; equipe concorrente30 chega depois e aproveita ataques globais para obter dados domésticos, contas Twitter e relacionamentos dos funcionários base. Líder decide enviar para avaliar satisfação, não afirmar missão aceita/pagamento. Recompensa6milhões e bônus30porcento. Lin permanece metrô investigando; Lu encerra aceleração e livro fusão, chega e-mail sem conteúdo revelado. LSJ mantido sem expandir cidade, frontline interpretado base conforme explicação posterior, contradição sentado/em pé no metrô vertida permanece no fundo: três marcas de dúvida. Linzi Town normalizado Lin Zizhen, Jerome fragmentado unificado. Sem instruções técnicas adicionais de invasão ou novo desfecho.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos equilibrados, número/fonte únicos, texto integral e encerramento conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–589 aguardam publique. Próximo correto590, fonte esperada611, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 590 — Novas informações — 30/10/2026
+
+Tradução integral da fonte611 salva em capitulos/590 - Novas informações.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/d70e4e13-20f6-46ce-a2ba-9e7cebc41d0a/Texto colado.txt. Correspondência611→590 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: equipe30 tem conclusão aceita e bônus15porcento. Lin inicialmente perde recompensa, menciona oficial CIA Elliott Christine morto externamente em acidente mas vivo registros e visto pessoalmente; funcionários contatados morrem dia seguinte. Lu pede documento, analisa com Pequena Wei e identifica fantasma de tipo indeterminado, atividade noturna. Não quer humano comum prosseguir; concede recompensa e bônus30porcento, manda voltar Império Celestial e aguardar missão. Fonte cita novamente6milhões/1,8milhão comissão sem discriminar bônus, mantidos valores com dúvida marcada; última frase nova figura mencionada por Lu sem referente claro preservada e marcada. Linzi Town→Lin Zizhen, Xiao Wei→Pequena Wei, recovery→resposta por contexto; ruído8 retirado. Sem identidade/tipo fantasma ou missão seguinte inventados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–590 aguardam publique. Próximo correto591, fonte esperada612, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 591 — Seu mestre — 30/10/2026
+
+Tradução integral da fonte612 salva em capitulos/591 - Seu mestre.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/61d1b95d-281d-4f99-8179-39c35f8fe79a/Texto colado.txt. Correspondência612→591 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lin retorna Hongqiao, avisa Lu por aplicativo Contratar, é atingido luz e levado inconsciente por figura não identificada a sala instrumental sem portas/janelas visíveis. Trauma missão África com foguetes motiva alerta. Voz mecânica se apresenta seu mestre e anuncia injeção; Lu aparece via áudio, explica recompensa despertar por desempenho e número missões. Pequena Wei transmitiu automaticamente instruções que Lu pretendia dar, não afirmar missão autônoma fora permissão. Lin aceita e é orientado entrar câmara transparente; injeção/despertar ainda não narrados. Linzi Town→Lin Zizhen, Xiao Wei→Pequena Wei; ruídos promocionais/5 retirados. Primeira fala pronominal ajustada para primeira pessoa pelo contexto retorno próprio. Nenhum captor identificado ou poder novo atribuído.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, numeração/fonte únicas, texto integral e encerramento conferidos com anexo. Sem interpretação adicional incerta a marcar neste TXT. Leitor/aplicação intactos:306 capítulos279–584. TXT585–591 aguardam publique. Próximo correto592, fonte esperada613, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 592 — Os poderes de Lin Zizhen — 30/10/2026
+
+Tradução integral da fonte613 salva em capitulos/592 - Os poderes de Lin Zizhen.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/374c39bb-cde3-45b6-910d-41ba3ff92364/Texto colado.txt. Correspondência613→592 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lin entra câmara, duração prevista meia hora; Lu brinca risco morte e narrador nega que poção mate. Pequena Wei executa ordem, sistema Morris mantido segurança com ajuda Peng/Tianwei de Zhang Xiao. Injeção causa dor extrema lúcida, cessa ao despertar; barra evita queda. Lin reconhece nova força, resposta final fuzil de precisão, sem natureza ou mecânica reveladas. Contradição inicial escolha/cancelamento colaboração reconstruída e marcada. Linzi Town→Lin Zizhen, Xiao Wei→Pequena Wei, Daller preservado; ruído297 e art final retirados. Nenhum teste de tiro ou manifestação adicional inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–592 aguardam publique. Próximo correto593, fonte esperada614, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 593 — O cultivo de Lin Zizhen — 30/10/2026
+
+Tradução integral da fonte614 salva em capitulos/593 - O cultivo de Lin Zizhen.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/3f1e87ad-dd57-4718-afea-d9673516c78b/Texto colado.txt. Correspondência614→593 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lin transforma pistola tocada em fuzil precisão, acha fraco, Lu valoriza talento/tempo. Nova inconsciência e sala livros/exercício, quinze anos cultivo com saída terceiro grau; cápsula sustenta quinze dias, campo dezmil vezes e previsão manhã seguinte. Lu dorme com Yang Zhen’er, conversa insinuante lâmpada com Zhu Xueqing manhã, volta bicicleta. Suspeita Elliott possuído por subordinado Rei Fantasma México, sem confirmação de ligação. Salas por pontos funcionário; Tang Zhaorui produz cápsulas em massa. Lu liga computador e vê campo desativado, grau alcançado Lin ainda não revelado. Quatro marcas: long wind fuzil sem termo vento identificável, relação maisdezanos/meiodia com dezmil vezes mantida sem recalcular, bicicleta82polegadas literal sem corrigir medida, habilidade time-manufacturing preservada sem inventar mecanismo. Linzi Town→Lin Zizhen; repetição medida bicicleta omitida segunda menção, sem remover ação.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, oito asteriscos equilibrados, número/fonte únicos, texto integral e final conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–593 aguardam publique. Próximo correto594, fonte esperada615, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 594 — A compra de uma embarcação — 30/10/2026
+
+Tradução integral da fonte615 salva em capitulos/594 - A compra de uma embarcação.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/0381df92-0e12-4ccf-bc44-f3eb10d59091/Texto colado.txt. Correspondência615→594 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lin relata força após trinta anos/quarto grau, técnicas Mundo03, reverência Lu; nova missão retornar EUA e perde consciência. Fonte muda quinze anos planejados para trinta efetivos, mantido e marcado sem alterar593. Shen/Zhang Xiao visitam exposição Xangai, prazo amanhã; Lu aceita iate grande se não cruzeiro, pede foto e maior espaço interno, reserva Liu/grupo se necessário. Duas áreas marina/pavilhão, modelos e barcos prontos, preço mínimo alto cinquenta milhões sem moeda explicitada nessa frase. Preço small/medium tens to millions reconstruído dezenas milhares a milhões dólares e marcado. Classificação até80m pequeno/médio e hipótese centenas metros preservadas como fonte, sem normalizar dado ficcional. Final Shen desapontada sem compra confirmada. Linzi Town→Lin Zizhen, slaves final removido como ruído. Nenhum material entregue/navio adquirido inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–594 aguardam publique. Próximo correto595, fonte esperada616, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 595 — Uma demonstração de boa vontade — 30/10/2026
+
+Tradução integral da fonte616 salva em capitulos/595 - Uma demonstração de boa vontade.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/10e48656-62b1-420d-b0fe-68c39b709c64/Texto colado.txt. Correspondência616→595 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Rong Yiyou/Zhijian/Zhikuan visitam exposição para aproximar-se Lu via Shen, querem acompanhar clube; Rong Yiyun em crescimento. Atores Kang Yuankai/Yuan Lihuo tentam contato insistente, Rong evita entretenimento/paparazzi. Encontram Shen/Zhang Xiao, Rong oferece pagar iate, Shen recusa por recursos próprios suficientes. Compra ainda não confirmada. Quatro referências fonte Mr Rong/Mr Shen corrigidas contextualmente senhor Lu e marcadas individualmente; jumped slightly vertido movimento ligeiro com dúvida. Yuan Li/are popular normalizados Yuan Lihuo conforme nome pleno repetido, ruído297 removido. Saúde Rong vinculada poucos pontos/anos resgatados preservada. Última fama dos dois mantida ambígua como fonte, sem criar divulgação ou reportagem efetiva.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dez asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–595 aguardam publique. Próximo correto596, fonte esperada617, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 596 — Pechinchar? — 30/10/2026
+
+Tradução integral da fonte617 salva em capitulos/596 - Pechinchar.txt (interrogação preservada no título interno) sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/61e71052-addf-449f-be46-f6ee335151d4/Texto colado.txt. Correspondência617→596 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Shen escolhe Mercury169m ex-encomenda minerador em dificuldade, preço500milhõesyuans/70milhõesdólares, anterior800milhões/100milhões reconstruído com dúvida. Vendedor anuncia90nós/10mil milhas, Rong ajuda pechinchar; desconto20porcento seguido mais300milhõesdólares contraditório preservado e marcado, nenhum valor recalculado. Zhikuan sugere segunda encomenda, fonte atribui pensamento Zhijian, mantido nome marcado sem identificar qual correto. Diâmetro100m inicial também marcado por inconsistência medida/nave169m. Atores deixam de seguir; negociação sem compra concluída. Cena final homem branco não identificado massacra pesqueiro Pacífico, capitão vivo; Lin embarca avião e recebe ordem vigiar Elliott/fugir se perigo, sem conectar homem pesqueiro nominalmente. Sam→Estados Unidos, Elliot→Elliott; ruídos promocionais/5 removidos.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dez asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–596 aguardam publique. Próximo correto597, fonte esperada618, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 597 — Submeta-se a mim! — 30/10/2026
+
+Tradução integral da fonte618 salva em capitulos/597 - Submeta-se a mim.txt (exclamação preservada no título interno) sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/0be3793e-cf4a-4de9-b1a8-c633c979c1da/Texto colado.txt. Correspondência618→597 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lu descansa café, Kong Heman aparece sem aula e convida flores casa; Peng guarda celular e teme desagradar, implicação informação compartilhada sem declarar ação não narrada. Elliott Christine identificado no pesqueiro: agente CIA não desperto faz pacto com existência temida, recebe força ao matar, sanguinário domina tripulantes; capitão vivo e sobreviventes se rendem. Entidade pacto ainda não identificada, sem confirmar Rei Fantasma. Três reconstruções incertas marcadas: frase corrompida centro tempestade/barco versus cotidiano, Leave como chamado Li, comando ao capitão invertido na fonte. Elliot Christian/Elliott Christian normalizados Elliott Christine conforme capítulos anteriores; último morto singular ajustado amigos plural pelo contexto sem criar morte do rendido.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos de incerteza equilibrados excluindo separador, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–597 aguardam publique. Próximo correto598, fonte esperada619, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 598 — Pagamento integral — 30/10/2026
+
+Tradução integral da fonte619 salva em capitulos/598 - Pagamento integral.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/79c97830-ff47-44c6-880f-dcde7fbc9b43/Texto colado.txt. Correspondência619→598 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Peng leva Kong casa, Shen videochama para aprovação Mercury. Rong explica presença lazer pai; Lu pensa mais tarefas. Aprova barco e recusa helicóptero retirado serviço oferecido Rong. Iate considerado descartável para recebimento radioativos e evitar vigilância futura. Shen agradece desconto ligado encomenda Rong, escolhe pagamento integral com cartão Lu, Zhikuan entrega cartão sinal segundo superiate preço originalMercury/tamanho similar, fabricação maisseismeses. Vendedor prevê comissão sete milhões yuans, salaVIP recusada pressa. Sem recibo/débito/entrega efetiva narrados. Duas referências Mr Shen reconstruídas senhor Lu e marcadas; reflective raw materials→radioativos por contexto inequívoco, Steven Hul→Hull. Nenhum valor total final de compra inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–598 aguardam publique. Próximo correto599, fonte esperada620, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 599 — Zumwalt — 30/10/2026
+
+Tradução integral da fonte620 salva em capitulos/599 - Zumwalt.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/eb7ea969-c430-4074-aae1-22f1a3a60719/Texto colado.txt. Correspondência620→599 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Mercury chega cais, Lu/Peng embarcam, Shen confirma60milhõesdólares custo80/venda100milhões, sem reescrever preço contraditório617. Iate piloto/IA ordinários exigem observação humana, Pequena Wei poderia dispensar tripulação como alegação ficcional. Lu pretende uso único. Lin em LSJ ainda procura Elliott e acessa vigilância; Lu teme cidade4milhões nutrir Rei nono versus México milhão/oitavo; morte e energia cadáveres alimentam crescimento. Compra dois barcos virou notícia sensacionalista sem nomes. Lin oferece navio Daller classeZumwalt base móvel Sulu, Lu surpreso custo manutenção, não aceita compra ainda. LSJ sem expansão marcado, geografia truncada Sulu/Taiwan preservada com dúvida, deslocamento dezmil kilometres reconstruído toneladas e marcado. Linzi Town→Lin Zizhen, Elliot→Elliott Christine, Xiao Wei→Pequena Wei, Steven não aparece; ruído8 removido. Sem especificações reais pesquisadas/acrescentadas ou mecanismo invasão novo.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–599 aguardam publique. Próximo correto600, fonte esperada621, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 600 — O pedido de Lin Zizhen — 30/10/2026
+
+Tradução integral da fonte621 salva em capitulos/600 - O pedido de Lin Zizhen.txt sob autorização permanente e confirmação explícita do número600 pelo usuário. Fonte C:/Users/robson.colaco/.codex/attachments/d67c221c-7ce5-442f-9cb5-19951ac404c6/Texto colado.txt. Correspondência621→600 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lin explica Daller comprou Zumwalt defeituoso para cliente rico descoberto espião russo após negociação maisano; preso e sem reembolso. Salário-base4mil caiu2mil, saída pessoal e maismissões, manutenção500milhõesdólares/ano; militares cobram reparos, sem técnicos próprios. Plano piratas/África fracassa, navio sem munição/armamento normal e vigia improvisada, portoSulu por missões África/SEÁsia e dissuasão. Lin quer vender a Lu como retribuição acolhimento Daller, clube poderia manter/reformar. Lu interessado, compra/preço não acertados. Comissões Lin20–30mil agora10mil, disputa liderança desde perda líder Xangai. Única reconstrução incerta manutenção painfully low→dolorosamente cara conforme cobrança exorbitante e contexto. Contradições incêndios/casco e alegações técnicas/geopolíticas preservadas como narrativa, sem pesquisa ou especificações extras. Linzi Town→Lin Zizhen, Changsheng→Clube da Longevidade.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:306 capítulos279–584. TXT585–600 aguardam publique. Próximo correto601, fonte esperada622, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Publicação offline 585–600 — concluída em 30/10/2026
+
+Autorização: comando publique no escopo permanente de preparação offline completa. Estado inicial conferido:306 capítulos279–584 e dezesseis TXT únicos585–600 pendentes sem lacunas. Fontes606–621→585–600; último marco621→600 confirmado explicitamente pelo usuário.
+
+Aplicado: dezesseis textos completos anexados em chapters.js; índice atualizado322; testes ampliados até600; tabela sem offlinePending, documentos atualizados. Todos os306 objetos anteriores preservados idênticos, nomes/títulos/incertezas mantidos. Esquema8 e app.js/styles.css intactos. Leitor atual322 capítulos consecutivos279–600, nenhum TXT pendente. Próximo correto601, fonte esperada622, sujeito à conferência.
+
+Backup local: backups/offline-585-600-20261030T162327/,23 arquivos copiados (sete arquivos aplicação/documentos e dezesseis TXT), SHA-256 de cada cópia conferido; manifest-sha256.json e publication-summary.json disponíveis. Reversão seletiva: restaurar chapters.js/index.html/tests/reader.test.cjs/NUMERACAO-CAPITULOS.json do backup, manter traduções e registrar estado revertido; não sobrescrever documentos posteriores integralmente. Backup ignorado Git.
+
+Validação executada: node tests/reader.test.cjs aprovado, cobrindo322 IDs, equivalência TXT disponíveis286–600, navegação, retomada/progresso, preferências, controles, índice centenas/mobile em DOM simulado, migrações1–8, fontes606–621, final600/grupo501–600 e renderização itálicos600. node --check app.js e node --check chapters.js aprovados. Revisão visual em navegador real não realizada; nenhuma dependência instalada. git diff --check executado na revisão final, somente avisos LF/CRLF se presentes.
+
+Preparação local completa para revisão e commit/push manuais. Sem staging/commit/push, PR ou implantação remota.
+
+
+## Capítulo 601 — Acordo inicial firmado — 30/10/2026
+
+Tradução integral da fonte622 salva em capitulos/601 - Acordo inicial firmado.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/76e23664-6836-438a-9e38-ea9b8da4e093/Texto colado.txt. Correspondência622→601 após marco621→600, com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lu aceita visitar amanhã e comprar se adequado, oferece recompensa Lin/condições Daller se aderir clube, permite priorizar contato em vez vigiar Elliott. Lin teme ganância, antecedentes criminais, perda proteção EUA e ressentimento por líder Xangai. Informa interesse a Daller; facções suspendem disputa para reunião, sem preço/contrato compra firmados. Fonte descreve Zumwalt182x24m,14miltoneladas,140pessoas,30nós,AGS155/MK57oitenta células/munições, doisMK46/doisMH60R/duas lanchas7m; alegações preservadas como narrativa sem acrescentar ou validar ficha real. Armas obsoletas/vendidas, redes/peixe caracterizam pesqueiro. Origem grupo mediano cresceu via hacker/cooperacao EUA. Referente his subordinates ambíguo vertido subordinados sem atribuição e marcado. Linzi Town→Lin Zizhen, Ellie-Ott Christian→Elliott Christine, Daler→Daller, Immortal→Clube da Longevidade; V final retirado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601 aguarda publique. Próximo correto602, fonte esperada623, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 602 — Facções — 30/10/2026
+
+Tradução integral da fonte623 salva em capitulos/602 - Facções.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/e720c099-40a4-437b-9c0b-5b758a3ec273/Texto colado.txt. Correspondência623→602 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: reunião mais30 em três facções. Victor Evelyn comandante próEUA, grisalho quaseaposentado, origem nobre/fugitivo morte; Samson Leonard Cara de Cicatriz belicista quer independência, cicatriz peito20cm; Shaw Adams Príncipe neutro agora ambicioso, jovem30, Gatling/Barrett/adagas. Samson aceita vender mas recusa submissão e lembra líder morto; Victor afirma culpa clube, revela oferta2,8bilhõesdólares pelo navio e salário1milhão anual cada, aceita buscar saída EUA. Confronto aberto disputa liderança, sem votação/contrato concluídos. Frase stronger/angrier reconstruída quanto mais pensava maisfurioso e marcada. Viktor/Victor unificados Victor, Linzi Town→Lin Zizhen, Scar/Scarface→Cara de Cicatriz, Shaw fragmentado unificado. Ruídos297/0.5 removidos; valores inéditos preservados conforme fala sem inventar negociação prévia.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–602 aguardam publique. Próximo correto603, fonte esperada624, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 603 — Uma boa parceria — 30/10/2026
+
+Tradução integral da fonte624 salva em capitulos/603 - Uma boa parceria.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/ca26ce40-7a4f-40d2-a007-fd5f9bcf432c/Texto colado.txt. Correspondência624→603 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Príncipe Shaw Adams, ex-conselheiro Joel Warren, deduz trabalho obscuro temporário; narrador confirma objetivo Lu buscar materiais Steven Hull e poupar iate. Daller planeja tomar carga/dirigentes e extorquir mais1bilhão ou poções, vender excesso EUA e rejeitar incorporação; facções suspendem disputa e unem mãos. Frase ninguém despertou preservada como fala apesar ex-integrantes anteriores, não reescrever passado. Final aviso pesqueiro quebra-gelo aproximando, identidade/ataque não revelados. Referência adquirir supplies contraditória necessidade materiais reconstruída incorporar Daller e marcada; tipo icebreaker fishing boat literal marcado. Prince Xiao/Adams→Shaw Adams, Joel Valen→Joel Warren conforme continuidade, Scarface→Cara de Cicatriz, Victor normalizado, pronomes femininos corrompidos ajustados personagem masculino. Ruídos03/310 retirados. Nenhum sucesso extorsão/contrato compra acrescentado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–603 aguardam publique. Próximo correto604, fonte esperada625, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 604 — Codinome do fantasma: Incitação — 30/10/2026
+
+Tradução integral da fonte625 salva em capitulos/604 - Codinome do fantasma - Incitação.txt (dois-pontos preservados no título interno) sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f525dd88-cbe6-48e6-9f8d-91526efd67b4/Texto colado.txt. Correspondência625→604 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Comandante ordena aviso/advertência sem disparo efetivo narrado. Samson quer explicações Lin, seu subordinado direto, Príncipe teme ligação clube e manda ocultar plano da reunião. Pesqueiro>20m em trópicos para e observa navio; Victor avista Elliott massajado. Incitação identificado fantasma altoescalão da Cidade Fantasma México, pacto durante investigação, habita coração Elliott e fornece poder limitado suporte humano; excesso assimila e perde consciência, ambos evitam. Elliott cobiça Zumwalt e drena atum vivo final, sem ataque ao destróier narrado. Três trechos incertos: vínculo de Lin com decisões reunião, frase confusa fornecimento poder/tarefas no pacto, win-win repetido contraditório reconstruído benefício mútuo sem destruição. Elliot Christian→Elliott Christine, Scarface→Cara de Cicatriz. Pesqueiro quebra-gelo e alegação detecção<10porcento mantidos como ficção, sem validação técnica. Ruído8 final retirado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–604 aguardam publique. Próximo correto605, fonte esperada626, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 605 — Bem-vindo de volta! — 30/10/2026
+
+Tradução integral da fonte626 salva em capitulos/605 - Bem-vindo de volta.txt (exclamação preservada no título interno) sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/35bf8eeb-6b3f-4056-9cfa-4f8395fa2184/Texto colado.txt. Correspondência626→605 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Victor paralisado medo, Elliott quebra pesqueiro ao saltar para Zumwalt; tubarões avançam sem destino tripulantes confirmado. Lado direito assume forma demoníaca, simbiose Incitação parcialmente usada para tolerar sol, exige navio; submissão Daller ainda não narrada. Lin chega de avião a Cebu/Sulu e embarca MH60R Andorinha Voadora, manutenção precária vida útil reduzida. Sulu expulsou navio por prazo/temor, suprimentos helicóptero. Piloto imigrante africano acolhido Daller, diálogo ganhos e rádio previsão umahora sem resposta, atribuem defeito, segunda tentativa encerra. Geografia Cebu em Sulu e origem Mibia preservadas e marcadas sem inventar país correto. Linzi Town→Lin Zizhen, Elliot Christian→Elliott Christine, Flying Swallow→Andorinha Voadora, Zum truncado→Zumwalt. Ruído310 removido. Nenhuma identificação piloto, morte capitão ou causa definitiva silêncio acrescentada.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–605 aguardam publique. Próximo correto606, fonte esperada627, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 606 — Um momento de crise! — 30/10/2026
+
+Tradução integral da fonte627 salva em capitulos/606 - Um momento de crise.txt (exclamação preservada no título interno) sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/10522999-acfb-40f4-9ca1-c66b6b449775/Texto colado.txt. Correspondência627→606 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: rádio sem resposta, voo umahora, Lin sente perigo e transforma pistola para observar convés, corpos e dirigentes3 vivos temerosos/Samson sangra. Elliott lança aura com Incitação, possui Luke/piloto e mergulha helicóptero. Lin tenta conter/nocautear, vê chifres, pede desculpa e o joga fora para retomar voo. Luke cai quebra ossos mas levanta/recoloca ossos, chifres vermelhos; sem morte definitiva afirmada. Lin foge angustiado para procurar Lu, comunicação/resgate ainda não acontecem. Fonte recua quarto grau anterior para próximoquarto, mantido marcado primeira referência; wrapped in rags interpretado roupas farrapos e marcado. Linzi Town→Lin Zizhen, Elliot Christian→Elliott Christine, nomes fragmentados três dirigentes unificados, Flying Swallow→Andorinha Voadora, Zum→Zumwalt. Ruído5 final removido. Nenhum sobrevivente extra, procedimento técnico ou desfecho inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–606 aguardam publique. Próximo correto607, fonte esperada628, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 607 — As ações de Lu Li — 30/10/2026
+
+Tradução integral da fonte628 salva em capitulos/607 - As ações de Lu Li.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/7d6a9a39-427b-41a0-ab83-eb730c0bc36f/Texto colado.txt. Correspondência628→607 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Steven carregou destróier materiais radioativos, encontro amanhã; demais materiais Lu prontos. Lin relata crise, Lu identifica Elliott e reivindica navio/pessoal sem saber plano traição Daller. Convoca Liu do Mundo Intraterrestre, estima adversário auge sexto; ela quer tentar com força própria e apoio se precisar. Voo Cebu sem Peng, mandado cuidar Tianwei/Zhang Xiao; seis horas após ligação Lin encontra ambos anoitecendo. Lu demonstra domínio tempo e admite bastidores/força física limitada, Liu detecta anomalia final sem identificar. Iate reservado festas clube. Wishing you well possivelmente nome Zhujun corrompido, vertido chamado Zhujun marcado; frase quebrada Liu/Elliott e apoio temporal reconstruída e marcada. Linzi Town→Lin Zizhen, Elliot Christian→Elliott Christine; ruído310 retirado. Sem resgate/compra formal ou identificação da anomalia acrescentados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–607 aguardam publique. Próximo correto608, fonte esperada629, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 608 — A Marinha de Sulu — 30/10/2026
+
+Tradução integral da fonte629 salva em capitulos/608 - A Marinha de Sulu.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/04415ccf-d6c6-4ab1-8fb0-54206be83cf9/Texto colado.txt. Correspondência629→608 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lu avalia Andorinha seis mil horas restantes depois quatro mil pelo rangido; totalprevisto60–70mil/voadas<20mil preservado como fonte. Lin pilota, Liu captura aura escura atrás assento em gelo, Lu percebe fantasma sabe chegada. Lin teme companheiros; Lu pode reverter mortes conforme valor/custo próprio. Sobrevoam Cebu/Dolores com iates, cruzador EUA e dois naviosSulu; relato exercícios7aYokosuka/3aCalifórnia para pressionar clube/China, turismo e economia. Alegações geográficas/militares preservadas ficção sem ficha factual adicional. Released grip após franzir interpretado relaxou expressão e marcado; deslocamento3200metroscúbicos mantido literal com dúvida sem converter. Liu pronomes masculinos corrigidos personagem feminina, Linzi Town→Lin Zizhen, Flying Swallow→Andorinha Voadora, Zum→Zumwalt, ruído03 removido. Sem chegada destróier ou combate novo acrescentado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–608 aguardam publique. Próximo correto609, fonte esperada630, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Retomada: capítulos 609–610 — 30/10/2026
+
+Pedido: limite voltou, verificar e continuar. Conferido estado real:608 já salvo integralmente; fontes630 e631 ainda sem TXT/entradas. Tradução permanente executada, sem nova inclusão no leitor. Novos arquivos capitulos/609 - Perseguição no mar.txt e capitulos/610 - Não precisa de tudo isso.txt. Fontes C:/Users/robson.colaco/.codex/attachments/15286361-0057-4ad0-a4f5-ddb6d011ed8f/Texto colado.txt e C:/Users/robson.colaco/.codex/attachments/642563f0-de75-439f-b619-b44d8759daa1/Texto colado.txt. Correspondências630→609/631→610 com offlinePending; esquema8 preservado. Nenhuma tradução substituída; reversão seletiva remove apenas dois novos TXT e entradas correspondentes, registrando reversão. Sem notas autorais, futura integração authorNote false.
+
+609: Liu detecta aura, Pequena Wei localiza quatro navios; Lu suspeita controle dos quatro e risco massacre pequenos países, mas chegada revela dois Ticonderoga fugindo Zumwalt e ArleighBurkeDDG84 que leva materiais StevenHull. Razão captura último desconhecida. Aceleração aplicada helicóptero, depois retirada. Geografia Tianchaowan/GulfProvince vertida Taiwan com dúvida primeira menção; Steven a bordo versus embarcação preparada reconstruído com dúvida sem confirmar presença pessoal; unidades mitts de deslocamento vertidas toneladas e marcadas três vezes. Núcleo texto materiais nuclear land-based corrompido limitado contexto suprimentos Lu sem novo programa armamentista. Números9600/14000/9000 mantidos.
+
+610: Lu manda saltar, Lin empurrado abre paraquedas, Liu voa e sustenta passos Lu com gelo; helicóptero cai sem explosão/desfecho acrescentado. Tripulações e observadores via drones/satélite veem fenômeno; Elliott fica no convés com vinho e Shaw abanando, despreza chegada. Talento Lin classeA próximo divino/99porcento, treinamento temporal permitiria nívelLiu. Abriu paraquedas flew higher reconstruído conteve queda com marca; longeTaiwan mantido marcado por contraste proximidade609. Sem batalha/pouso final narrado. Nomes Elliott Christine/Lin Zizhen/Liu Zhujun e Zumwalt normalizados, pronomes de Liu ajustados feminina, ruídos8/々 retirados.
+
+Validação efetiva: ambos TXT decodificados UTF-8 estrito e idênticos ao conteúdo gravado; sem caracteres substituição, marcadores asteriscos equilibrados, IDs/fontes únicos, textos integrais e finais conferidos com anexos. Leitor/aplicação intactos:322 capítulos279–600, TXT601–610 aguardam publique. Próximo correto611, fonte esperada632, sujeito à conferência. Sem staging/commit/push ou implantação.

@@ -1570,8 +1570,148 @@
       "old": 605,
       "new": 584,
       "title": "Os últimos ajustes"
+    },
+    {
+      "old": 606,
+      "new": 585,
+      "title": "Sucesso!"
+    },
+    {
+      "old": 607,
+      "new": 586,
+      "title": "Sob ataque"
+    },
+    {
+      "old": 608,
+      "new": 587,
+      "title": "Missão designada"
+    },
+    {
+      "old": 609,
+      "new": 588,
+      "title": "Nossa tecnologia"
+    },
+    {
+      "old": 610,
+      "new": 589,
+      "title": "Missão concluída"
+    },
+    {
+      "old": 611,
+      "new": 590,
+      "title": "Novas informações"
+    },
+    {
+      "old": 612,
+      "new": 591,
+      "title": "Seu mestre"
+    },
+    {
+      "old": 613,
+      "new": 592,
+      "title": "Os poderes de Lin Zizhen"
+    },
+    {
+      "old": 614,
+      "new": 593,
+      "title": "O cultivo de Lin Zizhen"
+    },
+    {
+      "old": 615,
+      "new": 594,
+      "title": "A compra de uma embarcação"
+    },
+    {
+      "old": 616,
+      "new": 595,
+      "title": "Uma demonstração de boa vontade"
+    },
+    {
+      "old": 617,
+      "new": 596,
+      "title": "Pechinchar?"
+    },
+    {
+      "old": 618,
+      "new": 597,
+      "title": "Submeta-se a mim!"
+    },
+    {
+      "old": 619,
+      "new": 598,
+      "title": "Pagamento integral"
+    },
+    {
+      "old": 620,
+      "new": 599,
+      "title": "Zumwalt"
+    },
+    {
+      "old": 621,
+      "new": 600,
+      "title": "O pedido de Lin Zizhen"
+    },
+    {
+      "old": 622,
+      "new": 601,
+      "title": "Acordo inicial firmado",
+      "offlinePending": true
+    },
+    {
+      "old": 623,
+      "new": 602,
+      "title": "Facções",
+      "offlinePending": true
+    },
+    {
+      "old": 624,
+      "new": 603,
+      "title": "Uma boa parceria",
+      "offlinePending": true
+    },
+    {
+      "old": 625,
+      "new": 604,
+      "title": "Codinome do fantasma: Incitação",
+      "offlinePending": true
+    },
+    {
+      "old": 626,
+      "new": 605,
+      "title": "Bem-vindo de volta!",
+      "offlinePending": true
+    },
+    {
+      "old": 627,
+      "new": 606,
+      "title": "Um momento de crise!",
+      "offlinePending": true
+    },
+    {
+      "old": 628,
+      "new": 607,
+      "title": "As ações de Lu Li",
+      "offlinePending": true
+    },
+    {
+      "old": 629,
+      "new": 608,
+      "title": "A Marinha de Sulu",
+      "offlinePending": true
+    },
+    {
+      "old": 630,
+      "new": 609,
+      "title": "Perseguição no mar",
+      "offlinePending": true
+    },
+    {
+      "old": 631,
+      "new": 610,
+      "title": "Não precisa de tudo isso!",
+      "offlinePending": true
     }
   ],
   "pendingFromOld": 556,
-  "notes": "Leitor offline: 306 capítulos consecutivos 279–584. Todos os TXT integrados, sem pendências. Fontes 596/597 reunidas no 576; fonte 605→584. Próximo correto 585, fonte esperada 606, sujeito à conferência. Esquema de migração 8 preservado."
+  "notes": "Leitor offline: 322 capítulos consecutivos 279–600. TXT 601–610 aguardam publique. Fontes630→609 e631→610 concluídas na retomada. Próximo correto611, fonte esperada632, sujeito à conferência. Esquema de migração8 preservado."
 }
