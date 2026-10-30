@@ -1654,64 +1654,149 @@
     {
       "old": 622,
       "new": 601,
-      "title": "Acordo inicial firmado",
-      "offlinePending": true
+      "title": "Acordo inicial firmado"
     },
     {
       "old": 623,
       "new": 602,
-      "title": "Facções",
-      "offlinePending": true
+      "title": "Facções"
     },
     {
       "old": 624,
       "new": 603,
-      "title": "Uma boa parceria",
-      "offlinePending": true
+      "title": "Uma boa parceria"
     },
     {
       "old": 625,
       "new": 604,
-      "title": "Codinome do fantasma: Incitação",
-      "offlinePending": true
+      "title": "Codinome do fantasma: Incitação"
     },
     {
       "old": 626,
       "new": 605,
-      "title": "Bem-vindo de volta!",
-      "offlinePending": true
+      "title": "Bem-vindo de volta!"
     },
     {
       "old": 627,
       "new": 606,
-      "title": "Um momento de crise!",
-      "offlinePending": true
+      "title": "Um momento de crise!"
     },
     {
       "old": 628,
       "new": 607,
-      "title": "As ações de Lu Li",
-      "offlinePending": true
+      "title": "As ações de Lu Li"
     },
     {
       "old": 629,
       "new": 608,
-      "title": "A Marinha de Sulu",
-      "offlinePending": true
+      "title": "A Marinha de Sulu"
     },
     {
       "old": 630,
       "new": 609,
-      "title": "Perseguição no mar",
-      "offlinePending": true
+      "title": "Perseguição no mar"
     },
     {
       "old": 631,
       "new": 610,
-      "title": "Não precisa de tudo isso!",
-      "offlinePending": true
+      "title": "Não precisa de tudo isso!"
+    },
+    {
+      "old": 632,
+      "new": 611,
+      "title": "Desembarque"
+    },
+    {
+      "old": 633,
+      "new": 612,
+      "title": "Vá com calma"
+    },
+    {
+      "old": 634,
+      "new": 613,
+      "title": "Bastante confiantes"
+    },
+    {
+      "old": 635,
+      "new": 614,
+      "title": "Não consigo encontrá-lo"
+    },
+    {
+      "old": 636,
+      "new": 615,
+      "title": "Outra maneira"
+    },
+    {
+      "old": 637,
+      "new": 616,
+      "title": "O teste de Liu Zhujun"
+    },
+    {
+      "old": 638,
+      "new": 617,
+      "title": "Domínio congelado"
+    },
+    {
+      "old": 639,
+      "new": 618,
+      "title": "Exoesqueleto motorizado — Modelo experimental"
+    },
+    {
+      "old": 640,
+      "new": 619,
+      "title": "Voo!"
+    },
+    {
+      "old": 641,
+      "new": 620,
+      "title": "Batalha em andamento"
+    },
+    {
+      "old": 642,
+      "new": 621,
+      "title": "Miragem"
+    },
+    {
+      "old": 643,
+      "new": 622,
+      "title": "Choque elétrico"
+    },
+    {
+      "old": 644,
+      "new": 623,
+      "title": "Ele escapou"
+    },
+    {
+      "old": 645,
+      "new": 624,
+      "title": "Medo"
+    },
+    {
+      "old": 646,
+      "new": 625,
+      "title": "Só estava bêbado"
+    },
+    {
+      "old": 647,
+      "new": 626,
+      "title": "A vida já é difícil, não piore as coisas"
+    },
+    {
+      "old": 648,
+      "new": 627,
+      "title": "O vinho intragável"
+    },
+    {
+      "old": 649,
+      "new": 628,
+      "title": "Sashimi"
+    },
+    {
+      "old": 650,
+      "new": 629,
+      "title": "Pane"
     }
   ],
   "pendingFromOld": 556,
-  "notes": "Leitor offline: 322 capítulos consecutivos 279–600. TXT 601–610 aguardam publique. Fontes630→609 e631→610 concluídas na retomada. Próximo correto611, fonte esperada632, sujeito à conferência. Esquema de migração8 preservado."
+  "notes": "Leitor offline: 351 capítulos consecutivos 279–629. Todos os TXT integrados, sem pendências. Fontes641–650→620–629. Próximo correto630, fonte esperada651, sujeito à conferência. Esquema de migração8 preservado."
 }

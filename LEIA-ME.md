@@ -296,3 +296,17 @@ Backup: backups/offline-571-584-20261029T202950/. Para reverter inclusão, resta
 Dezesseis TXT585–600 incluídos integralmente. Leitor com322 capítulos consecutivos e nenhum TXT pendente; fontes606–621→585–600. Esquema8, controles, progresso e preferências preservados.
 
 Backup: backups/offline-585-600-20261030T162327/. Para reverter inclusão, restaurar chapters.js/index.html/testes/tabela anteriores, preservar TXT e registrar reversão. Documentos anteriores e manifesto SHA-256 também disponíveis. Testes automatizados e sintaxe aprovados; revisão visual real não realizada. Arquivos locais na pasta oficial prontos para commit e push manuais.
+
+
+## Publicação offline atual — 279–619
+
+Dezenove TXT601–619 incluídos integralmente. Leitor com341 capítulos consecutivos, sem TXT pendente; fontes622–640→601–619. Novo grupo601–700 com comportamento automático do índice preservado. Esquema8, controles, progresso e preferências mantidos.
+
+Backup: backups/offline-601-619-20261030T174338/. Reverter inclusão restaurando chapters.js/index.html/testes/tabela anteriores, preservar TXT e registrar reversão; documentos anteriores e manifesto SHA-256 também disponíveis. Testes automatizados e sintaxe aprovados; revisão visual real não realizada. Arquivos locais prontos para commit/push manuais.
+
+
+## Publicação offline atual — 279–629
+
+Dez TXT620–629 incluídos integralmente. Leitor com351 capítulos consecutivos, nenhum TXT pendente; fontes641–650→620–629. Esquema8, índice por centenas e preferências preservados.
+
+Backup: backups/offline-620-629-20261030T202633/. Reverter inclusão restaurando chapters.js/index.html/testes/tabela anteriores, preservando TXT e registrando reversão; documentos e manifesto SHA-256 também disponíveis. Testes automatizados e sintaxe aprovados; revisão visual real não realizada. Arquivos locais prontos para commit/push manuais.

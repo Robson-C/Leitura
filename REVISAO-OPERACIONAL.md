@@ -2977,3 +2977,186 @@ Pedido: limite voltou, verificar e continuar. Conferido estado real:608 já salv
 610: Lu manda saltar, Lin empurrado abre paraquedas, Liu voa e sustenta passos Lu com gelo; helicóptero cai sem explosão/desfecho acrescentado. Tripulações e observadores via drones/satélite veem fenômeno; Elliott fica no convés com vinho e Shaw abanando, despreza chegada. Talento Lin classeA próximo divino/99porcento, treinamento temporal permitiria nívelLiu. Abriu paraquedas flew higher reconstruído conteve queda com marca; longeTaiwan mantido marcado por contraste proximidade609. Sem batalha/pouso final narrado. Nomes Elliott Christine/Lin Zizhen/Liu Zhujun e Zumwalt normalizados, pronomes de Liu ajustados feminina, ruídos8/々 retirados.
 
 Validação efetiva: ambos TXT decodificados UTF-8 estrito e idênticos ao conteúdo gravado; sem caracteres substituição, marcadores asteriscos equilibrados, IDs/fontes únicos, textos integrais e finais conferidos com anexos. Leitor/aplicação intactos:322 capítulos279–600, TXT601–610 aguardam publique. Próximo correto611, fonte esperada632, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 611 — Desembarque — 30/10/2026
+
+Tradução integral da fonte632 salva em capitulos/611 - Desembarque.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/959efa44-7878-4094-b5a9-d24057977b7e/Texto colado.txt. Correspondência632→611 com offlinePending; esquema8 preservado. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: helicóptero cai/afunda; observadores reconhecem Liu clube mas só Daller reconhece Lin. Elliott desaparece da popa, paraquedas Lin se rompe<100m, queda sem ferimento e força ergue proa; Lin percebe poder, salta involuntariamente superestrutura. Liu chega a seu lado e olha céu, Lu pisa convés com mercenários; batalha ainda não iniciada. Três dúvidas marcadas: frase partida sobre medo Lin/força Elliott, detached from ship interpretado perdeu sustentação paraquedas, auge terceiro preservado embora594 afirme quarto. Island vertido superestrutura naval por contexto. Liu pronomes femininos, Elliott fragmentado unificado, Linzi Town→Lin Zizhen, Zum→Zumwalt, cruiser corrigido pelo nome classeTiconderoga. Ruídos8/V removidos. Sem causa da ruptura paraquedas ou identidade mercenários inventada.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–611 aguardam publique. Próximo correto612, fonte esperada633, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulos 612–613 — Vá com calma / Bastante confiantes — 30/10/2026
+
+Traduções integrais das fontes633/634 sob autorização permanente. Arquivos capitulos/612 - Vá com calma.txt e capitulos/613 - Bastante confiantes.txt. Fontes C:/Users/robson.colaco/.codex/attachments/1e3ff979-d0ac-431d-a567-b698fe5a9fb9/Texto colado.txt e C:/Users/robson.colaco/.codex/attachments/de2707dc-0b12-4f2e-95a8-cecd5d5e6c4b/Texto colado.txt. Correspondências633→612/634→613 com offlinePending; esquema8 preservado. Arquivos novos sem substituições; reversão seletiva remove dois TXT e entradas correspondentes, registrando reversão. Sem notas autorais, futura integração authorNote false.
+
+612: Lu sente incitação sem controle mental total, recebe bastão gelo de Liu, desvia bala sob domínio temporal, mar sangra criatura provável. Cerca130sobreviventes,90–100convés; Liu promete pegar leve, congela sem desfecho vital revelado até613 e ergue paredes contra disparos. Lu acelera10milvezes, ambos atravessam cerco, manda Lin trabalhar; ele transforma pistola em tranquilizante rápido. Nenhuma origem técnica do tranquilizante acrescentada.
+
+613: confirma congelados vivos, Lin quer sedar antigos companheiros; Lu manda cuidarem enquanto procura Elliott, aura oculta. Poder temporal descrito acima Rei com multiplicadores maiores. Deng em videoconferência militar teme conflito por tomada navio, reconhece Lu por névoa antigravação; equipamento somente Lu criticado imprensa. Oficiais elogiam clube e citam10milpoções militares/entrega2semanas. Voz tela preta autoriza deixar agir, identidade não revelada. Frase final ambígua you play around with clube vertida cobertura ao clube agir, marcada. Linzi Town/Foresttown→Lin Zizhen, Elliott Christian→Elliott Christine, Zum/Zumbaa→Zumwalt, Liu pronomes femininos; ruídos310 retirados. Alegações ficcionais sobre tempo/tecnologia e avaliações políticas preservadas como narrativa sem verificações externas ou detalhes extras.
+
+Validação efetiva: ambos TXT UTF-8 estrito e idênticos ao texto gravado, sem caracteres substituição, marcadores equilibrados excluindo separador, fontes/números únicos, conteúdo integral e finais conferidos com anexos. Leitor/aplicação intactos:322 capítulos279–600. TXT601–613 aguardam publique. Próximo correto614, fonte esperada635, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 614 — Não consigo encontrá-lo — 30/10/2026
+
+Tradução integral da fonte635 salva em capitulos/614 - Não consigo encontrá-lo.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/0ba82e6f-1c18-40a9-b48b-ca364d32eb86/Texto colado.txt. Correspondência635→614 com offlinePending; esquema8 preservado. Título cannot be found entendido pelo corpo como procura fantasma, não aviso capítulo indisponível. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: observadores reavaliam força despertos, Liu congela/desvia balas, Lin terceiroauge recua sedando até controle navio. Lu busca Elliott sem aura, reflete simbiose/poderes, desvia rajada e desarma sob domínio temporal; lança atacantes ao mar sem morte confirmada. Liu congela restantes e percorre navio com cristais, confirma fantasma ausente. Lu considera fuga e então suspeita ArleighBurke com materiais, sem presença Elliott lá confirmada. Deng observa uniforme/névoa e reclama ausência senso perigo. Nomes Elliott Christine e Lin Zizhen normalizados, Zum→Zumwalt, first-person pontual relato mercenário ajustado terceira pessoa, child final removido como referente corrompido a Elliott; ruído8 retirado. Nenhuma localização nova definitiva ou resultado resgate acrescentados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, número/fonte únicos, conteúdo integral e final conferidos com anexo. Sem interpretação adicional incerta a marcar no TXT. Leitor/aplicação intactos:322 capítulos279–600. TXT601–614 aguardam publique. Próximo correto615, fonte esperada636, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 615 — Outra maneira — 30/10/2026
+
+Tradução integral da fonte636 salva em capitulos/615 - Outra maneira.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/ae65dd30-3e23-4758-abed-ea1ead2a10ed/Texto colado.txt. Correspondência636→615 com offlinePending; esquema8 preservado. Novo arquivo sem substituição; reversão seletiva remove TXT e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Elliott visível ArleighBurke, Lu sugere esteve lá desde começo como hipótese apesar relato anterior; Liu parte combater pedindo preservar casco/materiais. Lu permite apoio. Lin sedou ponte inteira e usa manual para ligar turbinas/conduzir torto. Deng declara destino navio decidido, explicita Sociedade Celeste organização oficial, Liu<17anos, debate abordagem naval individual em outros países. Três reconstruções marcadas: apoio atribuído Christine na fonte→Lu conforme diálogo; Lu making direct contact→grupo preparando confronto, sem inventar ataque Lu; frase obscura navio depender mercenários→destino conjunto diante clube. Elliott/ArleighBurke/Lin Zizhen normalizados, stir up→Incitação, Liu pronomes femininos, ruídos310/8 retirados. Sem golpe/desfecho duelo ou dano casco acrescentado; especificações/avaliações militares mantidas como narrativa.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–615 aguardam publique. Próximo correto616, fonte esperada637, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 616 — O teste de Liu Zhujun — 30/10/2026
+
+Tradução integral da fonte637 salva em capitulos/616 - O teste de Liu Zhujun.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/16877265-01f1-4f47-8d48-46f68a30c8a9/Texto colado.txt. Correspondência637→616 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: narrador debate custo equipes<10 versus frotas, exoesqueletos/abordagem como modelo futuro. Liu aproxima Arleigh155x>20m, gelo inicial quebrado Elliott, congela/chuta bloco ao mar para preservar carga. Ele rompe bloco e lança fragmentos que riscam navio; golpe rompe escudo Liu, segundo acompanhado bloqueado mãos, ela recua para testar habilidades. Lu observa compatibilidade simbiose, sem conclusão; marinheiros Ticonderoga reavaliam despertos como Superman. Três dúvidas marcadas: frase partida sailing upwards more2min→ocupação pouco mais2min navio em movimento, segmented warfare→ações por etapas, golpe empty space→ponto no ar sem afirmar acerto/dano. Elliott Christian→Elliott Christine, Ali→ArleighBurke, Zum→Zumwalt, Liu pronomes femininos. Ruídos promoção/five removidos. Nenhum ferimento definitivo, apoio Lu ou resultado duelo inventado; alegações militares mantidas ficção sem instruções adicionais.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos equilibrados, número/fonte únicos, texto integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–616 aguardam publique. Próximo correto617, fonte esperada638, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 617 — Domínio congelado — 30/10/2026
+
+Tradução integral da fonte638 salva em capitulos/617 - Domínio congelado.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/6b6292a5-30fa-4af1-ab2f-11a087cd4cda/Texto colado.txt. Correspondência638→617 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Lu reflete simbiose diferente possessão predatória e possível pesquisa; Elliott sanguevermelho/negro misturado, aura transforma peixes dentados/chifrados que Liu congela. Gelo amplo/flechas quebrados por Elliott, ataque furtivo detectado, comando submissão quase influencia Liu. Ela decide pressionar limites para proteger clube/Lu, pede ajuda se necessário; cria Domínio Congelado, Lu reconhece essência domínio e perseverança, duelo sem conclusão. My husband fonte vertido senhor Lu com dúvida explícita pelo contexto sem estabelecer casamento. Elliott Christian/Cretetin→Elliott Christine, Zhu Jun→Zhujun, Liu pronomes femininos, Zum→Zumwalt, ruído310 retirado. Nenhum apoio temporal ativo ou ferimento final acrescentado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:322 capítulos279–600. TXT601–617 aguardam publique. Próximo correto618, fonte esperada639, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulos 618–619 — Exoesqueleto motorizado / Voo! — 30/10/2026
+
+Traduções integrais fontes639/640 sob autorização permanente, arquivos capitulos/618 - Exoesqueleto motorizado - Modelo experimental.txt e capitulos/619 - Voo.txt. Fontes C:/Users/robson.colaco/.codex/attachments/92ef029d-3f21-4e34-9969-95c252ac73ba/Texto colado.txt e C:/Users/robson.colaco/.codex/attachments/9d5aa101-17cd-4fb3-a59f-b53a3d906a6e/Texto colado.txt. Correspondências639→618/640→619 com offlinePending; esquema8 preservado. Novos TXT sem substituição; reversão seletiva remove somente dois arquivos e entradas correspondentes, registrando reversão. Sem notas autorais, futura integração authorNote false.
+
+618: domínio desde sexto dobra poder aproximado, Lu criou DomínioVazio após quase10anos emMundo03 e difundiu livro para colher aprimoramentos; poder físico mundo fantasia não transportado, espiritual cresce. Lin não sabe conduzir e quase aciona míssil, volta por temor duas opções. Drone temporal Mach4/~4milkm/reservaenergia usoúnico entrega protótipo prata, Galileu/Newton retiveram testes antes enviar; sistema autônomo pode lutar sem usuário. Duelo Liu/Elliott afasta Arleigh.
+
+619: Lu veste20kg, lâminas metal maisduro que carnene/diamante, asas foscas controladas braços/sistema, voa100kmh por3milhas/~5km; Lin inveja. Inspirado HomemFerro, protótipo após fracassos impresso3D. MilitaresArleigh380/32oficiais selecionados Steven por discrição, sob Elliott disparam; Lu desacelera percepção via domínio, evita balas e nocauteia ao pousar, sem mortos afirmados. Carnene vertido carneno marcado por termo incerto, fluxoar/forçaaerodinâmica reconstruído genericamente e marcado sem inventar mecanismo. Alegações físicas/metais mantidas como ficção sem detalhes técnicos adicionais. Galileo→Galileu, XiaoWei→PequenaWei, LinziTown→LinZizhen, ElliottChristine/ArleighBurke/Zumwalt unificados. Ruídos03/0.8/fortunate sem continuidade removidos.
+
+Validação efetiva: ambos TXT UTF-8 estrito idênticos ao texto gravado, sem caracteres substituição, asteriscos equilibrados, números/fontes únicos, conteúdo integral e finais conferidos com anexos. Leitor/aplicação intactos:322 capítulos279–600. TXT601–619 aguardam publique. Próximo correto620, fonte esperada641, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Publicação offline 601–619 — concluída em 30/10/2026
+
+Autorização: comando publicar, equivalente ao publique no escopo permanente de preparação offline completa. Conferido estado real:322 capítulos279–600 e dezenove TXT601–619 únicos, fontes622–640, sem lacunas.
+
+Aplicado: dezenove capítulos anexados integralmente em chapters.js; índice atualizado341; testes estendidos até619 com quinto grupo601–700; tabela sem offlinePending, documentos atualizados. Todos os322 objetos anteriores permaneceram idênticos. Títulos, textos e incertezas preservados; esquema8, app.js e styles.css intactos. Leitor341 capítulos consecutivos279–619, nenhum TXT pendente. Próximo correto620, fonte esperada641, sujeito à conferência.
+
+Backup local backups/offline-601-619-20261030T174338/:26 cópias (sete aplicação/documentação e dezenove TXT), cada uma verificada SHA-256; manifest-sha256.json/publication-summary.json disponíveis. Reversão seletiva restaura chapters.js/index.html/tests/reader.test.cjs/NUMERACAO-CAPITULOS.json anteriores, preserva traduções e registra estado revertido; não sobrescrever registros posteriores com documentos inteiros. Backup ignorado Git.
+
+Validação executada: node tests/reader.test.cjs aprovado,341 IDs, TXT disponíveis286–619 idênticos, navegação600→601/618→619, próximo desabilitado somente último619, grupo601–700 e demais encolhidos na retomada619, itálicos, retomada/progresso/preferências/sidebar, mobile em DOM simulado, notas e migrações1–8. node --check app.js e node --check chapters.js aprovados. git diff --check na revisão final; avisos LF/CRLF não são erros. Revisão visual em navegador real não realizada. Sem dependências novas.
+
+Preparação local completa para revisão e commit/push manuais. Sem staging, commit, push, PR ou implantação remota.
+
+
+## Capítulo 620 — Batalha em andamento — 30/10/2026
+
+Tradução integral da fonte641 salva em capitulos/620 - Batalha em andamento.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/a91c5352-adbd-4989-82e4-7a7d8c4ef048/Texto colado.txt. Correspondência641→620 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: domínio Liu fortalece/suprime adversário, Elliott imprudente é névoa/clone e outro emerge gelo atrás para atingi-la, lançando-a; sem gravidade ferimento ou desfecho especificados. Observadores focam exoesqueleto Lu, especialistas veem linhas/mobilidade e cogitam obter tecnologia para fabricação massa independente poção. Lu destrói armas e derruba militares Arleigh, dezenas amontoados, sem morte confirmada nem controle completo assumido declarado. Elliott Christian→Elliott Christine, Ali→ArleighBurke, Liu pronomes femininos, ruído310 retirado. Uma frase partida comparação máquinas/avaliação técnica reconstruída e marcada. Aparência cinza-pretof osco mantida conforme fonte sem reescrever prata protótipo anterior. Sem detalhe técnico adicional ou localização fantasma nova inventados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620 aguarda publique. Próximo correto621, fonte esperada642, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 621 — Miragem — 30/10/2026
+
+Tradução integral da fonte642 salva em capitulos/621 - Miragem.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/6c6d508b-e5d9-43b9-9f7c-a32b5c96eff8/Texto colado.txt. Correspondência642→621 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: militares conscientes mas incapazes desobedecer Elliott. Lu usa onda de choque mãos, amassa casco/superestrutura e quebra vidros, joga homens contra paredes/mar; pouco mais100inconscientes, reforços continuam. Abre placas peito/asas e névoa fria cobre navio; imagem atravessada balas ainda golpeia, confunde militares. Técnico Ticonderoga atribui concentração névoa a poder desperto/refração, ataque ilusão a choque direcional mas admite internamente não saber mecanismo. Função realmente projetada fuga por Newton/Galileu usada combate. Teoria técnica preservada como fala/especulação personagem, sem confirmar funcionamento real nem acrescentar instrução. Low-light método luzfraca mantido marcado por ambiguidade. Ariel→ArleighBurke, Elliott Christian→Elliott Christine, Galileo→Galileu; ruídos0/5 retirados. Sem morte confirmada ou fim resistência acrescentados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–621 aguardam publique. Próximo correto622, fonte esperada643, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 622 — Choque elétrico — 30/10/2026
+
+Tradução integral da fonte643 salva em capitulos/622 - Choque elétrico.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/4347e5fd-4260-4192-b7e4-850c92bff29e/Texto colado.txt. Correspondência643→622 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: narrador esclarece golpes ilusão eram projéteis borracha elétricos sincronizados, não hipótese choque direcional técnico621. Lu condensa névoa em água/descarga, convés todo inconsciente, gás controle sai testa. Corrente dita segura pela ficção, preservada sem endosso técnico nem parâmetro adicional. Liu/Elliott ambos com ferimentos sem gravidade definida. Lu recolhe exoesqueleto bastão1m e vai verificar carga sem confirmação ainda. Ticonderoga cogitam recuperar Zumwalt, Pequena Wei monitorava/invadira celulares, Lu olha e comandantes desistem fingindo brincadeira; nenhuma batalha contra cruzadores. Deng pressionado explicar tecnologia desconhecida. Pronomes do monitoramento corrigidos contextualmente PequenaWei com marca, Elliott Christian→Elliott Christine, Ari/Aly→ArleighBurke, Zum→Zumwalt, XiaoWei→PequenaWei; ruído310 removido.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–622 aguardam publique. Próximo correto623, fonte esperada644, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 623 — Ele escapou — 30/10/2026
+
+Tradução integral da fonte644 salva em capitulos/623 - Ele escapou.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/c8157c43-59eb-485b-a475-971ba44905cb/Texto colado.txt. Correspondência644→623 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: dirigentes planejam negociar exoesqueleto, especialistas admiram tecnologias observadas sem narrador confirmar teoria choque anterior. Lu confirma materiais intactos. Liu relata fuga Elliott, Lu associa percepção perigo descarga, recusa custo reversão apesar possível e manda resgatar mar. Botes/Liu gelo/recuperados sedação ajudam; trio chefes vivo, Samsonataduras após golpe garras. Lin apresenta3 e Lu pergunta opinião Daller, sem resposta/acordo ainda. Duas reconstruções marcadas: fonte atribui plano ameaçar países a Lu→Elliott; frase deaths>100mercenários/>300marinheiros→derrubados, dado conflito direto capítulos anteriores inconsciência/pouco dano e resgate neste próprio anexo. Não afirmar mortes em massa como confirmadas; números preservados, incerteza explicitada TXT. ElliottChristian→ElliottChristine, Ali→ArleighBurke, LinziTown→LinZizhen, nomes3 fragmentados unificados, Galileo→Galileu, Liu pronomes femininos; ruídos03/310 removidos.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, texto integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–623 aguardam publique. Próximo correto624, fonte esperada645, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 624 — Medo — 30/10/2026
+
+Tradução integral da fonte645 salva em capitulos/624 - Medo.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/f748669c-97a0-453d-8fe2-52a649e4849a/Texto colado.txt. Correspondência645→624 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: trio apavorado olhar Liu cai chão, Lu manda levantar/responder opinião Daller. Comandante fala afeto, Lu testa Samson ordenando pular mar tubarões e apoiando bastão ombro; ele ajoelha pede desculpa, Lu suspeita segredo mas plano não confessado ainda. Lin incrédulo lembra Samson resistiu sete dias torturaCIA para proteger segredo Joel/mulher chefe e bebeu ao sair. Duas dúvidas marcadas: único calmo identificado Lin por reação Príncipe aterrorizado, frase final fragmentada Joel/valen/jerome/chefe/mulher reconstruída vínculo sem nome novo. WangZi→Príncipe, JoelValen→JoelWarren, ElliottChristian→ElliottChristine, Ali→ArleighBurke, nomes3 normalizados. Friend bang como som queda, Easy to obtain ruído isolado retirado. Não afirmar salto Samson, confissão, morte ou punição efetiva.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, quatro asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–624 aguardam publique. Próximo correto625, fonte esperada646, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 625 — Só estava bêbado — 30/10/2026
+
+Tradução integral da fonte646 salva em capitulos/625 - Só estava bêbado.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/3cac4bd3-1fb8-441f-b730-6835e9c54338/Texto colado.txt. Correspondência646→625 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Samson confessa ataque controlado e plano tomar materiais/aumentar preço por poções. Victor chuta canela/Príncipe retira mão, tentam negar e alegam embriaguez; Liu ameaça gelo, ajoelham. Lin nega conhecimento, queria amparo grupo. Lu não crê desculpa mas dispensa neste momento por intimidação/poder retaliação; cargos futuros pendentes. Samson foge bote sem salto forçado. Cinco dúvidas marcadas: to side weak reconstruído fim tolerância, frase condicional príncipe versus força sem plano explícito reconstruída intenção real, Liu prestes sexto mantido apesar domínio e sexto anterior, frase hugegap/subordinates reconstruída poder subordinado Rei, cargo atribuídoLu na fonte→funções confiadas porLu ao grupo. ElliottChristian→ElliottChristine, Ali→ArleighBurke, Daler→Daller, LinziTown→LinZizhen, nomes dirigentes unificados; ruído310 removido. Nenhuma incorporação formal/execução/perdão contratual inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dez asteriscos equilibrados, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–625 aguardam publique. Próximo correto626, fonte esperada647, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 626 — A vida já é difícil, não piore as coisas — 30/10/2026
+
+Tradução integral da fonte647 salva em capitulos/626 - A vida já é difícil, não piore as coisas.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/3894cacd-9265-4785-98f3-84dbff573c4e/Texto colado.txt. Correspondência647→626 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Victor/Shaw entregam documentos, no bote ameaçam Samson e bravateiam atacar/extorquir Lu; pernas tremendo expõem medo e silenciam, sem novo plano executado. Arleigh militares despertam dormentes, capitão reconhece chefe do chefe sob confidencialidade. Carga cilindro radioativos levada Zumwalt por mercenários, compra dita concretizada narrador sem cifra/contrato novo; precisa mudar identificação. Navios separam e incidente termina; feridos Daller buscam hospitais com autorização Sulu/portoMarani capital. Marani preservado sem correção geográfica inferida e marcado. Título idiomático contextualizado vergonha exposta no bote, não instrução do usuário. ElliotChristian→ElliottChristine, Ali/Ariel/Aly/Ally→ArleighBurke, Zum→Zumwalt, nomes3 unificados, reflective→radioativos por contexto. Ruídos promoção/V retirados. Sem participação societária clube ou ferimentos fatais adicionais inventados.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dois asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–626 aguardam publique. Próximo correto627, fonte esperada648, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 627 — O vinho intragável — 30/10/2026
+
+Tradução integral da fonte648 salva em capitulos/627 - O vinho intragável.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/9b77f50a-de61-4c77-9b7f-9e0ee4ef4531/Texto colado.txt. Correspondência648→627 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: membros periféricos clubeSulu facilitam portoMarani, condições não usar força/não desembarcar preservadas apesar intenção tratamento. NaviosSulu escoltam, Zum acelera30nós para agradar, MT30 fumaça/ruído preocupa e Lu manda reduzir. Príncipe serve vinhos saqueados Samson como cobrança segredo. Lu rejeita vinho caro/sem aroma e identifica substância dependência, narra origem nobre Samson/pais piratas/parentes ladrões/pobreza/vício superado Daller; não atribuir história a Victor apesar nobreza anterior. Príncipe joga bebida fora, Lu acelera digestão. Liu cria bloco gelo7–8m, função não revelada. Cinco dúvidas marcadas: unidades3milkilos e10milnauticalmiles→toneladas, topônimos rota Guevara/ErgaSinghma/DonalfiSanto e Carvalho sem correção inferida, origem nobreSamson potencial incongruência. Marani mantida referência já incerta626. PrinceXiaoAdams→ShawAdams, Zum variantes unificadas, Sam→EstadosUnidos, Liu feminina. Alegações dependência vinho mantidas ficção sem aconselhamento/técnica adicional.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, dez asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, conteúdo integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–627 aguardam publique. Próximo correto628, fonte esperada649, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 628 — Sashimi — 30/10/2026
+
+Tradução integral da fonte649 salva em capitulos/628 - Sashimi.txt sob autorização permanente. Fonte C:/Users/robson.colaco/.codex/attachments/613efc5c-fb01-411f-95ae-c5f47c8c35c8/Texto colado.txt. Correspondência649→628 com offlinePending; esquema8 preservado. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: bloco tem peixes/atum>2m/lagostas1libra, Liu pede sashimi/sopa e dispensa vinhos no mar. Lu oferece reembolsoSamson. Daller recusou adesão como cooperação mas aceitou emprego, parceiro externo SegurançaTianwei; saláriobase100mil mensal equivale>10mildólares, chefes300mildólares mensal maisbônus. Contradição moedas fonte todosdólares mantida com três marcas, primeira yuans inferida pela equivalência, sem ajustar cifra chefes. Reparos3–5dias/provisões1–2, Liu quer frutas, Lu permite passeio sem atrasar e destaca jovem psicologicamente apesar milênios cultivo. Zum entraMarani, turistas, manhãquarto<15m2 sembanheiro improvisado sala reunião crânio/naja, Lu incomodado ondas encontra Liu lendo. Nail→convés por contexto, SportsLifeClub→ClubeLongevidade, ZhuJun→Zhujun, Liu feminina, Prince→Príncipe. Sem fruta consumida/banquete servido ou novo valor compra inventado.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos de dúvida equilibrados excluindo separador, número/fonte únicos, texto integral e final conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–628 aguardam publique. Próximo correto629, fonte esperada650, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Capítulo 629 — Pane — 30/10/2026
+
+Tradução integral da fonte650 salva em capitulos/629 - Pane.txt sob autorização permanente. Usuário repetiu650 como referência fonte; sequência corrigida preservada650→629, sem renumeração global. Fonte C:/Users/robson.colaco/.codex/attachments/6e0c3836-446f-408b-9783-bf61500d0cc9/Texto colado.txt. offlinePending e esquema8 mantidos. Novo TXT sem substituição; reversão seletiva remove arquivo e entrada correspondente, registrando reversão. Sem nota autoral, futura integração authorNote false.
+
+Continuidade: Liu lê livro elemento gelo Mundo03>milvezes e parfait frutas chef. MotorprincipalMT30carbonizado sobrecarga/papel manutenção, interior não queimado, peças encomenda meio mês versus comandante uma semana. Só engenheiroDickQuick, salários antes não comportam equipe; auxiliar só energia interna. Lu assume solução, dispositivo fusão enviado avião chegadaMarani meio-dia após alfândega; considera substituir propulsão, mineral recipiente manto/núcleo e trítio narrativa ficcional sem parâmetros novos. Não confirmar instalação/teste/entrega. DickQuake/Quick/Quirk→DickQuick, mainframe/host/computer→unidade motriz pelo contexto, Zumbaa→Zumwalt, reflective→radioativos, ruídos11/It'sgoodtohave retirados. Três dúvidas marcadas: comentário façanha grupo, phonefrombow→cabeceira pelo quarto, plano altitude sobre águas internacionais literal reconstruído. Não corrigir cientificamente potências/temperaturas da ficção nem acrescentar instrução técnica.
+
+Validação efetiva: UTF-8 estrito, nenhum caractere de substituição, seis asteriscos equilibrados, número/fonte únicos, conteúdo integral e encerramento conferidos com anexo. Leitor/aplicação intactos:341 capítulos279–619. TXT620–629 aguardam publique. Próximo correto630, fonte esperada651, sujeito à conferência. Sem staging/commit/push ou implantação.
+
+
+## Publicação offline 620–629 — concluída em 30/10/2026
+
+Autorização: comando publique no escopo permanente de preparação offline completa. Conferido estado real:341 capítulos279–619 e dez TXT620–629 únicos sem lacunas, fontes641–650. Traduções601–619 previamente integradas preservadas, inclusive arquivos ainda não rastreados pelo Git; não duplicar nem confundir untracked com pendência no leitor.
+
+Aplicado: dez textos completos anexados em chapters.js, índice351, testes ampliados até629, tabela sem offlinePending, documentação atualizada. Todos os341 objetos anteriores permaneceram idênticos. Títulos e incertezas mantidos; esquema8, app.js/styles.css intactos. Leitor351 capítulos consecutivos279–629, nenhum TXT pendente. Próximo correto630, fonte esperada651, sujeito à conferência.
+
+Backup local backups/offline-620-629-20261030T202633/:17 cópias (sete aplicação/documentação e dez TXT), SHA-256 de cada cópia conferido; manifest-sha256.json/publication-summary.json disponíveis. Reversão seletiva restaura chapters.js/index.html/tests/reader.test.cjs/NUMERACAO-CAPITULOS.json anteriores, mantém traduções e registra reversão; não sobrescrever documentação posterior integralmente. Backup ignorado Git.
+
+Validação executada: node tests/reader.test.cjs aprovado,351 IDs, equivalência dos TXT disponíveis286–629, navegação619→620/628→629, próximo desabilitado último629, retomada posição/preferências/sidebar, índice601–700 com somente grupo atual aberto, itálicos629, mobile em DOM simulado, notas/migrações1–8. node --check app.js/node --check chapters.js aprovados. git diff --check revisão final, avisos LF/CRLF não são erros. Revisão visual em navegador real não realizada. Sem dependências novas.
+
+Preparação local completa para revisão e commit/push manuais. Sem staging/commit/push, PR ou implantação remota.
