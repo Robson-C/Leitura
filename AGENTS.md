@@ -141,3 +141,8 @@ Dezenove TXT601–619 integrados integralmente por comando publicar. Leitor com3
 ## Publicação offline 279–629 concluída — 30/10/2026
 
 Dez TXT620–629 integrados integralmente por comando publique. Leitor com351 capítulos consecutivos279–629, nenhum TXT pendente; fontes641–650→620–629. Esquema8, índice por centenas, controles, progresso e preferências preservados. Próximo correto630, fonte esperada651, sujeito à conferência. Commit/push manuais; backup e validação na revisão operacional.
+
+
+## Estado conferido em31/10/2026 — publicação até632
+
+Estado real anterior351 capítulos279–629, fonte650→629, resolve numeração651–659→630–638. Integrados630–632; leitor354 capítulos279–632. TXT635–638 prontos, bloqueados pela ausência de versões publicáveis633/634 (fontes654/655). Adaptação sem trechos sexualizados oferecida e aguardando resposta. Não encobrir lacuna nem declarar publicação completa até638. Tabela tem offlinePending635–638, esquema8 preservado. Próxima fonte660/correto639, sujeita à conferência.
