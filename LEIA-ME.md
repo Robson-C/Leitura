@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 354 capítulos consecutivos, de 279 a 632. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
+Inclui 360 capítulos consecutivos, de 279 a 638. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
 
 ## Leitura
 
@@ -312,8 +312,20 @@ Dez TXT620–629 incluídos integralmente. Leitor com351 capítulos consecutivos
 Backup: backups/offline-620-629-20261030T202633/. Reverter inclusão restaurando chapters.js/index.html/testes/tabela anteriores, preservando TXT e registrando reversão; documentos e manifesto SHA-256 também disponíveis. Testes automatizados e sintaxe aprovados; revisão visual real não realizada. Arquivos locais prontos para commit/push manuais.
 
 
-## Publicação offline atual — 279–632
+## Publicação offline anterior — 279–632
 
 Integrados630–632, fontes651–653, após conferência do estado atual629/fonte650. Leitor354 capítulos consecutivos. TXT635–638 prontos, fontes656–659;633/634 aguardam autorização para adaptação sem trechos sexualizados das fontes654/655. Não publicar a faixa posterior deixando lacuna ou renumerando para encobri-la. Nomes alinhados Dick Quick/Zumwalt/Elliott Christine. Controles, progresso, preferências e esquema8 preservados.
 
 Backup: backups/offline-630-632-20261101T000637484/. Restaurar arquivos anteriores para reverter somente integração; preservar TXT e registrar reversão. Revisão visual real não realizada. Commit e push manuais.
+
+
+##TXT633–638 — preparação anterior
+
+633/634 foram preparados a pedido do usuário com avisos de omissão e referência às linhas dos anexos originais.635–638 já traduzidos. Leitor permanece até632. O HTML carrega chapters.js, sem ler os TXT diretamente. Editar TXT não altera o leitor publicado; a preparação pelo comando publique precisa incorporar os textos em chapters.js.
+
+
+## Publicação offline atual —279–638
+
+Seis TXT633–638 incorporados. Leitor360 capítulos consecutivos, nenhum TXT pendente.633/634 mantêm notas de versão e seis avisos de omissão com linhas da fonte. Fontes654–659 correspondem633–638; próximo correto639/fonte660. Controles, preferências, progresso e esquema8 preservados.
+
+Backup:backups/offline-633-638-20261101T001913052/. Restaurar arquivos anteriores para reverter integração, preservar TXT e registrar reversão. Validação automatizada descrita na revisão; revisão visual real não realizada. Commit e push manuais.

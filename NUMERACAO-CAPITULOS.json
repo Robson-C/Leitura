@@ -1812,30 +1812,36 @@
       "title": "O misterioso pergaminho de pele de carneiro"
     },
     {
+      "old": 654,
+      "new": 633,
+      "title": "Mal-entendido"
+    },
+    {
+      "old": 655,
+      "new": 634,
+      "title": "Eu errei!"
+    },
+    {
       "old": 656,
       "new": 635,
-      "title": "Entrando novamente no Rio do Tempo",
-      "offlinePending": true
+      "title": "Entrando novamente no Rio do Tempo"
     },
     {
       "old": 657,
       "new": 636,
-      "title": "A grande batalha!!!",
-      "offlinePending": true
+      "title": "A grande batalha!!!"
     },
     {
       "old": 658,
       "new": 637,
-      "title": "Recuperação",
-      "offlinePending": true
+      "title": "Recuperação"
     },
     {
       "old": 659,
       "new": 638,
-      "title": "A tribo Jiuli",
-      "offlinePending": true
+      "title": "A tribo Jiuli"
     }
   ],
-  "pendingFromOld": 654,
-  "notes": "Leitor offline:354 capítulos consecutivos279–632. Fontes651–653→630–632 integradas; fontes656–659→635–638 traduzidas, aguardando inclusão. Fontes654/655→633/634 dependem de autorização de adaptação sem trechos sexualizados. Fonte650→629 comprovada pelo estado atual. Próximo correto639, fonte esperada660, sujeito à conferência. Esquema8 preservado."
+  "pendingFromOld": 660,
+  "notes": "Leitor offline:360 capítulos consecutivos279–638, nenhum TXT pendente. Fontes651–659→630–638.633/634 publicados com omissões sinalizadas autorizadas pelo usuário e referências ao original. Próximo correto639, fonte esperada660, sujeito à conferência. Esquema8 preservado."
 }

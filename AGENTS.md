@@ -146,3 +146,13 @@ Dez TXT620–629 integrados integralmente por comando publique. Leitor com351 ca
 ## Estado conferido em31/10/2026 — publicação até632
 
 Estado real anterior351 capítulos279–629, fonte650→629, resolve numeração651–659→630–638. Integrados630–632; leitor354 capítulos279–632. TXT635–638 prontos, bloqueados pela ausência de versões publicáveis633/634 (fontes654/655). Adaptação sem trechos sexualizados oferecida e aguardando resposta. Não encobrir lacuna nem declarar publicação completa até638. Tabela tem offlinePending635–638, esquema8 preservado. Próxima fonte660/correto639, sujeita à conferência.
+
+
+##633/634 com omissões autorizadas —31/10/2026
+
+Usuário pediu traduzir restante e colocar avisos com linhas originais nos trechos omitidos. TXT633/634 criados, fontes654/655, com2/4avisos respectivamente. Conteúdo omitido não reproduzido nem em inglês. Lote633–638 agora preparado, aguardando novo publique; leitor permanece354 capítulos279–632. Supersede pendência anterior de autorização da versão com avisos. Arquivo HTML não lê TXT diretamente:chapters.js guarda cópias, atualizadas na preparação offline. Alterações futuras em TXT já publicados exigem comparação e atualização explícita das cópias em chapters.js.
+
+
+## Publicação offline279–638 concluída —31/10/2026
+
+Comando publique tudo executado:TXT633–638 integrados; leitor360 capítulos consecutivos279–638, sem pendentes. Fontes654–659→633–638.633/634 mantêm notas de versão e seis avisos de omissão autorizados. Esquema8/controles/progresso/preferências preservados. Próximo correto639, fonte660, sujeito à conferência. Supersede estados pendentes anteriores. Commit/push manuais; backup e validação na revisão operacional.
