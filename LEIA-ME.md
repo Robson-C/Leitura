@@ -356,3 +356,6 @@ Backup:backups/offline-646-660-20261102T132557135/. Para reverter inclusão, res
 Dez TXT661–670 integrados como preparados. Leitor392 capítulos consecutivos, nenhum TXT pendente.664 mantém nota de versão e um aviso pontual. Demais novos capítulos integrais. Revisões633/634/644/645 preservadas,assim como controles/progresso/preferências e esquema8. Próximo correto671/fonte692,sujeito à conferência.
 
 Backup:backups/offline-661-670-20261102T134546304/. Restaurar arquivos anteriores para reverter inclusão,preservar TXT e registrar reversão. Revisão visual real não realizada. Commit e push manuais.
+
+
+Revisão de 02/11/2026: capítulo 646 atualizado com adaptação contextual sinalizada, substituindo os três avisos de omissão. TXT e leitor alinhados; preservados os acontecimentos e o tratamento dos ferimentos. Último capítulo permanece 670.
