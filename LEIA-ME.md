@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 392 capítulos consecutivos, de 279 a 670. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
+Inclui 397 capítulos consecutivos, de 279 a 675. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
 
 ## Leitura
 
@@ -351,7 +351,7 @@ Quinze TXT646–660 integrados como preparados. Leitor382 capítulos consecutivo
 Backup:backups/offline-646-660-20261102T132557135/. Para reverter inclusão, restaurar arquivos anteriores do backup, preservar TXT e registrar reversão. Revisão visual real não realizada. Commit e push manuais.
 
 
-## Publicação offline atual —279–670
+## Publicação offline anterior —279–670
 
 Dez TXT661–670 integrados como preparados. Leitor392 capítulos consecutivos, nenhum TXT pendente.664 mantém nota de versão e um aviso pontual. Demais novos capítulos integrais. Revisões633/634/644/645 preservadas,assim como controles/progresso/preferências e esquema8. Próximo correto671/fonte692,sujeito à conferência.
 
@@ -359,3 +359,8 @@ Backup:backups/offline-661-670-20261102T134546304/. Restaurar arquivos anteriore
 
 
 Revisão de 02/11/2026: capítulo 646 atualizado com adaptação contextual sinalizada, substituindo os três avisos de omissão. TXT e leitor alinhados; preservados os acontecimentos e o tratamento dos ferimentos. Último capítulo permanece 670.
+
+
+## Publicação offline atual —279–675
+
+Cinco TXT671–675 integrados, fontes692–696. Leitor397 capítulos consecutivos, sem TXT pendente. Traduções, itálicos e revisões anteriores preservados; esquema8, controles, progresso e preferências mantidos. Próximo correto676/fonte697. Backup:backups/offline-671-675-20261102T233059599/. Para reverter, restaurar arquivos anteriores preservando TXT e registrar reversão. Testes automatizados; revisão visual real não realizada. Commit e push manuais.

@@ -3499,3 +3499,48 @@ Validação:node tests/reader.test.cjs aprovado,392IDs contínuos,TXT disponíve
 A pedido explícito do usuário, substituídos os três marcadores de omissão por narração contextual: objetos e roupas arremessados, constrangimento e pedido de desculpas; cobertura descuidada durante a mordida (nudez incidental sem descrição sexual); olhar desviado e acomodação na cama. Detalhes sexualizados substituídos por descrições neutras. Preservados luta, ferimentos, choro, mordida e tratamento. Nota de adaptação informa a intervenção, sem apresentar esta versão como tradução integral literal. TXT e chapters.js alinhados; demais 391 capítulos estruturalmente idênticos. Contagem 392/último 670, numeração e aplicação preservadas. Backup com cinco arquivos e SHA-256 em backups/adaptacao-646-20261102T160713512. Commit e push permanecem manuais.
 
 Validação da adaptação646: suíte node tests/reader.test.cjs aprovada; TXT e leitor idênticos, ausência dos três marcadores confirmada, demais391objetos preservados por comparação ao backup. node --check chapters.js e git diff --check aprovados. UTF-8 do TXT estrito e sem caractere de substituição. Sem revisão visual real ou envio remoto.
+
+
+## Capítulo 671 — Um pequeno mundo de civilização de cultivo — 02/11/2026
+
+Fonte692: C:/Users/Robson/.codex/attachments/2773cc69-1d64-41db-81cb-740f465dfa0c/Texto colado.txt. Tradução completa salva em capitulos/671 - Um pequeno mundo de civilização de cultivo.txt; correspondência692→671 offlinePending. Próximo672/fonte693. Leitor permanece392capítulos279–670; integração pelo comando publique.
+
+Continuidade: amanhecer após670, Lu acorda Jiang Li’er para descansar; Shi chega desconfiado após traição de Xiao Rou e tenta expulsá-lo. Lu afirma poder curar veneno, ameaça sair, negocia apenas relato completo. Shi explica atentado, Li Mu e disputa pela noiva; Lu questiona força antiga da Terra e possibilidade de pequeno mundo de cultivo. Ainda não cura pai nem aplica poder temporal. Normalizados pronomes masculinos de Shi/Jiang Li, Hun Tian Stone→Pedra do Céu Caótico, Xiong→Youxiong e bride-kicking→disputa pela noiva. Idioma yellow-haired boy traduzido garoto inexperiente, sem inventar cor de cabelo. Fonte tem transição abrupta sobre força do ancião, sem ação explicativa: preservada e marcada com asteriscos; não inventado diálogo ausente. Prazo depois de amanhã preserva after tomorrow sem recalcular contradição cronológica. Sem omissões nem adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem caractere de substituição, asteriscos equilibrados, título/final/numeração única conferidos. Sem modificação em chapters.js, aplicação, progresso ou preferências; sem commit/push.
+
+
+## Capítulo 672 — A hora ainda não chegou — 02/11/2026
+
+Fonte693: C:/Users/Robson/.codex/attachments/a768067a-9366-44bb-90e6-087daf5cd969/Texto colado.txt. Tradução completa salva em capitulos/672 - A hora ainda não chegou.txt;693→672 offlinePending. Próximo673/fonte694. Leitor392capítulos279–670 preservado;TXT671–672 aguardam publique.
+
+Continuidade: Lu especula declínio de energia espiritual/ascensão/morte de cultivadores ou guerra com civilização extraterrestre, sem provas. Shi admite promessa de achar antídoto em três dias era mentira para Li’er. Lu adia intervenção por curiosidade sobre Li Mu/veneno, inventa risco de sequelas;Shi aceita usar método amanhã à noite se não acharem antídoto. Lu garante cura ou extensão forçada de vida como alternativa, ainda não executa nenhuma. Retorna ao antigo quarto (limpo diariamente por Jiang Li’er e reservado apesar dos hóspedes),dorme exausto. Shi continua procurando antídoto.
+
+Três passagens incertas em asteriscos: afirmação da fonte de que antídoto chegaria depois de três dias preservada apesar de contrariar relatos anteriores;range of antidote effectiveness interpretado como área de busca conforme671/explicaçãoLiMu;negação sobre ausência de sequelas no final contextualizada como desculpa sobre risco de sequelas, coerente com diálogo anterior e conclusão de que Lu inventou risco. Não acrescentados poderes usados, descoberta do antídoto ou cura. Pronomes de Jiang Li normalizados masculinos;Alma Nascente e disputa pela noiva preservados. Câncer/veneno tratados como habilidades ficcionais da narrativa, sem instruções médicas externas. Sem omissões ou adaptação sexual necessária.
+
+Validação: TXT UTF-8 estrito sem caracteres de substituição, três pares de asteriscos, título/final/numeração única conferidos. Sem mudança no leitor/aplicação ou commit/push.
+
+
+## Capítulos 673–674 — 02/11/2026
+
+Fontes694–695 traduzidas integralmente em capitulos/673 - Um rival amoroso surgido do nada.txt e capitulos/674 - Parece que ganhei um belo par de chifres.txt. Anexos respectivos C:/Users/Robson/.codex/attachments/2c24f323-13d6-44d6-82da-e20f62abecca/Texto colado.txt e C:/Users/Robson/.codex/attachments/49ad4af1-9513-427d-86a1-1583fc9611bd/Texto colado.txt. Correspondências694→673/695→674 offlinePending;próximo675/fonte696. TXT671–674 pendentes;leitor392capítulos279–670 intacto.
+
+673: Wuning convencido de conquistar Li’er/ganhar Pedra do Caos Primordial bajula Shi,espera até meio-dia;ela rejeita tratamento íntimo,ele insiste e interpreta silêncio como timidez. Shi informa antídoto ainda não encontrado e opçãoLu como último recurso com possíveis sequelas. Filha revela encontro comLu noite/madrugada;Wuning pergunta quem ele é. Fonte tem familiaridade gera desprezo dentro de argumento a favor de intimidade: reconstrução contextual a convivência nos torna mais próximos marcada em asteriscos. kill. isolado removido como ruído,sem evento correspondente. Pronomes normalizados masculinos de Wuning/Jiang Li/Shi.
+
+674: Shi explica visitanteLu/elogia talento,pretende evitar conflito,masWuning reage com ciúme e passa a odiarLu sem tê-lo encontrado. Li’er vai ao quarto deLu e verificar pesquisa do antídoto,seguida porWuning. Defesa dela acirra fantasiaWuning de derrotarLu e conquistá-la. Ela o abandona enquanto fantasia,ele alcança,ela acelera,ele usa técnica de movimentação e alcança novamente. Sem encontro comLu ainda;ele continua dormindo conforme672. Título adapta expressão cultural da pastagem verde a chifres;corpo mantém ambas imagens como percepção imaginária de Wuning,não relacionamento confirmado/infidelidade factual. Fala I could knock you down with one hand contextualizada como Ele poderia derrubá-lo com uma mão só e marcada em asteriscos,pois defesa deLu/competição entre homens,sem certeza do pronome corrompido. Lu Li’er brother corrigido para irmãoLuLi conforme diálogo,sem novo personagem. Removidos pedido flores e (5.) finais de captura. Elogios ao rosto/expressão,ciúme,romance e fantasias não explícitas preservados,sem omissões ou aviso de adaptação.
+
+Validação: ambos TXT UTF-8 estrito sem substituição,títulos/finais/numeração única e um par de asteriscos por capítulo conferidos. Integração ao leitor aguarda publique. Sem alteração em chapters.js/aplicação,commit ou push.
+
+
+## Capítulo 675 — Esse tipo de “lixo” também é considerado um “gênio”? — 02/11/2026
+
+Fonte696→675 explicitamente confirmada pelo usuário. Anexo C:/Users/Robson/.codex/attachments/e30a9a2e-87c5-464c-8bff-5637f27b99b7/Texto colado.txt traduzido em capitulos/675 - Esse tipo de lixo também é considerado um gênio.txt. Nome físico sem aspas/interrogação por compatibilidade Windows;título interno preserva ambos. Registro offlinePending;TXT671–675 aguardam publique. Leitor392capítulos279–670 intacto;próximo676/fonte697 sujeito à conferência.
+
+Continuidade: Wuning elogia força de Li’er,ela rejeita;ambos visitam pesquisa com animais e nenhum antídoto encontrado. Ele insiste em acompanhar visitaLu,se exibe sem saber caminho e pede guia. Filha abre quarto sem resposta,confirma respiração,acordaLu exausto de viagem/cultivo/mural. Lu renovado brinca sobre desrespeito/palmadas,ela cora;Wuning interpreta como humilhação e revela breve intenção assassina. Lu detecta,questiona motivos;Wuning se apresenta como gênio e bajula,Lu pergunta aLi’er se alguém assim é considerado gênio. Sem combate ainda,sem cura/antídoto. Descrição do rosto/pele e constrangimento preservados como descrições não sexuais;nenhuma omissão ou aviso. Removido San Si San intrusivo em nomeJiangLi’er como ruído343;LianLu→LuLi;poison Jiang Li had been using contextualizado como veneno que o afetou,não veneno usado por ele;drove off→tomou rumo,sem inventar veículo. Tigre Sorridente e demais nomes/termos preservados.
+
+Validação: UTF-8 estrito sem substituição,título/final/número único e ausência de asteriscos desbalanceados conferidos. Sem alterações no leitor/aplicação,commit ou push.
+
+
+## Publicação offline671–675 —02/11/2026
+
+Comando publique:cinco TXT671–675 integrados como preparados,com títulos/corpos/notas/itálicos idênticos. Fontes692–696→671–675;última confirmada explicitamente. Leitor397capítulos consecutivos279–675,sem pendentes;próximo676/fonte697. Todos392objetos anteriores estruturalmente idênticos,incluindo adaptação646 e versão664. Esquema8,app.js/styles.css,controles/progresso/preferências preservados. Backup backups/offline-671-675-20261102T233059599/:12arquivos com SHA-256 conferidos,manifest.json e publication-summary.json. Reversão restaura arquivos anteriores preservando TXT e registra operação. Validação concluída: node tests/reader.test.cjs aprovado,397IDs contínuos e TXT286–675 idênticos; transições670→675,limite675,retomada com posição/tema/fonte/sidebar,grupo601–700 e mobile simulados; migrações e armazenamento preservados. node --check chapters.js/app.js e git diff --check aprovados. Sem revisão visual real,commit,push,PR ou implantação remota.
