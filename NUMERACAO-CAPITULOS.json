@@ -1950,8 +1950,58 @@
       "old": 681,
       "new": 660,
       "title": "Uma beleza de encanto inigualável"
+    },
+    {
+      "old": 682,
+      "new": 661,
+      "title": "Ataque inesperado"
+    },
+    {
+      "old": 683,
+      "new": 662,
+      "title": "A traidora"
+    },
+    {
+      "old": 684,
+      "new": 663,
+      "title": "Impotência"
+    },
+    {
+      "old": 685,
+      "new": 664,
+      "title": "Desintoxicação"
+    },
+    {
+      "old": 686,
+      "new": 665,
+      "title": "Jiang Wuning se apaixona"
+    },
+    {
+      "old": 687,
+      "new": 666,
+      "title": "O revés de Jiang Wuning"
+    },
+    {
+      "old": 688,
+      "new": 667,
+      "title": "A presunção de Jiang Wuning"
+    },
+    {
+      "old": 689,
+      "new": 668,
+      "title": "O retorno de Lu Li"
+    },
+    {
+      "old": 690,
+      "new": 669,
+      "title": "O reencontro"
+    },
+    {
+      "old": 691,
+      "new": 670,
+      "title": "Conversa noturna"
     }
   ],
-  "pendingFromOld": 682,
-  "notes": "Leitor offline:382 capítulos consecutivos279–660, nenhum TXT pendente. Fontes667–681→646–660 integradas.646 mantém versão com omissões pontuais sinalizadas;647–660 integrais. Revisões633/634/644/645 completas e alinhadas preservadas. Próximo correto661, fonte esperada682, sujeito à conferência. Esquema8 preservado."
+  "pendingFromOld": 692,
+  "notes": "Leitor offline:392 capítulos consecutivos279–670, nenhum TXT pendente. Fontes682–691→661–670 integradas.664 mantém uma omissão pontual sinalizada;demais novos capítulos integrais. Revisões633/634/644/645 completas e alinhadas preservadas. Próximo correto671, fonte esperada692, sujeito à conferência. Esquema8 preservado."
 }

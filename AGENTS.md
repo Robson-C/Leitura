@@ -172,3 +172,8 @@ Revisão autorizada concluída633/634 e644/645: traduções completas do materia
 ## Publicação offline279–660 —02/11/2026
 
 Quinze TXT646–660 integrados por comando publique, leitor382 capítulos consecutivos279–660, sem pendentes. Fontes667–681→646–660.646 mantém três avisos pontuais,647–660 integrais;revisões633/634/644/645 completas preservadas. Esquema8/controles/progresso/preferências mantidos. Próximo correto661/fonte682, sujeito à conferência. Commit/push manuais;backup e validação na revisão operacional.
+
+
+## Publicação offline279–670 —02/11/2026
+
+Dez TXT661–670 integrados por comando publique,leitor392 capítulos consecutivos279–670,sem pendentes. Fontes682–691→661–670.664 mantém um aviso pontual,demais novos integrais. Revisões633/634/644/645 e esquema8/controles/progresso/preferências preservados. Próximo correto671/fonte692,sujeito à conferência. Commit/push manuais;backup e validação na revisão operacional.

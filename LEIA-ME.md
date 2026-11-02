@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 382 capítulos consecutivos, de 279 a 660. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
+Inclui 392 capítulos consecutivos, de 279 a 670. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
 
 ## Leitura
 
@@ -344,8 +344,15 @@ Backup:backups/offline-639-645-20261101T011348603/. Reverter inclusão restauran
 Backup:backups/revisao-633-634-644-645-20261102T114719284/. As versões anteriores, inclusive edições manuais, estão preservadas. Atualização local;commit e push manuais. Revisão visual real não realizada.
 
 
-## Publicação offline atual —279–660
+## Publicação offline anterior —279–660
 
 Quinze TXT646–660 integrados como preparados. Leitor382 capítulos consecutivos, nenhum TXT pendente.646 mantém sua nota de versão e três avisos pontuais;647–660 integrais. Revisões633/634/644/645 preservadas. Índice601–700, controles, progresso, preferências e esquema8 mantidos. Próximo correto661/fonte682, sujeito à conferência.
 
 Backup:backups/offline-646-660-20261102T132557135/. Para reverter inclusão, restaurar arquivos anteriores do backup, preservar TXT e registrar reversão. Revisão visual real não realizada. Commit e push manuais.
+
+
+## Publicação offline atual —279–670
+
+Dez TXT661–670 integrados como preparados. Leitor392 capítulos consecutivos, nenhum TXT pendente.664 mantém nota de versão e um aviso pontual. Demais novos capítulos integrais. Revisões633/634/644/645 preservadas,assim como controles/progresso/preferências e esquema8. Próximo correto671/fonte692,sujeito à conferência.
+
+Backup:backups/offline-661-670-20261102T134546304/. Restaurar arquivos anteriores para reverter inclusão,preservar TXT e registrar reversão. Revisão visual real não realizada. Commit e push manuais.
