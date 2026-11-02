@@ -156,3 +156,14 @@ Usuário pediu traduzir restante e colocar avisos com linhas originais nos trech
 ## Publicação offline279–638 concluída —31/10/2026
 
 Comando publique tudo executado:TXT633–638 integrados; leitor360 capítulos consecutivos279–638, sem pendentes. Fontes654–659→633–638.633/634 mantêm notas de versão e seis avisos de omissão autorizados. Esquema8/controles/progresso/preferências preservados. Próximo correto639, fonte660, sujeito à conferência. Supersede estados pendentes anteriores. Commit/push manuais; backup e validação na revisão operacional.
+
+
+## Publicação offline279–645 —31/10/2026
+
+Sete TXT639–645 integrados, leitor367 capítulos consecutivos279–645, sem pendentes. Fontes660–666→639–645;644/645 versões com avisos preservadas. Revisões manuais633/634 em chapters.js mantidas; não substituir pelos TXT automaticamente. Testes registram hash das versões manuais, demais TXT comparados integralmente. Próximo646/fonte667, esquema8 preservado. Commit/push manuais.
+
+## Cronologia de Liu e revisão de fidelidade —02/11/2026
+
+Esclarecimento explícito do usuário: Liu Zhujun entrou na história aos16, mas neste ponto tem mais20anos no tempo natural e mais2000anos de treino sob domínio temporal. Ingenuidade/mentalidade jovem refere-se à experiência social. Considerar cronologia completa e personagem específica; não inferir menoridade atual de Liu por essa expressão, nem aplicar idade de Liu a Jiang Li'er. Duplo sentido, romance e treino físico não equivalem por si só a conteúdo sexual explícito.
+
+Revisão autorizada concluída633/634 e644/645: traduções completas do material fornecido, sem avisos de omissão, quatroTXT e leitor alinhados.363outros capítulos preservados;367capítulos279–645,próximo646/fonte667,esquema8. Removidas exceções por hash633/634 nos testes;igualdadeTXT/leitor integral restaurada. Backups de versões anteriores e detalhes na revisão operacional;commit/push manuais.

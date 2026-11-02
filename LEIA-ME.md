@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 360 capítulos consecutivos, de 279 a 638. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
+Inclui 367 capítulos consecutivos, de 279 a 645. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
 
 ## Leitura
 
@@ -324,8 +324,21 @@ Backup: backups/offline-630-632-20261101T000637484/. Restaurar arquivos anterior
 633/634 foram preparados a pedido do usuário com avisos de omissão e referência às linhas dos anexos originais.635–638 já traduzidos. Leitor permanece até632. O HTML carrega chapters.js, sem ler os TXT diretamente. Editar TXT não altera o leitor publicado; a preparação pelo comando publique precisa incorporar os textos em chapters.js.
 
 
-## Publicação offline atual —279–638
+## Publicação offline anterior —279–638
 
 Seis TXT633–638 incorporados. Leitor360 capítulos consecutivos, nenhum TXT pendente.633/634 mantêm notas de versão e seis avisos de omissão com linhas da fonte. Fontes654–659 correspondem633–638; próximo correto639/fonte660. Controles, preferências, progresso e esquema8 preservados.
 
 Backup:backups/offline-633-638-20261101T001913052/. Restaurar arquivos anteriores para reverter integração, preservar TXT e registrar reversão. Validação automatizada descrita na revisão; revisão visual real não realizada. Commit e push manuais.
+
+
+## Publicação offline atual —279–645
+
+Sete TXT639–645 incorporados integralmente como preparados. Leitor367 capítulos consecutivos, nenhum TXT pendente.644/645 mantêm avisos de omissão. Revisões manuais de633/634 em chapters.js preservadas sem substituição pelos TXT; testes de integridade dessas versões usam SHA-256. Demais textos disponíveis conferidos com TXT. Próximo correto646/fonte667. Controles/progresso/preferências e esquema8 preservados.
+
+Backup:backups/offline-639-645-20261101T011348603/. Reverter inclusão restaurando arquivos anteriores, mantendo TXT e registrando reversão. Revisão visual real não realizada. Commit e push manuais.
+
+## Revisão de fidelidade —02/11/2026
+
+633/634 foram retraduzidos com a cronologia adulta de Liu esclarecida pelo usuário;644/645 foram reavaliados no contexto dos golpes e ferimentos narrados. Quatro capítulos completos, sem avisos de omissão, alinhados em TXT e chapters.js. Os demais363capítulos permanecem iguais;leitor367capítulos279–645. Testes comparam novamente todos os TXT disponíveis com o leitor, sem exceções para633/634.
+
+Backup:backups/revisao-633-634-644-645-20261102T114719284/. As versões anteriores, inclusive edições manuais, estão preservadas. Atualização local;commit e push manuais. Revisão visual real não realizada.
