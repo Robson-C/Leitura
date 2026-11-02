@@ -167,3 +167,8 @@ Sete TXT639–645 integrados, leitor367 capítulos consecutivos279–645, sem pe
 Esclarecimento explícito do usuário: Liu Zhujun entrou na história aos16, mas neste ponto tem mais20anos no tempo natural e mais2000anos de treino sob domínio temporal. Ingenuidade/mentalidade jovem refere-se à experiência social. Considerar cronologia completa e personagem específica; não inferir menoridade atual de Liu por essa expressão, nem aplicar idade de Liu a Jiang Li'er. Duplo sentido, romance e treino físico não equivalem por si só a conteúdo sexual explícito.
 
 Revisão autorizada concluída633/634 e644/645: traduções completas do material fornecido, sem avisos de omissão, quatroTXT e leitor alinhados.363outros capítulos preservados;367capítulos279–645,próximo646/fonte667,esquema8. Removidas exceções por hash633/634 nos testes;igualdadeTXT/leitor integral restaurada. Backups de versões anteriores e detalhes na revisão operacional;commit/push manuais.
+
+
+## Publicação offline279–660 —02/11/2026
+
+Quinze TXT646–660 integrados por comando publique, leitor382 capítulos consecutivos279–660, sem pendentes. Fontes667–681→646–660.646 mantém três avisos pontuais,647–660 integrais;revisões633/634/644/645 completas preservadas. Esquema8/controles/progresso/preferências mantidos. Próximo correto661/fonte682, sujeito à conferência. Commit/push manuais;backup e validação na revisão operacional.
