@@ -3544,3 +3544,92 @@ Validação: UTF-8 estrito sem substituição,título/final/número único e aus
 ## Publicação offline671–675 —02/11/2026
 
 Comando publique:cinco TXT671–675 integrados como preparados,com títulos/corpos/notas/itálicos idênticos. Fontes692–696→671–675;última confirmada explicitamente. Leitor397capítulos consecutivos279–675,sem pendentes;próximo676/fonte697. Todos392objetos anteriores estruturalmente idênticos,incluindo adaptação646 e versão664. Esquema8,app.js/styles.css,controles/progresso/preferências preservados. Backup backups/offline-671-675-20261102T233059599/:12arquivos com SHA-256 conferidos,manifest.json e publication-summary.json. Reversão restaura arquivos anteriores preservando TXT e registra operação. Validação concluída: node tests/reader.test.cjs aprovado,397IDs contínuos e TXT286–675 idênticos; transições670→675,limite675,retomada com posição/tema/fonte/sidebar,grupo601–700 e mobile simulados; migrações e armazenamento preservados. node --check chapters.js/app.js e git diff --check aprovados. Sem revisão visual real,commit,push,PR ou implantação remota.
+
+
+## Capítulo 676 — Lixo ou gênio? — 02/11/2026
+
+Fonte697: C:/Users/Robson/.codex/attachments/d981854c-e2d4-480f-8daa-48db19c67a01/Texto colado.txt. Tradução completa salva em capitulos/676 - Lixo ou gênio.txt;697→676 offlinePending. Próximo677/fonte698. Leitor397capítulos279–675 intacto;TXT676 aguarda publique.
+
+Continuidade: Lu chamaWuning lixo,ele avança,Li’er impede briga e rejeita intimidadeWuning paraLuouvir. Wuning propõe confronto na segunda rodada depois da curaJiangLi;Lu rejeita usar pessoa como aposta e não quer competir. Filha aceita por ele porquerer casar comLu,ele concorda sem saber identidade da noiva. Wuning sai esperando humilharLu. Ela pede desculpas e justifica aceitar paraafastar perseguidor,oculta ser noiva;explica prêmio é do primeiro colocado,mas noiva escolhe marido entre três primeiros. Nenhum combate,antídoto ou cura realizados. NomesJiangWuNing→JiangWuning;pronomes normalizados. Duas reconstruções incertas marcadas: fala I will go back and participate atribuída a participação deLu,poisela aceita em nome dele;didnt have any connection contextualizado como ausência de irritação conformefrasesanteriores,sem negar relação entre personagens. Come here isolado em desafio removido como fragmento sem encadeamento;desafio preservado como derrotado chama vencedor vovô,coerente com réplicaWuning. Imagemcachorro,linguagemgrosseira,peso200–300libras e romance nãoexplícito preservados. Sem omissões nem aviso de adaptação.
+
+Validação: UTF-8 estrito,sem caracteres de substituição,dois pares de asteriscos,título/final/número único conferidos. Sem alteração no leitor/aplicação,commit ou push.
+
+
+## Capítulo 677 — Salvando Jiang Li — 02/11/2026
+
+Fonte698: C:/Users/Robson/.codex/attachments/29edd4b0-3ce6-4e38-a4b0-9e1b4cb42233/Texto colado.txt. Tradução completa em capitulos/677 - Salvando Jiang Li.txt;698→677 offlinePending. Próximo678/fonte699. Leitor397capítulos279–675 intacto;TXT676–677 aguardam publique.
+
+Continuidade: Lu pergunta prêmio,Li’er explica Pedra do Caos Primordial contém poder garantido e pouca exigência de cultivo,Pedra do Céu Caótico vem da camada externa. Lu recorda Olho Imortal Supremo (apoio,percepção de trajetórias/movimentos lentos),aceita competir por poder;pretende fugir se noiva escolher,enquanto filha planeja escolhê-lo. Ela oferece comida própria e o leva à residência decorada;ele apreensivo usa poder para ver pratos através de tampas. Comida escura e prato de insetos,elogios prévios do pai por carinho. Lu engole pedaço extremamente amargo,bebe água e mente que gostou. Ainda não há cura/antídoto/despertar de Jiang Li apesar do título Rescuing Jiang Li: título preservado,sem inventar resgate ausente. Hunyuan/Primordial Stone normalizados Pedra do Caos Primordial;Supreme Immortal Eye→Olho Imortal Supremo. Messenger corrompido contextualizado como Lu Li sendo levado ao quarto,sem novo mensageiro. Frase abrupta sobre qualquer pessoa colocar enfeites preservada com interpretação em asteriscos. Capacidade de ver através das tampas relatada conforme fonte,sem expandir mecanismo além do poder referido. Romance não explícito e comédia culinária completos,sem omissões.
+
+Validação: UTF-8 estrito sem caracteres de substituição,um par de asteriscos,título/final/número único conferidos. Sem mudança no leitor/aplicação,commit ou push.
+
+
+## Capítulo 678 — Salvando Jiang Li 2 — 02/11/2026
+
+Fonte699: C:/Users/Robson/.codex/attachments/07ba72d8-dead-4d46-b0f1-002655345d01/Texto colado.txt. Tradução com adaptação contextual salva em capitulos/678 - Salvando Jiang Li 2.txt;699→678 offlinePending. Próximo679/fonte700. Leitor397capítulos279–675 intacto;TXT676–678 aguardam publique.
+
+Continuidade: Lu se assusta com proposta de comer tudo/ganhar mais,usa desculpa de impurezas de comida para cultivadores. Filha feliz por primeiro tratamento Li’er percebe comida ruim,negocia promessa para dispensá-lo de refeição. Lu faz piadas,percebe possível mal-entendido e decide manter distância por considerá-la irmã mais nova/adolescente. Pedido é deixar de chamá-la pirralha e usar Li’er,ele aceita. Ela destina comida a Xiao Bai,seu animal de estimação espiritual que só obedece a ela;Lu deduz besta domesticada e evita perguntar para não levantar suspeitas. Pai continua sem cura/antídoto apesar título,como fonte.
+
+Aplicada preferência explícita do usuário de linguagem neutra sem aviso no capítulo quando contexto preservado: piada sexual de disponibilidade substituída por disponibilidade para favores/Liu Xiahui como disciplina;ideia de preparar jovem para relação futura e avaliação sexualizada do corpo adolescente substituídas por reflexão sobre limites das brincadeiras,juventude/vitalidade e decisão de distância. Preservados humor,vergonha,tapinha,pedido de tratamento,reações e sequência narrativa;nenhum marcador de omissão. Não declarado texto literal integral. Frase de facada com pronome contraditório (ferir ela/ser menos doloroso paraLu) reconstruída como preferir levar facada e marcada em asteriscos. Referências dietéticas/cultivo são ficção,não orientações externas. Nome Xiao Bai mantido uniforme para Little White/Xiaobai.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudança no leitor/aplicação,commit ou push.
+
+
+## Capítulo 679 — Salvando Jiang Li (3) — 02/11/2026
+
+Fonte700: C:/Users/Robson/.codex/attachments/4895d7df-516d-4932-aba8-451935187d6e/Texto colado.txt. Tradução completa em capitulos/679 - Salvando Jiang Li 3.txt;700→679 offlinePending. Próximo680/fonte701. Leitor397capítulos279–675 intacto;TXT676–679 aguardam publique.
+
+Continuidade: Xiao Bai em reclusão,filha guarda comida em anel de armazenamento;Lu vê primeiro anel desde chegada e reflete diferença recursos. À tarde antídoto ainda ausente,Wuning/Fei presentes,Lu ignora rival,vai comer (tribo aprecia insetos,ele recusa) e cultivar. Dia seguinte permanece augeInato,consolida paraFormaçãoNúcleo. Murais explicam Núcleo Dourado1–9graus/marcas,comum3,5notável,gênios7+,Luquer8. Oito permitem ingresso excepcional ramo principal;Pedra do Caos Primordial purifica medula/refina essência/melhora talento. Passeio matinal,nenhum antídoto,planeja método usado contra câncer e extensãovida alternativa. À tarde filha leva conhecer tribo,à noite segura mãoLu temendo tratamento,Wuning ciumento. Sol posto/prazo combinado,Lu pede todos saírem,Shi/filha/Wuning saem. Ainda não aplicado tratamento/efeito/despertar.
+
+Duas reconstruções em asteriscos: eight Core Formations→oito marcas no Núcleo Dourado conforme explicação imediatamente anterior;He sem antecedente após fragmento talk.→Jiang Wuning por intenção de humilharLu e presença seguinte. Transição abrupta mantida sem inventar chegada/cena de conversa ausente. advanced Golden Core stage contextualizado como Núcleo Dourado de alto grau,sem inventar avanço ao estágioavançado agora. Pronomes JiangLi corrigidos masculinos. Removidos pedido flores,talk. isolado e V. final como ruído. Descriçõesde mãos/afeto/ciúme preservadas;sem omissões nem adaptação sexual necessária. Tratamento referido apenas como poder ficcional,sem instruções médicas externas.
+
+Validação: UTF-8 estrito sem substituição,dois pares de asteriscos,título/final/número único conferidos. Sem alterações no leitor/aplicação,commit ou push.
+
+
+## Capítulo 680 — Métodos de desintoxicação — 02/11/2026
+
+Fonte701: C:/Users/Robson/.codex/attachments/b14a1be7-1def-4d80-aa40-70376cb63205/Texto colado.txt. Tradução completa salva em capitulos/680 - Métodos de desintoxicação.txt;701→680 offlinePending. Próximo681/fonte702. Leitor397capítulos279–675 intacto;TXT676–680 aguardam publique.
+
+Continuidade: JiangLi comlábios mais escuros/órbitas negras,veneno erodeórgãos. Lu muda plano usado contra câncer para acelerar seletivamente sistema imunológico,em vez de corpo/área inteira que apressaria morte. Explicação biológica mantida como raciocínio ficcional deLu sem correção externa. Multiplicadores10/20/30/50/70/90semresultado;interrogação3dias revelaLucomo chance devirada massemgarantia. Noitequasefim decide150últimatentativa porlimites/risco desconhecido. ForaLi’er aflita/únicofamiliar,Shi contém preocupação,Wuning deseja morteparahumilharLu/casarfilha. Amanhecer150funciona,escurecimento regride;Lu consumiu vida demais,cuspesangue/recuadoispassos/cai. Aparênciapai normal,veneno neutralizado,Lu interrompe aceleração. Fonte ainda não descreve despertar do pai ou saídaLu;nenhuma extensão direta devida deJiangLi realizada.
+
+Frase fonte de consumo quase10vezes sistema imunológico é imprecisa em unidade/base: preservada em asteriscos,sem inventar valor de vida gasto. Quantidades/prazos/risco relatados como narrativa sobrenatural,não aconselhamento ou explicação médica factual. Pronomes masculinosJiangLi e femininosfilha corrigidos;JiangLi’er é quem teme perder único familiar. Onomatopeias convertidas sem asteriscos de interpretação. Sem omissões nem adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem alterações no leitor/aplicação,commit ou push.
+
+
+## Capítulos 681–682 — 02/11/2026
+
+Fontes702–703 em C:/Users/Robson/.codex/attachments/829c91ff-267e-47d1-a7db-9969bdfc9d00/Texto colado.txt e C:/Users/Robson/.codex/attachments/7af5adcb-5bc2-456d-a4e5-5889dca22b86/Texto colado.txt. Salvos capitulos/681 - Jiang Li desperta.txt e capitulos/682 - A ousada declaração de Jiang Li’er.txt. Correspondências702→681/703→682 offlinePending. Próximo683/fonte704. Leitor397capítulos279–675 intacto;TXT676–682 aguardam publique.
+
+681 completo: manhãShi/grupo entram,Wuning tenta culparLu pela suposta morte sem examinarpaciente;Shi desaprova. Lu sentado ferido,sangue ao lado,confirma sucesso;filha abraça/beijobochecha,Shi tosse. Wuning acusa feitiçaria/ausênciadespertar,Shi aponta saúdepai,Wuning recua/apologiza e cobiça supostotesourocurativo deLu. Shi passa preferirLucomo genro. Pai acorda,saibetrêsdiascoma/curadoLu,tentaajoelhar,Lu impede,cuspesangue/desmaia. Pai manda filha cuidar/levardescansar,ela ocarrega comdificuldade. Uma reconstrução marcada: I also want to live up to expectations→não decepcionei vocês conforme perguntaShi/confirmasucesso. PronomesmasculinosJiangLi corrigidos;inconsistência de força/pesoao carregá-lo mantida como fonte.
+
+682 com adaptação contextual neutra explicitamente autorizada pelo usuário,sem aviso no corpo: filha acomodaLu,tirasapatos,cobremanta,cansaço e sonhos devidaemcomum. Afeto/beijobreve preservado sem descrições eróticas;comentários sexualizados sobre adolescente,excitação e insinuação devirgindade substituídos por nervosismo/carinho/constrangimento. Dorme ao lado dele,Ludesperta comprimidoabraço,tentaseafastar,elaacorda/grita/tapaolhosespiando. Nudez erotizada e suspeita deato sexual substituídas por mal-entendido sobre terem dormido sobmesmamanta e queminiciouaproximação;reaçãochorosa culmina confissão gostar/quererficarcomLu e pedido de queleve sentimentosasério. Sem acrescentar relação sexual ou explicar roupa removida que fonte não explica. Preservados cuidado,carinho,vergonha,sono,abraço,mal-entendido econfissão. Não tratar como versão literal integral dafonte;nenhummarcador deomissão. Lifeless contextualizado inconsciente/semforças,poisLu vivo;LuLi’er errado→LuLi conforme contexto.
+
+Validação: ambos TXT UTF-8 estrito sem substituição,títulos/finais/números únicos,um par de asteriscos681 e nenhum682 conferidos. Sem alteração no leitor/aplicação,commit ou push.
+
+
+## Capítulo 683 — O acordo — 02/11/2026
+
+Fonte704: C:/Users/Robson/.codex/attachments/c6a8007c-812c-4451-894a-9c7938110be5/Texto colado.txt. Versão com adaptação contextual neutra em capitulos/683 - O acordo.txt,sem aviso no corpo conforme preferência explícita.704→683 offlinePending;próximo684/fonte705. Leitor397capítulos279–675 intacto;TXT676–683 aguardam publique.
+
+Continuidade: Lu pergunta o queocorreu,filha percebe iniciativa própria durante sono,ficaenvergonhada e insistecasamento alegando regra tribal/ameaçando morrer. Narrador esclarece blefe: não arriscaria vida se rejeitada. Lu tenta dissuadir com partida definitiva/afastamento do pai e outras mulheres;ela aceita,cita cinco além damãe,educação/época poligâmica. Lu compara Yang Zhen’er e outras. Concorda mas estabelece sódepois18 poratualmenoridade. Filha comemora/provoca,ele exige espaço,ambos arrumam-se quando Shi bate/chama SenhorLu. Pânico de serem vistos,embora Shi/pai desejemunião. Pai antes referido único familiar na682contradiz esposas/circunstâncias: mantida informação nova dafonte,sem inventar explicação.
+
+Adaptação mantém continuidade da versão682: retirada erotizada de roupas e regra matrimonial baseada em nudez substituídas por aproximação involuntária durante sono e alegação de regra por passar noitejuntos;limite18 mantido como nenhum passo adiante. Excitação/sedução adolescente,exibição corporal,ameaça sexual e palmada íntima substituídas por abraço/braço,insistência em maturidade,constrangimento e bronca/tapinha no braço. Porta interrompe recomposição em vez de exposição sexual. Preservados confissão,blefe,motivos,dúvidas,acordo condicional,condições e interrupção;sem omissões ou marcadores. Não declarar como tradução literal integral. Nenhuma idade modificada nem ato sexual acrescentado.
+
+Validação: UTF-8 estrito sem substituição,título/final/número único conferidos,nenhum asterisco de interpretação. Sem mudança no leitor/aplicação,commit ou push.
+
+
+## Capítulo 684 — Está um pouco frio, vamos pôr mais uma manta! — 02/11/2026
+
+Fonte705: C:/Users/Robson/.codex/attachments/1e717a4f-ca7a-4b21-8c9e-dd76a828ebfe/Texto colado.txt. Versão com adaptação contextual neutra salva em capitulos/684 - Está um pouco frio, vamos pôr mais uma manta.txt,sem aviso no corpo conforme preferência explícita.705→684 offlinePending;próximo685/fonte706. Leitor397capítulos279–675 intacto;TXT676–684 aguardam publique.
+
+Continuidade: Shi repete chamado,filha escondesobmanta/respiração presa,Lu deita ao lado e autoriza entrada. Ancião acha estranho manta no verão masatribui fraqueza;agradece cura,Lu tenta despachar alegando sono. Filha esbarra,Lu estremece/justifica frio/pede mantaextra. Shi quase sai,voltapergunta porLi’er que mandou cuidarLu;Lu diz nãoviu/devebrincar,chama criança,ela contraria poridadecasamento. Shi quer pai discipliná-la,sai definitivo. Lu sinaliza saída esconderijo,tapinhasombro,ela assusta/cora;ambos acalmam,ela quer compromissoesperá-la,ele ajuda ajeitarroupa.
+
+Aplicada continuidade neutra682–683: nudez/insinuações sexuais adolescente substituídas por esconderijo constrangedor;reação física erotizada convertida nervosismo/desconforto,sugestão de desempenho sexual futuro com outras parceiras convertida dificuldade de lidar com jeito dele,ideia de obrigá-lo por ato sexual convertida confiança no compromisso/espera. Pedido final de vesti-la convertido ajeitarroupa amarrotada;preservado auxílio e sequência. Sem atossexuais,descriçõeseróticas ou avisos deomissão. Frasecorrompida unless very closely could tell two reconstruída como não perceber duas pessoas salvo exame atento e marcada asteriscos. OldMasterShi normalizado anciãoShi,pronomes masculinosJiangLi/ancião,Lu-Li→LuLi. (5.) final removido como ruído.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudança no leitor/aplicação,commit ou push.
+
+
+## Publicação offline676–684 —02/11/2026
+
+Comando publique executado: noveTXT676–684/fontes697–705 integrados como preparados,com títulos/corpos/notas/itálicos idênticos. Incluídas adaptações contextuais neutras678/682–684 já autorizadas. Todos397objetos anteriores estruturalmente idênticos. Leitor406capítulos consecutivos279–684,sem pendentes;próximo685/fonte706. Esquema8,app.js/styles.css,controles/progresso/preferências preservados. Backup backups/offline-676-684-20261102T234933327/:16arquivos com SHA-256 conferidos,manifest.json e publication-summary.json. Reversão restaura arquivos anteriores,preserva TXT e registra operação. Validação concluída: node tests/reader.test.cjs aprovado,406IDs contínuos,TXT286–684 idênticos,títulos/notas/itálicos,navegação675→684,último684sempróximo/retorno683,retomada684composição/tema/fonte/sidebar,grupo601–700 e mobile simulados,migrações/armazenamento preservados. node --check chapters.js/app.js e git diff --check aprovados. Sem revisão visual real,commit,push,PR ou implantação remota.
