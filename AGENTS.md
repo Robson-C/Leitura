@@ -187,3 +187,8 @@ Cinco TXT671–675 integrados por comando publique. Leitor397capítulos consecut
 ## Publicação offline279–684 —02/11/2026
 
 Nove TXT676–684 integrados por comando publique. Leitor406capítulos consecutivos279–684,sem pendentes. Fontes697–705→676–684;adaptações678/682–684 preservadas conforme preferência de linguagem neutra sem aviso quando contexto mantido. Revisões anteriores/esquema8/controles/progresso/preferências mantidos. Próximo685/fonte706,sujeito à conferência. Commit/push manuais;backup e validação na revisão operacional.
+
+
+## Publicação offline279–700 —02/11/2026
+
+Dezesseis TXT685–700 integrados por comando publique. Leitor422capítulos consecutivos279–700,sem pendentes. Fontes706–721→685–700,última confirmada pelo usuário. Adaptações neutras e revisões anteriores preservadas,esquema8/controles/progresso/preferências mantidos. Próximo701/fonte722,sujeito à conferência. Commit/push manuais;backup e validação na revisão operacional.

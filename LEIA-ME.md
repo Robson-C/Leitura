@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 406 capítulos consecutivos, de 279 a 684. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
+Inclui 422 capítulos consecutivos, de 279 a 700. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
 
 ## Leitura
 
@@ -366,6 +366,11 @@ Revisão de 02/11/2026: capítulo 646 atualizado com adaptação contextual sina
 Cinco TXT671–675 integrados, fontes692–696. Leitor397 capítulos consecutivos, sem TXT pendente. Traduções, itálicos e revisões anteriores preservados; esquema8, controles, progresso e preferências mantidos. Próximo correto676/fonte697. Backup:backups/offline-671-675-20261102T233059599/. Para reverter, restaurar arquivos anteriores preservando TXT e registrar reversão. Testes automatizados; revisão visual real não realizada. Commit e push manuais.
 
 
-## Publicação offline atual —279–684
+## Publicação offline anterior —279–684
 
 Nove TXT676–684 integrados como preparados, fontes697–705. Leitor406 capítulos consecutivos, sem TXT pendente. Adaptações neutras678/682–684 e revisões anteriores preservadas. Controles, progresso, preferências e esquema8 mantidos. Próximo correto685/fonte706. Backup:backups/offline-676-684-20261102T234933327/. Reversão restaura arquivos anteriores preservando TXT e registra operação. Revisão visual real não realizada. Commit e push manuais.
+
+
+## Publicação offline atual —279–700
+
+Dezesseis TXT685–700 integrados como preparados, fontes706–721. Fonte721→700 confirmada pelo usuário. Leitor422 capítulos consecutivos,sem TXT pendente. Adaptações neutras e revisões anteriores preservadas. Controles,progresso,preferências e esquema8 mantidos. Próximo correto701/fonte722. Backup:backups/offline-685-700-20261103T000343011/. Reversão restaura arquivos anteriores preservando TXT e registra operação. Revisão visual real não realizada. Commit e push manuais.

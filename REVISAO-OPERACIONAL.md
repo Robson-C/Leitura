@@ -3633,3 +3633,184 @@ Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final
 ## Publicação offline676–684 —02/11/2026
 
 Comando publique executado: noveTXT676–684/fontes697–705 integrados como preparados,com títulos/corpos/notas/itálicos idênticos. Incluídas adaptações contextuais neutras678/682–684 já autorizadas. Todos397objetos anteriores estruturalmente idênticos. Leitor406capítulos consecutivos279–684,sem pendentes;próximo685/fonte706. Esquema8,app.js/styles.css,controles/progresso/preferências preservados. Backup backups/offline-676-684-20261102T234933327/:16arquivos com SHA-256 conferidos,manifest.json e publication-summary.json. Reversão restaura arquivos anteriores,preserva TXT e registra operação. Validação concluída: node tests/reader.test.cjs aprovado,406IDs contínuos,TXT286–684 idênticos,títulos/notas/itálicos,navegação675→684,último684sempróximo/retorno683,retomada684composição/tema/fonte/sidebar,grupo601–700 e mobile simulados,migrações/armazenamento preservados. node --check chapters.js/app.js e git diff --check aprovados. Sem revisão visual real,commit,push,PR ou implantação remota.
+
+
+## Capítulo 685 — Imaginação — 02/11/2026
+
+Fonte706: C:/Users/Robson/.codex/attachments/f9bb5aad-8a34-4166-bfc3-4d8d001919b4/Texto colado.txt. Versão com adaptação contextual neutra em capitulos/685 - Imaginação.txt,sem aviso no corpo conforme preferência do usuário.706→685 offlinePending;próximo686/fonte707. Leitor406capítulos279–684 intacto;TXT685 aguarda publique.
+
+Continuidade: casal sai comer de braçosdados,Wuning alvo de olhares gênios/Fei e jura matarLu. Demais especulam relação. Pai já anda normal,agradeceLu;filha permanecepara conversar,pai aceitaLucomo genro e concede vaga na segunda rodada,mas exige primeiro lugar. Diálogoafetuoso filha/pai,ele revela outrosfilhos/filhas e Li’er favorita (não corrigida contradição comúnicofamiliar anterior). Lu volta descansar semcultivar,ela oprocura e repousa perto dele;pergunta terraNatal (prédios,dinheiro,ferramentasvoadoras,menosenergia espiritual) e aceitaçãopais. Lu quer visitarpais/pensa solidãoemlongevidade/ajudarcuidarfilhosfuturos. Semsegundarodadainiciada ou confrontocomWuning.
+
+Adaptação neutra conforme682–684: nudez adolescente e exigência de despirLu substituídas por ajeitar-se para repousar,coberta e respeito ao limite anteriormente estabelecido. Conservados companhia,afeto,diálogo,ansiedade e planejamento futuro. Sem omissões/avisos no capítulo; não afirmar tradução literal integral. Três reconstruçõesmarcadas: ameaçaestagnaçãocultivoWuning conectada por caso contrário,conforme juramento de matar;frase contraditória tried to steal him away from bride→realização de disputa caso já tivesse escolhido;pergunta aLi’er sobre solidãovidalonga contextualizada comoLu pensando em pais,conforme referência imediata a viveremsempre/cuidaremnetos. YuJiangli→conversa comJiangLi;gênerosnormalizados;informação vencedorúnico mantida apesar de explicação anterior escolha entretrês. Sem fatosadicionais para resolver contradições.
+
+Validação: UTF-8 estrito sem substituição,três pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 686 — Pobre Jiang Wuning — 02/11/2026
+
+Fonte707: C:/Users/Robson/.codex/attachments/712f972e-0bf2-4056-b882-f1a9e6e42902/Texto colado.txt. Versão com adaptação contextual neutra em capitulos/686 - Pobre Jiang Wuning.txt,sem aviso no corpo conforme preferência explícita.707→686 offlinePending;próximo687/fonte708. Leitor406capítulos279–684 intacto;TXT685–686 aguardam publique.
+
+Continuidade: conversa sobre filhosfuturos (Lu ama ambos sexos,recursos permitem criar,ela propõe menina depois menino),carinho e proximidade. ManhãLu tentaacordarfilha,cócegas/risadas/birra,mordidinhaleve,meio-dia insistem levantar,saemcomer. Wuning osencontra/conclui pernoite/ciúme,insultaLi’er;ela rejeita,vincula escolhaLu e pedeafastamento. Wuning tentaesbofetearfilha,Lu intervém comtapa semconterforça,Wuning lançadoatrás. Fonte final filha lugaralto/talvezprimeiro no coraçãoLu preservada. Ainda sem rodada decompetição ou desfechoposterior do golpe.
+
+Adaptação neutra: beijo longo erotizado/atividades sexuais adolescentes substituídos por beijo carinhoso,conversa e respeito ao limite anterior;toqueíntimo→ombro,referências aexposição corporal→constrangimento de seremvistosna cama. Passagem semencadeamento de falta dear/soltar interpretada como riso ecócegas,sem acrescentar ato sexual. Preservados afeto,planejamentofuturo,sono,brincadeira,ciúme,confissão eviolência da intervenção. Insultossexuais convertidos em vadia/desgraçada sem-vergonha mantendo agressãov erbal;JiangLi’er diz escolheuLu sem insinuar consumação. Erro fonte This infuriated Lu Li and Jiang Wuning corrigido paraWuningfurioso poisLunãodemonstra ciúme. PronomesmasculinosWuningnormalizados,onomatopeiaPá em português. Sem marcadoresdeomissão,sem alegar literalidade integral.
+
+Validação: UTF-8 estrito sem substituição/caractereschineses residuais,título/final/número único e ausência deasteriscos conferidos. Sem alteração no leitor/aplicação,commit ou push.
+
+
+## Capítulo 687 — O desafio — 02/11/2026
+
+Fonte708: C:/Users/Robson/.codex/attachments/f43642b1-a7e9-4674-8390-abc818c8a362/Texto colado.txt. Versão com adaptação contextual neutra em capitulos/687 - O desafio.txt,sem aviso no corpo conforme preferência explícita.708→687 offlinePending;próximo688/fonte709. Leitor406capítulos279–684 intacto;TXT685–687 aguardam publique.
+
+Continuidade: narrador explica apreçoLu porLi’er/visãofuturo semelhante sonhoantespoder. Wuning selevantaapóstapa,revela forçaoculta acima outrosgênios;Lulhe opõeaura usando30% apenas. Filha temeluferido e ameaçadesclassificação,masLucompletamenterecuperado apóssono;Wuning precisa pedra paraescaladapoder/ramoprincipal,desisteataqueimediato e desafia vidamorte rodadafinal. Provocações/crueldade contra filha fazemLu aceitar e determinar matar. Carta desafio entregue, Wuning sai. Filha culpa-se,regra vidaou morte sóadmite rendição se oponente poupar. Nenhum novo golpe/conclusãoduelo,nenhum início derodada.
+
+Adaptação neutra: abertura sexualizada referente a adolescente substituída por reservas/tempo para compreender futuro;preservados autocontrole/escolhaLu e crescente afeição. Ameaças de abuso sexual contra adolescente substituídas por ameaça de castigo/humilhação/crueldade não sexual,com mesmopapel deprovocarLu,ofenderfilha e escalar duelo. Sem detalhes de abuso sexual,sem marcadoresdeomissão. Trecho corrompido Li and Zhao it shouldnt have just begun reconstruído como assunto apenascomeçando para os dois,em asteriscos;sem personagens novos. Time-travel ability→habilidadecontrolartempo conformepoder,pronomesWuning masculinos,PedraCaosPrimordial mantida.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem alterações no leitor/aplicação,commit ou push.
+
+
+## Capítulo 688 — Recuperação e descanso — 02/11/2026
+
+Fonte709: C:/Users/Robson/.codex/attachments/f2ffadc2-602d-434a-8892-aa4d8b452a20/Texto colado.txt. Tradução completa em capitulos/688 - Recuperação e descanso.txt;709→688 offlinePending. Próximo689/fonte710. Leitor406capítulos279–684 intacto;TXT685–688 aguardam publique.
+
+Continuidade: Lu afirmaWuning escondeforça e venceriaoutros9juntos;LuTécnicaRefinamentoCorporal invencívelmesmonível e nívelacimaWuning. Filha sugere desclassificar,Lu recusa porhonra/protegerrelaçã o. Refeição/boatosduelo atraemeliminados a permanecer;ninguém maistrataWuningvencedorgarantido. Pai recuperadototal/força umpoucomaior/quaseavanço,preocupadoporforçaocultaWuning e filhapoderquerervingança seLumorrer. Lu assegura vitória,irritacomsubestimação e quer mostrarforça. Pai preferecalma/discriçãoLu à impulsividadeWuning. Lu sai,filhafica nãoquerendoatrapalhar/grudar;paipergunta competição,elaafirmavitóriaLu. Sem luta ou nova progressãoLu.
+
+Uma reconstrução em asteriscos: still have to help him em falaLu contraditória→ainda precisar que resolvam isso por mim,conforme recusa à sugestão de desclassificar rival. ChaosStone normalizada Pedra do Caos Primordial,BodyRefiningTechnique→Técnica de Refinamento Corporal,nomes/pronomes masculinosJiangLi corrigidos. dinner apósrefeiçãodepoisacordarmeio-dia tratado como refeição sem fixarhorárioinconsistente. Relationshipromance/elogios preservados,nãohá conteúdo sexual que exija adaptação. Sem omissões ou notasautorais.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem alterações no leitor/aplicação,commit ou push.
+
+
+## Capítulo 689 — A banca de apostas — 02/11/2026
+
+Fonte710: C:/Users/Robson/.codex/attachments/cf371d86-bcca-44d3-9e4d-7a91b97d156c/Texto colado.txt. Versão com adaptação contextual neutra em capitulos/689 - A banca de apostas.txt,sem aviso no corpo conforme preferência explícita.710→689 offlinePending;próximo690/fonte711. Leitor406capítulos279–684 intacto;TXT685–689 aguardam publique.
+
+Continuidade: pai quermedirforçaLu e sente desconforto se menor geraçãoultrapassou;filha confia semsaber. Filha relata insulto/tentativaagressãoWuning,pai prometeprotegerLu/punirWuningsevencido,mantémrestrição declã contra matar,rivaljálistaLu. DiaLu cultiva/técnicacorporal/mentalnomural,reposiçãorese rvasenergia semavanços;noitefilha visita/repousa,manhã baba roupadeLu/brincadeira/saemcomer. Fofocasdividemapostas;cotaçõesWuning1para3,Lu3para2,empate1para5 preservadas semreinterpretar,predomínioWuning conforme narrador. Pedras espirituais moeda/cultivo,graus inferior/médio/superior/supremo,troca10milgraumenorpor1superiorimediato;energiaequivalente maspureza desigual. Lu sempedras/nãopedeLi’er,Quan apostaLu,ele crêlucrogarantido. Ainda sem duelo iniciado ou aposta própriaLu.
+
+Adaptação neutra limitada a especulação do pai sobre consumação entreLu/adolescente: convertida para acharrelacionamento/futurodecididos e desconhecer limites estabelecidos;preserva leveinsatisfação de não saberforçagenro e preocupaçãofilha. Sem atossexuais/insinuaçãoerótica adolescente. Uma reconstrução marcada: repetição I just believe and I just dont believe→confio nele e pronto,pois respondeporconfiança absoluta e pai conclui nãosabe força. JiangLi’er and othergirl normalizado casalLu/Li’er sem inventar terceira pessoa;pronomespai corrigidos. Ruídos8:,pedido flores e5.final removidos. Betting Platform→bancadeapostas. Romance nãoexplícito,carinho/sono/roupa/baba preservados. Não afirmar literalidade integral.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudança no leitor/aplicação,commit ou push.
+
+
+## Capítulo 690 — O cachorrinho branco — 02/11/2026
+
+Fonte711: C:/Users/Robson/.codex/attachments/1df9cea9-f21d-4f8a-af40-b3cc7f67ad31/Texto colado.txt. Tradução salva em capitulos/690 - O cachorrinho branco.txt;711→690 offlinePending. Próximo691/fonte712. Leitor406capítulos279–684 intacto;TXT685–690 aguardam publique.
+
+Continuidade: visita pai receptivo/insistevencer,Lu/filha desconfiam motivo. Narradorantecipa revelaçãofutura de que apostoupoupançaprópria emLu,temeperder;filhadescobre depois,não diálogoatual. Ela envergonhadapaiconhece visitasnoturnas. Lu deixa filha com pai paraaproveitar antespartida definitiva,possível nunca mais reencontro. Fora aldeia encontra cachorrinhobranco,aproxima,foge,Lu persegue mas nãoconseguealcançar;animalpara/provoca rabo/língua. Lu teme humilhação perante equipe/mulheres e divaga fama/oportunidades/vida que teria sempoder:trabalhoanônimo,casamentoarranjadoparentes/amigos,paissatisfeitos,banquete,bêbado,esposacontapresentes,elefumaolhaestrelas/juventudeperdida,vidapacata. Fonte não identifica cão como Xiao Bai ainda,sem inventar identificação/desfechoperseguição.
+
+Três trechos incertos marcados: Mou Xiang mantido exatamente como nomefonte sem atribuir identidade/escândalo;frase semcontexto sobre esposa nãoquerer situação dois/trêsmesesantes preservada com pronome/narrativahipotética;chimney reconstruído como janela paraolharcéu,devido aparenteerro,sem certeza. PapaisMa preservado apelido,0.5ruído removido;parentético famous Chinese comedian apósMaHuateng não reproduzido poraparente anotaçãointrusiva/incorreta,sem pesquisa externa paraficção. But LuLi spotted him and ran corrigido para cão percebeLu e foge,conforme perseguiçãoimediata. Yu/there no reason idiom naturalizado solicitude semmotivo. Alternânciapassado/antecipação/pessoanarrador final tornadahipotética emterceirapessoa mantendo eventos. side final removido. Carinho/constrangimento/visitasnoturnas nãoexplícitos preservados,sem omissões sexuais/adaptação necessária nesta fonte.
+
+Validação: UTF-8 estrito sem substituição,três pares de asteriscos,título/final/número único conferidos. Sem mudança no leitor/aplicação,commit ou push.
+
+
+## Capítulo 691 — De repente — 02/11/2026
+
+Fonte712: C:/Users/Robson/.codex/attachments/0a6b3e72-2a8a-42b1-b2cb-bbdfeb20cb46/Texto colado.txt. Tradução completa em capitulos/691 - De repente.txt;712→691 offlinePending. Próximo692/fonte713. Leitor406capítulos279–684 intacto;TXT685–691 aguardam publique.
+
+Continuidade: Lu encerra divagação,ativaDomínioAceleraçãoTempo paraalcançarcão,mas este ajustavelocidade à dele. Soberanos/Imperadores cheiospoderosos,Lu rejeitadesistir. Acelera1000/3000/5000,ambiente quasiestático,som some/luzdistorce/gravidadequasezero (alegaçõesfonte preservadas como ficção),cãoàfrenteprovoca. Piadafoguete/fundaçãonação respondida vozna mente;Lu quasecai,diálogorevela invasãopensamentos. Elepriorizamenteinvadida/pensaPedraCéuCaótico/poderes,outroouv e tudo. Luconsidera trunfos desacelerar mundo/recuartempo/fugir. Voz surgeexterna,figuraaparecenoescuro,seapresentaHu e afirma controlar tempo comoLu. Nenhuma identificação/descriçãoadicionalHu,cão nãoassociadoexplicitamenteXiaoBai,ainda sem captura/dueloWuning. P.S.Obrigado preservado final.
+
+Frase isolada/corrompida sobregordura/respiração semfalante definido preservada em asteriscos,sem atribuir identidadedefinitiva. Removido357intrusivo antesHunTianStone. FNNDP naturalizado palavrão;PeerlessTechnique mantida técnica incomparável seminventartítulo;time-domain nomes coerentes com poder. Primeira/maiorvelocidadecósmica,brincadeira pisarprópriopé,imortalidadeperíodomítico ehipótesequedafatal mantidas como narração,sem corrigir física ou acrescentar fatos. Diálogomental commudançarepentina deinterlocutor preservado. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem alterações no leitor/aplicação,commit ou push.
+
+
+## Capítulo 692 — Encarando o confronto — 02/11/2026
+
+Fonte713: C:/Users/Robson/.codex/attachments/c838139a-bce1-4a51-a8d5-3ccd71331e83/Texto colado.txt. Tradução completa em capitulos/692 - Encarando o confronto.txt;713→692 offlinePending. Próximo693/fonte714. Leitor406capítulos279–684 intacto;TXT685–692 aguardam publique.
+
+Continuidade: Lu orgulhosocontrolaelites/pastores,rejeitaigualdadecomdesconhecido. Jovem mantoazulclarobordadosnuvensbrancas/aparência16 gentil,seaproxima,Lualerta. Lêpensamentos,prometenãoescutar,chamaLuvisitantedefora. ApontaPedraCéuCaótico ladoesquerdocintura,oferece incorporar poderaocorpo;diz observador à margemRioTempo/peixesinteressantes/doistemposcaóticos. Atravessa2minstantâneo apesarDomínioLu5000ativo,Lu tenta voltar própriomundo e habilidadefalha. ExplicaLu sóacelera/desacelera/transacionaDao,multiplicadorlimitecentenasmil,ilusão deparada versus pararatempo real. Revela colocouanimaldeforadomundo e tiroupedra/injetoupoder/devolveu semLuperceber. Ainda sem incorporaçãoao corpo executada nem ataque/retorno temporal.
+
+Nome fonte variou Hu(712)/Shuhu/ShuHu/Suddenly/LiZhao(713): adotadoShuhu conforme nome explícito nesteanexo,primeiraocorrênciaasteriscos pela identificaçãoincerta;Hu continua registro anterior,nãoforamrevisadosTXTantigos. Suddenly eLiZhao normalizados mesmojovem conformeações/vozdacena,sem personagensnovos. Outra passagem marcada: two chaotic times ... you are one literal preservada seminventar profecia/variáveis. Aparência16apenasvisual/cronologiarealdesconhecida,nãohásexualização. Explicações sobrenaturais/limites mantidos como ficção,sem corrigir física. Swaps he/she corrigidos masculinosLu/jovem. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,dois pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 693 — Vingança — 02/11/2026
+
+Fonte714: C:/Users/Robson/.codex/attachments/99e01f60-9bdd-4c76-abe1-f3873addd0bf/Texto colado.txt. Tradução completa em capitulos/693 - Vingança.txt;714→693 offlinePending. Próximo694/fonte715. Leitor406capítulos279–684 intacto;TXT685–693 aguardam publique.
+
+Continuidade: Shuhu desaparece/somderuptura,Lu abalaorgulho/dependênciapoder. Retorna tribo semiluminar/perturbarninguém,desacelera10paraquietude/reflexão. Fonteagora dizpoderincorporadocorpo/pedraenfeite (açãoimplícita,nãonarrada692). Observador/RioTempo/Shuhu memorizados;questiona riomaterial/possível dono e menteouvida porcontroladortempo,percebe podermaior. Jiuli/Youxiong representam tendênciahistórica,ele temeinterferir emImperadorAmarelo,Shaodian,Fuxi,Nuwa e mitologia. Piadajovemmonge/fornalha/chaleira e reflexãosobrevidamedíocre preservadas. Decidevoltar/reversão,lu zdist orce e continua mesmo lugar. Ainda semdueloWuning ou explicação do bloqueioretorno. P.S.Obrigado mantido. TítuloRevenge→Vingança apesar nãoexecutada vingança,sem inventaração.
+
+Quatrotrechos incertosmarcados: fonteHunyuanStone→PedraCaosPrimordial apesar693anteriorHunTianStone/PedraCéuCaótico,sem corrigir contradição;ShuhuShen enteredbody interpretado poderincorporadoporShuhu conformeoferta anterior,sempossessãoinventada;imagem enterradosnorio semantecedente preservada literal;desfechopiadaferroderretido/águafervendo/verluz aparentemente corrompido mantidoliteral seminventar moral. In an instant eHu normalizados Shuhu conforme nomefonteShūhū;Watcher→Observador;Dao uniforme,0pesquisaexterna de afirmaçõesmitológicas porque narraçãoficcional deLu. Alegaçõesgenealogia/termo líderdodragãodivino mantidas conformeanexo,sem tratá-las comohistóriafacto. Tenda mantidaconforme fonteapesarquartoprévio. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,quatro pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 694 — O ancião Shi entra em ação — 02/11/2026
+
+Fonte715: C:/Users/Robson/.codex/attachments/7e2fcedf-0928-4450-9ed6-21aee1dc5ed4/Texto colado.txt. Tradução salva em capitulos/694 - O ancião Shi entra em ação.txt;715→694 offlinePending. Próximo695/fonte716. Leitor406capítulos279–684 intacto;TXT685–694 aguardam publique.
+
+Continuidade: Lu confirma ainda quartoantigo/camabarro/mesa/cadeira/velagordura/pederneira,usa poderveratravéstendas,descarta ilusão/brincadeiratripulação. DeduzShuhu bloqueouretorno para forçar envolvimentoPlaníciesCentrais/reuniãofutura,masnão sabe intenções. Li’er o vinculaJiuli;fonteagora81tribos (contradiz72prévio),ChiYou líder,registroscorrompidos,descriçõesmitológicas/deduçãodragão. Dorme semvisitaLi’er,quasemeio-dia sai,encontraShi irritadobatecajado,oferecevingança,descobreJiangLi responsável,ajudasentar/respeitaancião. Revelaçãofinal: chefequerpedirautorização de guerraYouxiong. Ainda sem autorização/guerra/duelo/retornotemporal.
+
+Hu/Su/selfproclaimedshowoff→Shuhu conforme contexto;BearTribe whohavebears→clãYouxiong seminventartriboursoouursospresentes. Afterjustgotmarried contextualizado encontro de quemcasar,poisacordo18aindafuturo,sem afirmarcasamentorealizado. Três trechos incertos marcados: descendant or relative of no strangebeasts preservado como negaçãolinhagembestasestranhas semresolvercontradição comhipótesedragão;versopoéticoduas/trêsalmasIlhaPapagaios literal/sem atribuiçãoexterna;ChiefJiangyoumaygo reconstruído comoShi indicandoculpadochefe e desafiandoLu a acertarcontas,conformereflexãoimediatadeste. 81/72 mantidoseparados,sem corrigirobra. Removidos pedidoflores/8./5.decaptura. Genrosogra/pai/mulher/she pronomesnormalizados. Sem omissões ou adaptação sexual necessária. Mitologia/história são especulaçãofictionalLu,não afirmaçõesexternas verificadas.
+
+Validação: UTF-8 estrito sem substituição,três pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 695 — Guang Lingzi — 02/11/2026
+
+Fonte716: C:/Users/Robson/.codex/attachments/94d3e816-fee9-4650-abad-a482f80f925f/Texto colado.txt. Tradução em capitulos/695 - Guang Lingzi.txt;716→695 offlinePending. Próximo696/fonte717. Leitor406capítulos279–684 intacto;TXT685–695 aguardam publique.
+
+Continuidade: Lu julga sogroinsano porYouxiong,refletearqueologia/fontescríticas e informaçõescoletadas: Jiuli recémseparadoYan,81irmãos/clãs nemtodospartem,ramoJiangusadopreenchervagas,PedraCaosPrimordial talvezcompensação/iscaChiYou. ImperadorAmarelo chefeYouxiong/6gruposanimais/poderesdivinos/reputação,Lu teme dificuldadeinfernal/equivalênciacamponesescontraYamato,decideconvencersogro. ChiYoudestinado perder,exíliooeste/sul/destróiavançosagricultura,reflexãoXiangYuWujiang. Shi dizchefequerpunirhumilhação,teimoso,ramopoucagenteao deixarShennong,esperavamreconciliaçãofamília,mão tremebuscacajado,Lu entrega/escuta. Ainda não reveladodesfechoseparação,semguerra/dueloiniciado. TítuloGuangLingzi mantido apesar pessoa ainda nãoaparecer,sem inventar participação.
+
+Trêstrechosincertosmarcados: He led away atribuído literalmenteShennong porantecedente imediato apesarcontradição comchefequeodeixou;Control it? fragmentoisolado preservado Controlá-los?;notpunishing him no different punishing woman reconstruído como não punirresponsável seriaagircomomulher,retóricachefepara guerra,semcerteza. three five seven removido como357ruído inseridono parágrafo,enquantoargumentoevidênciaspreservado. Bear/Youxiong uniforme clã;pi/xiu/yi conservados transliteraçãofonte,seminventarespécies. CompêndioMatériaMédica atribuídoShennong conforme narrativaapesarpossívelanacronismo,sem corrigir históriaficcional/genealogia/cosmologia. Yamato/metáforajogo/minas/gás preservados. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,três pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 696 — Brasas incandescentes — 02/11/2026
+
+Fonte717: C:/Users/Robson/.codex/attachments/014378e9-93b0-498d-aa05-2b83f7938cbf/Texto colado.txt. Tradução completa em capitulos/696 - Brasas incandescentes.txt;717→696 offlinePending. Próximo697/fonte718. Leitor406capítulos279–684 intacto;TXT685–696 aguardam publique.
+
+Continuidade: Shi cicatrizes/guerreirovelholembra glóriaJiangcomchefeJiangYun,paiatualJiangLi;lutaramShennong/ChiYou/ImperadorYan >12grandestribos,unificaramterrasoestePlaníciesCentrais. Tribosresistentesunem,mesesguerra/corpos/sangue;ChiYou conduz4triboscontornofrente/ataqueleve,uneprincipalevence. JiangYun umdos4líderes/soldadosdestemidos. Shi empolgadolevantacajado/ofega,Luauxilia. JiangYun morreu feridasacumuladas antesbatalhasfinais,pediuShi cuidarJiangLiaindacriança. Lu entendereconhecimentoherdadochefe/papelShiantigosubordinado. Reflexãosementefrutoruim/fidelidade,despedidasRioTempo,empatia/dor/passagemtempo/esquecimentogongoetambor encerra. Ainda nãocontinua separaçãoChiYou oumotivoguerraatual,nãohádueloWuning.
+
+JiangYun introduzidonovopaiJiangLi,semconfundirJiangLi/paiLi’er. Shennong/Yan tratadosconforme fonte,relaçõesmitológicas não corrigidasexternamente. Quantidadetribos/3ou7dias/4gruposcercocaptura mantidos. Fala I was ignorant then mantida comShi emprimeirapessoa seminventar falante/flashbackadicional. Imagensemente,damascoamargovinho,nevascagongo/tambor preservadas emprosanatural. Sem omissões/adaptação sexual necessária,sem notasautorais ou novasinterpretaçõesincertas delimitadas.
+
+Validação: UTF-8 estrito sem substituição,título/final/número único e ausência deasteriscos conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 697 — O grande curso do mundo — 02/11/2026
+
+Fonte718: C:/Users/Robson/.codex/attachments/fc5f0427-e3bc-40e7-af6f-b2d0e02690a5/Texto colado.txt. Tradução completa em capitulos/697 - O grande curso do mundo.txt;718→697 offlinePending. Próximo698/fonte719. Leitor406capítulos279–684 intacto;TXT685–697 aguardam publique.
+
+Continuidade: Lucontrasta história futura (ChiYousepara/venceYan,Yan pedeHuang,aliançavenceChiYou) compoderesatuais/mitosSuiren/Shennong/virtudesTerraFogoMadeira. Verdadeiroshistóricos emorganizaçãogigante,oportunidades/objetosbuscampessoas,DaoCelestialreorganizamundo/forçacontendoreslutarematérestarum,eremitaspodemvercéusporpreço. ChiYouprincipal6ministrosYan ambiciona,masaliançata citaHuang/ChiYou nãopermiteguerraentreambosantesYancair. Relatotransita paraassassinato: arqueiroChiYoucemshi/váriosli eassassinolâminaquebrada,10–15diasentrosamento/mestredefinepartida,vigiamYan/achamsozinho/feremcoraçãoeflecha/relatamvitória. ChiYou/Huang prepararfesta,Yanapareceileso,abraçaombros/pedebebida/brincanãoconvidaram. Sem açãoatualLu/dueloWuning,semexplicaçãodeYan sobreviver.
+
+Três reconstruçõesmarcadas: dois fromafar→umpertoum longe conforme ataqueslâmina/arco;entrosamento asLiZhaoyi corrompido→sintoniaperfeita,semnovo personagem ou identidadeinventada;HuangDi surelydead corrigidoYan poralvo/vítima/retornoimediatoYan. Cemshi/váriosli mantidos unidades históricasfonte semconverterdadosincertos;nomesarqueiro/lâmina tratadosdescrições,sem inventar nomespróprios. DaoCelestial uniformeWayofHeaven,Shennong/Suirenmantidos;afirmaçõesgenealógicas/históricas/físicassão narraçãoficcional,semverificaçãoexterna/correção. MetáforadevorarChiYou,folhamovemontanha,camelo/cavalo preservadas. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,três pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 698 — Rolando para longe — 02/11/2026
+
+Fonte719: C:/Users/Robson/.codex/attachments/3670f157-321c-4cc5-bf93-a8458d34b4f1/Texto colado.txt. Tradução em capitulos/698 - Rolando para longe.txt;719→698 offlinePending. Próximo699/fonte720. Leitor406capítulos279–684 intacto;TXT685–698 aguardam publique.
+
+Continuidade: comentário humorístico rivalidadeirmãos/Hohhotchapéuverde,proteçãofortunaYan contraassassinos,hipótesemortoparecido eboaaventuradosnão morremfácil. VontadeCéu analogiachefeempresa podeacidentesletais,méritosbenéficosatraemfortuna/perdas outransferênciaporsucessormelhor. ParábolaBuda/chama,DaoCelestialMandatoCéu,impossibilidadedescriçãocompleta. ChiYoumetalurgia/armas,Amarelo expandeagriculturaYan emcerâmica/utensílios/carros/barcos/harmonia;Yanconheceambiçãoirmao/subordinado eafeição nãosuperaobstinação. Clãsfalsamenteleais,projetosAmarelo bloqueadosporassessoresreaparecemYan,questionaLiMuXiongemYouxiong provocandoChiYou. FinalLu perguntaShi semensagemdeclaraçãoguerraenviada,semrespostaainda. SemdueloWuningatual.
+
+Três trechos incertosmarcados: fraseBudaseofenderporfaltaconhecimento literalmantida semdefinirfalantecerto;HuangdiinferioraYellowEmperor política corrigidoYan conforme comparaçãoentre3;últimafrase sobrefrutodécadas/cuidados/exporcoração preservada próxima literal porcorrupção/metáforasemcontexto,nãoinventadodesastre concreto. 357thsquad emacidentearqueiro removido como357intrusivo,companheiro mantido;:?!8.:removido. Xiong/Youxiong diferenciados conformeclãdentrotribo explicitado,semmesclarLiMuoutropersonagem. RollingAway traduzidoliteralRolandoparalonge,semfabricartítulo explicativonãonafonte. Afirmaçõesmitológicas/históricastecnologia são narrativa,sem validaçãoexterna. Sem omissões/adaptação sexual necessária;metáfora adulta deinfidelidade nãoexplícita preservada.
+
+Validação: UTF-8 estrito sem substituição,três pares de asteriscos,título/final/número único conferidos. Sem alterações no leitor/aplicação,commit ou push.
+
+
+## Capítulo 699 — Tudo é armação — 02/11/2026
+
+Fonte720: C:/Users/Robson/.codex/attachments/3a2dab0b-f329-41ca-81e2-d3a38c750388/Texto colado.txt. Tradução completa em capitulos/699 - Tudo é armação.txt;720→699 offlinePending. Próximo700/fonte721. Leitor406capítulos279–684 intacto;TXT685–699 aguardam publique.
+
+Continuidade: Shi desabafa deverestribo/criançaapósmorteJiangYun,prestígio/bensconquistados eameaçasclãs,oitoferasChiYoucomparadasoitopilares. Conversasaté pôrsol;pergunta oquefazer seJiang pedirguerra,Luquerimpedir. Shi sugereLu forasteiro assimcomoXiaoRou eeleprópriooutrora;Lu inicialmentenãoentende,depois percebeplanoastuto,semfonteexplicitarmeio concreto. Shi sai,Luplaneja. Noitecomida/voltaquarto,fogefofocas,tempoescasso viagemgastouquase1/3estoque maiscontraShuhu,conhecimentoépocapermiteplano. Semcaneta/papel,escrita protegeriadeleitormente,temepensarShuhu/conexãoespiritual. AcendevelaaguardaLi’er comoavemigratória,ela entraescondida/porta range/pulabraço,afeto/carinhocabelos. Ainda semplanoexecutado/duelo/guerra/explicaçãoderetorno.
+
+Uma reconstrução marcada: tickets just came from lyingdown→passagemdaquelaviagem consumiuquase1/3celeirotempo,segundo temaviagemtemporal/quantiafonte massemcerteza do mecanismo. Oldstone→anciãoShi,cair/metáforapôrsol preservadas. LiYa→Li’er,Hu→Shuhu;aves/caçador metáforachegadagarota,nãopássaroreal adicional. honeycandle→ceraabelha conformeuso,sem corrigirvela anteriorgorduraanimal. Contradiçãosemcaneta/escreverseriamaisseguropreservadaargumentativamente. Pedidoflores removido;P.S.ObrigadoWu mantido como fonte sem identificarWu. Afetoabraço/cintura/cabelos nãoexplícito completo,sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 700 — Forçado a entrar no jogo — 02/11/2026
+
+Fonte721→700 explicitamente confirmada pelo usuário com comando publique. Anexo C:/Users/Robson/.codex/attachments/b8523dd4-90dc-45af-9869-0e239912096d/Texto colado.txt preparado em capitulos/700 - Forçado a entrar no jogo.txt. Registro offlinePending até integração685–700 nesta operação. Próximo701/fonte722.
+
+Continuidade: filha querseguirLu,elepensa passagens/despedidas/conforta. SuspeitaShi nãocontariahistória o dia inteiro se guerra iminente,equis induziração;pergunta filhaqueouviupaiúltimos2dias. Ela conta conversasecretaShi/pai,Lu imitapai/brincatranças/cabelos;revela Yan/Huang/ChiYou eRou’erligadaaosdoisimperadores. Lu deduzclãJiangmaisimportantequeaparência/peçacentral3lados,atentadopodeterorigememvirartabuleiro;Rou’er infiltrada masverdadeiromandanteincerto. Semplanoexecutado/duelo/retornotemporal.
+
+Adaptação neutra conforme preferência: descrição sensual da adolescente/reações sexuais substituídas por afeto,acomodaçãoabraço e distração emocional seguida de concentração. Preservados brinco/poema/escritaselo/luz,papo,trançar cabelo/abraço e conteúdo político. Sem avisos ou marcadores de omissão no capítulo,não afirmar literalidade integral. Dois trechos incertos em asteriscos: Du Yu mantido nomefonte sem fundirShi/outropersonagem;lembrançaganharaposta mantida apesarcronologiadueloaindapendente (possívelantecipação),sem criar vitóriaatual. father-in-law na pergunta àfilha normalizadoseupai,JiangLimasculino. 0.5nãoexiste,pedidoflores removido. MemóriaO Grito mantida comparação artística.
+
+Validação TXT: UTF-8 estrito sem substituição,dois pares de asteriscos,título/final/número único conferidos. Integração/testes do leitor a seguir conforme publique. Sem commit/push.
+
+
+## Publicação offline685–700 —02/11/2026
+
+Comando700,publique: fonte721 traduzida→700 e dezesseisTXT685–700/fontes706–721 integrados como preparados,com títulos/corpos/notas/itálicos idênticos. Adaptaçõescontextuaisneutras jáautorizadas preservadas. Todos406objetos anteriores estruturalmente idênticos. Leitor422capítulos consecutivos279–700,sem pendentes;próximo701/fonte722. Esquema8,app.js/styles.css,controles/progresso/preferências preservados. Backup backups/offline-685-700-20261103T000343011/:23arquivos com SHA-256 conferidos,manifest.json e publication-summary.json. Reversão restaura arquivos anteriores,preserva TXT e registra operação. Validação concluída: node tests/reader.test.cjs aprovado,422IDs contínuos,TXT286–700 idênticos,títulos/notas/itálicos,transições684→700,último700sempróximo/retorno699,retomada700posição/tema/fonte/sidebar,grupo601–700 e mobile simulados,migrações/armazenamento preservados. node --check chapters.js/app.js e git diff --check aprovados. Sem revisão visual real,commit,push,PR ou implantação remota.
