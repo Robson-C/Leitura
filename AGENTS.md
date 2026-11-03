@@ -192,3 +192,8 @@ Nove TXT676–684 integrados por comando publique. Leitor406capítulos consecuti
 ## Publicação offline279–700 —02/11/2026
 
 Dezesseis TXT685–700 integrados por comando publique. Leitor422capítulos consecutivos279–700,sem pendentes. Fontes706–721→685–700,última confirmada pelo usuário. Adaptações neutras e revisões anteriores preservadas,esquema8/controles/progresso/preferências mantidos. Próximo701/fonte722,sujeito à conferência. Commit/push manuais;backup e validação na revisão operacional.
+
+
+## Publicação offline279–720 e continuidade —02/11/2026
+
+Vinte TXT701–720 integrados,fontes722–741,por autorização expressa apesar dos saltos. Leitor442 capítulos279–720,sem pendentes. Próximo721/fonte742. Ler CONTINUAR-TRADUCAO-E-CONFERIR-ORDEM.txt antes de continuar:inclui saltos722→723/724→725,comparação chinesa,correção701 e objetivo de procurar ordem até750/fimdoarco. Usuário autoriza complemento de ligação apenas se a busca até o fim do arco não resolver;nenhum complemento criado agora. Não confundir complemento editorial com original. Demais revisões/esquema8/controles/progresso/preferências mantidos. Commit/push manuais.

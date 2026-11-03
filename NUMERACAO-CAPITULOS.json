@@ -2150,8 +2150,108 @@
       "old": 721,
       "new": 700,
       "title": "Forçado a entrar no jogo"
+    },
+    {
+      "old": 722,
+      "new": 701,
+      "title": "Conversa noturna"
+    },
+    {
+      "old": 723,
+      "new": 702,
+      "title": "Voltou à vida?"
+    },
+    {
+      "old": 724,
+      "new": 703,
+      "title": "Guerra!!! (1)"
+    },
+    {
+      "old": 725,
+      "new": 704,
+      "title": "Discussão"
+    },
+    {
+      "old": 726,
+      "new": 705,
+      "title": "O Rei Celestial"
+    },
+    {
+      "old": 727,
+      "new": 706,
+      "title": "Sempre um viajante distante"
+    },
+    {
+      "old": 728,
+      "new": 707,
+      "title": "De volta a lugares conhecidos"
+    },
+    {
+      "old": 729,
+      "new": 708,
+      "title": "A grande guerra está prestes a começar"
+    },
+    {
+      "old": 730,
+      "new": 709,
+      "title": "Mutação da habilidade"
+    },
+    {
+      "old": 731,
+      "new": 710,
+      "title": "Testando a espada"
+    },
+    {
+      "old": 732,
+      "new": 711,
+      "title": "O princípio natural"
+    },
+    {
+      "old": 733,
+      "new": 712,
+      "title": "O caçador veterano"
+    },
+    {
+      "old": 734,
+      "new": 713,
+      "title": "Olhando-se de longe"
+    },
+    {
+      "old": 735,
+      "new": 714,
+      "title": "Um encontro com um caçador"
+    },
+    {
+      "old": 736,
+      "new": 715,
+      "title": "As boas palavras de Yinghuo"
+    },
+    {
+      "old": 737,
+      "new": 716,
+      "title": "Silêncio"
+    },
+    {
+      "old": 738,
+      "new": 717,
+      "title": "Discussão"
+    },
+    {
+      "old": 739,
+      "new": 718,
+      "title": "Compartilhando a mesma luz pelo mundo"
+    },
+    {
+      "old": 740,
+      "new": 719,
+      "title": "Desde que esteja ao meu lado"
+    },
+    {
+      "old": 741,
+      "new": 720,
+      "title": "A irmã imortal dos céus"
     }
   ],
-  "pendingFromOld": 722,
-  "notes": "Leitor offline:422 capítulos consecutivos279–700, nenhum TXT pendente. Fontes706–721→685–700 integradas como preparadas;fonte721→700 confirmada explicitamente. Adaptações contextuais neutras e revisões anteriores preservadas. Próximo correto701/fonte722,sujeito à conferência. Esquema8 preservado."
+  "pendingFromOld": 742,
+  "notes": "Leitor offline:442 capítulos consecutivos279–720,nenhum TXT pendente. Fontes722–741→701–720 integradas por autorização explícita apesar dos saltos conhecidos. Conferência chinesa confirma lacuna/transição722→723;bloco723–724 possivelmente deslocado. Aviso e contexto:CONTINUAR-TRADUCAO-E-CONFERIR-ORDEM.txt. Próximo correto721/fonte742. Investigar até750/fimdoarco;complemento editorial condicional autorizado,nenhum criado. Esquema8 preservado."
 }

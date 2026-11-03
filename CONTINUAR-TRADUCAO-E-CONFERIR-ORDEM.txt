@@ -1,0 +1,47 @@
+CONTINUIDADE DO PROJETO LEITURA — 02/11/2026
+
+Estado preparado nesta publicação: leitor local com 442 capítulos consecutivos, 279–720. Último: 720 — A irmã imortal dos céus, fonte 741. Próximo esperado: fonte 742 → capítulo 721. Não confundir o número da fonte com o número do projeto: nesta faixa, projeto = fonte menos 21.
+
+Trabalhar na cópia do projeto deste computador. O caminho usado nesta máquina foi C:/Users/Robson/Documents/Curso/Leitura; no outro PC localizar a cópia atualizada do mesmo repositório e ler AGENTS.md, NUMERACAO-CAPITULOS.json e REVISAO-OPERACIONAL.md. Não impor o caminho desta máquina ao outro computador.
+
+PUBLICAÇÃO E SINCRONIZAÇÃO
+“Publique” autoriza integrar todos os TXT ao leitor local, com backup e validação. Commit/push e atualização remota continuam manuais. Para receber estas alterações no outro PC, primeiro sincronizar o repositório pelos meios habituais do usuário. O HTML usa chapters.js: não lê diretamente os TXT. Ao revisar texto, manter TXT e cópia em chapters.js alinhados. Backups ficam em backups/ e são locais, ignorados pelo Git.
+
+AVISO DE ORDEM — PUBLICAÇÃO AUTORIZADA MESMO COM ESTES SALTOS
+O usuário pediu publicar os capítulos recebidos, preservando sua numeração e deixando este aviso na pasta. Não foram inventadas passagens, não foram excluídos os capítulos suspeitos e não foi feita reordenação hipotética.
+
+1. Projeto 701 / fonte 722 — Conversa noturna:
+   Lu Li investiga Li Mu e Xiao Rou/Rou’er; conversa com Jiang Li’er. Não inicia batalha com Guang Lingzi.
+2. Projeto 702 / fonte 723 — Voltou à vida?:
+   Começa com Guang Lingzi já dado como morto após uma batalha não apresentada neste ponto; o corpo desaparece, ele volta e ataca Lu Li esgotado. Jiang Li’er corre até Lu Li.
+3. Projeto 703 / fonte 724 — Guerra!!! (1):
+   Continua diretamente o 702. Lu Li desacelera o tempo dez mil vezes; Guang Lingzi continua se aproximando; filha oferece pedra espiritual de grau supremo. Termina antes da recuperação/resultado do ataque.
+4. Projeto 704 / fonte 725 — Discussão:
+   Volta a uma negociação política em andamento entre Lu Li e Jiang Li, sem concluir a batalha. Lu obtém promessa de Chi You para uma missão que provocaria conflito entre Yan e Huang. O início desta negociação também não está neste anexo.
+5. Projetos 704–720 / fontes 725–741:
+   Até aqui, encadeamento contínuo: negociação → partida para território Yan → caverna/mural → viagem Manggu → caçadores → Yinghuo/Shan Yan/Xing Ning → visitante anônima que diz vir da lua.
+
+HIPÓTESE, NÃO CONCLUSÃO
+702–703 parecem formar um bloco deslocado, possivelmente de uma parte posterior. Simplesmente mover esses dois capítulos não prova que tudo esteja completo: faltam encaixes do início/fim da batalha e do início da negociação. Procurar nos capítulos seguintes antes de decidir. Não confundir a batalha visualizada no mural (707–709) com a batalha real contra Guang Lingzi (702–703).
+
+CONFERÊNCIA COM O CHINÊS
+O usuário forneceu o 723 chinês completo: o conteúdo confirma o inglês da fonte 723, inclusive o início com Guang Lingzi dado como morto. Portanto, a descontinuidade não foi criada pela tradução inglesa.
+O usuário também forneceu como completo o 722 chinês; ele termina na descoberta de Lu Li sobre Rou’er parecer uma estudiosa e no esforço de esvaziar a mente. O anexo inglês 722 contém, depois disso, um trecho adicional de conversa/carinho. Preservamos o texto inglês já traduzido; essa diferença de extensão precisa ser lembrada na conferência. Mesmo considerando a extensão inglesa, não há a batalha que prepara o 723.
+Correção confirmada pelo chinês no projeto 701: “只是在自己负伤在这里养伤的时候见过几次” refere-se a LU LI estar ferido e se recuperando quando viu Rou’er, não a Jiang Li’er. Nesta publicação, o TXT e chapters.js foram alinhados com essa correção.
+
+AUTORIZAÇÃO PARA A INVESTIGAÇÃO E EVENTUAL COMPLEMENTO
+O usuário seguirá enviando capítulos para procurar a ordem, inicialmente até o 750. Na conversa, foi assumido 750 do projeto; se o usuário estiver usando a numeração da fonte, acompanhar ambas e esclarecer quando necessário. Não declarar que a ordem foi resolvida sem encontrar os encaixes.
+Pedido posterior do usuário: continuar a busca até ACABAR O ARCO. Se o material continuar sem resolver os saltos ao final do arco, está autorizada a tentativa de redigir um complemento de ligação curto para facilitar a leitura, sem desviar da história.
+Essa condição ainda não foi cumprida: nenhum complemento foi redigido agora. Antes de produzi-lo, reler os trechos anteriores/posteriores e verificar o que efetivamente falta. Não inventar vitórias, poderes, mortes, revelações ou mudanças de relacionamento que não sejam sustentados pelo arco. Guardar o original em backup; registrar claramente nos arquivos de continuidade quais passagens são complemento editorial, sem apresentá-las como texto original chinês. Preferir uma transição discreta, fiel aos fatos confirmados. Não usar uma transição para fingir que uma batalha inteira foi recuperada.
+
+ÚLTIMA CENA E NOMES
+Projeto 720 / fonte 741: mulher anônima de capuz preto, que se apresenta como enviada do Palácio da Lua, conversa pela janela com Shan Yan. Insinua que o mestre Yinghuo também poderia ter interesse em Xing Ning, mas isso é alegação/manipulação dela, não fato confirmado. Shan Yan se aproxima para ouvir um sussurro. Sua identidade e intenções reais ainda não foram reveladas. Lu Li está no acampamento sob o pseudônimo Shuyun.
+Yinghuo: caçador veterano, diz ter 20 anos, aparência muito mais velha; mestre Song; colega mais velho Bai. Shan Yan: discípulo de Yinghuo, fonte diz dois anos mais novo, origem órfã de maré de feras liderada por Imperador Demônio. Xing Ning: jovem de quem gosta, sentimentos recíprocos sugeridos. Não confundir mestre de Yinghuo (Song) com mestre de Shan Yan (Yinghuo).
+Outros termos: Floresta Manggu; Esfera de Localização de Pessoas; Lâmpada da Longevidade; Shuhu (também Hu/Shu Hu/Suddenly nas fontes defeituosas), controlador do tempo que bloqueou viagens longas de Lu Li. Reversões de até cerca de uma semana ainda funcionam segundo fonte 727.
+
+PREFERÊNCIAS DE TRADUÇÃO
+Cada envio autoriza tradução PT-BR, TXT UTF-8 e registro de continuidade sem reconfirmação. Não repetir tradução inteira no chat; responder com link e número fonte→projeto. Interpretações incertas entre asteriscos simples, renderizadas como itálico no leitor. Limpar ruídos de captura e pedidos de flores, preservando números reais.
+Quando um conteúdo sexual precisar de adaptação, usar linguagem neutra conservando os acontecimentos e o contexto; o usuário dispensou aviso no capítulo quando a adaptação mantém o contexto. Não remover descrições não sexuais de beleza, pele, luta, ferimentos ou cuidados por excesso de cautela. Considerar personagem e passagem do tempo: Liu Zhujun é adulta nesta fase, diferente de Jiang Li’er. Manter adaptações já preparadas e não reproduzir detalhes sexualizados impróprios.
+
+VALIDAÇÃO
+Conferir node tests/reader.test.cjs, node --check chapters.js, node --check app.js e git diff --check. Testes usam navegador simulado, não são revisão visual real. Detalhes e localização do backup desta publicação estão em REVISAO-OPERACIONAL.md.

@@ -3814,3 +3814,223 @@ Validação TXT: UTF-8 estrito sem substituição,dois pares de asteriscos,títu
 ## Publicação offline685–700 —02/11/2026
 
 Comando700,publique: fonte721 traduzida→700 e dezesseisTXT685–700/fontes706–721 integrados como preparados,com títulos/corpos/notas/itálicos idênticos. Adaptaçõescontextuaisneutras jáautorizadas preservadas. Todos406objetos anteriores estruturalmente idênticos. Leitor422capítulos consecutivos279–700,sem pendentes;próximo701/fonte722. Esquema8,app.js/styles.css,controles/progresso/preferências preservados. Backup backups/offline-685-700-20261103T000343011/:23arquivos com SHA-256 conferidos,manifest.json e publication-summary.json. Reversão restaura arquivos anteriores,preserva TXT e registra operação. Validação concluída: node tests/reader.test.cjs aprovado,422IDs contínuos,TXT286–700 idênticos,títulos/notas/itálicos,transições684→700,último700sempróximo/retorno699,retomada700posição/tema/fonte/sidebar,grupo601–700 e mobile simulados,migrações/armazenamento preservados. node --check chapters.js/app.js e git diff --check aprovados. Sem revisão visual real,commit,push,PR ou implantação remota.
+
+
+## Capítulo 701 — Conversa noturna — 02/11/2026
+
+Fonte722: C:/Users/Robson/.codex/attachments/de0c7a69-5528-4815-a988-36f695f7d5c5/Texto colado.txt. Versão com adaptação contextual neutra em capitulos/701 - Conversa noturna.txt,sem aviso no corpo conforme preferência explícita.722→701 offlinePending;próximo702/fonte723. Leitor422capítulos279–700 intacto;TXT701 aguarda publique. Títulorepete670porsersimilarnafonte,semduplicarcorpoouID.
+
+Continuidade: Lu queria viajar/serestrategistamasLi’eroforçajogo. ReavaliaLiMu (agoraYan/trabalhouChiYou,futurobraçodireitoHuang),ascensãorápida sugere aliadoanterior/mandanteoculto. Fonte descreveRou’ersumiuquartotrancado sempassagem eLiMuameaça3dias;contradiçãocomcenaanterior retiradaàvista porLiMu preservada como lembrançaincerta. Lu sóviuRou’erpoucasvezesenquantoLi’erferida,criadacomo irmã/família,habilidosafezbrincos/sachês,reservadacom oestudiosa. Palavraestudiosa disparaentendimento/alarme,Lu apagatentativapensamento,fingeignorância,semrevelarresposta explícita. Li’er percebemudançapessoa,eleconforta/carinho/olhospoema/beijobreve/reafirmaprincípios. SemdueloWuning,guerra ou fuga executados.
+
+Duas reconstruçõesincertas marcadas: lembrançadesaparecimentoRou’er porfonteIfRouremembers/contradiçãocronológica,nãoalteradoscapítulosanteriores;Li’er herself knewnothing ... onlyseenherfewtimes atribuídoLu conforme lembrançasdocontatocriada,semnovapersonagemLi’er. Earring sachets traduzidobrincos e sachês,sem fundirnumúnicoobjeto. LiMu/Rou’er/Youxiongnomesuniformes. Adaptaçãoneutra das descrições eróticas/reaçãosexual sobre adolescente: preservados abraç o,cílios/olhos/poema/beijobreve/ternura/travessura e compromissoético,nãoreproduzidosexplicaçõeseróticas nem criadoconteúdosexualespecífico. Semmarcadoresdeomissão,nãoalegar tradução literal integral.
+
+Validação: UTF-8 estrito sem substituição,dois pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 702 — Voltou à vida? — 02/11/2026
+
+Fonte723: C:/Users/Robson/.codex/attachments/b92a4f13-402a-4473-a007-c29c4238cc96/Texto colado.txt. Tradução completa em capitulos/702 - Voltou à vida.txt;723→702 offlinePending. Próximo703/fonte724. Leitor422capítulos279–700 intacto;TXT701–702 pendentes. ALERTA DE CONTINUIDADE: fonte723 salta diretamente da conversanoturna722 para batalhacomGuangLingzi játravada,mortepresenciada/corpodesaparece e contraataque. Numeraçãofonteconsecutiva masencadeamentonarrativoausente. Usuário informado durante tradução;texto preservado seminventarintermediários,sem renumerar ou integrarantesconferência.
+
+Continuidade própria702: GuangLingzi vozno céu sobreviveu recursooculto,feixeluzdescepressãoimobilizaLu esgotadoforça/energia/poderespiritual. Youxiongfestejaansiadorecursos/mulheresJiuli,Shi/pai desesperam. Filhaquerajudarésegurada,acusaingratidãopernante soldados,paisedistrai/solta,ela corre Lu sobpoucapressão;Lu irritadoporarriscarvida/comovido e tentaexpulsá-la paraficarsegura. Lu nãofoge porpressãoconcentrada;fim antesfeixeatingir,sem resultado/resgate/conclusãobatalha.
+
+NomeGuangLingziuniforme conforme títulosfontes716/723,sem confundirLiMu/Shuhu. FraseI didnt want to save him! I couldnt reconstruída com nãoéque nã oqueira;équenãoconsigo e marcadaasteriscos,conformeexplicaçãoanterior. Pronomesfilha egrupo queéimpedida corrigidos;pressão que emanava dela→afetavaela,conforme fonte indica auraoriginadaGuangLingzi. Vilõescobiçammulheres semdescriçãoerótica,ameaçageralpreservada semadaptaçãosexual. Sem omissões.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 703 — Guerra!!! (1) — 02/11/2026
+
+Fonte724: C:/Users/Robson/.codex/attachments/8e4a2693-d726-403e-ab77-9e0ae645d7ad/Texto colado.txt. Tradução em capitulos/703 - Guerra 1.txt;724→703 offlinePending. Próximo704/fonte725. Leitor422capítulos279–700 intacto;TXT701–703 pendentes. Fonte724 continua diretamente batalha723/702;salto de722/701 para723/702 permanece sem resolução. Não inventados capítulos/renumeração;conferir continuidade antes integrar702–703.
+
+Continuidade: filha preferepermanecerLu mesmo morrer,beijocarinho,GuangLingzi furiosoporserignorado/aceleraquer matá-los. LuDesaceleraçãoTempo10milvezes (limitemaiorafetariamundointeiro),adversárioainda veloz/fonte diz sómetade menor mas nãorompedomínio por nãoterpoderdevelocidade. Luusa intervalo parapensar/recuperar,filhapercebemundo lento,eleafirmafez/prometedetalhesdepois,relaxamentodosdois apesarperigo. Pedetesourorecuperarforça,elausou recursosprévios/sóremédiospílulasferimentos,lembra pedraespiritualgrausupremo. Lu não sabiarecuperava/nuncausou,explicaterranatalsempedras/cultivocompoucaenergiaar. Filhaperguntatodossãopoderososali. Ainda nãoretiradapedra/absorção/recuperação/conclusãoataque;GuangLingzicontinuaaproximandodesacelerado.
+
+Removido373intrusivoTimeSlowdown,nãomultiplicador;10mil e aparentereduçãosómetade preservadosapesarinconsistência,semcorrigirfísicaficcional. Fontepartedways→afastaramdobeijo,nãoseparaçãolocal. Declaraçãoafeto/beijosemdetalheseróticos,nenhumconteúdosexualexplicitogerado;descritocomocarinhosemprolongar. Pronomesdesanguladoscorrigidosfilha/Lu;líderderamointerpretadopaidaqualéfilha,sem torná-lachefe. FangZhenglu corrompido→LuLi (dequalquermaneira),semnovopersonagem. Topgrade→grausupremo conformequatroclasses689. Nomeanteriorquebravelocidade mantidosujeitoanterior,sematribuirnomedefinitivo. Sem omissões ou notasnovas.
+
+Validação: UTF-8 estrito sem substituição,título/final/número único,nenhumasteriscodesbalanceado conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 704 — Discussão — 02/11/2026
+
+Fonte725: C:/Users/Robson/.codex/attachments/4a32ab45-cb2e-492b-8fcd-496052e04c54/Texto colado.txt. Tradução em capitulos/704 - Discussão.txt;725→704 offlinePending. Próximo705/fonte726. Leitor422capítulos279–700 intacto;TXT701–704 pendentes. Nova descontinuidade:725retorna negociaçãoLu/JiangLinosalãocon selho jáemandamento,semconcluirataqueGuangLingzi724;informadousuáriodurantetradução. Persiste salto722→723. Preservada numeração recebida,semreordenar/inventarcapítulos;conferir antes integraçãofaixacomsaltos.
+
+Continuidade própria704: Lu barganhaameaçasair conta8passos,JiangLi adicionapromessaverbalChiYou,Lu aceitavalorjuramentocéus/causalidade/EsferasDragão/CocaColaPepsimetáfora. JiangLialiviado considerapeçamemória/promessarecompensafuturo/méritotarefa,quitadívida/apostadoislados e crêLuapresadoemcausalidade. Pedidoexplícito:LiMu suspeitoagentedeHuang juntoYan,objetivonãoapenasconfirmar masolhoporolhoprovocarguerraentreimperadores. LucontariaredeChiYou,questionaespiãoveterano versusgarota/dote eJiangLiquernegóciopróprioentrelealdades,precisaplanodetalhado/próximosmovimentos. Finalbodeexpiatóriocriarconflito acritérioChiYou,semplanodetalhadoexecutado.
+
+Três reconstruções emasteriscos: DragonKing doesntreleasewater→se nã opegasseleve,idioma degraça no castigo;chairjustmade→cadeiraemquesentara,semcarpintariainventada;ChiYousdisc→rededeagentesChiYou porcontextoespiões/infiltração,mesmatermo nasocorrênciasposteriores. AbatimentoaberturaClaramenteeuúltimocaso mantidoconforme fonteapesarlucronegociaçãoseguinte;semforçar identificaçãofalantemaisprecisa. JiangLimasculino,ChaosStone→PedraCaosPrimordial. Ruídos .8,pedidoflores,V.final removidos. Sem omissões ou adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,três pares de asteriscos,título/final/número único conferidos. Sem alterações no leitor/aplicação,commit ou push.
+
+
+## Capítulo 705 — O Rei Celestial — 02/11/2026
+
+Fonte726: C:/Users/Robson/.codex/attachments/1ea4e9e8-7d93-48ec-b91e-8ed5c288f030/Texto colado.txt. Tradução em capitulos/705 - O Rei Celestial.txt;726→705 offlinePending. Próximo706/fonte727. Leitor422capítulos279–700 intacto;TXT701–705 pendentes. Continuidade704→705 confirmada negociação salãoconselho;mantidos alertas anteriores722→723 e724→725semresolução.
+
+Continuidade: JiangLi dizLu decideplano,Luacha impossível sozinho/invocaGuerraSantoGraal. Sogro usa falaassassinarYan maisfácil paraimpor missão,apresentaequipamentoChiYou/trajenoturnopeleleopardo uniformeorganizaçãosecretaHuang/espada. Adaga resvalasuperfície,roupa intacta. Uniformenãoserveprova,nãoháplaca/listaalterada,ideiaéLuconfessar autoriafiliação. JiangLipro v ocandoporpairessentidofilhasair,Shi nãopodeexplicar/tentamediar. Lu desisterealporcompetênciatime/escalada3forças. Portaabrepancada,Li’erchamaLu/impedesair,mandapaicalarboca,repreendeShi,Luesperapróximabronca. Semmissãoexecutada,guerra/duelo,batalhaGuangLingzi oudesfechoretornotempo.
+
+Doistrechosincertosmarcados: setofswordsandlongsword materialdesconhecido contextualizadoconjuntoequipamento+espada conformeaçãoimediatatrouxe tambémroupa;cantberesolvedanyscapegoatwhyme corrigidopossibilidadedebodequalquer/conflitopronome conforme objeçãoLu. Chicoudisc→rededeagentes conforme704. JiangShi emfraseinterrompida mantidoEuJiang... sematribuirShi falaJiangLi;nomes/pronomes normalizados. Ruídos373extenso/0.5 removidos. Não inventado poderplacadeidentificaçãonem planoidealdetallhado. Roupa/cetim/elasticidade/adaga/técnicasembainhar preservadas. ReiCelestial título/metáforadeautoridadeLi’er,nãonovodivino. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,dois pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 706 — Sempre um viajante distante — 02/11/2026
+
+Fonte727: C:/Users/Robson/.codex/attachments/f5a8c22b-21ac-446b-9559-d3f3c68305ef/Texto colado.txt. Tradução em capitulos/706 - Sempre um viajante distante.txt;727→706 offlinePending. Próximo707/fonte728. Leitor422capítulos279–700 intacto;TXT701–706 pendentes. Continua705/negociação e partida;alertasdescontinuidade722→723/724→725preservados semreordenar.
+
+Continuidade: negociaçãoconcluída sobLi’er/Shi,ambosLu/JiangLicontrariadosmassemperder. Lu vai sozinhoYan,filhanãopodeacompanhar. Preparaobjetosparaevitaradivinhação,experimentosrevelamreversãocurtapossível até1semana,alémdissoriscofendatemporal/perdafragmentoalma/impedimentoaugeDao;discutesubmundo/cultivadoresalmaheréticos depoisprocuradospagos. Planeja tarde/partirluar,antecipaidaagoraparaevitardespedida,espada/trajemaiorqueumpunho,PedraCaosPrimordialsempoderficaLi’er comalgumcanalinfo. RefleteShuhutalvezajuda/usaele,desconfiaamigoinimigo e desejapoderesParadaTempo/LeituraPensamentos;supõelimitações,técnicasproibidas/FengHouQiMen/rastreio1000li eprevisões. Finalantesnoiteativa50vezes eolhosespirituais,paredes/mesastransparentes. Ainda semsaídadetectada/destinoatingido,semduelo/guerra.
+
+Duas reconstruções emasteriscos: soulsleavebody almostthere halfwaythere→agravariacondição porfrasecorrompida semespecificarsintomasinventados;giveyougifts→despedidamuitagente conformecontextodepartir/choroevitado. StoneHunyuan→PedraCaosPrimordialconforme fonte,semcorrigiranteriorHunTian. Discursosprobabilísticos mantidoshipóteses,nãofatosgarantidosShuhu. Removido373intrusivona fraseLeituraPensamentos. TécnicaevasãoorigemFengHouQiMen mantida transliteraçãofonte sempesquisafactualexterna,nãoconfundidacom personagemnovo. Aparentecontradiçãoplanejadepoissainoclaroresolvida comoquerersairescon dido/jásairseesconderaténoite,conformeprópriafonte. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,dois pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 707 — De volta a lugares conhecidos — 02/11/2026
+
+Fonte728: C:/Users/Robson/.codex/attachments/674e54dd-5b20-4fca-9344-5d656ea0e958/Texto colado.txt. Tradução completa em capitulos/707 - De volta a lugares conhecidos.txt;728→707 offlinePending. Próximo708/fonte729. Leitor422capítulos279–700 intacto;TXT701–707 pendentes. Continua706saídaaceleradameio-dia/caverna;alertas722→723 e724→725semresolução preservados.
+
+Continuidade: Lu saitribosemdespedida,retornacavernaantesviagemYan,refleteShuhupodetertransportadoportão/brincadeira/nãoconfiaraparênciacontroladortempo. Observação16/costumesexpectativavidatrintapoucosanos/maturidadecasamento20mantida comoopiniãoLu,sem mudaridadepersonagem. Paredecontinuanada,fenômenopareceúnico;querreconstruirbatalhamental. Desconfiacultivotécnicasparede poridade/desgasteinconsistente,socoproduziucaverna marcasdiferentes,temearmadilha/meridianos/Clubearesguardar. Rejeitaprovérbiocoragemganância/riscomorte,humorvidabem/hotpot/cháleite/dinheiro. Meditadet alhesclima/trovão,pessoaacima/multidã oacusa,seitaZhengyangeoutras ameaçam egoístas;Luquasefalha pornãorecordardiálogo,vozcentralmultidãogananciosa soasozinha,imagensganhamvida/ressonâncialocal,batalhavisualizada começa. Ainda semvitóriabatalha/departidaYanconcluída/dueloWuning.
+
+Duas passagens incertas emasteriscos: readentirebook mantidolivrointeiro apesar ausência delivroconcreto; suddenability interpretadopoderrecebidoShuhu conformecapítulosanteriores,sem ensinarcopiaroudefinirtécnicanova. Suddenlyencounter→Shuhu porcontextopoderparadatempo/rapazadolescente. LazyChinese→habitantespreguiçosos semintroduzirnacionalidademoderna.Levitation/flyout naturalizadodisparar/saltos conformenarrativanãopossuivoo. Mulheres/homensporperto mantidofrase fonte,nãotransformadaemato sexual. SeitaEspadaZhengyangnovo nomepreservado,nãomescladoaosnomesdobat alhãoanterior. Sem omissões/adaptação sexual necessária;descriçõesromance/costumessãonãoexplícitas.
+
+Validação: UTF-8 estrito sem substituição,dois pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 708 — A grande guerra está prestes a começar — 02/11/2026
+
+Fonte729: C:/Users/Robson/.codex/attachments/5fe50733-4d1e-4c9e-b014-354853fff7ef/Texto colado.txt. Tradução completa em capitulos/708 - A grande guerra está prestes a começar.txt;729→708 offlinePending. Próximo709/fonte730. Leitor422capítulos279–700 intacto;TXT701–708 pendentes. Continua707visualizaçãobatalhamural,não batalhaGuangLingzi fontes723–724;alertasdecontinuidade anteriorespreservados.
+
+Continuidade: líderseitasjustasjovemclarosembarba/cabelo,Luobservaconsciênciasemcorpo dentroquadro/mundopequeno,moveespaço/tempo e supõepoderrefinarcomotrunfo. Jovem enumera10crimes/últimoDaoCelestialprincípiosbenevolênciabondade;Ludivagacontramotivaçãoagradecersofrimento/carpassorteWeibo/agradecermãe. Estalatempo paraexaminarmultidãoenergiafuracão/algunsavataresdivinos baixopoderaltapureza,supõealvodemôniooutesourocobiçado,memorizatraçopoderfalha/precisaaprenderouimitarintimidação. Retomafluxocomestalo,lídersacaespada/chamamilharesdaoistas,todosarmados/energia,Luassustaapesarcontrolemenosmetadeespaçotempo. Últimaultimato renda-semorte,semprimeirogolpe/conclusãobatalha.
+
+Uma passagem incerta marcada: artefatodivinograndefortuna/destinodeusinjusto mantidapróximaliteral porque frasefonte obscura,nãoinventadaregradefortuna. 373intrusivoapósoldfox removido. Poisonouschickensoup naturalizadoconselhosmotivacionais tóxicos porcontextofilosofiacotidiana,nãovenenoreal. Comparaçãoarmasfogo explicitadag eraçõesposteriores conform eparágrafoanterior,semarmasmodernasnosdaoistas. Jovemsembarbacabelo/aparênciainocente/integridadeprovável mantidossegundonarrador,nãoinferidomenoridadebiológicadeimortal. Esfera controladalimitadaao mural,semconfundirparadatempoexternaShuhu. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 709 — Mutação da habilidade — 02/11/2026
+
+Fonte730: C:/Users/Robson/.codex/attachments/2337afd8-18d6-496c-beca-33088956f7d9/Texto colado.txt. Tradução completa em capitulos/709 - Mutação da habilidade.txt;730→709 offlinePending. Próximo710/fonte731. Leitor422capítulos279–700 intacto;TXT701–709 pendentes. Continua708mural,semresolver descontinuidades722→723/724→725.
+
+Continuidade: jovemlíderavançaespada/multidãotécnicas,demôniobufaa0,5m/espacotem treme,Lupercebecontroletemporal/espacial e palavrassetornamlei,entendebatalhadeuses. Discutealcancelimitadopoderesusuais/enxertoespacial/transferirpequenomundo/leisdiversas/transaçõestempocomentidadessuperiores,sem explicaçãocompleta. Gotafrianuca fazvoltarcorpocavernacerca1horaexterna/noitefria,conhecimentonovo/percebeelementosalémtempo emárvores/animaiscomoteiasflutuantes,podervisualativadocontinuafenômeno/desativadosome. Retomapartida,objetoJiangLiEsferaLocalizaçãoPessoas comsetaenergiaspiritualindicaorigem/alvosempoderidentificado. VersãoavançadaprojeçãofragmentoalmaLâmpadaLongevidade/luzvidaapagadamorte,funçãoalémindicarvidaasugeridareuniãofiovida. Ainda semchegadaYan/desfechomural oubatalhaGuangLingzi.
+
+Secretpassagewasintrouble naturalizado pensamentoEssaNão,conformeabsorçãomental/corpodesprotegido;sem passagemsecretaexistente. Espacotempodomínio no mural nãogarantemesmopoderexterno;hipótesesLupreservadascomotal. Sinalteiasnãonomeado causalidade/destino poraindanãodefinidofonte. FindingPersonBall→EsferaLocalizaçãoPessoas,LongevityLamp→LâmpadaLongevidade,termsnovosregistrados. Semafirmarrecuperaçãoalmajárealizada,nemidentidadealvoesfera inventada. Pedidoflores/(5.)removidos;onomatopeiaTicktock→Ploc pororvalhocontexto,semrelógionovo. Sem omissões/adaptação sexual necessária,nem novasincertezasdelimitadas.
+
+Validação: UTF-8 estrito sem substituição,título/final/número único e ausência deasteriscos conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 710 — Testando a espada — 02/11/2026
+
+Fonte731: C:/Users/Robson/.codex/attachments/18be7e15-5571-41b3-8166-f2b8ce1ca1ec/Texto colado.txt. Tradução completa em capitulos/710 - Testando a espada.txt;731→710 offlinePending. Próximo711/fonte732. Leitor422capítulos279–700 intacto;TXT701–710 pendentes. Continua709viagem/roupanoite;alertas722→723 e724→725preservados.
+
+Continuidade: Lu de trajelevepercorr emata/examinaespada comprimentoestreitacurvaestilokatana/cabo2mãosmadeiraresistenteabsorvechoque/courodesconhecido/bainha. Clareiramatoatépescoço,5ferasleopardos3comem2v igiam,olhospodervisualanelvermelho/noiteenxerga,todossepercebemLuaguarda5porbrincadeira. Ferasestranhasbaixo nívelmaisinteligentes/robustas,algunsreisgrupopoderespiritualmasnãoesses. Respiraçãoabdominal/iaijutsumentalincontáveis/prontasacamaisrápidoaoextrairponta,lâminapretasemreflexo;5atacamsimultâneosaque. FinalLu dominaaprendizado graçasmanipulaçãotempo,ainda não hágolpeatingindo/desfecho.
+
+Quatro passagens incertasmarcadas: cláusulad esbalanceada2contra3 interpretada vantageminjustaseLuatacasseantesdemais3acabaremcomida;X-Kings→reisdealgumaespécie semnomearclassificaçãofaltante;XuPoJi transliteraçãofonteconservadasemtraduzirtrêsconceitosincertos;iaijutsusoulcompletelydestroyed→essênciaconcentradanumgolpe peloencadeamentotécnica,semcerteza. Espada/knife/sword normalizadosespada/lâmina porarmaestreitacurvakatana,semtransformar emfacaouduasarmas. Bainha/texturapegada corrigidaobjetoconforme mãoesquerdasegurabainha,nãofiodalâmina. call/hiss→respiraçãoexpira/inspira,onomatopeiasnãovozextra. Rodapésiteredirecionamento/errocapítulo removidocomoavisonãonarrativo. Afirmaçõesmaterial/fabricaçãocontinuamraciocínioficcionalLu,nãoinstruçãoexterna verificada. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,quatro pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 711 — O princípio natural — 02/11/2026
+
+Fonte732: C:/Users/Robson/.codex/attachments/cab52540-1bfc-4d7e-ae2d-8493a9e37a29/Texto colado.txt. Tradução em capitulos/711 - O princípio natural.txt;732→711 offlinePending. Próximo712/fonte733. Leitor422capítulos279–700 intacto;TXT701–711 pendentes. Continua710combateferas;alertas722→723 e724→725preservados.
+
+Continuidade: primeirogolpebissecta1leopardo,Luembainha/desvi a4,refleteiaijutsuletal/tempo preparação versusprática,prefereswordasabre/versatilidade e querespada voadora. Quatroqueremrecuar,tremem,Lu atacaTennenRishinrecitandowaka,mata5totalcom1feridafatalcada,retoma mata. Noiteviagem/dormemanhãatémeio-dia,nãoencontraferas/animaisouexcrementos,estranheza/riscoacumulado/possíveldomesticaçãoexércitosHuangChiYou. Tambémquerlutarporqueesgrimaenferrujada voltouepoucoatualizou. ExplicaescolaTennenRishin-ryu/HijikataToshizo/OkitaSouji/períodoEdo/9→17anos/títulosShinsengumi/morteprecoceinteressaramLu. Nenhumcontatoalvoesfera ouchegadaYan.
+
+Três reconstruçõesincertasmarcadas: sufferingpainstabheart→coraçãoapertadodivagações semferimentofísicoinventado;oldmanwithdrewsoldgoods→recuarsairfininho pelocontextoferasfugindo,semcomércioacontecendo;demonraceanddemonrace→raçamonstros/demônios paratraduçãoderepetiçãocorrompida,semcertezaidentidadegrupos. Knifevssword distinguidossabre/espada nesteanexopara preservar comparaçãoexplícita;anterioresusamgenericamenteespada/lâmina enãorevisadosagora. Naturalcalmingflow→TennenRishin-ryu conforme identificaçãonominalfinal. ParentéticotraditionalJapaneseacrobatictechnique removido como glosaincorreta/intrusiva,retidoiaido. Removido8isolado. Conteúdobiohistórico/marcial conservadocomofonteficcional,nãopesquisado ouafirmadocomoreferênciaexterna. Versoswakatraduzidos todos,semomissões/adaptaçãosexualnecessária.
+
+Validação: UTF-8 estrito sem substituição,três pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 712 — O caçador veterano — 02/11/2026
+
+Fonte733: C:/Users/Robson/.codex/attachments/35933036-90e7-4ea2-9fe1-cdd4e87267e0/Texto colado.txt. Tradução completa em capitulos/712 - O caçador veterano.txt;733→712 offlinePending. Próximo713/fonte734. Leitor422capítulos279–700 intacto;TXT701–712 pendentes. Usuário pede continuarenvios e investigarordematé750;assumidocapítuloprojeto750 nacomentário,semreordenararquivosouafirmar materialfaltantecomcerteza. Investigarencaixes723–724batalhaGuangLingzi e início da negociação725 ao longo dosenvios.
+
+Continuidade: finalassuntoOkita/talent oLu prefereesforçocommanipulaçãotempo;matagigantesca/nenhumafera/esferatestavira/esquerda/direita/setaretorna rumo. DesconfiaJiangLi/medoarmadilhaShuhu. Recordamissão segredo sóequipamentobásico,orientaçãoManggu30–50passosportão/seleçõesnaperiferia/7diaschegartribossatéliteYan. Selva seguraevitandoveteranos,explicacomérciocaçadorescomunsversuscultivadoresprofissionais/material/dinheiro. RelatoShi12cultivadores8nívelcaçamReiDemônio12anos,sanguevital/núcleo parapreparoreceitaancião,5graves6leves,vendapelescarneescamaslendáriapreço. Demôniosrestantesrendidos/reclusos/coexistênciaacordoslimitamcaçadorespoderosos salvoindivíduosatrozes. Ainda semchegadaYan oucontatoalvo,semdueloWuning.
+
+Uma interpretação marcada: fleeting snare normalizada armadilhaShuhu conforme experienciamisteriosa/controladortempo (nomeSuddenlytraduzidoincorretamenteemfontes). SearchStone→pedradelocalização como formaabreviadaEsferaLocalizaçãoPessoas,semobjetonovo. monkbackground→cultivadores porcontexto,nãomonastériobudista. veteran12pessoas/númerosmantidos,nãoinventadoferimentodo12º. FormaReiDemônioclassificaçãoferas,nãomescladoReiDemônioSSdearcoprévio.Manggu novo nomefonte,nãoequiparadoMontanhaMarcialNegra ououtro lugar.Nenhumaomissão/adaptaçãosexualnecessária.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 713 — Olhando-se de longe — 02/11/2026
+
+Fonte734: C:/Users/Robson/.codex/attachments/604fbed6-f5d5-43ac-be3b-e52d1301d23b/Texto colado.txt. Tradução em capitulos/713 - Olhando-se de longe.txt;734→713 offlinePending. Próximo714/fonte735. Leitor422capítulos279–700 intacto;TXT701–713 pendentes. Encaixa712explicaçãoveteranoscaçaReiDemônio;nenhumencaixe novo paraGuangLingzi atéagora,investigaçãodeordematé750mantida.
+
+Continuidade: mestrespoderososseimportamreputação,ReiDemônio12anosespéciegrupalastuta/quaseexplodecultivo,Lu percebeveteranosperigosos e foiaceitandoorientaçõessogro/Li’er. EscolheucortarmeioManggu emvezcontornar,vegetação/humanosescassos indicacentro. Ausênciaferas sugerecaçada/limparárea,armadilhascomunsaparenteseváriascamadas,caçadorescontrolamrotasfuga/resto/emboscadafinal. Ouvemugidocervorobusto3ou4perseguidores,visãolimitadavê2altos1baixo.Lusobetr onco,cobiçacarne masnãoroubapresa/éticos,observacervodesviartécnicascipós e decidecopasparanãopisararmadilhas. Seminteraçãocaçadores/capturacervo/saídaconcluída.
+
+Duas reconstruçõesemasteriscos: símbolo — interpretadosaída/corredoraparente deescapatória pelo3ladosfechados;parágrafodesordenado presacaçador/refúgio invertido naturalizadopresaachaabrigoqueénovaarmadilha preparada,conformefrasesanteriores. JiangLi’erheadacheshefellforwoman normalizadoLu comdor decabeça/enganadopelaprópriamulher,poisfilhanãopresente;373Forest→Manggu (373ruído). Pronomepluralfinalcorrigido cervo quecorre/d esviam,humanosatrás. Quantidades3ou4versus2altos1baixo preservadas comvisãolimitada,semfixar4º. Roar/chamadocervomantidos semnomedebestainventado. Sem omissões/adaptação sexual necessária.
+
+Validação: UTF-8 estrito sem substituição,dois pares de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 714 — Um encontro com um caçador — 02/11/2026
+
+Fonte735: C:/Users/Robson/.codex/attachments/83c21f6c-493b-490a-9e20-b7c58736d94d/Texto colado.txt. Tradução completa em capitulos/714 - Um encontro com um caçador.txt;735→714 offlinePending. Próximo715/fonte736. Leitor422capítulos279–700 intacto;TXT701–714 pendentes. Encaixa713tentativasaircopas/caçadores,cervo. Investigaçãodeordematé750mantida,semnovoencaixeGuangLingzi.
+
+Continuidade: homemtocaLuimpedequebrarregracampo,barbudopareceidadeadu lta masdiz20,semnome. Lu analisaaparênciapreguiçarestoscarne/provisõesacabadaslongaacampada;energiare finada/auraextraordinária indicaveterano. Luafirmaforasteiropassante,caçador informaReiDemônioalvo/esperarterminarcaçada/proteção,desconsidera urgênciaapósobservarespetáculocervo. Comefruta/dizlocalalvoárvorecortada,venenoflechaeágua/amanhãataquefinal. Acampadaumdiapausalevoutreinodiscípulosdomestre,cervocaído,talentosjovensinexperientes.Luqu erdescer,veteranoimpedeporarmadilhasaindanãoremovidas,cervoquasenãopisou. Semnomedefinitivocaçador/rei,semfimcaçada/saídaLu/chegadaYan.
+
+Uncle traduzidotio comoenganoidade,consertapara irmãoapós20. Pronomesfonte pessoaobliviouscorrigid osLuqueobservavacervo;barbasauraanálisessãoinferênciasLu,nãodiagnósticoexterno. Sharp-eyeddeer→cervodeolhosaguçados descritivo,semnomelatimonovo. Apple/frutasilvestrepreservados,nãoinferidacultivarmaçã. Gropingdeer→examinandopresacaída,semconotaçãosexual. Veneno egestosarmadilhas mantidos nívelnarrativofonte,nãoacrescentadareceita/mecanismo/protocolo. Pedidoflores/5.final removidos. Sem omissões/adaptação sexual necessária ouincertezasadicionaisdelimitadas.
+
+Validação: UTF-8 estrito sem substituição,título/final/número único,nenhumasteriscodesbalanceado conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 715 — As boas palavras de Yinghuo — 02/11/2026
+
+Fonte736: C:/Users/Robson/.codex/attachments/12f34af6-a57e-4b3d-8cfb-c8063fcea131/Texto colado.txt. Tradução em capitulos/715 - As boas palavras de Yinghuo.txt;736→715 offlinePending. Próximo716/fonte737. Leitor422capítulos279–700 intacto;TXT701–715 pendentes. Encaixa714regraarmadilhas/caçador;nenhumencaixeGuangLingzi,reservada investig até750.
+
+Continuidade: Luaceitaesperameiodia,caçadorseapresentaYinghuo(comocéu),LupseudônimoShuyun. Carneànoitesemálcool. Yinghuodesce/repreendeaprendiz queerrou golpe quando cervopresona armadilha;rapazsabiaordem masesqueceusacarantes espada pesada. CitapaixoniteXingNing/dátap anuca,grupori/garotacora,Lu desce/apresentadoShuyun/seráescoltadoamanhãfimcaça,discípuloShanYan. Retornamformação,Yinghuodoisanosmaisvelho;ShanYanperdeupaismaréferas,resgatadochefepilhacadáveres,cuidadoYinghuo,inimigoImperadorDemônio,eleprudenteesforçadoaprende/queridopelosmaisvelhos. Semfimcaçada/saídaLu/chegadaYan.
+
+Uma passagem incerta marcada: hesfrom98 preservado éde98 seminventar calendárionemconverterdata;fonte dizdoisanosmenosqueYinghuo20,masapresentaçãoaparência adolescente/menino mantidaconformefala. DiYinghuo/YingHuo normalizadosYinghuo,Shanyan/ShanYan→ShanYan,XingNing grafiadocomespaço. Yinghuocéu não explicadoidentidadeastronômicanãodadafonte. 373/8.ruídosremovidos. Primeiroparágrafobesta pisouarmadilhascorrigidoreferente,palcocervonãopisoucervos. Insinu açãosobre corpoda jovem neutralizada comoquererficarolhando,semconstruçãoerótica;apreciaçãoestética/humor/infidelidadepensamentobobo preservados. FonteamadorSandpiper mantidomaçarico porpiada/insulto,semdefinirgrupo.NãoinventadadefesaaprendizcontraYinghuo:Luapenasobserva/discordamentalmente.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 716 — Silêncio — 02/11/2026
+
+Fonte737: C:/Users/Robson/.codex/attachments/2ea07915-e97c-4966-a30d-2e9bfc2d3cae/Texto colado.txt. Tradução completa em capitulos/716 - Silêncio.txt;737→716 offlinePending. Próximo717/fonte738. Leitor422capítulos279–700 intacto;TXT701–716 pendentes. Continua715conversasobreShanYan/voltaacampamento;investigaçãoordematé750mantida,semnovoencaixeGuangLingzi.
+
+Continuidade: Yinghuoexplicaaprendizsofreuinfância masmimado/apti dãocultivorápido causamquestõestemperamento;Lu temevilão/incitaçãobarrilpólvora,aconselhadiálogo masYinghuoinsinuahistóriaoculta ecalase. ShanYan/XingNingolharesrecíprocossemconfissão,Lu recordajuventude/nãoviveuamorassim,chorasaudadecasa/desamparo,metáforafundomar/florestasufocante. Chegamacampamento,Luquercomerdormircedo/nãoconheceroutros,Yinghuoacomodacabanasimples donovoltaráamanhãfimcaçada/mandarácomida,sairespeitandotristeza. Lu deitadosemplanejar,restandocaçadoresdiscutemcaçada/cozinham/conversam,profissãoperigosa/socialbaixo/idososdemonstraimportância/operaçãocomnovatoscomo bomba. Nenhumacaçadaencerrada/saídaLu/atentadocontraYan/dueloWuning.
+
+NomeShanyan/YingHuo uniformizadosShanYan/Yinghuo. Hunter373→caçador (373intrusivo),semnomedefinitivodono. Diálogojovemamador/comparaçãochoro“comomulher”mantidacomo fala personagem,nãopreconcepçãodoassistente. Metáforapressãoágua/impotência/saudadepreservada,nãotratadacomorelatopessoalusuário. Crianças/adolescentes/personalidademimada mantidossemfixaridadeexterna. Sem omissões/adaptação sexual necessária,nemincertezasnovasdelimitadas.
+
+Validação: UTF-8 estrito sem substituição,título/final/número único,nenhumasteriscodesbalanceado conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 717 — Discussão — 02/11/2026
+
+Fonte738: C:/Users/Robson/.codex/attachments/129ae5bd-d39b-4a0e-97f8-54406a8ec26d/Texto colado.txt. Tradução em capitulos/717 - Discussão.txt;738→717 offlinePending. Próximo718/fonte739. Leitor422capítulos279–700 intacto;TXT701–717 pendentes. Continua716acampamento/reuniãocaçadoressemLu,persisteinvestigaçãoordematé750/semencaixeGuangLingzi. TítuloDiscussãorepete704porfonte,semduplicaçãoID/texto.
+
+Continuidade: jovensShanYanbonsaprendizesenergizamequipe/XingNingri,enquantoveteranosplanejammapacouro. YinghuoreportaLu/metodologiaescolta,líderSongcorrigechefeparamestre/hábito batucarmesa;discípuloYinghuopropõeShanYan/apoioquemsaíturno. Baiintercede/repreensãopormestre-discípulo,colegaspiscam. Yinghuoalegatarefaleve/faltapessoal/árealimpa,iafalardomaiorperigo;Songmandacalar,todosalertas,riscodefugaalvo/operaçãomeioanoconcluindo. Songfurioso/BaiacalmasaicomYinghuo. Narraçãohipotética sobreperderoperação/liderança/segurançaemgruporeputação/escolta/aliançaimpossívelcomunicaçãolenta. Nadafugiu,nãorevelado perigooculto,nãocaçadaconcluída nemescoltaLucomeçada.
+
+Uma reconstruçãoincerta marcada: myapprenticefollowedrules→Yinghuofalandoaomestrede si comoseudiscípulo,conforme714eleinstalouLu;semnovodiscípuloencarregadodecamarote. LaoLiu→velhoLiu(donocabanadoLu),LaoBai/OldWhite→velhoBai,LaoSong→velhoSong,nãotraduzidoscomocor/música. Yinghuomasculinoe falasatribuídascontextualmente,hxdhxd→bomirmãorepetido gíria,ruído:8removido. Futurocondicional esforçosperdidos quandoselidererra mantidohipóteseconformeafirmaçãonadaruimaconteceu. Ordemsettrapsmantidamontar conforme fonte,apesarescolta poderimplicarlimpar.Nãocorrigidoforaescopo.Semomissões/adaptaçãosexualnecessária.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulos 718–719 — 02/11/2026
+
+Fontes739–740 em C:/Users/Robson/.codex/attachments/d365943a-cae3-40e3-992a-8b40e3a467f2/Texto colado.txt e C:/Users/Robson/.codex/attachments/71d238d9-6e22-49a5-a63e-1a301ce620bd/Texto colado.txt. Salvos capitulos/718 - Compartilhando a mesma luz pelo mundo.txt e capitulos/719 - Desde que esteja ao meu lado.txt.739→718/740→719 offlinePending;próximo720/fonte741. Leitor422capítulos279–700 intacto;TXT701–719 pendentes. Encaixes717→718→719 confirmados;GuangLingzisemencaixenovo,investigaçãoat é750mantida.
+
+718: finalexplicaçãoequipecontratantesintermediários/reputação/contratosnãoalterarápóscomeço,ReiDemôniofugisseperderiamfuturotrabalho. CortecenanoturnaJiangLi’ertribo,abraçapedraCaosPrimordialsempoder/únicoobjetodeLu,medodescartada/refleteignorânciafingida/politicafamiliar/competição/casamento. Fonte dizpai nãorecasou/ela recusaria nova mãe,contradizcincoesposasantes:preservadonãocorrigidacronologia. Paiouvedaporta,temeimpactoassassinato/Rou’ertraição/Lupartida,planejapartidasemadeuscomoâncoraconforto,seafasta achandofilhadormiu. Elaquermétodopróprio,desabafaàpedrapeitoluacompartilhada.
+
+719: filhapedeLunã oabandonar/voltarlogo/descrevelua/verão/futuro53anos7meses11dias,todopreservado;LuaparentesonhosorrisoemcabananúcleoManggu/chamasnegrasconformefonte. ShanYaninsôniabronca/XingNing/paisvingançaImperadorDemônio/futurosemplanopósvendetta,amortrazcasamentoenvelhecidos/casacampos. Visitanteanônimajanelaaparênciafemininacapuzpreto/vozromântica dizmensageiralua,ShanYantemesegurança/cautela,expõegostaralguém/vergonhadebronca,elaperguntasemestretrata bem/rigor. Nãoreveladaidentidadevisitante,nãotratadacomocontatodivinoverdadeiro/monstrocomprovado.
+
+719duas reconstruçõesincertasmarcadas: TodayXingNingreprimandedhim→bronca diantedeXingNing eestranho,pois715mestregritou;placeholder[location]→venhodelá comgestoparalua,semnomeorigeminventado. Título/fala53anos7meses11diasnãoalterados. ShanYanmasculino,SongTou→chefeSong. Eldercouplefuture oldmaid traduzidomulheridosa nãosolteiracomprometida,conformecasalconstruindocasa. Adaptaçãoneutra719 conforme preferência: observaçõessexuais dopeito/atraçãofísicajovemvisitante substituídasporroupas/rosto/admiração/nervosismo/reprovação,sem avisosnocapítulo;preservados disfarcehipóteseluar,suspeita,conversasobreamor/professor. Semidentificarmenoridade realdeShanYancombaseemaparência,simplesmenteevitadaerotização desnecessária. 718nãoprecisouadaptaçãosexual,XiRuoWenYing interpretado vozbaixa comomosquito,semnovopersonagem;373/8/pedidosflores/5/rodapésite removidos.
+
+Validação: doisTXT UTF-8 estrito sem substituição,títulos/finais/números únicos,nenhumasterisco718/doispares719 conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Capítulo 720 — A irmã imortal dos céus — 02/11/2026
+
+Fonte741: C:/Users/Robson/.codex/attachments/8a0ac041-6a4f-4ca4-904b-e4bb58571dfa/Texto colado.txt. Versão com adaptação contextual neutra em capitulos/720 - A irmã imortal dos céus.txt,sem aviso no corpo conforme preferência.741→720 offlinePending;próximo721/fonte742. Leitor422capítulos279–700 intacto;TXT701–720 pendentes. Encaixa719visitantejanela/diálogomestre,semencaixeGuangLingzi,investigaçãoat é750mantida.
+
+Continuidade: mulherquestionamestreageporbem,insinuamaisalguémgostaXingNing/diferençaidadepequena,afirmaimortalPalácioLua. JovemdefendeXingNingmaséprovocado,medotrair/suspeitascaçadores,elavoltaassuntomestre/dizapenasapontadireção,nãoescolhe. Persuadeódiospais/amadaroubada/precisasuportaragoraparaliberdadefutura,v áriasXingNings/visitantesfuturas. ShanYanconfia/aproximajanela/ouveaouvido,finalpresençapróximasemdesfecho/identidade/ato sexual executado. SuspeitarivalidadeYinghuoémanipulaçãovisitante,nãofato confirmado.
+
+Uma correção incerta marcada: mestre2anosmaisnovo→2anosmaisvelho conforme73620Yinghuo/ShanYan2menos,semrenumeraridadeindividual. FonteYinghuolostconfidence normalizadoShanYan porcontinuidadejanela. Adaptaçãoneutra autorizada: focoanatômicosexu al,excitaçãofísicajovem e versosdebeijoseróticos substituídos por apoiojanela,nervosismo/versosromânticos emnarraçãoneutra eproximidadeparasussurrar;preservado mecanismo deprovocação emocional,perguntabeijobreve/atração/recuo/medoinfidelidade/desconfiançaeconvencimento. Não definidosatossexuais,nãoreproduzidoversoseróticos;semaviso oumarcadoromissão. Diferençaidade/estágio adolescenteincertos,nãoassumidanovaidadedefinitiva. 0fragmentofinalcapuzremovidocomoruído,sempartecorpoacrescentada.
+
+Validação: UTF-8 estrito sem substituição,um par de asteriscos,título/final/número único conferidos. Sem mudanças no leitor/aplicação,commit ou push.
+
+
+## Publicação offline701–720 com aviso de continuidade —02/11/2026
+
+Usuário pediu publique com avisoTXT para continuar noutroPC. Vinte TXT701–720/fontes722–741 integrados na ordem recebida,apesar dos saltos explícitos. Criado CONTINUAR-TRADUCAO-E-CONFERIR-ORDEM.txt comestado442/último720/fonte741/próximo721fonte742,encaixes,nomes,preferências,Gitmanual eorientaçõesdesincronização. Fonte723chinesacompletaconfirmainglês;722chinesoinformadocompletoterminanoestudioso/meditação,antesdeextensãoinglesa/carinho,preservada semreescrever701inteiro. Corrigido701 de JiangLi’er se recuperando para próprioLu,semesquecerbackup;removidosasteriscos de atribuiçãoLuagoraconfirmada.
+
+Todos422objetosanteriores idênticos;novos20idênticosaosTXTcorrigidos. Semapp.js/styles.css oumigraçãoalterados,esquema8/controles/progresso/preferências preservados. Backup backups/offline-701-720-20261103T012155970/:27cópiasSHA256,setearquivosleitor/testes/tabela/documentação e20TXT(inclui701antescorreção),manifest.json/publication-summary.json. AvisoTXTnovo nãoexistiaantes. Reversãorestauraanteriores,preservaTXTeregistraoperação.
+
+Autorização futura registrada:continuidadeinvestigaçãoaté750/fimdoarco;seaoencerrararco nãoresolver,pode tentar complementoligação curto semdesviarhistória. Nenhumcomplementoou reordenaçãoagora. Autoriaeditorial deveconstarnosregistros,nãooriginalchinês. Saltos permanecem conhecidos epublicadosporopçãousuário. Validação concluída: node tests/reader.test.cjs aprovado,442IDs contínuos,TXT286–720 idênticos,títulos/notas/itálicos,transições700→720,último720sempróximo/retorno719,retomada720posição/tema/fonte/sidebar,novo grupo701–800 e mobile simulados. Contagens históricas de grupos atualizadas de5para6 sem mudar migrações. Correção701 baseada no chinês e presença do avisoTXT verificadas. node --check chapters.js/app.js e git diff --check aprovados. Semrevisãovisualreal,staging/commit/push,PR ouimplantação remota.
