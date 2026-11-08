@@ -197,3 +197,22 @@ Dezesseis TXT685–700 integrados por comando publique. Leitor422capítulos cons
 ## Publicação offline279–720 e continuidade —02/11/2026
 
 Vinte TXT701–720 integrados,fontes722–741,por autorização expressa apesar dos saltos. Leitor442 capítulos279–720,sem pendentes. Próximo721/fonte742. Ler CONTINUAR-TRADUCAO-E-CONFERIR-ORDEM.txt antes de continuar:inclui saltos722→723/724→725,comparação chinesa,correção701 e objetivo de procurar ordem até750/fimdoarco. Usuário autoriza complemento de ligação apenas se a busca até o fim do arco não resolver;nenhum complemento criado agora. Não confundir complemento editorial com original. Demais revisões/esquema8/controles/progresso/preferências mantidos. Commit/push manuais.
+
+
+## Publicação offline279–745 e aviso do arco —07/11/2026
+
+Integrados25TXT721–745,fontes742–767;765/766unidosno744 e767→745confirmado. Leitor467capítulos279–745,sem pendentes,esquema8/controles/progresso/preferências mantidos. Próximafonte768→746,sujeitaàconferência. Arco do passado ainda aberto. Usuário pediu avisar assim que capítulos futuros confirmarem encerramento/retornoao presente:verificar ao traduzir e avisar na conversa,semcriarautomaçãoexterna. SaltosGuangLingzipersistem,semreordenação/complemento. Commit/pushmanuais.
+
+## Seguir a ordem de envio e conferir saltos depois — 07/11/2026
+
+Ao receber fonte769 após767, usuário esclareceu: “já n sei qual está hora q vc terminar de traduzir conferimos se pulou de novo ou se falto eu enviar, apenas traduza na sequencia”. Aplicada fonte769→746. Seguir os próximos números do projeto pela ordem de envio, registrando fontes ausentes ou anexos duplos para conferência posterior; não interromper a tradução apenas por salto no número da fonte. Não inventar texto para preencher fontes ausentes. Próximo projeto747, fonte esperada770. TXT746 pendente; leitor continua até745.
+
+
+## Fonte768 recuperada e sequência746–760 corrigida —07/11/2026
+
+Usuário reenviou768 e autorizou traduzir/reorganizar/conferir os envios feitos semesperar conclusão. Concluído:768→746,769–781→747–759,782→760. AntigosTXT746–758foramdeslocados+1comcorpospreservados ebackup. QuinzeTXT746–760pendentes;leitor467/279–745inalterado,semalteraresquema8. Próximo761/fonte783. Ausência768resolvida,nãorepetiralertaantigo. Conferir anexos disponíveis antesdeafirmarfalta;sinalizarsaltosreais/numéricos,mantendoordemautorizada. Arco passado ainda aberto,avisarnoencerramento;GuangLingzisemencaixe,nãocriarcomplementoantesfimdoarco. Commit/pushmanuais.
+
+
+## Publicação offline279–760 —07/11/2026
+
+QuinzeTXT746–760/fontes768–782 integrados apósrecuperação768/renumeraçãoautorizada. Leitor482capítulosconsecutivos279–760,semTXTpendente. Último760 — Mutação,fonte782confirmada. Próximo761/fonte783. Esquema8/controles/progresso/preferênciaspreservados. Arco passado ainda aberto;avisarnoencerramento. SaltosGuangLingzisemencaixe,semcomplementoeditorial. Commit/pushmanuais.

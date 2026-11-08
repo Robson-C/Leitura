@@ -2250,8 +2250,213 @@
       "old": 741,
       "new": 720,
       "title": "A irmã imortal dos céus"
+    },
+    {
+      "old": 742,
+      "new": 721,
+      "title": "Observando a batalha"
+    },
+    {
+      "old": 743,
+      "new": 722,
+      "title": "Cada um exibe suas habilidades"
+    },
+    {
+      "old": 744,
+      "new": 723,
+      "title": "A chama do Corvo Dourado"
+    },
+    {
+      "old": 745,
+      "new": 724,
+      "title": "O velho caçador"
+    },
+    {
+      "old": 746,
+      "new": 725,
+      "title": "O dispositivo oculto"
+    },
+    {
+      "old": 747,
+      "new": 726,
+      "title": "A situação se inverte"
+    },
+    {
+      "old": 748,
+      "new": 727,
+      "title": "O paciente"
+    },
+    {
+      "old": 749,
+      "new": 728,
+      "title": "A juventude é adorável"
+    },
+    {
+      "old": 750,
+      "new": 729,
+      "title": "Escutar o mundo"
+    },
+    {
+      "old": 751,
+      "new": 730,
+      "title": "Outra despedida"
+    },
+    {
+      "old": 752,
+      "new": 731,
+      "title": "Caindo numa armadilha"
+    },
+    {
+      "old": 753,
+      "new": 732,
+      "title": "O painço amarelo"
+    },
+    {
+      "old": 754,
+      "new": 733,
+      "title": "É sobre gatos!"
+    },
+    {
+      "old": 755,
+      "new": 734,
+      "title": "Um sonho"
+    },
+    {
+      "old": 756,
+      "new": 735,
+      "title": "Não é possível"
+    },
+    {
+      "old": 757,
+      "new": 736,
+      "title": "Chegada"
+    },
+    {
+      "old": 758,
+      "new": 737,
+      "title": "Reincidente"
+    },
+    {
+      "old": 759,
+      "new": 738,
+      "title": "Passeando"
+    },
+    {
+      "old": 760,
+      "new": 739,
+      "title": "Xingyue"
+    },
+    {
+      "old": 761,
+      "new": 740,
+      "title": "A túnica verde"
+    },
+    {
+      "old": 762,
+      "new": 741,
+      "title": "Velhos amigos e novos amigos"
+    },
+    {
+      "old": 763,
+      "new": 742,
+      "title": "Sendo enganado"
+    },
+    {
+      "old": 764,
+      "new": 743,
+      "title": "Artimanhas"
+    },
+    {
+      "old": 765,
+      "new": 744,
+      "title": "Confronto"
+    },
+    {
+      "old": 766,
+      "new": 744,
+      "title": "O confronto termina aqui"
+    },
+    {
+      "old": 767,
+      "new": 745,
+      "title": "Mal-entendidos sobre mal-entendidos"
+    },
+    {
+      "old": 768,
+      "new": 746,
+      "title": "O acerto de contas vem depois"
+    },
+    {
+      "old": 769,
+      "new": 747,
+      "title": "Um grupo de três"
+    },
+    {
+      "old": 770,
+      "new": 748,
+      "title": "Conversas forçadas"
+    },
+    {
+      "old": 771,
+      "new": 749,
+      "title": "Demônios interiores"
+    },
+    {
+      "old": 772,
+      "new": 750,
+      "title": "Um olhar para a vida inteira"
+    },
+    {
+      "old": 773,
+      "new": 751,
+      "title": "Retorno"
+    },
+    {
+      "old": 774,
+      "new": 752,
+      "title": "Procurando hospedagem"
+    },
+    {
+      "old": 775,
+      "new": 753,
+      "title": "Cidade Imperial"
+    },
+    {
+      "old": 776,
+      "new": 754,
+      "title": "Uma paisagem familiar"
+    },
+    {
+      "old": 777,
+      "new": 755,
+      "title": "Um sonho de painço amarelo"
+    },
+    {
+      "old": 778,
+      "new": 756,
+      "title": "A espada Tang"
+    },
+    {
+      "old": 779,
+      "new": 757,
+      "title": "Despertando do pesadelo"
+    },
+    {
+      "old": 780,
+      "new": 758,
+      "title": "Artimanhas e contramanobras"
+    },
+    {
+      "old": 781,
+      "new": 759,
+      "title": "Borboleta Azul"
+    },
+    {
+      "old": 782,
+      "new": 760,
+      "title": "Mutação"
     }
   ],
-  "pendingFromOld": 742,
-  "notes": "Leitor offline:442 capítulos consecutivos279–720,nenhum TXT pendente. Fontes722–741→701–720 integradas por autorização explícita apesar dos saltos conhecidos. Conferência chinesa confirma lacuna/transição722→723;bloco723–724 possivelmente deslocado. Aviso e contexto:CONTINUAR-TRADUCAO-E-CONFERIR-ORDEM.txt. Próximo correto721/fonte742. Investigar até750/fimdoarco;complemento editorial condicional autorizado,nenhum criado. Esquema8 preservado."
+  "pendingFromOld": 783,
+  "notes": "Leitor offline:482 capítulos consecutivos279–760,semTXTpendente. Fontes768–782→746–760 integradas após recuperação768/renumeraçãoautorizada. Último760 — Mutação,fonte782confirmada. Próximo761/fonte783. Arco passado ainda aberto;avisaraoencerrar. SaltosGuangLingzi/fontes723–724continuamsemencaixe,semcomplementoeditorial. Esquema8 preservado;commit/pushmanuais."
 }

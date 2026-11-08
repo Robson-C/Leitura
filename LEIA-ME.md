@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 442 capítulos consecutivos, de 279 a 720. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
+Inclui 482 capítulos consecutivos, de 279 a 760. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
 
 ## Leitura
 
@@ -376,6 +376,16 @@ Nove TXT676–684 integrados como preparados, fontes697–705. Leitor406 capítu
 Dezesseis TXT685–700 integrados como preparados, fontes706–721. Fonte721→700 confirmada pelo usuário. Leitor422 capítulos consecutivos,sem TXT pendente. Adaptações neutras e revisões anteriores preservadas. Controles,progresso,preferências e esquema8 mantidos. Próximo correto701/fonte722. Backup:backups/offline-685-700-20261103T000343011/. Reversão restaura arquivos anteriores preservando TXT e registra operação. Revisão visual real não realizada. Commit e push manuais.
 
 
-## Publicação offline atual —279–720
+## Publicação offline anterior —279–720
 
 Vinte TXT701–720 integrados na ordem recebida por autorização explícita,mesmo com saltos narrativos conhecidos. Leitor442 capítulos,sem TXT pendente. Ler CONTINUAR-TRADUCAO-E-CONFERIR-ORDEM.txt para conferência e continuação no outro PC. Correção701 confirmada pelo chinês:Lu Li estava se recuperando,em vez de Jiang Li’er. Nenhuma transição inventada ou reordenação executada. Próximo721/fonte742. Esquema8/controles/progresso/preferências preservados. Backup:backups/offline-701-720-20261103T012155970/. Restaurar arquivos anteriores para reverter,preservando TXT e registrando operação. Commit/push manuais;revisão visual real não realizada.
+
+
+## Publicação offline anterior —279–745 —07/11/2026
+
+Integrados25TXT721–745,fontes742–767,com765/766 reunidos no744. Último745 — Mal-entendidos sobre mal-entendidos. SemTXTpendente. Arco do passado ainda aberto;avisarusuárioquando novoscapítulosconfirmaremencerramento/retorno. SaltosGuangLingzi documentados no aviso decontinuidade,semreordenação/complemento. Esquema8,controles,progresso epreferências preservados. Backup:backups/offline-721-745-20261107T224025742/. Commit/pushmanuais.
+
+
+## Publicação offline atual —279–760 —07/11/2026
+
+Integrados15TXT746–760,fontes768–782,com a fonte768recuperada e sequência corrigida. Último760 — Mutação,fonte782. NenhumTXTpendente. Próximo761/fonte783. Arco passado ainda aberto;avisar ao encerrar. SaltosGuangLingzi documentados,semcomplementoeditorial. Backup:backups/offline-746-760-20261108T003756825/. Controles/progresso/preferências/esquema8 preservados. Commit/pushmanuais.
