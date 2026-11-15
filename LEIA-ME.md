@@ -2,7 +2,7 @@
 
 Abra `index.html` com dois cliques e escolha seu navegador. Mantenha `index.html`, `styles.css`, `app.js` e `chapters.js` na mesma pasta. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
-Inclui 482 capítulos consecutivos, de 279 a 760. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
+Inclui 522 capítulos consecutivos, de 279 a 800. As fontes 497 e 498 foram reunidas integralmente no capítulo 480 por confirmação do usuário; consulte NUMERACAO-CAPITULOS.json para a correspondência com a fonte. “Uma jornada através do tempo” e “Os caminhos de Lu Li” são rótulos editoriais do leitor. As interpretações incertas continuam em itálico.
 
 ## Leitura
 
@@ -386,6 +386,21 @@ Vinte TXT701–720 integrados na ordem recebida por autorização explícita,mes
 Integrados25TXT721–745,fontes742–767,com765/766 reunidos no744. Último745 — Mal-entendidos sobre mal-entendidos. SemTXTpendente. Arco do passado ainda aberto;avisarusuárioquando novoscapítulosconfirmaremencerramento/retorno. SaltosGuangLingzi documentados no aviso decontinuidade,semreordenação/complemento. Esquema8,controles,progresso epreferências preservados. Backup:backups/offline-721-745-20261107T224025742/. Commit/pushmanuais.
 
 
-## Publicação offline atual —279–760 —07/11/2026
+## Publicação offline anterior —279–760 —07/11/2026
 
 Integrados15TXT746–760,fontes768–782,com a fonte768recuperada e sequência corrigida. Último760 — Mutação,fonte782. NenhumTXTpendente. Próximo761/fonte783. Arco passado ainda aberto;avisar ao encerrar. SaltosGuangLingzi documentados,semcomplementoeditorial. Backup:backups/offline-746-760-20261108T003756825/. Controles/progresso/preferências/esquema8 preservados. Commit/pushmanuais.
+
+
+## Publicação offline anterior —279–768 —08/11/2026
+
+OitoTXT761–768,fontes783–790,integrados integralmente. Último768 — Não sou eu?,fonte790. Leitor490capítulos,semTXTpendente. Próximo769/fonte791. Backup:backups/offline-761-768-20261108T194106973/. Arco passado ainda aberto;avisar ao encerrar. SaltosGuangLingzi registrados,nenhumcomplementoeditorial. Esquema8,controles,progresso e preferências preservados;commit/pushmanuais.
+
+
+## Publicação offline anterior —279–780 —08/11/2026
+
+DozeTXT769–780/fontes791–802integrados integralmente. Último780 — Escutando às escondidas,fonte802. Leitor502capítulos,semTXTpendente. Próximo781/fonte803. Backup:backups/offline-769-780-20261108T200238623/. Arco passado ainda aberto,avisar aoencerrar. SaltosGuangLingzi registrados,semcomplementoeditorial. Esquema8/controles/progresso/preferênciaspreservados;commit/pushmanuais.
+
+
+## Publicação offline atual —279–800 —08/11/2026
+
+Leitor local522 capítulos consecutivos279–800,semTXTpendente. Último800 — A data do casamento,fonte822. Fontes803–822→781–800 integradas. Próximo801/fonte823. ALERTA:fontes819–822/project797–800 apresentam salto para hospital moderno e tramaQingyun sem explicar saída do arcoJiuli;preservadas integralmente,conferir próximos e não declarar fimdoarco confirmado. PaiFangHong→LuHong/classificaçãotop5→30/50 divergem na fonte. SaltosGuangLingzi seguem sem encaixe;nenhum complemento editorial criado. Esquema8/progresso/preferênciaspreservados,commit/pushmanuais. Backup:backups/offline-781-800-20261108T230705365/.

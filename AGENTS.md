@@ -216,3 +216,18 @@ Usuário reenviou768 e autorizou traduzir/reorganizar/conferir os envios feitos 
 ## Publicação offline279–760 —07/11/2026
 
 QuinzeTXT746–760/fontes768–782 integrados apósrecuperação768/renumeraçãoautorizada. Leitor482capítulosconsecutivos279–760,semTXTpendente. Último760 — Mutação,fonte782confirmada. Próximo761/fonte783. Esquema8/controles/progresso/preferênciaspreservados. Arco passado ainda aberto;avisarnoencerramento. SaltosGuangLingzisemencaixe,semcomplementoeditorial. Commit/pushmanuais.
+
+
+## Publicação offline279–768 —08/11/2026
+
+OitoTXT761–768/fontes783–790integrados. Leitor490capítulosconsecutivos279–768,nenhumTXTpendente. Último768 — Não sou eu?,fonte790. Próximo769/fonte791. Esquema8/controles/progresso/preferênciaspreservados. Arco passado ainda aberto,avisarnoencerramento;GuangLingzisemencaixe,semcomplementoeditorial. Commit/pushmanuais.
+
+
+## Publicação offline279–780 —08/11/2026
+
+DozeTXT769–780/fontes791–802integrados. Leitor502capítulosconsecutivos279–780,semTXTpendente. Último780 — Escutando às escondidas,fonte802. Próximo781/fonte803. Esquema8/controles/progresso/preferênciaspreservados. Arco passado aberto,avisaraoencerrar;GuangLingzisemencaixe/semcomplementoeditorial. Commit/pushmanuais.
+
+
+## Publicação offline279–800 —08/11/2026
+
+Leitor local522 capítulos consecutivos279–800,semTXTpendente. Último800 — A data do casamento,fonte822. Fontes803–822→781–800 integradas. Próximo801/fonte823. ALERTA:fontes819–822/project797–800 apresentam salto para hospital moderno e tramaQingyun sem explicar saída do arcoJiuli;preservadas integralmente,conferir próximos e não declarar fimdoarco confirmado. PaiFangHong→LuHong/classificaçãotop5→30/50 divergem na fonte. SaltosGuangLingzi seguem sem encaixe;nenhum complemento editorial criado. Esquema8/progresso/preferênciaspreservados,commit/pushmanuais.

@@ -2455,8 +2455,226 @@
       "old": 782,
       "new": 760,
       "title": "Mutação"
+    },
+    {
+      "old": 783,
+      "new": 761,
+      "title": "Glutona"
+    },
+    {
+      "old": 784,
+      "new": 762,
+      "title": "Não busco o Dao"
+    },
+    {
+      "old": 785,
+      "new": 763,
+      "title": "Partindo de bom humor"
+    },
+    {
+      "old": 786,
+      "new": 764,
+      "title": "Voltando decepcionado"
+    },
+    {
+      "old": 787,
+      "new": 765,
+      "title": "Túnica verde e espada"
+    },
+    {
+      "old": 788,
+      "new": 766,
+      "title": "Perguntar"
+    },
+    {
+      "old": 789,
+      "new": 767,
+      "title": "A raça demoníaca e a raça Wu"
+    },
+    {
+      "old": 790,
+      "new": 768,
+      "title": "Não sou eu?"
+    },
+    {
+      "old": 791,
+      "new": 769,
+      "title": "Recuar"
+    },
+    {
+      "old": 792,
+      "new": 770,
+      "title": "Traição"
+    },
+    {
+      "old": 793,
+      "new": 771,
+      "title": "Ressurreição"
+    },
+    {
+      "old": 794,
+      "new": 772,
+      "title": "Falsificação"
+    },
+    {
+      "old": 795,
+      "new": 773,
+      "title": "Você mata, eu enterro"
+    },
+    {
+      "old": 796,
+      "new": 774,
+      "title": "Um duelo de atuações"
+    },
+    {
+      "old": 797,
+      "new": 775,
+      "title": "Enganado outra vez"
+    },
+    {
+      "old": 798,
+      "new": 776,
+      "title": "Preparando-se para agir"
+    },
+    {
+      "old": 799,
+      "new": 777,
+      "title": "Ba Boyi"
+    },
+    {
+      "old": 800,
+      "new": 778,
+      "title": "História"
+    },
+    {
+      "old": 801,
+      "new": 779,
+      "title": "Ataque"
+    },
+    {
+      "old": 802,
+      "new": 780,
+      "title": "Escutando às escondidas"
+    },
+    {
+      "old": 803,
+      "new": 781,
+      "title": "Desfecho"
+    },
+    {
+      "old": 804,
+      "new": 782,
+      "title": "Visitando a própria casa"
+    },
+    {
+      "old": 805,
+      "new": 783,
+      "title": "Indecisão"
+    },
+    {
+      "old": 806,
+      "new": 784,
+      "title": "A ascensão da humanidade"
+    },
+    {
+      "old": 807,
+      "new": 785,
+      "title": "Cada um com seus pensamentos"
+    },
+    {
+      "old": 808,
+      "new": 786,
+      "title": "Reencontrando uma velha amiga"
+    },
+    {
+      "old": 809,
+      "new": 787,
+      "title": "Liu Lin"
+    },
+    {
+      "old": 810,
+      "new": 788,
+      "title": "Primeiro encontro"
+    },
+    {
+      "old": 811,
+      "new": 789,
+      "title": "Um breve descanso"
+    },
+    {
+      "old": 812,
+      "new": 790,
+      "title": "Cada expressão revela um sentimento"
+    },
+    {
+      "old": 813,
+      "new": 791,
+      "title": "Incursão noturna a Jiang Li’er"
+    },
+    {
+      "old": 814,
+      "new": 792,
+      "title": "Cantando sob o luar"
+    },
+    {
+      "old": 815,
+      "new": 793,
+      "title": "Um viajante no mundo marcial"
+    },
+    {
+      "old": 816,
+      "new": 794,
+      "title": "Noite de luar na floresta"
+    },
+    {
+      "old": 817,
+      "new": 795,
+      "title": "Sono"
+    },
+    {
+      "old": 818,
+      "new": 796,
+      "title": "Morada na caverna"
+    },
+    {
+      "old": 819,
+      "new": 797,
+      "title": "O insondável mundo dos mortais"
+    },
+    {
+      "old": 820,
+      "new": 798,
+      "title": "Pedido de casamento"
+    },
+    {
+      "old": 821,
+      "new": 799,
+      "title": "A verdadeira origem do pai"
+    },
+    {
+      "old": 822,
+      "new": 800,
+      "title": "A data do casamento"
+    },
+    {
+      "old": 823,
+      "new": 801,
+      "title": "O plano de Sun Yun",
+      "offlinePending": true
+    },
+    {
+      "old": 824,
+      "new": 802,
+      "title": "O desafio da família Bai e de Bai Fan",
+      "offlinePending": true
+    },
+    {
+      "old": 825,
+      "new": 803,
+      "title": "Destino",
+      "offlinePending": true
     }
   ],
-  "pendingFromOld": 783,
-  "notes": "Leitor offline:482 capítulos consecutivos279–760,semTXTpendente. Fontes768–782→746–760 integradas após recuperação768/renumeraçãoautorizada. Último760 — Mutação,fonte782confirmada. Próximo761/fonte783. Arco passado ainda aberto;avisaraoencerrar. SaltosGuangLingzi/fontes723–724continuamsemencaixe,semcomplementoeditorial. Esquema8 preservado;commit/pushmanuais."
+  "pendingFromOld": 826,
+  "notes": "Leitor522 capítulos279–800. TXT801–803/fontes823–825 pendentes. Próximo804/fonte826. Fonte825 avançaresgate:Lu mataSunYun/libertaLiuLin,SunYuemata criado/famíliaSunplanejavingança;LuchamaLiuLinMengYun umavez(marcadoincerto). 824quaseduplicada823preservada,auditar. Narrativa819+desconexaJiuli,semfimarcopassadoconfirmado.GuangLingzi sem encaixe/sem complemento. Esquema8 preservado,commit/push manuais."
 }
