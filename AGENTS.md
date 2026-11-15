@@ -250,3 +250,13 @@ Usuário confirmou substituir a obra vazia I Found A Planet por Almighty Game De
 ## Almighty Game Designer — publicação local 1–5 e revisão — 15/11/2026
 
 Usuário autorizou ajustes propostos e publicação dos cinco capítulos. Título2 atualizado para “Um mundo que evoluiu pela árvore tecnológica errada”, motor padronizado para “motor de jogos”, duas referências à empresa de Qiu no5 simplificadas para “uma empresa”, mantendo o nome ausente somente no registro. Cinco TXT integralmente integrados em historias/almighty-game-designer/chapters.js, authorNote:false (notas/créditos originais continuam no corpo). Catálogo/índice/contagem usam o conteúdo da obra automaticamente. Nenhum TXT pendente nesta obra; próximo6/fonte6. Clube da Longevidade preservado522/279–800, pendentes801–803, sem alterações. Mesmo leitor/controles/chaves de progresso, sem migração nova. Backup prévio SHA256: backups/agd-publicar-001-005-20261115-150646/. Reversão restaura esses arquivos e o nome anterior do TXT2, retirando somente seu nome novo; não toca o Clube. Commit/push/deploy remotos não executados. Validação registrada após execução dos testes.
+
+
+## Almighty Game Designer — publicação local6–12 — 15/11/2026
+
+Comando publique: sete TXT6–12 integrados integralmente em historias/almighty-game-designer/chapters.js. Total12capítulos1–12, último12 — A qualidade mais importante de um designer de videogames. SemTXTpendente nesta obra; próximo13/fonte13. Capítulos1–5 comparados e idênticos. Notas, créditos, itálicos e inconsistências da fonte preservados. Catálogo/índice/contagem automáticos; leitor/chaves/controles inalterados. Clube preservado522/279–800 e pendentes801–803. Backup prévio SHA256: backups/agd-publicar-006-012-20261115-153305/. Reverter restaurando arquivos anteriores desse backup, mantendo TXT; registrar reversão. Testes atualizados para12capítulos e futuras pendências de TXT separadas dos publicados. Commit/push/deploy não executados.
+
+
+## Almighty Game Designer — publicação local13–20 — 15/11/2026
+
+Comando publique: oitoTXT13–20 integrados integralmente em historias/almighty-game-designer/chapters.js. Total20capítulos1–20, último20 — Novo jogo definido. NenhumTXTpendente nesta obra; próximo21/fonte21. Capítulos1–12 comparados/idênticos; créditos/notas/itálicos e inconsistências da fonte preservados. Catálogo/índice/contagem automáticos; leitor/chaves/controles inalterados. Clube preservado522/279–800 e pendentes801–803. Backup prévio SHA256: backups/agd-publicar-013-020-20261115-154917/. Reversão restaura arquivos anteriores desse backup mantendo TXT e registra operação. Testes atualizados para20capítulos. Commit/push/deploy não executados.

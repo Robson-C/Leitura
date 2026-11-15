@@ -31,7 +31,97 @@
       "chapter": 5,
       "title": "As regras do concurso",
       "file": "capitulos/005 - As regras do concurso.txt"
+    },
+    {
+      "source": 6,
+      "chapter": 6,
+      "title": "Impossível resistir a tocar neste jogo!",
+      "file": "capitulos/006 - Impossível resistir a tocar neste jogo.txt"
+    },
+    {
+      "source": 7,
+      "chapter": 7,
+      "title": "Um jogo contagiante",
+      "file": "capitulos/007 - Um jogo contagiante.txt"
+    },
+    {
+      "source": 8,
+      "chapter": 8,
+      "title": "Isso pode ser chamado de jogo?",
+      "file": "capitulos/008 - Isso pode ser chamado de jogo.txt"
+    },
+    {
+      "source": 9,
+      "chapter": 9,
+      "title": "Então é por isso que você fica tentando bater recordes?",
+      "file": "capitulos/009 - Então é por isso que você fica tentando bater recordes.txt"
+    },
+    {
+      "source": 10,
+      "chapter": 10,
+      "title": "Grandes elogios",
+      "file": "capitulos/010 - Grandes elogios.txt"
+    },
+    {
+      "source": 11,
+      "chapter": 11,
+      "title": "Vitória decisiva!",
+      "file": "capitulos/011 - Vitória decisiva.txt"
+    },
+    {
+      "source": 12,
+      "chapter": 12,
+      "title": "A qualidade mais importante de um designer de videogames",
+      "file": "capitulos/012 - A qualidade mais importante de um designer de videogames.txt"
+    },
+    {
+      "source": 13,
+      "chapter": 13,
+      "title": "A loja de experimentação",
+      "file": "capitulos/013 - A loja de experimentação.txt"
+    },
+    {
+      "source": 14,
+      "chapter": 14,
+      "title": "Nome da empresa definido!",
+      "file": "capitulos/014 - Nome da empresa definido.txt"
+    },
+    {
+      "source": 15,
+      "chapter": 15,
+      "title": "Não vai comer alguma coisa?",
+      "file": "capitulos/015 - Não vai comer alguma coisa.txt"
+    },
+    {
+      "source": 16,
+      "chapter": 16,
+      "title": "Falta um diferencial",
+      "file": "capitulos/016 - Falta um diferencial.txt"
+    },
+    {
+      "source": 17,
+      "chapter": 17,
+      "title": "Um pouco de criatividade",
+      "file": "capitulos/017 - Um pouco de criatividade.txt"
+    },
+    {
+      "source": 18,
+      "chapter": 18,
+      "title": "Dez sorteios consecutivos",
+      "file": "capitulos/018 - Dez sorteios consecutivos.txt"
+    },
+    {
+      "source": 19,
+      "chapter": 19,
+      "title": "O próximo jogo",
+      "file": "capitulos/019 - O próximo jogo.txt"
+    },
+    {
+      "source": 20,
+      "chapter": 20,
+      "title": "Novo jogo definido",
+      "file": "capitulos/020 - Novo jogo definido.txt"
     }
   ],
-  "notes": "Fontes 1–5 → capítulos 1–5 traduzidos e integrados integralmente ao leitor em 15/11/2026. Nenhum TXT pendente nesta obra. Próximo esperado: fonte 6 → capítulo 6. Numeração independente do Clube da Longevidade; commit e push manuais."
+  "notes": "Fontes1–20→capítulos1–20 traduzidos e integrados integralmente ao leitor. Publicação local13–20 em15/11/2026; nenhum TXT pendente nesta obra. Próximo esperado: fonte21→capítulo21. Numeração independente do Clube da Longevidade; commit e push manuais."
 }

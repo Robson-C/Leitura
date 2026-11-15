@@ -1,0 +1,77 @@
+Capítulo 10 — Grandes elogios
+
+Qiu Hengyang não se importou. Depois que as risadas da plateia cessaram, continuou:
+
+— Quanto à última pergunta: o espaço para publicidade na parte superior da tela de fim de jogo!
+
+— Muitos designers iniciantes compartilham uma falha: não dão atenção suficiente ao modelo de monetização e o ignoram completamente no início do desenvolvimento.
+
+— Por exemplo, Hunter Island, o segundo colocado. É um jogo de aventura relativamente maduro. Porém, seu designer não pensou no modelo de monetização, o que considero uma pena.
+
+— Não basta terminar de criar um jogo em silêncio para alcançar o sucesso. É como dirigir um filme: mesmo que as críticas sejam boas, se as sessões estiverem completamente vazias, isso não será um sucesso!
+
+— Se você não pensou no modelo de monetização, só lhe resta colocar o jogo no mercado e vendê-lo por algum preço padrão.
+
+— Digamos que um jogo como Hunter Island seja vendido por dez yuans. Até agora, ele recebeu trezentas e trinta recomendações. Suponhamos que oitenta por cento dessas pessoas estejam dispostas a pagar, uma estimativa bastante generosa. Nesse caso, o lucro de Hunter Island seria de dois mil seiscentos e quarenta yuans.
+
+— Por outro lado, se FlappyBird também dependesse da venda do jogo para lucrar, posso garantir que fracassaria feio!
+
+— É óbvio que o designer pensou nisso e tornou o jogo gratuito, lucrando com anúncios. Foi uma excelente decisão, que combina muito bem com as características do jogo.
+
+— O tempo total que vocês passaram jogando foi de trezentas e quarenta e nove horas. Vamos supor que cada tentativa dure, em média, dez segundos. É uma estimativa generosa: a maioria provavelmente não dura nem três segundos.
+
+— Isso dá *cento e vinte e cinco mil seiscentas e dez mortes*. Ou seja, em uma hora de testes, esse jogo exibiu cerca de cento e vinte mil anúncios!
+
+— Além disso, a lógica por trás da publicidade é bastante clara. Quem gosta de jogos como FlappyBird certamente joga no celular, e com bastante frequência. Isso significa que os jogadores que continuam são os mais pacientes!
+
+— Portanto, se eu fosse o designer de outro jogo para celular, consideraria comprar esse espaço publicitário. Digamos que uma em cada trinta pessoas interaja com os anúncios de FlappyBird, e que uma em cada dez delas faça uma compra. Nesse caso, comprar o espaço publicitário me renderia uma estimativa de *418,8 compras*.
+
+— Se cada compra fosse de dez yuans, eu teria um retorno de 4.188 yuans com a publicidade. Estaria disposto a investir pelo menos três mil yuans nesse espaço, o que já superaria Hunter Island!
+
+— Há outro ponto importante! Hunter Island adota o modelo de compra única. O número de jogadores interessados nesse tipo de jogo já é pequeno, e certamente eles não o comprariam uma segunda vez. Isso significa que o lucro diminui com o tempo.
+
+— Já FlappyBird, por se espalhar de forma contagiante, pode ter um crescimento explosivo de sua base de usuários. Além disso, o espaço publicitário pode mudar de anunciante em intervalos fixos. Eu compro neste mês, outra pessoa compra no próximo. Assim, os ganhos futuros ficam garantidos até certo ponto.
+
+— Portanto, a diferença de potencial de lucro entre FlappyBird e Hunter Island é enorme!
+
+— Esses são os motivos pelos quais acredito que um jogo como FlappyBird pode fazer sucesso. O mais importante é que o criador conseguiu combinar todos esses pontos, tomando praticamente a melhor decisão em cada aspecto. É isso que mais me surpreende!
+
+— Para ser sincero, se me dessem seis megabytes de recursos para criar um jogo com potencial de lucro maior que FlappyBird, só poderia dizer: não consigo!
+
+— É tudo o que tenho a dizer, senhor apresentador.
+
+Qiu Hengyang desligou o microfone e fez um gesto para que o apresentador passasse à próxima etapa.
+
+O público ficou tão chocado que ninguém conseguiu dizer nada. Aqueles elogios não eram um pouco exagerados?
+
+Qiu Hengyang não conseguiria chegar àquele nível usando 6 MB de recursos? Isso não significava que a capacidade do criador superava a de um designer de classe B? Tinha que haver algum limite para tantos elogios, não?
+
+Porém, Qiu Hengyang havia sustentado suas afirmações com argumentos e oferecido uma análise esclarecedora. Muitos espectadores que acompanharam seu raciocínio também concordaram que FlappyBird podia parecer simples, mas tinha muitos detalhes sutis.
+
+Era óbvio que o designer número sete havia planejado tudo desde o começo: o equilíbrio perfeito entre se torturar, poder se gabar e gerar receita com anúncios. Era um jogo quase completo e, além disso, muito lucrativo!
+
+Como se dizia, os profissionais tinham outra perspectiva. Depois da análise de Qiu Hengyang, boa parte do público também passou a achar FlappyBird bastante impressionante.
+
+Chen Mo não pôde deixar de olhar para Qiu Hengyang enquanto abria sua garrafa e tomava um gole de água.
+
+Na verdade, Qiu Hengyang havia elaborado sozinho aquele raciocínio sobre o retorno da publicidade. Era evidente que ele não havia se aprofundado muito nas estatísticas dos jogos. Pelo visto, aquilo não era uma grande preocupação para os designers daquela época.
+
+Segundo as estatísticas de seu mundo anterior, FlappyBird havia ultrapassado cinquenta milhões de downloads. Seu criador, Nguyen Dong, recebia cinquenta mil dólares, ou trezentos mil yuans, por dia, só com o espaço publicitário.
+
+Pelas tarifas de anúncios em banner da época, cada mil visualizações rendiam 0,15 dólar, ou cerca de um yuan. Isso significava que FlappyBird exibia trezentos milhões de anúncios por dia.
+
+Usando a mesma tarifa de um yuan por mil visualizações, os cento e vinte mil anúncios exibidos na versão de FlappyBird de Chen Mo renderiam cerca de cento e vinte yuans.
+
+Mesmo se fossem anúncios em janelas pop-up, um pouco mais caros, e o valor aumentasse dez vezes, chegando a mil e duzentos yuans, Qiu Hengyang ainda teria superestimado o retorno.
+
+Porém, ele estava certo sobre uma coisa: a maior vantagem daquele jogo era seu potencial de crescimento explosivo! Ainda mais com a adição do ranking online, que ampliaria sua disseminação. Era nisso que se baseava a garantia de receita.
+
+É claro que Chen Mo não queria contestar Qiu Hengyang. Mal tinha tempo de comemorar. Sabia que, depois de tantos elogios, seu título de campeão do concurso estava garantido.
+
+Além disso, Qiu Hengyang conseguira fazer toda aquela análise em apenas uma hora de testes, incluindo uma estimativa aproximada da receita. Chen Mo achava aquilo muito impressionante. Em comparação com os outros jurados, era óbvio que a capacidade de Qiu Hengyang superava de longe a de Shi Huazhe e Lin Hai.
+
+Este mundo ainda tem alguns gênios. Nem todos são autômatos sem pensamento próprio como Shi Huazhe.
+
+A expressão de Shi Huazhe estava péssima. A análise de Qiu Hengyang basicamente o havia desmentido diante de todos, deixando-o constrangido. Como poderia se sentir bem depois daquilo?
+
+Dos dois jurados, um dizia que o jogo era um lixo sem valor, e o outro o elogiava como uma criação genial. Obviamente, só um deles podia estar certo. Na verdade, a maioria do público estava do lado de Qiu Hengyang!

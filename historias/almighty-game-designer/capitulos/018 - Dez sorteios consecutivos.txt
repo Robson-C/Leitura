@@ -1,0 +1,105 @@
+Capítulo 18 — Dez sorteios consecutivos
+
+Chen Mo acordou às nove da manhã do dia seguinte. Depois de tomar banho, saiu para comprar o café da manhã.
+
+Ele acordava tarde porque gostava de dormir. Por causa dos hábitos da vida anterior, só se sentia cem por cento quando dormia o suficiente.
+
+Na vida anterior, trabalhando na indústria de jogos, frequentemente precisava virar a noite, e seu expediente começava mais tarde do que o normal. Sua rotina de sono não seguia o que se considerava um horário comum.
+
+Depois do café da manhã, Chen Mo voltou ao escritório para pensar no primeiro jogo que desenvolveria ali.
+
+Tinha inúmeros jogos em mente, mas ainda precisava refletir sobre qual usaria como base.
+
+Naquele mundo, o custo para começar a desenvolver um jogo era bastante baixo. Não era preciso alugar um escritório nem contratar um programador, o que poupava o capital inicial necessário ao desenvolvimento. Porém, isso não significava que criar jogos não tivesse custos ou limitações.
+
+Uma das maiores limitações eram os recursos de arte.
+
+A música de fundo podia ser resolvida pagando alguém para produzi-la. Desde que a qualidade não fosse ruim demais, os jogadores normalmente não implicariam tanto.
+
+Já o visual era diferente. Se Chen Mo quisesse desenvolver um jogo maior, os personagens, modelos e cenários talvez precisassem ser feitos do zero. Os recursos gratuitos do motor de jogos poderiam não servir.
+
+Além disso, aquilo custava bastante!
+
+Um exemplo simples eram as ilustrações de cartas para um jogo de celular. As mais baratas custariam *de oitocentos a novecentos yuans*, enquanto as mais caras poderiam custar *de setecentos a oitocentos*. Havia opções de qualidade superior por preços maiores. Só o custo da arte já representaria uma enorme quantia.
+
+Além disso, havia os modelos, as animações, os efeitos especiais e assim por diante. Nada daquilo sairia mais barato que as ilustrações, e tudo dava bastante trabalho para produzir.
+
+O motor de jogos tinha muitos recursos gratuitos, mas a maioria era apenas material de qualidade mediana.
+
+FlappyBird havia conseguido usar arte disponível ao público porque tinha um estilo visual simples. Depois de desenhar o pássaro à mão, era possível encontrar e aproveitar todo o resto com poucas modificações, ou até nenhuma.
+
+Porém, se Chen Mo quisesse recriar fielmente um jogo grande de sua vida anterior, a arte precisaria se parecer com a original. E isso seria um problema!
+
+O motivo era que os jogos eram delicados, como um relógio de bolso cheio de engrenagens. Se qualquer peça fosse trocada, não havia garantia de que continuariam funcionando bem.
+
+É claro que isso não incluía as cópias malfeitas, jogos que nunca tinham sido feitos para decolar.
+
+Os jogos que realmente faziam sucesso sempre tinham jogabilidade, estilo visual, música e os demais elementos em perfeita harmonia. Eram ideias que o designer havia selecionado entre dezenas de possibilidades.
+
+Qualquer mudança que Chen Mo quisesse fazer precisava ser muito bem pensada. Caso contrário, seria como alterar um poema: trocar uma palavra poderia dar ao texto um ar amador.
+
+Por isso, ele tentaria preservar, da melhor forma possível, cada detalhe daqueles clássicos, incluindo o mesmo estilo visual.
+
+A segunda maior barreira eram suas próprias habilidades.
+
+Embora tivesse sido produtor, Chen Mo possuía suas especialidades. Não era bom em tudo.
+
+Programação e design de fases ficavam a cargo de profissionais mais especializados. Embora conhecesse um pouco dessas áreas, não tinha grande domínio delas.
+
+Alguns jogos podiam parecer simples, mas, na prática, exigiam bastante. Anipop, por exemplo! As regras eram simples, e o design também parecia ser, mas o jogo exigia um nível muito alto de design de fases. Cada fase precisava ser mais difícil que a anterior, mantendo o ritmo. Aquilo estava além de suas habilidades atuais!
+
+Alguns jogos chineses de pagar para ganhar podiam parecer fáceis de desenvolver, mas mais da metade das exigências de habilidade estava na parte de programação.
+
+Por exemplo: como diferenciar os níveis VIP? Qual seria a diferença de poder entre jogadores de níveis VIP distintos? Quanto o jogador ganharia ao fazer uma recarga? Até onde ele conseguiria avançar em determinado número de dias? Como controlar o ritmo do jogo?
+
+Tudo aquilo envolvia questões de programação. Embora Chen Mo as conhecesse, não tinha certeza absoluta de que conseguiria resolvê-las.
+
+No fim das contas, FlappyBird ainda era um jogo extremamente simples, praticamente sem exigências de programação ou design de fases. O crescimento explosivo de jogos daquele tipo não podia ser reproduzido à vontade. Pensando no futuro, Chen Mo precisaria dominar todas aquelas áreas. Teria que elevar todos os atributos ligados à programação para mais de oitenta a fim de recriar um clássico da vida anterior.
+
+Como resolver aqueles problemas?
+
+Pagando para ganhar! Havia outra escolha? Pagar para ganhar mudava vidas!
+
+— Se você encontra uma dificuldade, só pode significar que ainda não gastou dinheiro suficiente. — Rindo de si mesmo, Chen Mo abriu a tela virtual da pulseira.
+
+Ele havia recebido trezentos mil yuans para o desenvolvimento e planejava tirar duzentos mil para sortear alguns prêmios. Guardaria os cem mil restantes para emergências.
+
+O que mais o incomodava era que, por ter vencido o concurso, FlappyBird precisava ficar disponível gratuitamente para os jogadores experimentarem durante três meses. Não renderia lucro algum nesse período.
+
+Chen Mo sabia disso desde o início do concurso. Porém, não sabia como aquele mundo reagiria a FlappyBird nem o quanto ele poderia se popularizar. Além disso, queria muito a loja de experimentação e, com os recursos limitados de que dispunha, FlappyBird era sua única opção.
+
+Por isso, embora soubesse que deixaria de ganhar algum dinheiro, decidira participar com FlappyBird.
+
+Ainda assim, doía pensar que o jogo rendia quase trezentos mil yuans por dia ao seu criador. Sentia como se tivesse deixado escapar centenas de milhões.
+
+Durante os três meses seguintes, não poderia esperar que FlappyBird lhe rendesse dinheiro. A melhor saída era criar seu próximo jogo.
+
+Chen Mo abriu a tela de recarga e transferiu duzentos mil yuans para a pulseira. O saldo passou a mostrar dois milhões, noventa e sete mil trezentos e quarenta créditos. Depois de pensar um pouco, fez mais uma recarga para arredondar o total para 2,1 milhões de créditos.
+
+Depois de despejar duzentos mil yuans, aqueles *trezentos yuans* não eram grande coisa. Era melhor deixar o número redondo e acalmar sua leve mania de organização.
+
+Dois milhões e cem mil créditos, a cem mil por giro: o suficiente para vinte e um sorteios!
+
+Foi então que Chen Mo percebeu um novo botão na tela virtual: “Sortear dez vezes”.
+
+— Que gentileza! Então esse botão não aparecia antes porque eu não tinha créditos para dez sorteios, é? — resmungou para ninguém em particular.
+
+O botão também tinha uma observação em letras pequenas: “Itens raros garantidos”.
+
+Aquilo lembrava um dos grandes recursos dos jogos de pagar para ganhar de seu mundo anterior: incentivar os jogadores a recarregar por todos os meios possíveis.
+
+Chen Mo sabia que, em noventa e nove por cento dos jogos, dez sorteios de uma vez eram mais vantajosos que um só. O melhor para ele era usar essa opção.
+
+Deu uma volta pelo escritório e depois lavou as mãos e o rosto.
+
+Era preciso se preparar antes de fazer dez sorteios!
+
+Depois de se acalmar, Chen Mo decidiu fazer um sorteio avulso para testar a sorte.
+
+Clac, clac, clac...
+
+A roleta começou a girar e, com um estalo, parou na área azul: Livro de Habilidades Raras.
+
+— Hum? Nada mal. — Chen Mo despertou na hora. Era a primeira vez que tirava um livro azul. Será que lavar as mãos e o rosto havia feito efeito?
+
+Ele tocou no livro azul e viu sua descrição: “Livro de Habilidades Especiais: Música e Efeitos Sonoros +10”.

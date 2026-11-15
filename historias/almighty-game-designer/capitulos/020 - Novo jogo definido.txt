@@ -1,0 +1,107 @@
+Capítulo 20 — Novo jogo definido
+
+Chen Mo estava considerando principalmente jogos que precisassem ser baixados e jogos para celular, deixando de lado os jogos de navegador.
+
+Os jogos de navegador haviam tido seu momento de destaque e pareciam a grande novidade seguinte. Porém, seu sucesso dependia de circunstâncias específicas e de determinados grupos de jogadores. Além disso, seu período de popularidade costumava ser curto, e era difícil reproduzir esse sucesso.
+
+Na vida anterior de Chen Mo, os jogos de navegador só haviam se mantido em alta por três a cinco anos. Logo foram deixados para trás, substituídos pelos jogos para celular. Estes, por sua vez, passaram de rudimentares a muito refinados em poucos anos, num ritmo cada vez mais acelerado.
+
+Os jogos de navegador podiam render muito dinheiro, mas, sem jogadores, qualquer coisa não valia nada.
+
+Como eram os jogadores daquele mundo?
+
+Havia muitos jogos completos de realidade virtual, com qualidade muito superior à dos títulos AAA de seu mundo anterior. Ia oferecer jogos de navegador àquelas pessoas?
+
+Ia aparecer com um “Clique agora e receba uma espada lendária”?
+
+Provavelmente seria um fracasso retumbante...
+
+Na visão de Chen Mo, os jogos para celular eram uma evolução dos jogos de navegador, pressionando-os em todos os aspectos.
+
+Em termos de praticidade, ainda era preciso tomar cuidado ao jogar no navegador durante o trabalho. Já no celular, dava para jogar a qualquer hora: bastava deixar o aparelho virado para baixo na mesa quando o chefe passasse.
+
+Quanto aos gráficos, os jogos de navegador eram limitados pela forma como eram produzidos e precisavam baixar recursos constantemente. Muitas vezes, os elementos visuais nem terminavam de carregar, prejudicando a experiência.
+
+Em termos de jogabilidade, os jogos para celular haviam aperfeiçoado as mecânicas dos clássicos de navegador. Além disso, desenvolveram novas formas de jogar ao longo de sua evolução.
+
+Por isso, os jogos de navegador haviam sido completamente substituídos pelos de celular. Se Chen Mo fosse desenvolver um jogo de navegador, provavelmente estaria com algum problema na cabeça.
+
+Depois de pensar, ele decidiu: seu primeiro jogo de verdade seria um clássico casual de sua vida anterior, Plants vs Zombies!
+
+Não era a opção mais lucrativa, mas era estável e sustentável!
+
+Do que Chen Mo mais precisava naquele momento?
+
+Dinheiro? Precisava, mas não era sua maior necessidade!
+
+O que precisava agora era de fama!
+
+Havia três motivos principais para escolher Plants vs Zombies.
+
+Primeiro, o jogo não exigia muitos recursos. O instalador poderia ter cerca de 100 MB, e os demais recursos caberiam em 300 MB. Os instaladores eram compactados e, por isso, seu tamanho não correspondia ao uso real de recursos.
+
+Além disso, o código daquele jogo era relativamente acessível, e o design das fases também era bastante claro. Com suas habilidades atuais de programação e design de fases, Chen Mo conseguiria lidar com ele sem dificuldade.
+
+As partes mais difíceis seriam a música e a arte. Porém, como ele estava basicamente reproduzindo algo pronto, isso não seria um grande problema.
+
+Portanto, era um jogo que Chen Mo tinha condições de fazer!
+
+Segundo, ele precisava de fama e reconhecimento. Os jogos de pagar para ganhar rendiam muito dinheiro, mas era difícil torná-los populares, e havia uma grande chance de receber críticas negativas.
+
+Chen Mo queria que seu primeiro jogo fosse acessível a todos, apresentando a mais jogadores o logotipo da Thunderbolt Games e seu designer, Chen Mo!
+
+Ser reconhecido por todos era um objetivo de longo prazo, mas precisava ser planejado desde o primeiro jogo.
+
+Terceiro, Plants vs Zombies podia parecer simples, mas era um jogo completo em vários aspectos. Em especial, sua estratégia lhe dava longevidade e permitia que os jogadores continuassem jogando por bastante tempo.
+
+Se um jogo exigisse três meses de desenvolvimento, Chen Mo queria que oferecesse diversão por um mês. Por esse critério, Plants vs Zombies passava por cima de muitos jogos casuais.
+
+Além disso, ele poderia ser lançado simultaneamente para PC e celular. Acrescentar suporte a várias plataformas não seria um problema!
+
+No fim, Chen Mo tomou a decisão: o primeiro jogo lançado pela Thunderbolt Entertainment seria Plants vs Zombies!
+
+Ele se levantou e deu uma volta pela loja de experimentação, fazendo uma pausa de dez minutos antes de começar o desenvolvimento.
+
+Chen Mo não tinha pressa de usar a Poção de Reprodução de Memórias, já que o efeito durava apenas quatro horas. Primeiro, deveria usar o que ainda lembrava para montar a estrutura principal do jogo. Depois, recorreria à poção para recuperar os detalhes esquecidos.
+
+A primeira etapa era escrever os documentos de design. Depois, inseriria os elementos básicos do jogo no motor.
+
+Na vida anterior, Chen Mo era excelente em escrever documentos de design, chegando a trabalhar duas vezes mais rápido que um designer comum. Conseguia concluir o projeto de um sistema, incluindo conceitos, arte conceitual e verificação da lógica, em cinco a sete dias.
+
+Isso incluía o tempo gasto pensando e fazendo alterações!
+
+É claro que os documentos variavam conforme a estrutura do jogo. Mesmo um jogo de celular comum normalmente exigia de vinte a trinta documentos de design, de tamanhos diferentes e cobrindo áreas distintas.
+
+As exigências de tempo e de alocação de recursos eram ainda maiores, e boa parte daquele material nem chegava à versão final.
+
+O que mais consumia tempo ao escrever um documento de design era pensar nas ideias e escolher entre diferentes caminhos. Porém, Plants vs Zombies já era muito bem resolvido. Chen Mo não queria modificá-lo, então a escrita avançou depressa.
+
+Interface, sistema de combate, design de fases, plantas, zumbis, mecânicas... Em pouco tempo, o documento estava preenchido com as ideias básicas de cada elemento.
+
+Depois, Chen Mo começou a procurar recursos gratuitos no motor de jogos, baixando-os com sua cota disponível.
+
+Quanto à arte, para preservar ao máximo a integridade do jogo original, decidiu desenhá-la à mão, seguindo seus critérios de qualidade.
+
+Os recursos gratuitos serviriam apenas como elementos provisórios para que o desenvolvimento avançasse sem problemas. Seriam substituídos quando o jogo estivesse quase pronto.
+
+Havia muitos recursos de gramados, plantas e zumbis, mas alguns mal serviam, por seguirem temas estranhos. Como seriam apenas provisórios, ele teria que se conformar.
+
+Chen Mo passou três dias escrevendo os fundamentos no documento de design e procurando material para os gráficos.
+
+Durante esse período, o registro da empresa foi aprovado. A Thunderbolt Entertainment agora estava oficialmente constituída. No Weibo e no motor de jogos, Chen Mo passou a ter o título de “Fundador da Thunderbolt Entertainment”.
+
+É claro que o título ainda não significava muita coisa, pois a empresa não havia realizado nada.
+
+Nos planos de Chen Mo, a Thunderbolt Entertainment poderia ter algumas subsidiárias, como Thunderbolt Games, Thunderbolt Literature, Thunderbolt Animations, Thunderbolt Movies e assim por diante...
+
+Porém, aquilo era apenas planejamento estratégico. Se surgisse uma oportunidade, ótimo; caso contrário, ele não se preocuparia. Chen Mo pretendia se aprofundar no setor de jogos. Embora literatura e animação pudessem beneficiá-lo, não eram sua prioridade.
+
+Depois da confirmação do nome e do logotipo, ele ligou para a equipe do concurso e pediu a placa da loja de experimentação.
+
+Com bastante eficiência, a placa chegou em dois dias, acompanhada de profissionais para instalá-la.
+
+Nela estavam as palavras “Loja de Experimentação Thunderbolt Games”, em letras estilizadas, junto do logotipo da Thunderbolt Entertainment. Chen Mo ficou bastante satisfeito com o resultado.
+
+Resolvidos aqueles assuntos paralelos, voltou ao escritório para organizar a estrutura do documento de design e a arte provisória.
+
+Mais um dia se passou. A estrutura principal do documento estava concluída, e ele já havia encontrado de sessenta a setenta por cento dos recursos de arte.

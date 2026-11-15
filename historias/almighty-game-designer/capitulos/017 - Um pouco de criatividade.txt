@@ -1,0 +1,143 @@
+Capítulo 17 — Um pouco de criatividade
+
+Chen Mo continuou:
+
+— Acho que muitos designers têm esse problema. Não conseguem competir com designers de classe B ou A por causa das próprias limitações, mas também não tentam encontrar outra saída. Insistem em enfrentá-los de igual para igual. Isso é burrice.
+
+Depois de pensar um pouco, Lin Mao respondeu:
+
+— Ainda não entendi muito bem.
+
+Chen Mo explicou:
+
+— Como somos próximos, vou falar sem rodeios. Se você fosse um jogador, que tipo de jogo compraria?
+
+Lin Mao ficou surpreso. Para ele, a resposta era tão óbvia que nunca havia parado para pensar na pergunta.
+
+Depois de refletir, respondeu:
+
+— Hum... Um jogo de qualidade? Feito com dedicação?
+
+Chen Mo respondeu:
+
+— Dedicação é algo muito abstrato. Se um designer usa um apelo sentimental para divulgar seu jogo, isso só pode significar uma de duas coisas: ou já passou do auge, ou está desesperado.
+
+— Quanto à qualidade, você é um designer de classe D. Consegue competir com a qualidade de um designer de classe B?
+
+Lin Mao abriu a boca, mas não conseguiu dizer nada.
+
+Chen Mo continuou:
+
+— Estou perguntando por que os jogadores comprariam o jogo, mas o que realmente quero saber é se ele tem algum chamariz. Há algo especial que o faça se destacar?
+
+— Acho que você ainda não abriu totalmente a cabeça. Vou usar seu jogo como exemplo e apresentar alguns caminhos para você considerar.
+
+— O primeiro é pelo lado da programação. Você poderia passar mais dois meses melhorando o sistema de combate. Digamos que acrescente de oito a quinze armas e mais de vinte tipos de inimigos comuns.
+
+Lin Mao perguntou:
+
+— Mas isso não seria complicado demais para um jogo de celular?
+
+Chen Mo balançou a cabeça.
+
+— Não. Todo jogo de celular precisa ser casual? Não acho. Você precisa entender que, quanto mais simples, mais difícil fica. Nesta etapa, eu preferiria ir além a parar por aqui.
+
+— Melhorar o sistema de combate seria bastante complicado. Mas, pelo menos na divulgação, você poderia dizer: “Escolha entre vinte armas diferentes!”, “Combates de quebrar a cabeça: você consegue escolher a arma certa a cada vez?”, ou algo assim.
+
+Lin Mao pareceu mergulhar em seus pensamentos.
+
+Chen Mo continuou:
+
+— O segundo caminho é pela dificuldade. Torne o jogo muito difícil e acrescente armadilhas inesperadas.
+
+Lin Mao perguntou:
+
+— Inesperadas como?
+
+Chen Mo apontou para o jogo e explicou:
+
+— Por exemplo, aqui parece haver uma elevação no terreno, mas, quando o jogador pisa nela, surgem espinhos que o matam. Ou aqui: um NPC aparentemente inofensivo, mas que esfaqueia o jogador pelas costas quando ele passa, matando-o. Pular para trás dele e tentar conversar por ali também leva à morte. A única maneira de passar seria pisando na cabeça dele.
+
+Lin Mao ficou de boca entreaberta, com uma expressão atordoada.
+
+— Nossa, mecânicas desse tipo?
+
+Chen Mo continuou:
+
+— Se escolher o segundo método, você pode divulgar seu jogo como o mais surpreendente da história. Poderia até chamá-lo de “A aventura bizarra do cavaleiro”, ou algo assim.
+
+— Também existe um terceiro caminho: a história! Por exemplo, você pode deixar os jogadores escolherem rumos diferentes em cada momento ou reagirem de formas distintas às situações. Ao encontrar um adversário gravemente ferido, poderiam decidir se vão salvá-lo ou não. Isso abriria vários caminhos para finais diferentes.
+
+— Você poderia criar de cinco a oito finais: alguns de sucesso, outros de fracasso e alguns totalmente inesperados.
+
+— Se seguir esse caminho, poderia anunciar: “Oito finais diferentes, dezenas de escolhas!” ou “Você consegue enxergar através das mentiras e descobrir a verdade?”, ou algo nessa linha.
+
+Lin Mao coçou o queixo. Chen Mo havia despejado muita informação, e ele precisava refletir com cuidado.
+
+Chen Mo também não estava com pressa. Comeu mais um pouco e esperou que Lin Mao assimilasse os três caminhos que acabara de apresentar.
+
+O que mais faltava aos designers daquele mundo?
+
+Uma mente aberta!
+
+Chen Mo não havia nascido com aquela abertura de pensamento. Ele a adquirira com suas experiências em outro mundo, acompanhando o nascimento e a evolução dos videogames. Dos grandes títulos aos jogos de navegador, passando pelos jogos para celular e pelos independentes, vira tudo aquilo florescer.
+
+Muitos designers quebravam a cabeça para fazer os jogadores notarem seus jogos e entregarem o dinheiro do bolso sem resistência.
+
+Quando se tratava de videogames, a criatividade sempre levava a melhor. Sem dúvida, os melhores precisavam ter a mente aberta. Era impossível para um designer sem criatividade inventar um jogo envolvente.
+
+É claro que criatividade não era algo tão concreto. Muitos ignorantes se diziam cheios de criatividade e capazes de salvar a indústria. Porém, suas ideias não passavam de hipóteses. Antes de serem concretizadas, ninguém podia julgar se dariam certo.
+
+Os três caminhos que Chen Mo havia proposto podiam parecer fruto de um gênio cheio de inspiração. Porém, em sua vida anterior, eram princípios que os designers conheciam bem. Já haviam sido testados inúmeras vezes pela indústria, com muitos casos de sucesso.
+
+Chen Mo sabia que Lin Mao era uma pessoa honesta e o mais próximo de seus amigos. Por isso, decidira dar um empurrão na direção certa.
+
+Porém, não pretendia revelar detalhes específicos. Dali em diante, o resultado dependeria inteiramente de quanto Lin Mao havia entendido.
+
+Depois de pensar bastante, Lin Mao disse:
+
+— Certo, acho que entendi mais ou menos. O que você disse faz sentido. Fora do público que eu tinha em mente, realmente falta algo que atraia a atenção das outras pessoas.
+
+Chen Mo assentiu.
+
+— Isso mesmo!
+
+Lin Mao disse:
+
+— Agora entendi, Chen Mo. Suas três sugestões ampliaram minha visão. Acho que já tenho mais ideias. Obrigado!
+
+Chen Mo fez um gesto com a mão.
+
+— Não precisa agradecer. Não foi nada. Só apontei uma direção. Como chegar lá depende de você.
+
+Lin Mao assentiu.
+
+— Sim, agora sei que rumo seguir. Achei que o jogo estava quase pronto, mas agora parece que ainda falta bastante. Vou repensá-lo quando chegar em casa.
+
+Lin Mao relaxou a expressão antes franzida. Sempre sentira que faltava alguma coisa em seu jogo, mas não sabia o quê. Agora sabia: faltava um diferencial que o jogador pudesse perceber logo de cara.
+
+Com um diferencial, seu jogo conseguiria se distinguir de inúmeros outros!
+
+Zhao Zihao estava surpreso e perguntou:
+
+— Chen Mo, você é bom mesmo! Não imaginava que tivesse tantas ideias. Despertou todo o seu potencial ultimamente?
+
+Chen Mo respondeu com seriedade:
+
+— Não foi meu potencial que despertou. Eu recebi uma iluminação. Os deuses dos videogames me guiaram em sonho na noite anterior ao concurso e me entregaram um manual de design de jogos.
+
+Zhao Zihao riu.
+
+— Ah, tá!
+
+Os três continuaram comendo e conversando até as dez da noite, pedindo mais quatro garrafas de cerveja ao longo da noite. O papo estava tão animado que, no fim, os três ficaram um pouco bêbados.
+
+Chen Mo não costumava beber muito. Beber com frequência não fazia bem para o cérebro, pois afetava a memória e o raciocínio. Por isso, o hábito não era desejável para um designer de videogames.
+
+Zhao Zihao chamou um funcionário de sua empresa para dirigir. Lin Mao, por sua vez, continuava concentrado em como reestruturar e modificar o jogo que estava criando.
+
+Com alguém sóbrio para dirigir, Chen Mo ficou tranquilo e se despediu dos dois depois de recomendar que tomassem cuidado.
+
+Ao voltar para a loja de experimentação, cuidou da própria higiene e, depois de receber as mensagens de Zhao Zihao e Lin Mao confirmando que haviam chegado bem, foi dormir.
+
+Chen Mo ainda precisava pensar em seu próximo jogo. Era melhor dormir bem naquela noite para estar com a cabeça descansada no dia seguinte...
