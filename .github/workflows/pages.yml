@@ -23,15 +23,15 @@ jobs:
           node --check chapters.js
           node --check books.js
           node --check catalog.js
-          node --check historias/i-found-a-planet/chapters.js
+          node --check historias/almighty-game-designer/chapters.js
           node tests/reader.test.cjs
       - name: Preparar somente os arquivos públicos
         run: |
           mkdir _site
           cp index.html styles.css app.js chapters.js _site/
           cp books.js catalog.js _site/
-          mkdir -p _site/historias/i-found-a-planet
-          cp historias/i-found-a-planet/chapters.js _site/historias/i-found-a-planet/
+          mkdir -p _site/historias/almighty-game-designer
+          cp historias/almighty-game-designer/chapters.js _site/historias/almighty-game-designer/
           touch _site/.nojekyll
       - name: Configurar Pages
         uses: actions/configure-pages@v5

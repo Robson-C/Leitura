@@ -11,4 +11,4 @@ Por compatibilidade com a manutenção e os registros existentes, os dados hist�
 
 O progresso mantém a chave original `entrelinhas.reading.v1`, sem migração de endereço ou perda intencional de dados. Links antigos `index.html#capitulo-N` continuam abrindo esta história. As oito migrações históricas de numeração continuam exclusivas desta obra.
 
-Não misturar os novos TXT de I Found A Planet com a pasta histórica `capitulos/` da raiz.
+Não misturar os novos TXT de Almighty Game Designer com a pasta histórica `capitulos/` da raiz.

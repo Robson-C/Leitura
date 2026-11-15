@@ -12,13 +12,13 @@ window.READING_BOOKS = [
     chapters: window.READING_CHAPTERS
   },
   {
-    id: 'i-found-a-planet',
-    title: 'I Found A Planet',
-    description: 'Um novo mundo para descobrir',
-    subtitle: 'Um capítulo, uma nova descoberta.',
+    id: 'almighty-game-designer',
+    title: 'Almighty Game Designer',
+    description: 'Histórias sobre criar jogos',
+    subtitle: 'Uma nova ideia a cada capítulo.',
     symbol: '◎',
-    storageKey: 'entrelinhas.reading.i-found-a-planet.v1',
+    storageKey: 'entrelinhas.reading.almighty-game-designer.v1',
     numberingVersion: 0,
-    chapters: window.PLANET_CHAPTERS
+    chapters: window.GAME_DESIGNER_CHAPTERS
   }
 ];

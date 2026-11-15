@@ -1,10 +1,10 @@
 # Leitura — catálogo e leitor offline
 
-Abra `index.html` com dois cliques e escolha uma história no catálogo: **Clube da Longevidade** ou **I Found A Planet**. Preserve os arquivos e a pasta `historias/` juntos. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
+Abra `index.html` com dois cliques e escolha uma história no catálogo: **Clube da Longevidade** ou **Almighty Game Designer**. Preserve os arquivos e a pasta `historias/` juntos. Não é necessário instalar programas, iniciar servidor ou acessar a internet.
 
 Cada obra usa o mesmo leitor, com índice à esquerda, título ao centro e engrenagem à direita. O link **← Catálogo** fica no índice. Progresso e preferências são independentes por obra; o Clube conserva o salvamento anterior no mesmo `index.html`. Links antigos com `#capitulo-N` continuam funcionando. Mantenha o mesmo navegador, perfil e endereço para conservar o armazenamento local.
 
-I Found A Planet está cadastrada, aguardando capítulos. Seus TXT, tabela de numeração, continuidade e conteúdo publicado ficam em `historias/i-found-a-planet/`. Os dados históricos do Clube permanecem na raiz para compatibilidade. `books.js` registra as obras e `catalog.js` controla catálogo e seleção. Novas obras podem usar o mesmo leitor, com ID, chave de salvamento e conteúdo próprios.
+Almighty Game Designer está cadastrada, aguardando capítulos. Seus TXT, tabela de numeração, continuidade e conteúdo publicado ficam em `historias/almighty-game-designer/`. Os dados históricos do Clube permanecem na raiz para compatibilidade. `books.js` registra as obras e `catalog.js` controla catálogo e seleção. Novas obras podem usar o mesmo leitor, com ID, chave de salvamento e conteúdo próprios.
 
 O GitHub Pages foi preparado para incluir os arquivos novos; commit e push continuam manuais. Capítulos 801–803 do Clube continuam pendentes: esta mudança não publica traduções novas.
 
