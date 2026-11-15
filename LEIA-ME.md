@@ -410,3 +410,10 @@ DozeTXT769–780/fontes791–802integrados integralmente. Último780 — Escutan
 ## Publicação offline atual —279–800 —08/11/2026
 
 Leitor local522 capítulos consecutivos279–800,semTXTpendente. Último800 — A data do casamento,fonte822. Fontes803–822→781–800 integradas. Próximo801/fonte823. ALERTA:fontes819–822/project797–800 apresentam salto para hospital moderno e tramaQingyun sem explicar saída do arcoJiuli;preservadas integralmente,conferir próximos e não declarar fimdoarco confirmado. PaiFangHong→LuHong/classificaçãotop5→30/50 divergem na fonte. SaltosGuangLingzi seguem sem encaixe;nenhum complemento editorial criado. Esquema8/progresso/preferênciaspreservados,commit/pushmanuais. Backup:backups/offline-781-800-20261108T230705365/.
+
+
+## Almighty Game Designer — publicação local 1–5 e revisão — 15/11/2026
+
+Usuário autorizou ajustes propostos e publicação dos cinco capítulos. Título2 atualizado para “Um mundo que evoluiu pela árvore tecnológica errada”, motor padronizado para “motor de jogos”, duas referências à empresa de Qiu no5 simplificadas para “uma empresa”, mantendo o nome ausente somente no registro. Cinco TXT integralmente integrados em historias/almighty-game-designer/chapters.js, authorNote:false (notas/créditos originais continuam no corpo). Catálogo/índice/contagem usam o conteúdo da obra automaticamente. Nenhum TXT pendente nesta obra; próximo6/fonte6. Clube da Longevidade preservado522/279–800, pendentes801–803, sem alterações. Mesmo leitor/controles/chaves de progresso, sem migração nova. Backup prévio SHA256: backups/agd-publicar-001-005-20261115-150646/. Reversão restaura esses arquivos e o nome anterior do TXT2, retirando somente seu nome novo; não toca o Clube. Commit/push/deploy remotos não executados. Validação registrada após execução dos testes.
+
+Validação da publicação1–5: suíte tests/reader.test.cjs aprovada, incluindo igualdade integral TXT/JS, cinco capítulos, catálogo/contagem, navegação/limites em viewport móvel simulado, retomada e isolamento do progresso do Clube. Sintaxe dos scripts conferida. Revisão visual em navegador não realizada nesta publicação.

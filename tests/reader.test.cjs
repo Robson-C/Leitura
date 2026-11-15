@@ -591,7 +591,7 @@ assert.equal(club.saved().settings.fontSize,24);assert(club.browser.scrollY>0);
 const legacyLink=boot(oldState,false,'#capitulo-600',390,{catalog:true});
 assert.equal(legacyLink.get('chapter-number').textContent,'CAPÍTULO 600');
 assert.equal(legacyLink.get('catalog').hidden,true);
-const emptyPlanet=boot(oldState,false,'#capitulo-700',390,{catalog:true,search:'?obra=almighty-game-designer'});
+const emptyPlanet=boot(oldState,false,'#capitulo-700',390,{catalog:true,search:'?obra=almighty-game-designer',gameDesignerChapters:[]});
 assert.equal(emptyPlanet.get('empty-book').hidden,false);
 assert.equal(emptyPlanet.get('empty-title').textContent,'Almighty Game Designer');
 assert.equal(emptyPlanet.stores['entrelinhas.reading.v1'],oldState);
@@ -616,3 +616,35 @@ assert.equal(planetResume.get('chapter-number').textContent,'CAPÍTULO 2');asser
 const migratedClub=boot(JSON.stringify({chapter:290,positions:{290:.4},settings:{theme:'sepia'}}),false,'',1280,{catalog:true,search:'?obra=clube-da-longevidade'});
 assert.equal(migratedClub.get('chapter-number').textContent,'CAPÍTULO 279');assert.equal(migratedClub.saved().numberingVersion,8);
 console.log('OK: catálogo com duas obras, legado e migrações preservados, obra vazia, armazenamento bloqueado, progresso/preferências isolados e retomada por obra.');
+
+// Publicação real da segunda obra: integridade TXT/JS e navegação com progresso isolado.
+const agdBookPath=path.join(root,'historias/almighty-game-designer');
+const agdMap=JSON.parse(fs.readFileSync(path.join(agdBookPath,'NUMERACAO-CAPITULOS.json'),'utf8'));
+const agdActual=boot(oldState,false,'',390,{catalog:true,search:'?obra=almighty-game-designer'});
+assert.equal(agdActual.get('reader-shell').hidden,false);
+assert.equal(agdActual.get('empty-book').hidden,true);
+assert.equal(agdActual.get('book-count').textContent,'5 capítulos disponíveis');
+assert.equal(catalog.get('book-cards').children[1].children[3].textContent,'5 capítulos disponíveis');
+assert.deepEqual(Array.from(agdActual.browser.GAME_DESIGNER_CHAPTERS,c=>c.id),[1,2,3,4,5]);
+for(const row of agdMap.confirmed){
+ const chapter=agdActual.browser.GAME_DESIGNER_CHAPTERS.find(c=>c.id===row.chapter);
+ const txt=fs.readFileSync(path.join(agdBookPath,row.file),'utf8').replace(/\r\n/g,'\n');
+ const split=txt.indexOf('\n\n');
+ assert.equal(txt.slice(0,split),'Capítulo '+row.chapter+' — '+chapter.title);
+ assert.equal(txt.slice(split+2).trim(),chapter.body);
+ assert.equal(chapter.title,row.title);assert.equal(chapter.authorNote,false);assert(!row.offlinePending);
+ assert(!chapter.body.includes('�'));assert.equal((chapter.body.match(/\*/g)||[]).length%2,0);
+ agdActual.changeHash('#capitulo-'+row.chapter);
+ assert.equal(agdActual.get('chapter-title').textContent,row.title);
+ assert.equal(agdActual.get('previous').disabled,row.chapter===1);
+ assert.equal(agdActual.get('next').disabled,row.chapter===5);
+ if(row.chapter<5){agdActual.get('next').click();assert.equal(agdActual.location.hash,'capitulo-'+(row.chapter+1));}
+}
+assert(!agdActual.browser.GAME_DESIGNER_CHAPTERS[1].body.includes('motores gráficos'));
+assert(!agdActual.browser.GAME_DESIGNER_CHAPTERS[4].body.includes('não consta na fonte'));
+assert.equal(agdActual.stores['entrelinhas.reading.v1'],oldState);
+const agdRestart=boot(null,false,'',1280,{catalog:true,search:'?obra=almighty-game-designer',stores:agdActual.stores});
+assert.equal(agdRestart.get('chapter-number').textContent,'CAPÍTULO 5');
+const agdCatalogResume=boot(null,false,'',1280,{catalog:true,stores:agdActual.stores});
+assert.equal(agdCatalogResume.get('book-cards').children[1].children[4].textContent,'Continuar no capítulo 5 →');
+console.log('OK: Almighty Game Designer1–5 integrais/revisados, catálogo, limites, navegação móvel simulada e retomada isolada.');

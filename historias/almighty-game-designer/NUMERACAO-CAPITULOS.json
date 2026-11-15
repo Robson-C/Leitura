@@ -1,6 +1,37 @@
 {
   "version": 0,
   "book": "almighty-game-designer",
-  "confirmed": [],
-  "notes": "Obra criada no catálogo em 15/11/2026. Nenhum capítulo recebido, traduzido ou publicado. Confirmar a numeração pelo material enviado; não reutilizar deslocamentos do Clube da Longevidade."
+  "confirmed": [
+    {
+      "source": 1,
+      "chapter": 1,
+      "title": "Por favor, me chame de designer de videogames",
+      "file": "capitulos/001 - Por favor, me chame de designer de videogames.txt"
+    },
+    {
+      "source": 2,
+      "chapter": 2,
+      "title": "Um mundo que evoluiu pela árvore tecnológica errada",
+      "file": "capitulos/002 - Um mundo que evoluiu pela árvore tecnológica errada.txt"
+    },
+    {
+      "source": 3,
+      "chapter": 3,
+      "title": "O dinheiro pode mudar o destino?",
+      "file": "capitulos/003 - O dinheiro pode mudar o destino.txt"
+    },
+    {
+      "source": 4,
+      "chapter": 4,
+      "title": "Um jogo simples que deixa uma impressão profunda",
+      "file": "capitulos/004 - Um jogo simples que deixa uma impressão profunda.txt"
+    },
+    {
+      "source": 5,
+      "chapter": 5,
+      "title": "As regras do concurso",
+      "file": "capitulos/005 - As regras do concurso.txt"
+    }
+  ],
+  "notes": "Fontes 1–5 → capítulos 1–5 traduzidos e integrados integralmente ao leitor em 15/11/2026. Nenhum TXT pendente nesta obra. Próximo esperado: fonte 6 → capítulo 6. Numeração independente do Clube da Longevidade; commit e push manuais."
 }

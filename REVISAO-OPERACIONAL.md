@@ -4779,3 +4779,35 @@ Backup local backups/catalogo-20261115-143452/ com9arquivosSHA256conferidos. Rev
 Usuário confirmou substituir a obra vazia I Found A Planet por Almighty Game Designer e começará a enviar capítulos em sequência. Obra ativa para novos envios: Almighty Game Designer. ID almighty-game-designer, pasta historias/almighty-game-designer/, array window.GAME_DESIGNER_CHAPTERS e chave entrelinhas.reading.almighty-game-designer.v1. Catálogo, testes e workflow atualizados;registros de numeração/continuidade próprios. Nenhum capítulo recebido até esta troca. Envio de novo capítulo autoriza tradução integral PT-BR/TXT UTF-8/registro,sem reconfirmação; salvar exclusivamente na pasta capitulos/ da nova obra. Comando publique integra pendentes da obra ativa,commit/push manuais. Não aplicar deslocamentos nem personagens do Clube. Clube permanece522capítulos279–800/pendentes801–803,sem alterações. Entradas anteriores sobre I Found A Planet são históricas e superadas.
 
 Validação da troca:node tests/reader.test.cjs aprovado incluindo catálogo/isolamento/retomada;node --check books.js e chapters.js da nova obra aprovados;git diff --check aprovado;nenhuma diferença em chapters.js/NUMERACAO/capitulos históricos do Clube. Backup local backups/troca-obra-20261115-145449/. Nenhum commit/push.
+
+
+## Almighty Game Designer — capítulo 1 traduzido — 15/11/2026
+
+Fonte1→capítulo1, Por favor, me chame de designer de videogames. TXT integral UTF-8 em historias/almighty-game-designer/capitulos/, tabela própria com offlinePending e continuidade atualizadas. Nenhum capítulo incluído no leitor; próximo2/fonte2. Devaneios iniciais distinguidos dos fatos; Chen Mo normalizado em dois lapsos, nomes comerciais preservados, RapeL sem expansão e moeda não inventada. Backup prévio em backups/agd-capitulo-001-20261115-145816/ . Leitor e Clube preservados; sem commit/push. Validação: TXT UTF-8, 34 parágrafos de corpo, cabeçalho, término e correspondência da tabela conferidos.
+
+
+## Almighty Game Designer — capítulo 2 traduzido — 15/11/2026
+
+Fonte2→capítulo2, O mundo com a árvore tecnológica escolhida errado. TXT UTF-8 integral, 60 parágrafos de corpo em correspondência com a fonte. Tabela própria/continuidade/handoff atualizados; TXT1–2 pendentes, leitor vazio. Próximo3/fonte3. Backup prévio SHA256 conferido: backups/agd-capitulo-002-20261115-145954/. Cabeçalho, final, UTF-8 e contagem conferidos. Nenhuma alteração no leitor ou Clube; sem commit/push.
+
+
+## Almighty Game Designer — capítulo 3 traduzido — 15/11/2026
+
+Fonte3→capítulo3, O dinheiro pode mudar o destino? TXT integral UTF-8 em pasta própria; nota[1] preservada como nota da tradução inglesa; contradições597.340/quase60mil e gasto64.480 mantidas com asteriscos. Tabela/continuidade/handoff atualizados; TXT1–3 pendentes; próximo4/fonte4. Backup prévio SHA256 conferido: backups/agd-capitulo-003-20261115-150123/. Conferidos UTF-8, título/arquivo, atributos/cotas/saldo/custo, final e marcações. Nenhuma mudança no leitor/Clube; sem commit/push.
+
+
+## Almighty Game Designer — capítulo 4 traduzido — 15/11/2026
+
+Fonte4→capítulo4, Um jogo simples que deixa uma impressão profunda. TXT integral UTF-8; créditos Coldtaco/Aelryinth e nota[1] mantidos; três inconsistências financeiras marcadas, contagem conflitante dos livros registrada sem inventar correção. Tabela/continuidade/handoff atualizados; TXT1–4 pendentes, próximo5/fonte5. Backup SHA256 conferido: backups/agd-capitulo-004-20261115-150254/. Validado UTF-8, título/arquivo, parágrafos correspondentes (retirado só separador), final, marcações e tabela. Leitor/Clube intactos; sem commit/push.
+
+
+## Almighty Game Designer — capítulo 5 traduzido — 15/11/2026
+
+Fonte5→capítulo5, As regras do concurso. TXT integral UTF-8; duas lacunas do nome da empresa de Qiu e interpretação tablet/laptop marcadas, sem inventar empresa. Tabela/continuidade/handoff atualizados; TXT1–5 pendentes, próximo6/fonte6. Backup prévio SHA256 conferido: backups/agd-capitulo-005-20261115-150418/. Validados UTF-8, título, final, regras/nomes/números e correspondência dos parágrafos (fala do veto dividida em dois). Leitor/Clube intactos; sem commit/push.
+
+
+## Almighty Game Designer — publicação local 1–5 e revisão — 15/11/2026
+
+Usuário autorizou ajustes propostos e publicação dos cinco capítulos. Título2 atualizado para “Um mundo que evoluiu pela árvore tecnológica errada”, motor padronizado para “motor de jogos”, duas referências à empresa de Qiu no5 simplificadas para “uma empresa”, mantendo o nome ausente somente no registro. Cinco TXT integralmente integrados em historias/almighty-game-designer/chapters.js, authorNote:false (notas/créditos originais continuam no corpo). Catálogo/índice/contagem usam o conteúdo da obra automaticamente. Nenhum TXT pendente nesta obra; próximo6/fonte6. Clube da Longevidade preservado522/279–800, pendentes801–803, sem alterações. Mesmo leitor/controles/chaves de progresso, sem migração nova. Backup prévio SHA256: backups/agd-publicar-001-005-20261115-150646/. Reversão restaura esses arquivos e o nome anterior do TXT2, retirando somente seu nome novo; não toca o Clube. Commit/push/deploy remotos não executados. Validação registrada após execução dos testes.
+
+Validação da publicação1–5: suíte tests/reader.test.cjs aprovada, incluindo igualdade integral TXT/JS, cinco capítulos, catálogo/contagem, navegação/limites em viewport móvel simulado, retomada e isolamento do progresso do Clube. Sintaxe dos scripts conferida. Revisão visual em navegador não realizada nesta publicação.

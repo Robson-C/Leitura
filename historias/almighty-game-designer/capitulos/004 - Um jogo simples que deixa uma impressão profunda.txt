@@ -1,0 +1,147 @@
+Capítulo 4 — Um jogo simples que deixa uma impressão profunda
+
+Tradução inglesa: Coldtaco
+
+Edição da tradução inglesa: Aelryinth
+
+Alguns números cintilaram na mente de Chen Mo, tornando-se parte de suas memórias. Ele conseguia sentir que sua habilidade de programação realmente havia melhorado um pouquinho.
+
+Até que não é ruim! Se eu consumir cem desses livros, minha habilidade de programação não chegará ao máximo? Cem deles dariam apenas *cem mil yuans*... Mas que bela porcaria! Isso é um assalto!
+
+Dez mil para comprar um ponto de atributo! Tenho cara de idiota?
+
+Calma, calma...
+
+É só um trocado. Se eu fizer um jogo que vire febre, ele poderá render milhões por mês. O suficiente para eu ficar girando essa roleta por um bom tempo.
+
+Chen Mo se consolava enquanto apertava repetidamente o botão de girar.
+
+Clac. Verde.
+
+Clac. Verde!
+
+Clac. Verde!!
+
+Chen Mo estava prestes a perder a cabeça.
+
+Quatro giros, quatrocentos mil créditos, quatro Livros de Habilidades de Designer!
+
+Aquilo equivalia a *quatrocentos mil em dinheiro*!
+
+Restavam apenas cento e noventa mil créditos, o suficiente para mais um último giro.
+
+É claro que, ao lado da roleta, havia um conveniente portal de recarga. Chen Mo o abriu e, depois de olhar por meio segundo, fechou-o.
+
+A proporção entre dinheiro e créditos era de 1 para 10. Não havia descontos, nem mesmo um bônus de créditos em dobro na primeira recarga!
+
+Que sorte a minha, hein. Até nos jogos da QQ[1] a sorte é melhor.
+
+Se Chen Mo quisesse gastar todos os seus pontos, teria que recarregar mais *três mil pontos, ou seja, trezentos yuans*. Naquele momento, ele já estava com dificuldades para garantir comida pelos próximos dias. Era difícil justificar o gasto de trezentos yuans.
+
+É a última vez. Se não vier nada, eu desisto. Na pior das hipóteses, abandono este concurso e crio outro jogo no mês que vem. Ainda vou conseguir meu certificado de classe D...
+
+Cerrando os dentes, Chen Mo apertou o botão de girar uma última vez.
+
+Embora continuasse dizendo que não, seu corpo agia de outra maneira. Ele sentia o coração quase saltar pela boca e as mãos tremerem.
+
+Naquele momento, entendeu o que se passava no coração dos viciados em apostas. Se viesse mais um livro verde, ele estaria pronto para pular da varanda.
+
+Clac. A roleta parou mais uma vez.
+
+Área roxa! Equipamento Especial!
+
+Chen Mo ficou atônito. Finalmente lhe haviam lançado uma corda de salvação!
+
+Um baú apareceu na tela. Chen Mo tentou tocá-lo com o dedo. O baú se abriu com um clique, deixando escapar raios de luz dourada.
+
+Ele olhou para a tela, onde estava escrito: “Equipamento Especial: Superconcentrador de Atenção”.
+
+Até tinha uma descrição!
+
+“Superconcentrador de Atenção. Uso único. Duração: 10 minutos. Após o uso, concentra a atenção de 500 pessoas em um local à escolha. O efeito começa imediatamente após a ativação e não pode ser deslocado.”
+
+Chen Mo coçou a cabeça, sem entender muito bem a situação, e leu a descrição novamente.
+
+Acho que entendi, mas isso não parece ter nada a ver com videogames, não é?
+
+Chen Mo passou um tempão pensando, esfregando o queixo. O único uso que conseguia imaginar era durante o concurso, atraindo a atenção do público e dos jurados para seu jogo.
+
+Mas e depois?
+
+O efeito durava apenas dez minutos. Além disso, só atraía a atenção; não mudava a opinião das pessoas sobre o jogo.
+
+Obrigar os outros a jogar, especialmente se o jogo fosse ruim, poderia piorar a situação!
+
+Continue pensando. Tem que haver uma maneira.
+
+Chen Mo não ia desistir. Não seria uma tremenda piada se, depois de tanto esforço para conseguir seu equipamento roxo, ele nem pudesse usá-lo?
+
+Agora, Chen Mo precisava de um jogo que atendesse aos seguintes requisitos:
+
+Não ser muito complicado.
+
+Usar no máximo 6 MB de recursos.
+
+Fazer o público adorá-lo depois de jogar por dez minutos.
+
+Mesmo que não o adorassem, ao menos deveria deixar uma impressão duradoura.
+
+Precisava ter algo especial, que desse o que falar. Só assim ele poderia conquistar o primeiro lugar no concurso de design de videogames!
+
+Parece que essa tarefa impossível não é tão impossível para mim, afinal. Por sorte, acumulei muita experiência na vida anterior e conheci todo tipo de jogo.
+
+Muito bem, vamos trabalhar!
+
+Com um novo objetivo em mente, Chen Mo se sentou novamente diante do notebook e abriu o motor de jogos.
+
+Antes, aquela era uma tarefa impossível. Agora, com o Superconcentrador de Atenção, havia um fio de esperança. Na verdade, um fio bem grosso.
+
+É claro que, antes de começar, Chen Mo consumiu os livros verdes de habilidades que restavam: três de Programação e um de Design de Fases.
+
+Provavelmente não fariam muita diferença, mas era melhor tê-los do que não ter!
+
+O motor de jogos não era nada difícil de usar. Chen Mo se acostumou com ele num instante.
+
+Depois de baixar os 6 MB restantes de recursos, Chen Mo começou a escrever o documento de design. Como o jogo era pequeno, bastaram algumas centenas de palavras.
+
+O uso de recursos era mínimo. Ele aproveitou principalmente os recursos gratuitos compartilhados no motor, que podiam ser usados após alguns pequenos ajustes.
+
+A base do jogo ficou pronta naquela mesma noite. No dia seguinte, depois de acordar, Chen Mo acrescentou funções simples de conexão em rede e rankings, e considerou o jogo concluído.
+
+Depois de terminar, ele fez alguns testes. O jogo tinha uma sensação parecida com a de seu trabalho na vida anterior.
+
+Após criar um pacote de instalação, Chen Mo enviou o jogo aos organizadores do concurso. Quanto a saber se ele receberia algum reconhecimento, só descobriria no dia da competição.
+
+No dia do concurso...
+
+Chen Mo vestiu seu único terno e se preparou para participar do concurso de design de videogames...
+
+A Capital Imperial costumava ser bastante quente em agosto. Chen Mo se sentia um idiota usando roupa social. Felizmente, o local tinha ar-condicionado, e ele se refrescou em pouco tempo.
+
+Sob a orientação dos organizadores, os jurados, participantes e espectadores foram conduzidos aos seus lugares de maneira ordenada. Os preparativos estavam em andamento; só faltava o concurso começar.
+
+O público não era pequeno: havia pelo menos seiscentas pessoas.
+
+Aquele não era um concurso qualquer. Além de transmissão ao vivo e gravação completa do evento, os organizadores haviam conseguido convidar três designers de videogames bastante conhecidos para serem jurados.
+
+Os prêmios também não eram modestos. O primeiro colocado receberia trezentos mil yuans para pesquisa e desenvolvimento de jogos, um certificado de designer de videogames de classe D e uma loja própria de experimentação de jogos.
+
+Não era preciso dizer muito sobre os trezentos mil yuans. O prêmio mais atraente era o último: uma loja própria de experimentação de jogos!
+
+As lojas de experimentação de jogos eram lugares onde os designers exibiam suas obras, como galerias. Elas tinham tamanhos variados; designers de classe SSS possuíam torres inteiras para suas lojas. Às vezes, esses lugares se tornavam uma espécie de Meca dos jogadores, um destino que precisavam visitar ao menos uma vez na vida.
+
+Em termos de disposição, as lojas de experimentação se pareciam com lan houses, mas tinham outra função.
+
+Elas não tinham fins lucrativos. Em primeiro lugar, serviam principalmente como local de trabalho dos designers. Em segundo, eram uma plataforma de interação entre os criadores dos jogos e os jogadores.
+
+Os jogadores que visitavam essas lojas tinham a oportunidade de conversar com os designers, dar sugestões e testar suas criações mais recentes. Quando o designer considerava que o jogo estava praticamente pronto, ele era lançado.
+
+É claro que os testes podiam ser feitos pela internet, na forma de versões alfa, mas os designers daquele mundo preferiam usar as lojas de experimentação. Como todos ali eram pessoas reais, com quem podiam interagir pessoalmente, aquilo enchia os designers de ideias.
+
+Assim, as lojas de experimentação haviam se tornado, aos poucos, símbolos dos designers de videogames. Um designer sem sua própria loja era menosprezado pelos demais.
+
+Chen Mo também conhecia o valor de uma loja de experimentação. Se quisesse abrir uma por conta própria, o aluguel não sairia barato, sem falar nos equipamentos. Naquele momento, ele não tinha condições de pagar por nada daquilo.
+
+Por isso, Chen Mo precisava agarrar aquela oportunidade!
+
+[1] Nota da tradução inglesa: os jogos da QQ são conhecidos pelo modelo gratuito com compras opcionais, por vantagens compradas com dinheiro ou pela forte presença de sistemas de sorteio de recompensas.
