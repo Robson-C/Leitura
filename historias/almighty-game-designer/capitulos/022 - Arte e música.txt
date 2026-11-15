@@ -1,0 +1,79 @@
+Capítulo 22 — Arte e música
+
+Depois de terminar o modo Aventura, Chen Mo se dedicou aos minijogos, ao modo Quebra-cabeças, ao modo Sobrevivência e aos demais modos.
+
+Com a experiência adquirida no modo Aventura, o restante foi relativamente simples. Não precisou se esforçar tanto quanto antes: era apenas trabalho de execução, que ia testando enquanto avançava. Em uma semana, concluiu os outros modos.
+
+O Jardim Zen, o almanaque, as conquistas e a loja eram ainda mais simples de implementar. Ficaram prontos em três dias.
+
+Chen Mo passou mais três dias testando o jogo. Completou o modo Aventura uma vez, verificou se havia bugs nos outros modos e aprimorou alguns detalhes.
+
+Até ali, vinha trabalhando dia e noite. Depois de um mês, havia conseguido recriar a estrutura essencial de Plants vs Zombies.
+
+Na vida anterior, Plants vs Zombies havia sido produzido em três anos por uma equipe com um designer, um artista, um músico e um programador. Provavelmente, a maior parte daquele tempo fora gasta revisando os documentos de design e otimizando a experiência dos jogadores para chegar a um jogo tão refinado.
+
+Chen Mo não precisava escrever código nem fazer muitos ajustes nos valores numéricos. Também não tinha que buscar inspiração ou alterar o projeto. Estava apenas recriando a obra original e, mesmo assim, aquilo lhe tomara um mês inteiro. Era uma demonstração de que desenvolver jogos não era tão fácil quanto a maioria imaginava.
+
+Porém, ainda não havia terminado!
+
+Embora o jogo estivesse praticamente completo, ele ainda usava a arte provisória do motor de jogos. Os estilos visuais não combinavam, e muitos elementos tinham tamanhos inadequados. A aparência era uma porcaria. Dizer que dava aflição olhar ainda seria pouco.
+
+Além disso, o jogo não tinha músicas nem efeitos sonoros, o que eliminava completamente a tensão. O combate também não era satisfatório.
+
+Chen Mo passou a trabalhar para levar a arte e a música ao nível do original de sua vida anterior.
+
+Por sorte, já havia esboçado as plantas e os zumbis, e tudo estava salvo no computador. Só faltava finalizar. Porém, aquela etapa era mais penosa, pois teria que desenhar e animar tudo à mão.
+
+Eram cerca de quarenta tipos de plantas e vinte de zumbis. Como cada um tinha seus próprios pequenos movimentos, a quantidade de trabalho era considerável.
+
+Felizmente, os desenhos das plantas e dos zumbis eram relativamente simples. Além disso, muitas partes dos zumbis podiam ser reutilizadas, reduzindo o trabalho.
+
+Embora sua habilidade artística não fosse alta, Chen Mo conseguia dar conta. O estilo era cartunesco, então os traços e as cores dos personagens eram relativamente simples.
+
+É claro que poderia contratar alguém, mas teria que explicar detalhadamente o que queria. Além disso, o resultado talvez não atendesse às suas expectativas. Depois de pensar, decidiu encarar o trabalho e fazê-lo por conta própria.
+
+Em média, Chen Mo concluía uma planta e um zumbi por dia. Somando os outros recursos, como a interface e a tela de carregamento, finalizar toda a arte lhe tomou quase um mês e meio.
+
+Depois, vieram os efeitos sonoros e a música!
+
+Após consumir o livro de habilidades, seu atributo de Música e Efeitos Sonoros estava em dez. Criar algo do zero era impossível, mas recriar o original ainda estava ao seu alcance.
+
+A trilha de Plants vs Zombies podia ser considerada um clássico. Chen Mo se lembrava com clareza de muitas melodias. Embora não conseguisse reproduzi-las com cem por cento de fidelidade, chegava bem perto. Porém, não recordava tão bem as músicas menos conhecidas.
+
+A música do tutorial, a da tela de preparação, a do gramado da frente, a da noite, a do chefe, a do Jardim Zen... Eram alguns dos clássicos de que se lembrava. Com base nas melodias da vida anterior, compôs algumas faixas simples, mas com sonoridade semelhante.
+
+Para as outras músicas, menos importantes, só lhe restou procurar no motor de jogos alguns recursos gratuitos de jogos casuais para substituí-las. As faixas que encontrou combinavam bastante com o tema, então não fez alterações significativas.
+
+Quanto aos efeitos sonoros, também precisou recorrer aos recursos gratuitos do motor. Como a biblioteca era enorme, conseguiu encontrar sons parecidos, embora tivesse que conter sua mania de perfeição diante das pequenas diferenças...
+
+A música e os efeitos sonoros lhe tomaram mais duas semanas, e ele ficou bastante satisfeito com o resultado.
+
+Depois de uma semana de testes e ajustes em tudo o que não parecia certo, sentiu que o jogo finalmente havia saído da fase de desenvolvimento. No total, tinham sido três meses.
+
+Chen Mo empacotou o jogo num instalador de 127 MB. Embora fosse um pouco maior que o original, não se importou. Naquele mundo paralelo, aquele tamanho era considerado bastante pequeno.
+
+Ele preparou dois instaladores separados: um para PC e outro para dispositivos móveis. As contas também podiam ser usadas nas duas plataformas, e havia um ranking simples.
+
+O último problema era como os jogadores fariam login.
+
+Chen Mo não pensou muito e escolheu usar contas de sua própria empresa: uma conta de jogos Thunderbolt.
+
+Ele tinha outras opções. Podia permitir o acesso por contas de redes sociais ou por contas da Emperor Dynasty Entertainment.
+
+A Emperor Dynasty Entertainment era uma das maiores plataformas e desenvolvedoras de jogos, então a maioria dos jogadores tinha uma conta nela. Além disso, permitia que outros jogos usassem sua plataforma de login. Muitos designers não queriam se dar ao trabalho de criar algo assim e recorriam ao sistema de gerenciamento de jogadores da empresa.
+
+Aquela opção simplificaria bastante o acesso e atrairia mais usuários para o jogo.
+
+Muitos jogadores não queriam perder tempo com um novo cadastro e todas as verificações envolvidas. Por isso, exigir uma conta nova poderia afastar parte do público em potencial.
+
+Porém, Chen Mo manteve a decisão de usar sua própria conta de jogos Thunderbolt, sem se importar com aquela possível perda.
+
+O motivo era simples: tanto com contas de redes sociais quanto com o sistema da Emperor Dynasty, ficaria sob o controle de outra empresa. Não importava se a Emperor Dynasty não cobrava um centavo sequer. Na visão dele, ainda sairia perdendo.
+
+Os dados dos jogadores eram um recurso valioso. Como planejava criar muitos outros jogos, mais cedo ou mais tarde teria que enfrentar empresas daquele porte. Era melhor não começar dependendo delas do que precisar romper os laços no futuro!
+
+Depois de concluir o jogo, Chen Mo decidiu esperar antes de lançá-lo no mercado.
+
+Não tinha certeza de que o gosto dos jogadores daquele mundo era igual ao dos jogadores de sua vida anterior. Se houvesse diferenças, precisaria fazer alterações.
+
+Primeiro, instalou Plants vs Zombies nos computadores e tablets de sua loja de experimentação. Queria testar a reação dos jogadores para decidir sua estratégia de divulgação.

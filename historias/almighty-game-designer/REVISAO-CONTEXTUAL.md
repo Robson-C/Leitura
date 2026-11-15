@@ -30,3 +30,16 @@ Não são falhas de sequência:700espectadores/1037recomendações porque duas r
 Leitor local1–20, semTXTpendente, próximo21/fonte21. Antes do próximo publique, revisar lote21em diante com contexto acumulado; manter nomes/atributos e distinguir hipóteses de confirmação. TXT e JS sincronizados; commit/push manuais. Backup prévio e diff das alterações: backups/agd-revisao-contexto-001-020-20261115-155333/.
 
 Validação concluída: sintaxe capítulosJS e suíte reader.test.cjs aprovadas;20TXT iguais ao leitor, catálogo/navegação/retomada e isolamento preservados.27backups SHA256conferidos; títulos, números em dígitos, total de parágrafos e encerramentos iguais aos anteriores nos20capítulos. Nenhuma alteração em arquivos da aplicação ou conteúdo do Clube. Sem revisão visual necessária para esta revisão textual; commit/push manuais.
+
+
+## Revisão e publicação21–30 — 15/11/2026
+
+Todos os dez TXT revisados em sequência antes da integração. Contexto coerente: memória/desenvolvimento/acabamento21–22, abertura e preço23, dia vazio24, primeira jogadora25–26, grupo27–28, portabilidade/telemetria e visitaLin29–30. PVZ completo em testes, ainda não lançado publicamente ao final30, lançamento cogitado amanhã; jogoLin já publicado e ganha destaques. Não misturar resultados, receitas hipotéticas ou visitantes com vendas.
+
+Cinco ajustes:22 padroniza Música e Efeitos Sonoros com18–19;25 explicita altura;27 esclarece Wen conduzindo reunião;28 melhora refeição pedida por entrega;30 traduz navegação pela loja de aplicativos, sem sugerir corrida pela loja física. Nenhum corte ou mudança de números/títulos/ordem; primeira vintena idêntica à versão publicada.
+
+Glossário plantas/modos/contaThunderbolt e nomes novos conferidos. Chefe de Wen28 continua interpretação marcada conformehierarquia27. Mantidas/detalhadas pendências da fonte: promessa lançaamanhã23 versus29<24hapósmais3dias; recarga de Wen além3h não narrada; notainglesa25GuanGong/QinQiong duzentosanos/conceito não verificados; CogumeloApocalipse26 conformeDoomShroomfornecido, não substituir mecanicamente por outro fungo; meses/desenvolvimento aproximados mantidos. Não criar pagamentos/adiamentos/explicações para remendar essas lacunas.
+
+Publicados1–30; último30 — Potencial para virar febre! NenhumTXTpendente nesta obra; próximo31/fonte31. Próximo lote de revisão começa31, usando contexto anterior. BackupSHA256: backups/agd-publicar-revisar-021-030-20261115-161738/,19arquivos eALTERACOES.diff. TXT/JS sincronizados; chaves e progresso da aplicação intactos. Clube permanece522/279–800comTXT801–803pendentes. Commit/push/deploy manuais.
+
+Validação21–30 concluída: reader.test.cjs aprovado,30TXT iguais aoJS/títulos/itálicos, catálogo30/navegação/limites/retomada/progressoisolado e regressõesClube.19backupsSHA256conferidos. Sintaxe dos scripts conferida. Semrevisãovisualemnavegador nesta publicação textual;commit/pushmanuais.

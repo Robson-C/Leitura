@@ -6,7 +6,7 @@ Por instrução explícita do usuário, “publique”, “publicar” e equival
 
 Não inventar explicações, números, nomes ausentes ou acontecimentos para encobrir defeitos da fonte. Quando o contexto não resolver uma ambiguidade, manter indicação de incerteza e registrar a pendência. Não aplicar uma hipótese terminológica global como se tivesse sido confirmada pelo original. Não confundir revisão de tradução com revisão de código da aplicação. Renumerações, reordenações, fusões, complementos narrativos ou mudanças materiais fora desse fluxo continuam exigindo esclarecimento próprio. Commit, push e implantação remota permanecem manuais.
 
-Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos iniciais de Almighty Game Designer e atualizar sua versão local publicada. Último lote revisado:1–20. Próximo envio21; próxima revisão automática começa no21, sem impedir correção pontual de trecho anterior que contexto novo esclareça, com backup/registro/sincronização.
+Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos iniciais de Almighty Game Designer e atualizar sua versão local publicada. Último lote revisado:21–30 (primeira vintena já revisada anteriormente). Próximo envio31; próxima revisão automática começa no31, sem impedir correção pontual de trecho anterior que contexto novo esclareça, com backup/registro/sincronização.
 
 
 ## Esclarecimento vigente do usuário — 21/10/2026
@@ -269,3 +269,8 @@ Comando publique: sete TXT6–12 integrados integralmente em historias/almighty-
 ## Almighty Game Designer — publicação local13–20 — 15/11/2026
 
 Comando publique: oitoTXT13–20 integrados integralmente em historias/almighty-game-designer/chapters.js. Total20capítulos1–20, último20 — Novo jogo definido. NenhumTXTpendente nesta obra; próximo21/fonte21. Capítulos1–12 comparados/idênticos; créditos/notas/itálicos e inconsistências da fonte preservados. Catálogo/índice/contagem automáticos; leitor/chaves/controles inalterados. Clube preservado522/279–800 e pendentes801–803. Backup prévio SHA256: backups/agd-publicar-013-020-20261115-154917/. Reversão restaura arquivos anteriores desse backup mantendo TXT e registra operação. Testes atualizados para20capítulos. Commit/push/deploy não executados.
+
+
+## Almighty Game Designer — revisão e publicação local21–30 — 15/11/2026
+
+Porcomandopublique, revisados dezTXT21–30comcontextoacumulado e integrados integralmente. Cincoajustes de clareza/padronização em22/25/27/28/30;1–20idênticos. Total30capítulos1–30, último30 — Potencial para virar febre! SemTXTpendente nestaobra;próximo31/fonte31/próximoloterevisão31em diante. Notas/itálicos/valores e dúvidasfonte preservados, semreordenação/invenção. Detalhes historias/almighty-game-designer/REVISAO-CONTEXTUAL.md. BackupSHA256de19arquivos: backups/agd-publicar-revisar-021-030-20261115-161738/,ALTERACOES.diff. Reversão restaura docs/JS/testes/TXTanteriores dessebackup e registraoperação; não tocaClube. Aplicação/progresso/preferências intactos;Clube522/279–800comTXT801–803pendentes. Commit/push/deploy nãoexecutados.

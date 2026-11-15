@@ -1,0 +1,117 @@
+Capítulo 23 — O preço da loja de experimentação
+
+Chen Mo recebeu uma ligação de Lin Mao logo ao amanhecer.
+
+— Chen Mo, vou lançar meu jogo amanhã. Dei a ele o nome de As Aventuras do Cavaleiro da Tempestade. Enviei uma cópia para você. Experimente. E como está o seu jogo?
+
+Chen Mo respondeu:
+
+— Legal, vou conferir! O meu está indo muito bem, praticamente pronto. Vou testá-lo na loja de experimentação nos próximos dois dias para colher opiniões.
+
+Lin Mao respondeu:
+
+— Hã? Já terminou? Só se passaram três meses! Como conseguiu acabar tão depressa?
+
+Chen Mo explicou:
+
+— É um jogo casual. Também não é muito grande. Daqui a dois dias, envio o instalador para você testar.
+
+Lin Mao respondeu:
+
+— Certo. Vamos trocar opiniões e melhorar juntos!
+
+Chen Mo instalou no celular o jogo que Lin Mao havia enviado.
+
+As Aventuras do Cavaleiro da Tempestade. O instalador tinha 94 MB, e o ícone mostrava um homenzinho erguendo uma espada.
+
+Lin Mao havia passado quase meio ano desenvolvendo o jogo. Depois de ouvir os conselhos de Chen Mo, dedicara mais três meses às mudanças, incluindo testes, pequenos ajustes e preparativos para o lançamento.
+
+Em comparação, o desenvolvimento de Plants vs Zombies fora muito mais rápido. No tempo que Lin Mao levara para fazer os ajustes, Chen Mo havia concluído um jogo inteiro!
+
+Ao entrar no jogo...
+
+Chen Mo percebeu mudanças sutis nos cenários, no personagem e na jogabilidade em relação à versão anterior. Não eram alterações óbvias. Só alguém atento aos pequenos detalhes, como ele, as notaria.
+
+Parecia que Lin Mao havia se dedicado bastante à experiência dos jogadores.
+
+Por outro lado, seguindo as sugestões de Chen Mo, ele havia reformulado por completo a forma de jogar.
+
+A primeira mudança era uma grande revisão do sistema de combate. Lin Mao acrescentara muito conteúdo, preservando a essência do sistema anterior. Um destaque era a nova habilidade: Tempestade.
+
+O protagonista era um cavaleiro com o poder das tempestades. Podia usar ventos fortes para desacelerar os inimigos e reduzir sua visão, ou chuvas intensas para diminuir a velocidade de seus ataques e aplicar efeitos negativos leves. Também podia invocar um furacão para lançar para longe os inimigos menores e mais leves.
+
+Alguns efeitos menores da tempestade eram permanentes, mas os ataques maiores e mais fortes exigiam energia para serem usados.
+
+Da mesma forma, havia muito mais monstros, cada um com suas características. Alguns resistiam a determinados ataques de tempestade, enquanto outros eram mais vulneráveis.
+
+Por exemplo, ventos fortes não fariam muita diferença contra um monstro coberto por uma armadura de placas, e um furacão também não conseguiria lançá-lo para longe. Porém, a chuva poderia transformar o chão em lama, reduzindo drasticamente sua velocidade de movimento. Também poderia causar efeitos como doença e ferrugem, diminuindo aos poucos seu ataque.
+
+Chen Mo admirou o fato de as mudanças no combate não serem uma cópia exata do que sugerira. Lin Mao havia se inspirado nas ideias dele.
+
+Além disso, a essência do sistema de combate, a tempestade, podia ser deduzida diretamente do título. Chen Mo considerou aquilo muito inteligente.
+
+O nome As Aventuras do Cavaleiro da Tempestade permitia ao público entender de imediato a proposta do jogo, mas ainda deixava espaço para a imaginação e despertava curiosidade sobre seu conteúdo. Isso o tornava bastante atraente.
+
+Outra mudança, ainda maior, era a reformulação completa da história. Agora havia quatro finais, definidos pelas escolhas do jogador ao longo do jogo.
+
+Primeiro final: o cavaleiro derrota o dragão, salva a princesa, torna-se um herói e vive feliz para sempre com ela.
+
+Segundo final: o cavaleiro não consegue salvar a princesa e, tomado pela fúria, morre junto do dragão.
+
+Terceiro final: o cavaleiro derrota o dragão, mas não o mata. Em vez disso, firma um contrato com ele. Daquele momento em diante, o dragão se torna o guardião da família imperial.
+
+Quarto final: o cavaleiro derrota o dragão, mas, seduzido pelos tesouros, transforma-se no novo dragão.
+
+A cópia que Chen Mo recebera incluía ferramentas de administrador, permitindo alterar os atributos dos personagens. No fim, ele passou três horas testando o jogo e percorreu cada um dos quatro finais uma vez.
+
+Numa partida normal, cada jornada levaria de seis a oito horas. Seria preciso muito mais tempo para ver os quatro finais.
+
+Das três sugestões de Chen Mo, Lin Mao havia aproveitado duas, deixando de lado a dificuldade extrema. Chen Mo achou a escolha correta, já que as três propostas não eram inteiramente compatíveis.
+
+Na opinião dele, o jogo ainda precisaria de um pouco de sorte para se tornar um grande sucesso. Porém, alcançar uma popularidade moderada não seria um problema.
+
+Chen Mo enviou uma mensagem a Lin Mao: “Experimentei o jogo. Nada mal! Vai fazer sucesso.”
+
+Lin Mao respondeu rapidamente: “Tomara que suas palavras se realizem. Vou ficar bastante ocupado nestes dois dias por causa do lançamento. Quando resolver tudo, passo na sua loja para experimentar seu jogo.”
+
+Chen Mo respondeu: “Certo, até lá.”
+
+Depois do almoço, Chen Mo tirou uma soneca de uma hora. Acordou às duas da tarde, pronto para abrir a loja de experimentação.
+
+Antes de abrir, porém, tinha alguns preparativos a fazer.
+
+O primeiro era verificar se tudo estava funcionando e se o jogo estava instalado em todos os computadores.
+
+O segundo era definir o preço para usar a loja.
+
+O valor cobrado ficava inteiramente a critério do designer. Chen Mo podia torná-la gratuita e deixar qualquer pessoa experimentar os jogos sem pagar.
+
+Porém, a gratuidade tinha um problema: e se o jogo se tornasse muito popular?
+
+Se Chen Mo criasse um jogo online de sucesso e muitos jogadores passassem longos períodos na loja, ocupando os computadores o tempo inteiro, aquilo seria um problema. Muitos fãs não conseguiriam experimentar os jogos.
+
+Deixar gratuito por enquanto e aumentar o preço depois? Também não daria certo.
+
+O preço da loja não deveria mudar a toda hora. Reduzi-lo não seria um problema, mas aumentá-lo poderia irritar alguns fãs antigos.
+
+Era apenas uma loja de experimentação, então não havia pressão para ganhar dinheiro com ela. Chen Mo também não queria precisar aumentar os preços no futuro para controlar o número de jogadores.
+
+Por isso, deveria cobrar desde o primeiro dia, e o valor não poderia ser baixo demais.
+
+Se houvesse muitos jogadores, talvez também precisasse limitar o tempo de uso de cada um.
+
+Naquele mundo, as lan houses da Capital Imperial cobravam de três a dez yuans por hora. Três yuans eram o mínimo, e não era comum encontrar esse preço.
+
+É claro que havia lan houses de luxo para os ricaços, mas Chen Mo estava pensando na maioria dos jogadores.
+
+No fim, decidiu cobrar cinco yuans por hora, já que sua loja era melhor que uma lan house comum e muito mais espaçosa.
+
+Por enquanto, o preço certamente ficava na faixa mais cara, mas Chen Mo pretendia mantê-lo no futuro. Conforme criasse mais jogos, aquele valor pareceria cada vez mais acessível.
+
+As bebidas seriam vendidas pelo preço de varejo sugerido, sem acréscimo. Ele também não se importava com lucros tão pequenos.
+
+A cobrança só valeria enquanto as pessoas estivessem jogando. Se a loja lotasse, ele estabeleceria um limite de quatro horas por jogador. Depois disso, seria preciso voltar para a fila.
+
+A loja funcionaria das dez da manhã às oito da noite, sem permitir que as pessoas passassem a noite ali ou ocupassem computadores sem jogar.
+
+Concluídos os preparativos, a loja de experimentação de Chen Mo abriu oficialmente às duas e meia da tarde!

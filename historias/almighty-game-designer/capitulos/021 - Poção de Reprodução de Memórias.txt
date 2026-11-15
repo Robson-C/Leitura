@@ -1,0 +1,97 @@
+Capítulo 21 — Poção de Reprodução de Memórias
+
+Depois de uma boa noite de descanso, Chen Mo tomou o café da manhã, escovou os dentes e se lavou como de costume, esperando atingir seu melhor estado mental. Quando se sentiu plenamente desperto, usou a Poção de Reprodução de Memórias e começou a explorar suas lembranças esquecidas.
+
+Suas memórias do jogo eram vagas, pois Plants vs Zombies havia sido lançado muito tempo antes. Chen Mo as examinou com cuidado: qualquer uma podia conter detalhes importantes, capazes de afetar a qualidade de sua recriação.
+
+O efeito da poção se manifestou rapidamente, e Chen Mo voltou às lembranças de muitos anos atrás.
+
+Primeiro vieram as formas das plantas: a Ervilhadora com aparência de dragão[1], a Abóbora Esmagadora parecida com certo cantor de sobrenome Gao, a Batata-mina com uma alavanca de controle na cabeça, o Girassol com seu sorriso misterioso, a Noz com os olhos arregalados como lâmpadas...
+
+Depois vieram os vários tipos de zumbis: o comum, o de cone na cabeça, o saltador com vara, o de balde na cabeça, o jogador de futebol americano, o dançarino...
+
+Também havia os diferentes ambientes, como o gramado da frente, a noite, a piscina e assim por diante.
+
+Conforme as lembranças ficavam mais nítidas, Chen Mo pegou a mesa digitalizadora e começou a esboçar as plantas e os zumbis. Prestou atenção especial aos detalhes e às características de cada um, para reproduzi-los da melhor forma possível.
+
+Em seguida, começou a recordar a progressão do jogo.
+
+A abertura, as falas de Dave, o Louco, o plantio das primeiras plantas, a derrota do primeiro zumbi, o desbloqueio de fases, a liberação de novas plantas, a vitória sobre o chefe...
+
+Chen Mo anotava enquanto se lembrava, registrando em detalhes tudo o que merecia atenção em cada fase, como os momentos em que novas plantas e modos especiais eram desbloqueados.
+
+Depois vieram os valores numéricos.
+
+O intervalo entre os disparos da Ervilhadora, o aumento de dano proporcionado pelo Tronco-tocha, a redução na velocidade de movimento causada pela Melancia Congelada, os pontos de vida dos diferentes zumbis...
+
+Aqueles valores podiam parecer insignificantes, mas eram capazes de afetar toda a estrutura do jogo. Como sua habilidade de programação era limitada, Chen Mo só podia recorrer àquele método trabalhoso.
+
+Quatro horas passaram num piscar de olhos.
+
+Chen Mo soltou um suspiro de alívio. Havia mantido a concentração no máximo durante todo aquele tempo. Ao relaxar, sentiu o cansaço do corpo chegar de uma vez.
+
+Porém, ainda não era hora de descansar. Usou o que continuava fresco na memória para preencher os valores que talvez tivesse deixado passar, com medo de esquecer algum detalhe.
+
+As lembranças humanas se apagavam com o tempo. A Poção de Reprodução de Memórias só garantia acesso livre às recordações durante quatro horas. Depois disso, elas começariam a ficar vagas novamente, aos poucos.
+
+Após trabalhar por mais duas horas, Chen Mo respirou fundo, tomou um gole de água e se largou na cadeira.
+
+Na área de trabalho havia um documento de design com milhares de linhas de detalhes sobre o jogo. Também havia uma pasta de esboços com tudo: plantas, zumbis, cenários e até a disposição dos elementos da interface.
+
+Chen Mo havia aproveitado a Poção de Reprodução de Memórias até a última gota!
+
+Caramba, que cansaço. Ele enxugou o suor da testa. Depois de seis horas de concentração intensa, estava quase desabando.
+
+Mas por que se colocar numa situação tão difícil? Porque só havia uma poção! Se tivesse dois frascos, poderia fazer tudo com tranquilidade: um hoje, outro amanhã. Com oito horas inteiras para registrar cada detalhe, não precisaria se preocupar tanto.
+
+Porém, Chen Mo sabia que precisava ganhar dinheiro e se sustentar!
+
+Ele caminhou um pouco, comeu alguns petiscos e pedaços de chocolate, preparou uma xícara de café e fez uma breve pausa antes de voltar ao trabalho.
+
+A próxima etapa era aprimorar o documento de design, definir alguns detalhes e incorporá-los ao texto. Podiam parecer minúcias excessivas, mas faziam uma grande diferença na experiência de jogo. Por isso, Chen Mo não ignorou nada.
+
+Organizar os documentos lhe tomou mais uma semana.
+
+Ao fim daquela semana, o documento de design estava praticamente concluído, e os detalhes haviam sido refinados. As regras, a disposição dos elementos e o design das plantas e dos zumbis estavam prontos.
+
+Chen Mo então inseriu as regras no motor de jogos. Ele geraria automaticamente um projeto que poderia ser modificado depois.
+
+A geração do projeto levava de um a três dias. Quanto mais regras houvesse, mais tempo seria necessário.
+
+Chen Mo pretendia aproveitar aquele intervalo para finalizar todos os cálculos do jogo.
+
+Entre os atributos básicos das plantas estavam dano, pontos de vida, alcance, frequência de ataque, área de ataque, tempo de ativação depois do plantio, tempo de recarga para plantar novamente, custo, dano ao ambiente e outros.
+
+Ele queria listar todos os atributos de cada planta e de cada zumbi, conferindo-os constantemente.
+
+Os valores que havia anotado antes foram de grande ajuda. Podia comparar os atributos das diferentes plantas e dos zumbis entre si para verificar sua consistência, o que facilitava muito o trabalho.
+
+Os cálculos ficaram prontos em dois dias. Como Chen Mo tinha listas extensas de valores entre os registros detalhados, o resultado não deveria ficar muito diferente do original de sua vida anterior.
+
+A próxima etapa era testar e ajustar!
+
+Durante aquele período, o Illusion Game Engine havia gerado o projeto, que Chen Mo chamou provisoriamente de PVZ. Era apenas um nome temporário: precisaria escolher outro, melhor, quando lançasse o jogo.
+
+Depois de abrir o projeto, ele conferiu algumas regras e mecânicas. Não havia muito a fazer além de corrigir alguns erros nas regras e na lógica.
+
+Em seguida, inseriu os diversos valores no motor de jogos, junto da arte das plantas e dos zumbis. Com isso, produziu uma demonstração simples e funcional.
+
+Naquele momento, ainda não havia tutorial nem fases.
+
+Chen Mo criou um cenário de teste e plantou algumas Ervilhadoras, colocando um zumbi comum na outra ponta.
+
+Poc, poc, poc...
+
+Sob os ataques incessantes da Ervilhadora, o zumbi caiu.
+
+O ritmo estava bom. Chen Mo passou a testar outras plantas e outros zumbis, que também não apresentaram problemas. Tirando alguns valores que precisaram de ajustes por não parecerem certos, estava tudo bem.
+
+Depois, trabalhou nos ambientes e no design das fases.
+
+Definir a progressão das fases era uma parte bastante técnica do design. Precisava estimular o jogador sem sobrecarregá-lo.
+
+Chen Mo havia registrado muitos detalhes sobre a organização de cada fase. O número aproximado de zumbis e os momentos em que novas plantas eram liberadas estavam todos anotados, o que facilitava bastante.
+
+Em cinco dias, ele desenvolveu por completo os diferentes ambientes, a progressão das fases e o tutorial. Pelo visto, havia conseguido recriar o modo Aventura de Plants vs Zombies.
+
+[1] Nota da tradução inglesa: o original usava “mãe dos dragões”, o que poderia se referir a Daenerys, embora isso pareça um pouco estranho.

@@ -121,7 +121,67 @@
       "chapter": 20,
       "title": "Novo jogo definido",
       "file": "capitulos/020 - Novo jogo definido.txt"
+    },
+    {
+      "source": 21,
+      "chapter": 21,
+      "title": "Poção de Reprodução de Memórias",
+      "file": "capitulos/021 - Poção de Reprodução de Memórias.txt"
+    },
+    {
+      "source": 22,
+      "chapter": 22,
+      "title": "Arte e música",
+      "file": "capitulos/022 - Arte e música.txt"
+    },
+    {
+      "source": 23,
+      "chapter": 23,
+      "title": "O preço da loja de experimentação",
+      "file": "capitulos/023 - O preço da loja de experimentação.txt"
+    },
+    {
+      "source": 24,
+      "chapter": 24,
+      "title": "Um dia sem clientes",
+      "file": "capitulos/024 - Um dia sem clientes.txt"
+    },
+    {
+      "source": 25,
+      "chapter": 25,
+      "title": "A primeira jogadora",
+      "file": "capitulos/025 - A primeira jogadora.txt"
+    },
+    {
+      "source": 26,
+      "chapter": 26,
+      "title": "Impossível parar de matar zumbis",
+      "file": "capitulos/026 - Impossível parar de matar zumbis.txt"
+    },
+    {
+      "source": 27,
+      "chapter": 27,
+      "title": "Que jogo é esse que prende tanto?",
+      "file": "capitulos/027 - Que jogo é esse que prende tanto.txt"
+    },
+    {
+      "source": 28,
+      "chapter": 28,
+      "title": "Vamos jogar juntos",
+      "file": "capitulos/028 - Vamos jogar juntos.txt"
+    },
+    {
+      "source": 29,
+      "chapter": 29,
+      "title": "Os números de As Aventuras do Cavaleiro da Tempestade",
+      "file": "capitulos/029 - Os números de As Aventuras do Cavaleiro da Tempestade.txt"
+    },
+    {
+      "source": 30,
+      "chapter": 30,
+      "title": "Potencial para virar febre!",
+      "file": "capitulos/030 - Potencial para virar febre.txt"
     }
   ],
-  "notes": "Fontes1–20→capítulos1–20 integrados ao leitor e revistos contextualmente em15/11/2026. SemTXTpendente. Próximo21/fonte21; próximo lote a revisar antes de publique começa no21. Revisão contextual permanente autorizada pelo usuário; ver REVISAO-CONTEXTUAL.md. Numeração independente e commit/push manuais."
+  "notes": "Fontes1–30→capítulos1–30 integrados ao leitor. Lote21–30 revisado contextualmente e publicado localmente em15/11/2026. NenhumTXTpendente nesta obra. Próximo31/fonte31; próxima revisão antes de publique começa no31. Numeração independente; commit/push manuais."
 }

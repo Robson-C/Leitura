@@ -1,0 +1,131 @@
+Capítulo 29 — Os números de As Aventuras do Cavaleiro da Tempestade
+
+— Hã? — Jia Peng ficou surpreso. — Esse jogo está em duas plataformas?
+
+Outro colega perguntou:
+
+— Dá para jogar no celular também? E o progresso salvo? É transferido?
+
+Chen Mo respondeu:
+
+— Sim, o progresso é compartilhado. Você pode continuar no celular a partida que salvou no computador.
+
+— O quê? Por que não falou antes? — Jia Peng pegou o celular depressa, conectou-o ao computador e instalou Plants vs Zombies.
+
+Como o pacote de recursos não era grande, a instalação terminou em instantes. Ele abriu o aplicativo e entrou com sua conta de jogos Thunderbolt. De fato, o progresso do computador havia sido transferido para o celular!
+
+— Funciona mesmo nas duas plataformas! — disse Jia Peng.
+
+Chang Xiuya olhou para a tela dele.
+
+— Hã, é verdade. Parece até que as texturas estão melhores do que no PC.
+
+Jia Peng respondeu:
+
+— Não, são as mesmas. É que a tela do celular é menor, então parecem mais detalhadas. Mas os controles se adaptam bem ao celular e ao PC, e até a interface é igual. Eu tinha achado os botões do computador um pouco grandes. Agora entendi: era para servirem no celular também.
+
+Um após o outro, os demais pegaram seus telefones e instalaram Plants vs Zombies.
+
+Chen Mo ainda não havia lançado o jogo no mercado, então aquelas pessoas estavam servindo como cobaias. Pretendia lançá-lo quando, depois de reunir alguns dados, sentisse que estava pronto.
+
+— Muito bem, já terminamos de jogar. Vamos embora — disse Wen Lingwei, com um pouco de desgosto. Não estava pronta para largar o jogo, mas conduziu os outros para fora.
+
+— Senhor, estamos indo — avisou, acenando para Chen Mo.
+
+Ele assentiu.
+
+— Se encontrarem algum problema no jogo, me avisem. Vou levar as opiniões de vocês em conta.
+
+Wen Lingwei e os outros saíram da loja.
+
+— Vocês vêm amanhã?
+
+— Agora temos o jogo no celular. Não é a mesma coisa?
+
+— Mas acho mais gostoso jogar no computador da loja, com aquele ambiente.
+
+O grupo foi embora conversando.
+
+Chen Mo pediu o jantar e abriu seu painel de administração para conferir as estatísticas dos jogadores.
+
+Durante o desenvolvimento, havia incluído pontos de coleta de dados para que o jogo registrasse algumas informações sobre as partidas.
+
+Por exemplo: em quais fases os jogadores ficavam presos por mais tempo e fracassavam mais? Quanto cada pessoa demorava para concluir uma fase? Qual era a frequência de uso de cada planta? Que tipos de zumbi conseguiam atravessar as defesas? Quais causavam mais dano às plantas?
+
+Os jogadores normalmente não prestavam atenção naquelas estatísticas, mas elas eram muito importantes para Chen Mo.
+
+Muitas vezes, as reações dos jogadores demoravam a aparecer. Ou eles sentiam que algo não estava certo, mas não sabiam de onde vinha aquela sensação.
+
+Porém, do ponto de vista do designer, era essencial encontrar a origem da frustração e fazer os ajustes necessários. Traduzindo a experiência dos jogadores em tabelas, ficava mais fácil aprimorar o jogo ao máximo.
+
+Ao encontrar valores fora do esperado, Chen Mo fazia pequenas mudanças nos atributos das plantas ou dos zumbis, ou ajustava a fase para reduzir um pouco a dificuldade. Da mesma forma, depois de algumas fases fáceis, introduzia uma mais difícil para oferecer alguns obstáculos.
+
+Depois dos ajustes, podia incorporá-los a uma nova versão do instalador. Mudanças daquele tipo seriam frequentes até que considerasse tudo perfeito.
+
+Três dias depois...
+
+Lin Mao pegou um táxi até a loja de experimentação de Chen Mo. Quando estava prestes a abrir a porta, percebeu que havia cerca de dez jogadores lá dentro, completamente envolvidos no jogo.
+
+Entre eles, um pequeno grupo de duas ou três pessoas parecia ter vindo junto. Conversavam enquanto jogavam.
+
+— Leve uma bomba! É melhor levar. Ela ajuda em emergências, como na última onda: dá para eliminar um monte de zumbis de uma vez.
+
+— Não se preocupe. Se plantar alguma coisa no lugar errado, é só remover com a pá. Mas evite fazer isso, porque é meio desperdício. O sol não é devolvido.
+
+Lin Mao estava bastante curioso. Quando Chen Mo dissera que o jogo estava pronto e seria instalado na loja para os visitantes experimentarem, ele não acreditara. Era rápido demais!
+
+Achava que o primeiro lançamento comercial de Chen Mo levaria pelo menos meio ano. Afinal, o primeiro jogo de um designer não podia ser um minijogo simples demais: precisava oferecer bastante tempo de diversão.
+
+E, no fim, Chen Mo conseguira fazer aquilo em três meses?
+
+Lin Mao entrou, viu o amigo ao balcão e se aproximou para cumprimentá-lo.
+
+— Opa, você chegou! — disse Chen Mo ao vê-lo.
+
+Lin Mao se sentou ao lado dele.
+
+— Tem bastante gente aqui. Parece que seu jogo está fazendo sucesso?
+
+Chen Mo assentiu.
+
+— Sim, está indo bem. Fiz alguns ajustes com base nas estatísticas que reuni. Pretendo lançá-lo neste fim de semana. E o seu, como está?
+
+Lin Mao respondeu:
+
+— Já está no mercado. Você deve conseguir encontrá-lo agora.
+
+— É mesmo? Então vou baixar para dar uma força. — Chen Mo pegou o celular e procurou As Aventuras do Cavaleiro da Tempestade na loja de aplicativos.
+
+Lin Mao havia definido o preço em vinte yuans, um valor normal, nem barato nem caro. Era uma compra única: depois de pagar, o jogador receberia atualizações e conteúdos adicionais gratuitamente.
+
+Chen Mo baixou o jogo e deu uma avaliação de cinco estrelas.
+
+— Como estão os números? — perguntou.
+
+Lin Mao respondeu:
+
+— Nada mal! As avaliações gerais são muito boas, mas os downloads não estão tão altos, já que o preço fica na faixa mais cara.
+
+Chen Mo assentiu. De fato, não eram muitos os que gastariam vinte yuans num jogo pequeno de celular. Porém, a qualidade era alta, então valia o preço.
+
+— Depois que acumular boas avaliações, talvez seja bom fazer uma promoção e vender pela metade do preço — sugeriu.
+
+Lin Mao assentiu.
+
+— Sim, eu estava pensando nisso. As vendas provavelmente aumentariam bastante com um desconto de cinquenta por cento.
+
+Chen Mo olhou as estatísticas de As Aventuras do Cavaleiro da Tempestade na página da loja.
+
+O jogo estava em sexto lugar na lista de lançamentos, mas não aparecia nos rankings de jogos pagos ou populares. Entre os novos jogos em destaque, ainda passava um pouco despercebido.
+
+A classificação e as recomendações da loja eram feitas basicamente de forma automática, com atualizações a cada três horas. Também havia cálculos adicionais para identificar jogos suspeitos de terem seus números inflados artificialmente e encaminhá-los para verificação manual.
+
+A loja de jogos para celular tinha três categorias principais: jogos pagos, gratuitos e mais vendidos.
+
+Além delas, havia categorias menores, como lançamentos, para jogos disponíveis havia menos de um mês; clássicos, para os lançados havia mais de um ano; e divisões por gênero, como ação, aventura e estratégia.
+
+Também existiam alguns espaços importantes de destaque, escolhidos pelo sistema com base nos dados coletados. Eram atualizados diariamente, e um jogo podia permanecer neles por vários dias seguidos.
+
+As Aventuras do Cavaleiro da Tempestade estava em sexto entre os lançamentos e havia conseguido um espaço de destaque. Era um bom começo. Depois que os jogadores elevassem sua avaliação, Lin Mao faria uma promoção pela metade do preço.
+
+Até aquele momento, o jogo ainda não completara vinte e quatro horas de lançamento. Tinha cerca de quatrocentos downloads e pouco mais de trinta avaliações de cinco estrelas. Com um começo daqueles, poderia alcançar uma popularidade moderada enquanto estivesse na categoria de lançamentos.

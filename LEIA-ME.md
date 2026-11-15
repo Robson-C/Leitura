@@ -436,3 +436,8 @@ Validação13–20: suíte tests/reader.test.cjs aprovada, integridade integral2
 ## Revisão contextual autorizada1–20 — 15/11/2026
 
 Usuário autorizou revisão retrospectiva dos20capítulos e permanente antes de publique. Revisados todos; correções contextuais/fluência em2/3/6/7/10/14/16/18/19/20, sem corte, renumeração, reordenação nem mudança da trama. TXT/JS iguais; fonte contraditória preservada e dúvidas registradas em historias/almighty-game-designer/REVISAO-CONTEXTUAL.md. Regra adicionada no topoAGENTS, continuidade/handoff/tabela atualizados. Próximo21/fonte21, próximo lote revisar21em diante; leitor20sem pendente. BackupSHA256de27arquivos: backups/agd-revisao-contexto-001-020-20261115-155333/, comALTERACOES.diff paraauditoria/reversão. Clube/app/progresso/preferências intocados; commit/push/deploy não executados.
+
+
+## Almighty Game Designer — revisão e publicação local21–30 — 15/11/2026
+
+Porcomandopublique, revisados dezTXT21–30comcontextoacumulado e integrados integralmente. Cincoajustes de clareza/padronização em22/25/27/28/30;1–20idênticos. Total30capítulos1–30, último30 — Potencial para virar febre! SemTXTpendente nestaobra;próximo31/fonte31/próximoloterevisão31em diante. Notas/itálicos/valores e dúvidasfonte preservados, semreordenação/invenção. Detalhes historias/almighty-game-designer/REVISAO-CONTEXTUAL.md. BackupSHA256de19arquivos: backups/agd-publicar-revisar-021-030-20261115-161738/,ALTERACOES.diff. Reversão restaura docs/JS/testes/TXTanteriores dessebackup e registraoperação; não tocaClube. Aplicação/progresso/preferências intactos;Clube522/279–800comTXT801–803pendentes. Commit/push/deploy nãoexecutados.

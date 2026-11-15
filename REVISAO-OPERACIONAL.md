@@ -4907,3 +4907,60 @@ Validação13–20: suíte tests/reader.test.cjs aprovada, integridade integral2
 Usuário autorizou revisão retrospectiva dos20capítulos e permanente antes de publique. Revisados todos; correções contextuais/fluência em2/3/6/7/10/14/16/18/19/20, sem corte, renumeração, reordenação nem mudança da trama. TXT/JS iguais; fonte contraditória preservada e dúvidas registradas em historias/almighty-game-designer/REVISAO-CONTEXTUAL.md. Regra adicionada no topoAGENTS, continuidade/handoff/tabela atualizados. Próximo21/fonte21, próximo lote revisar21em diante; leitor20sem pendente. BackupSHA256de27arquivos: backups/agd-revisao-contexto-001-020-20261115-155333/, comALTERACOES.diff paraauditoria/reversão. Clube/app/progresso/preferências intocados; commit/push/deploy não executados.
 
 Validação concluída: sintaxe capítulosJS e suíte reader.test.cjs aprovadas;20TXT iguais ao leitor, catálogo/navegação/retomada e isolamento preservados.27backups SHA256conferidos; títulos, números em dígitos, total de parágrafos e encerramentos iguais aos anteriores nos20capítulos. Nenhuma alteração em arquivos da aplicação ou conteúdo do Clube. Sem revisão visual necessária para esta revisão textual; commit/push manuais.
+
+
+## Almighty Game Designer — capítulo21 traduzido — 15/11/2026
+
+Fonte21→capítulo21, Poção de Reprodução de Memórias. TXT integral UTF-8, notainglesa[1] preservada, glossário descritivo plantas registrado. Tabela/continuidade/handoff atualizados; TXT21 pendente; leitor1–20 revisado intacto, próximo22/fonte22. Próximo publique inclui revisão contextual lote21em diante. BackupSHA256: backups/agd-capitulo-021-20261115-160054/. Validados UTF-8, título/final, correspondência parágrafos (só separador removido),4hpoção/6htrabalho/etapas/modeAventura. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo22 traduzido — 15/11/2026
+
+Fonte22→capítulo22, Arte e música. TXT integral UTF-8, GamePass vertido conta de jogos própria pelo contexto login, não assinatura. Tabela/continuidade/handoff atualizados; TXT21–22 pendentes, leitor1–20 revisado intacto; próximo23/fonte23. BackupSHA256: backups/agd-capitulo-022-20261115-160225/. Validados UTF-8, título/final, parágrafos correspondentes, etapas3meses/127MB/contas/modos e estado pré-lançamento. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo23 traduzido — 15/11/2026
+
+Fonte23→capítulo23, O preço da loja de experimentação. TXT integral UTF-8; novo jogoLin traduzido com registro termos, taxa5yuans/h distinguida dos custos da loja. Tabela/continuidade/handoff atualizados; TXT21–23 pendentes; leitor1–20 intacto; próximo24/fonte24. BackupSHA256: backups/agd-capitulo-023-20261115-160402/. Validados UTF-8,cabeçalho/final,valores/horários/4finais e contexto, falas separadas da narração. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo24 traduzido — 15/11/2026
+
+Fonte24→capítulo24, Um dia sem clientes. TXT integral UTF-8; notainglesa[1] preservada, gêneroapenasestilovisual, bucks→yuans, visitantes distinguidos de clientes pagantes. Tabela/continuidade/handoff atualizados; TXT21–24 pendentes, leitor1–20 intacto; próximo25/fonte25. BackupSHA256: backups/agd-capitulo-024-20261115-160541/. Validados UTF-8,cabeçalho/final,nomes/preços/cronologia e estado pré-lançamento. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo25 traduzido — 15/11/2026
+
+Fonte25→capítulo25, A primeira jogadora. TXT integral UTF-8; WenLingwei21 identificada, glossárioErvilhadora/contaThunderbolt preservado, duas notas inglesas mantidas e atribuídas. Tabela/continuidade/handoff atualizados; TXT21–25 pendentes, leitor1–20 intacto; próximo26/fonte26. BackupSHA256: backups/agd-capitulo-025-20261115-160726/. Validados UTF-8,cabeçalho/final,nomes/idade/medidas/preço/tutorial e sequência. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo26 traduzido — 15/11/2026
+
+Fonte26→capítulo26, Impossível parar de matar zumbis. TXT integral UTF-8; glossário novasplantas/modoInfinito registrado, refeições salão/salareuniões distinguidas conformecontexto. Tabela/continuidade/handoff atualizados; TXT21–26 pendentes, leitor1–20 intacto; próximo27/fonte27. BackupSHA256: backups/agd-capitulo-026-20261115-160907/. Validados UTF-8,cabeçalho/final,nomes/valores/horários e sequência. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo27 traduzido — 15/11/2026
+
+Fonte27→capítulo27, Que jogo é esse que prende tanto? TXT integral UTF-8; notafigurante[1] preservada, DepartamentoDivulgação/veterana e personagens registrados; fonte não explicita recargaposterior deWen, não inventada. Tabela/continuidade/handoff atualizados; TXT21–27 pendentes, leitor1–20 intacto; próximo28/fonte28. BackupSHA256: backups/agd-capitulo-027-20261115-161045/. Validados UTF-8,cabeçalho/final,nomes/tempos/grupo10 e contexto. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo28 traduzido — 15/11/2026
+
+Fonte28→capítulo28, Vamos jogar juntos. TXT integral UTF-8; vice-deputy aplicadoaWen vertido *chefe* porcontexto27e sinalizado;terceiraetapapreservaavanço. Tabela/continuidade/handoff atualizados; TXT21–28 pendentes, leitor1–20 intacto; próximo29/fonte29. BackupSHA256: backups/agd-capitulo-028-20261115-161220/. Validados UTF-8,cabeçalho/final/asteriscos,nomes/17h30/11PCs18 e contexto. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo29 traduzido — 15/11/2026
+
+Fonte29→capítulo29, Os números de As Aventuras do Cavaleiro da Tempestade. TXT integral UTF-8, nomes/sincroniacontas/primeirolançamentocomercial padronizados; discrepânciacronologia lançamentoLin registrada seminventaradiamento. Tabela/continuidade/handoff atualizados; TXT21–29 pendentes, leitor1–20 intacto; próximo30/fonte30. BackupSHA256: backups/agd-capitulo-029-20261115-161357/. Validados UTF-8,cabeçalho/final,preços/classificação/downloads/tempos e contexto. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo30 traduzido — 15/11/2026
+
+Fonte30→capítulo30, Potencial para virar febre! TXT integral UTF-8; sales→descontos pelo contexto inequívoco exemplo100mil×20 e notributaçãoexterna. Tabela/continuidade/handoff atualizados; TXT21–30 pendentes, leitor1–20 intacto; próximo31/fonte31. BackupSHA256: backups/agd-capitulo-030-20261115-161539/. Validados UTF-8,cabeçalho/final,nomes/cálculos/destaques/previsãolançamento. Próximo publique revisa21em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — revisão e publicação local21–30 — 15/11/2026
+
+Porcomandopublique, revisados dezTXT21–30comcontextoacumulado e integrados integralmente. Cincoajustes de clareza/padronização em22/25/27/28/30;1–20idênticos. Total30capítulos1–30, último30 — Potencial para virar febre! SemTXTpendente nestaobra;próximo31/fonte31/próximoloterevisão31em diante. Notas/itálicos/valores e dúvidasfonte preservados, semreordenação/invenção. Detalhes historias/almighty-game-designer/REVISAO-CONTEXTUAL.md. BackupSHA256de19arquivos: backups/agd-publicar-revisar-021-030-20261115-161738/,ALTERACOES.diff. Reversão restaura docs/JS/testes/TXTanteriores dessebackup e registraoperação; não tocaClube. Aplicação/progresso/preferências intactos;Clube522/279–800comTXT801–803pendentes. Commit/push/deploy nãoexecutados.
+
+Validação21–30 concluída: reader.test.cjs aprovado,30TXT iguais aoJS/títulos/itálicos, catálogo30/navegação/limites/retomada/progressoisolado e regressõesClube.19backupsSHA256conferidos. Sintaxe dos scripts conferida. Semrevisãovisualemnavegador nesta publicação textual;commit/pushmanuais.

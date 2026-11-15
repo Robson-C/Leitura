@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 15/11/2026: capítulos 1–20 traduzidos integralmente em TXT UTF-8 e integrados ao leitor; nenhum TXT pendente nesta obra. Próximo esperado: fonte 21 → capítulo 21, conforme o material enviado.
+Estado em 15/11/2026: capítulos 1–30 traduzidos integralmente em TXT UTF-8, revisados contextualmente e integrados ao leitor; nenhum TXT pendente nesta obra. Próximo esperado: fonte 31 → capítulo 31, conforme o material enviado.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -178,6 +178,96 @@ Não usa PoçãoMemórias4h ainda: primeiro estrutura de memória atual/depois d
 
 Design de sistema completo5–7dias e20–30documentos por jogo móvel são experiência passada, não marcar como dias decorridos adicionais automaticamente. ThunderboltGaming da fonte padronizado Games conforme14/19; Entertainment continua empresa-mãe. Frase corrompida “PC game mobile” interpretada PC e celular pelo contexto inequívoco.
 
+## Capítulo 21 — Poção de Reprodução de Memórias
+
+Fonte21→capítulo21. Após descanso/café/higiene consome a ÚNICA Poção de Reprodução de Memórias.4h de recordação livre para desenhar plantas/zumbis/cenários/interface, falasDave/regras/fases e valores de dano/vida/ritmo. Após efeito, mais2h registra lembranças ainda frescas antes que se apaguem:6htrabalho NÃO6hdeefeito. Não conceder memória permanente nem segundo frasco. CápsulaSorte10min continua guardada/não mencionada como consumida.
+
+Mais1semana refinando documento; insere regras no motor, que gera projeto automaticamente1–3dias. Usa intervalo para cálculos/parâmetros, conclui em2dias. Projeto provisoriamentePVZ, nome de lançamento ainda por decidir (PlantsvsZombies referência ao original). Demonstração funcional comErvilhadoras/zumbi, semfases/tutorial inicialmente. Depois5dias ambientes/progressão/tutorial, modoAventura recriado. Não declarar todosmodos/jogo inteiro/artefinal concluídos nem lançamento.
+
+Glossário descritivo PT-BR adotado para continuidade, sem alegar localização oficial: Peashooter→Ervilhadora; Squash→Abóbora Esmagadora (diferenciar futuraPumpkin defensiva); PotatoMine→Batata-mina; Sunflower→Girassol; Wall-nut→Noz; Torchwood→Tronco-tocha; WinterMelon→Melancia Congelada; CrazyDave→Dave,oLouco. Zombies: comum/cone/balde/saltadorcomvara/futebolamericano/dançarino. Cooldown→tempo de recarga; ready time→tempo de ativação apósplantio. Fonte descreveErvilhadora como dragão e notainglesa menciona possívelDaenerys; comparação e nota preservadas, não identidade confirmada. CantorGao semprenome não inventado.
+
+Confirma distinção do2: motor gera projeto a partir de regras, designer ajusta lógica/valores. Manter interpretação contextual de balanceamento18–19, sem renomear globalmente atributoCoding semchinês. “Pay bills” traduzido sustentar-se, não inventar aluguel/contas do imóvel que organizadores custeiam. Notainglesa[1] preservada identificada, só separador captura removido.
+
+## Capítulo 22 — Arte e música
+
+Fonte22→capítulo22. ApósAventura,1semana minijogos/Quebra-cabeças/Sobrevivência/outros;3diasJardimZen/almanaque/conquistas/loja;3diastestes. Núcleo pronto~1mês. Arteprovisóriaincoerente/semáudio, ainda faltava acabamento. Desenha/anima~40plantas/20zumbis comreuso, média1planta+1zumbi/dia maisinterface/carregamento, quase1,5mês. Música/EfeitosSonorosatributo10, recria melodias conhecidas e substitui desconhecidas com biblioteca; sons semelhantes/não100%idênticos.2semanasáudio+1semanatestes, total3meses, cronologia aproximada da fonte mantida.
+
+Agora desenvolvimento concluído; instalador127MB, versões separadasPC/celular, conta entreplataformas/ranking simples. Thunderbolt Game Pass→conta de jogos Thunderbolt (login unificado da própria empresa, não assinatura paga nem serviço externo); usa mesmo termo em referências futuras. Rejeita login social/EmperorDynasty apesar menos cadastros, quer controle dos dados e independência. Instala nosPCs/tabletsloja para testar aceitação e decidir divulgação ANTES lançamento mercado. Não narra clientes/testes reais/vendas ainda. Nome específico localizado ainda não fornecido; PlantsvsZombies mantido. Recapitulação de história real do jogo é voz narrativa, sem verificação externa. Confirma motor dispensa escrever código; balanceamento continua necessário.
+
+ModoAdventure→Aventura; Puzzle→Quebra-cabeças; Survival→Sobrevivência; ZenGarden→JardimZen; Almanac→almanaque. EfeitosSonoros abrevia atributo anteriormenteMúsicaeEfeitosSonoros, sem criar segundo livro/novo+10. OCD coloquial→mania de perfeição, sem diagnóstico novo. Próximo publique revisar21–último com continuidade acumulada.
+
+## Capítulo 23 — O preço da loja de experimentação
+
+Fonte23→capítulo23. Lin liga amanhecer: lança amanhã Adventures of the Storm Rider→As Aventuras do Cavaleiro da Tempestade,94MB/ícone homemergueespada. Desenvolveu quase6meses,3após sugestões (tempo de ajustes compara3mesesPVZ, não somar automaticamente9). Revê combate com Tempestade:ventosdesaceleram/reduzemvisão,chuvaataque/estados,furacãoarremessa leves; efeitosmenorespermanentes/grandesexigemenergia; resistênciasmonstros/armadurafullplate resistevento mas chuva lama/doença/ferrugem. Não atribuir essas mecânicas a PVZ.
+
+Quatrofinais: salvaprincesa/felizes; falha/morrecomdragão; poupa/contrato/dragãoguardiãoimperial; seduzidotesouro/viranovodragão. Lin adotou combate+narrativaramificada, não dificuldade extrema, coerente17. CópiaGM/ferramentasadmin permite Chen percorrer4finaisem3h; normal6–8hporpartida, nãoerro de duração. Chen elogia/sucessomoderadoprovável, Lin visitará depoislançamento. Chen promete instaladorPVZem2dias, semenvioainda.
+
+Depoisalmoço/soneca1h/acorda14h, verifica loja/jogos, define5yuansporhoraapenasquandojogando; bebidaspreçovarejosemacréscimo; lotaçãoimpõelimite4h/depoisreentrarnafila. Horárioregular10h–20h, sempernoite nemocuparPCsemjogar. ABERTURAOFICIAL primeirodia14h30, semclientes/vendas narrados ainda. Taxa para regular uso, semfocodelucro, não contradizer função principal da loja descrita4 nem aluguel/contascobertos13. Lan houseslocais3–10yuans/h,3mínimoraro; fonte chama5caro, contextual ao estágio inicial, mantido. PVZaindanãolançadonomercado; teste presencial futuro.
+
+Cost→preço cobrado ao usuário, não custo de manutenção. StormRider→CavaleiroTempestade por protagonista explícito, não personagem novo. GMtools→ferramentas de administrador; Imperials→famíliaimperial pelo contexto, seminventarnomeimpério.
+
+## Capítulo 24 — Um dia sem clientes
+
+Fonte24→capítulo24. Primeirodiaaberturaloja, Chen balcãotérreo/notebooktestaPVZ1h, sobeandar/voltacoca. Fonte explicita agosto→dezembro/inverno/mais3meses, cronologia sazonal preservada. GratuidadeFlappyBird3mesesENCERRADA, quer lançarFlappyBird+PVZjuntos e divulgarPVZporanúnciosFB; ainda não lançou. Organizadores tinham estatísticas do períodogratuito, não sabe impressões/receita perdida; lamentobilhões é hipérbole, não perda comprovada.
+
+Primeira visitante Zhuo Yao, mulher~26um pouco maisvelhaChen/rabodecavalo/jaquetajeans/visualneutro; dona lanhouseFatesnaesquina, veio avaliar concorrência não jogar. Descobre loja só títulos do próprio designer/acessoantecipado, não concorrência direta. PegaCoca porhábito, devolve após aviso bebida paga. Recusa teste por estarocupada, voltará; cobra4yuansáreacomum, acha5caro e recomenda reduzir/grátis. Chen só diz considerará, NÃO muda preço. Relata1jogodisponível(PVZ), não inventar bibliotecaFB/terceiros.
+
+Localização razoável/perto pequena localidade/universidade. Mais30min segundo visitante adolescente cabelooleoso/sono, desconheceThunderboltGames, aceita considerar porque lanhousecheia mas vaiemboraaoouvir5yuans. Nenhum teste/cliente pagante ainda. Pensamento recarga6yuans não converter em regra universal verificada.
+
+Genderless→visualneutro, conforme notainglesa explicativa[1] preservada, não atribuir identidade de gênero à personagem. Fates mantido nomecomercial, registrar forma lanhouseFates. Bucks→yuans pelo contexto, não dólares. “Customer”→visitante onde não houve contratação/uso, para coerência com título. ThunderboltGaming padronizadoThunderboltGames. Nota mantida, só separador captura removido.
+
+## Capítulo 25 — A primeira jogadora
+
+Fonte25→capítulo25. Dia seguinte10h, ontem até20hsem jogadores/clientes pagantes (visitantesprocuravamlanhouse/desistiam5yuans). Primeira clienteWenLingwei21anos/documento,~172cm/salto/cabelopretolongo/bonita/presençaforte, comparaSaeko deHighSchooloftheDead; não confundir ZhuoYao26anterior. Estudante2º/3ºano é suposiçãoChen, não fato comprovado. Provoca loja vazia/cara, aceita1hporambienteagradável. PassaIDleitor/pagacelularQR, sentaPC; café gratuito por serprimeiracliente, não todasbebidasgrátis. Chen leu dados pelo atendimento; não invadiu conta.
+
+JogoúnicoPVZ, logotipoThunderboltGames; título PlantsvsZombies mantido na interface. Mãosujacomflorícone; carregamentozumbis/plantas/cartum/lápides; intrigada por misturaplantas/zumbis. Cria conta própriaThunderbolt mas deixa celular/IDem branco (cadastrodejogo distintoidentificaçãodaentrada). ClicaIniciarAventura, sustomãorisada, tutorialfaixagrama1/5tela/Ervilhadora. Coletaumsol que rende25unidadesderecurso, não25objetoscaídos. Planta segundaErvilhadora e zumbi se aproxima; termina ANTES resultado do combate, semopiniãofinal/pontuação.
+
+Duas notas inglesas preservadas como notas da tradução de origem, não fatos verificados: GuanGong/QinQiong supostamente200anos e aplicação expressãoconformeinglês; bucks/yuan/ringgit. Não corrigir cronologia histórica por suposição nem omitir nota. Brunette na fonte normalizada mulher pois cabelo explicitamentepreto, não castanho. Primeiroplayer feminino→primeirajogadora contextual. Focalpoint aqui charmepeculiar visual, não diferencialcomercial de16–17.
+
+## Capítulo 26 — Impossível parar de matar zumbis
+
+Fonte26→capítulo26. Wen venceprimeirafase, desbloqueiaGirassol/depoisCereja-bomba/Noz; aprecia coerênciaplantas/zumbis/Dave. Avisofaltam5min da1h, paga10yuanspor+2h, pensa suficiente concluir. Ao meio-diaem diante dificuldade aumenta, plantasrestritas/novoszumbis/falhas/estratégia. Fonte marcaNoon e depoisnovamente percebe almoço, mantido seminventarsalto. Pedecomida/mandanoChen, quer subir mas segundoandarprivado proibido. Consome café, ele pede2refeições, ela pagará depois/come somente sala reuniões; pedido feito, entrega/consumo não narrados ainda.
+
+Fasesnoturnas segundaetapa, zumbifutebolamericano forte. Concentrafogonele/vence mas outrasfileiras invadidas/derrota/recomeça. Chen comenta melhorsoluçãoDoomShroom→Cogumelo do Apocalipse, não trocado poroutrofungo mesmo possíveldúvidamecânica. Não dáspoiler(brincadeiranarradornegaressentimento). Aprecia aceitação de clássico. Estimaexperiente5hprimeira/8htotalduaspassagens, outrosmodos2diasintensos ou~1mês2hdiárias, Infinitoindefinido; são estimativas/contextosexperimentação, semalterarcálculos. Wen aindajogando, semterminar/semdespedida/semvendaonlinelançada.
+
+Novostermos: CherryBomb→Cereja-bomba; DoomShroom→Cogumelo do Apocalipse; Endless→modo Infinito. NewspaperZombie→zumbileitordejornal; ScreenDoorZombie→zumbicomportadetela. MantidosErvilhadora/Girassol/Noz/Dave. Sol é recurso acumulado, nãoquantidadefixadasempreporfase. “Cant eat inside store” vertido salão porque refeiçãoexplicitamentepermitida sala reuniões; não inventar proibição absoluta contraditória.
+
+## Capítulo 27 — Que jogo é esse que prende tanto?
+
+Fonte27→capítulo27. Refeiçõeschegam30mindepois, Chen come na sala reuniões/pesquisa lançamentos: lojaoficial ordena datas/vendas sempagamentoprioridade/difícilinflar; canaismenoresvendemdivulgação. Evita enfrentar lançamentosEmperorDynasty/Zen, sóempresasmenoresagora, melhores~CavaleiroTempestade. Nenhuma data de lançamento decidida. Wencomehambúrguer/batatas5min/retornaCocaPC, bebida permitida no salão. Chenlimpamesa/lixo.
+
+3hdepoisWenquaseterceiraetapa/maisdemetadeprimeirajornada, zumbisboiapatinho. Ligação~16h: reuniãoDepartamentoDivulgação queela marcou, colegasesperam5min. CONFIRMAestudante/chefe departamento, aindasemano/faculdade exatos. Decide reunirna loja para não ir embora: chegagrupo10(4rapazes6moças), universidadepróxima. JiaPengmagrobronzeado/ChangXiuyamoçagraciosa são vice-chefes, cuidamtarefas; Wen decide. Reunião30min/cartazsemanaquevem/outrosassuntos, volta jogar e todos observamcuriosos. Estudantesaindanãojogaram/pagaram. Chen permite visitantes/grupos sentaremsemjogar, não implicaPCgratuito.
+
+Novostermos: PublicityDepartment→Departamento de Divulgação; Senior→veterana(no contexto universitário); DuckyTubeZombies→zumbiscomboiasdepatinho. Fatesagoraditooutroladorua (24naesquina), referência relativa mantida semmudarendereço. Piadafigurantepublicitário[1] e notainglesa preservadas. Wen estájogandoalémdas3hpagasexplicitamente25–26, fonte não detalha recargaposterior; NÃOinventarpagamentonemsuspensãodacobrança. Registrar dúvida para próxima revisão, não inferir gratuidade. PVZnão lançado online/semnovavendapública.
+
+## Capítulo 28 — Vamos jogar juntos
+
+Fonte28→capítulo28. Wen demonstraCereja-bomba/elogiosChangXiuya;10colegas registramID e jogam, total11PCsocupados/18. Não inventar pagamento explícito não narrado (regras5/hcontinuam), nomescontas/adicionaramigos/ranking disponíveis; multijogador futuro é especulação estudantes NÃOfeatureanunciada. JiaPengtalentosoavançarápido/Changatravancada pedeajuda/seesforça. Chenobserva amostra10diversificada, todosenvolvidos, acredita fases/númerosbalanceados e potencialjovens; opiniõesdele não comprovaçãocientífica universal.
+
+17h30Jia lembrajantar, Wen propõedelivery mas estácansada/fasefalhou3vezes, decidemrestaurante. Mais10minparaacabarfase/nãocomeçaroutra, saemdojogo/conversamrankings/Tronco-tocha+Ervilhadora/noitelápides. Chen informa instaladorcelularnosPCs para continuarem. Ainda não narra instalação efetiva/saídadaloja/jantar/lançamentonomercado.
+
+ChengXiuya lapso→ChangXiuya. Vice-deputy paraWen contradizhead confirmadonocap27; vertido *chefe* como interpretação contextual sinalizada, semmudarhierarquia. Levelthree→terceiraetapa pelo avanço jáexplicado27(nãoregressãopara3ªfase). Tronco-tocha/Noz/Ervilhadora/Cereja-bomba e DepartamentoDivulgação mantidos. Nota sobre balanceamento é reação ao teste, não alterar números/regras; falaTronco-tochasóErvilhadoras é avaliaçãodojogador, semcorrigir mecânica externa.
+
+## Capítulo 29 — Os números de As Aventuras do Cavaleiro da Tempestade
+
+Fonte29→capítulo29. Jia/Chang e grupo instalamPVZnoscelularesdosPCs, contaThunderbolt sincroniza progresso. Interface/controlesiguaisPCcelular/botõesgrandespropositais. Saemparajantar discutemretorno presencial versus celular. Chen pedejantar/painel estatísticas jáimplantadas nodesign: fasespresas/tempos/falhas/usoplantas/zumbisquebramdefesas/dano, ajustaatributos/fases e gera instaladoratualizado; nenhum lançamento público ainda.
+
+Corta3diasdepois Lin visita~10jogadoresloja. Chen planejalançarPVZfimdesemana; aindanãodataexata nempreçoPVZ. Lin jogoJÁlançado20yuanscompraúnica/atualizaçõesDLCgratuitos, Chen compra/baixa5estrelas. Reviewsboas/volumemodesto, planejam50%descontodepoismaisavaliações. Página6ºnovos/recebeudestaque,nãorankingpagos/populares,~400downloads/30+reviews5estrelas/menos24hlançamento. Promoção ainda não executada.
+
+Loja: categoriaspagos/grátis/maisvendidos;novos<1mês/clássicos>1ano/gêneros;rankingsrecomendaçãoautomáticos3h, destaquesdiários/podemmanterváriosdias;antiinflaçãosuspeitaenviamanual. Não inventar auditoria jáfeita nestejogo.
+
+PendênciacronologiaFONTE:23Lin diz lançaamanhã;24mesmodia/25seguinte/29mais3dias, mas29afirma<24hlançamento. Preservar ambossemadiamentojustificativainventado/reordenação. Preço20chamadonormal e depoisfaixaalta referegeralversuspequenojogo, nãoalterar. PrimeirojogoLinrefereprimeirocomercialChen, mantida revisão anteriorsemnegarFlappyBird. ThunderboltGamePass→contadejogosThunderbolt conforme22. Savefile→progressosalvo/compartilhado. NomejogoLinpadronizado.
+
+## Capítulo 30 — Potencial para virar febre!
+
+Fonte30→capítulo30. MesmoencontroLin da29. Lojaoficialproíbemanipularstats,destaquesautomáticos escalonam sucesso, canaisprivadospodemvenderprioridade. Comissão20%receita/impostos~30%sobreliquido conformeMUNDOFICCIONAL. Exemplo100mildownloads×20yuans=2milhõesbrutos→1,6milhãoapóscomissão→1,12milhãoapós30%; não receita járecebida. “Assuming no sales”→sem descontos, sales aqui promoções pelo cálculo/preço, não semvendas. Não tratar como orientação tributária atual.
+
+Lin instalaPVZcelular/10minvidrado, avalia arte/música/UI/mecânicas polidas, potencialfebre. Chen diz TALVEZAMANHÃ lançamento, fimdesemana anterior compatível mas semdatacalendárioconfirmada. Feedback~2dias e nosúltimos3diasquase100testaram, maioriaindicaçãogrupoWen/Jia/colegasquarto,~10presentesagora. Nãoafirmar cemclientes simultâneosnem cemvendasPVZ.
+
+Listasatualizam: CavaleiroTempestade recebe doisdestaquessimultâneos/gênero+novos recomendados. Segunda rodada/recomendação, não só segundo lugar. Nenhum novo volumevendas exato apósdestaques, hipótese maisvendas/próximapáginainicialdependecontinuardesempenho. Lin aliviado/Chenalerta avaliações/possíveldifamaçãoconcorrente(nãoconfirmada). Conversamhoras/jantamapósfechamentoloja/Linvaiembora. PVZaindanãolançadopublicamente.
+
+Gamemarket/store→lojaoficial; spot/recommendation→espaço de destaque/recomendação; stats→números/estatísticas; go viral→virar febre. Nomesconformeanteriores. Não confundir jogoLin jácomercial com PVZpré-lançamento, nem sucesso potencial com resultadoobtido. Próximo publique revisar21–30e eventuaisnovos antes integrar.
+
 ## Fluxo permanente
 
 Traduções TXT UTF-8 em `capitulos/` desta pasta. Numeração e continuidade exclusivas desta obra, sem aplicar deslocamentos ou personagens do Clube da Longevidade. O envio de capítulos autoriza tradução e TXT; integrar ao leitor somente pelo comando “publique”, no array `window.GAME_DESIGNER_CHAPTERS` de `chapters.js` desta pasta. Mesmo leitor, estilo e controles compartilhados. Não criar capítulos fictícios. Commit e push manuais.
@@ -199,3 +289,14 @@ Oito TXT13–20 integrados integralmente, sem revisão narrativa. Capítulos1–
 Usuário autorizou melhorias de tradução com contexto atualizado e revisão automática de lote antes de publique. Revisados todos20, sem salto de história. Ajustes capítulos2/3/6/7/10/14/16/18/19/20, integralidade e quantidade de parágrafos preservadas. TXT e JS sincronizados. Consultar REVISAO-CONTEXTUAL.md para achados, termos e pendências da fonte. Pitfalls→pontos fracos; stand-alone→jogo para um jogador; primeiro jogo→primeiro lançamento comercial da empresa, mantendo FlappyBird. Coding continua atributo Programação, mas exemplos de lógica/parâmetros de balanceamento explicitados; definição manual contextual incerta marcada, sem renomeação global sem chinês. Frase monetização19 ainda ambígua, shouldnt→não se devia. Receita bruta10 não confundida com lucro líquido. Números contraditórios da fonte preservados.
 
 Último lote revisado1–20; próximo21/fonte21. Antes do próximo publique revisar21até último recebido, aplicar correções contextuais autorizadas com backup, registrar e sincronizar. NenhumTXTpendente. Esta entrada supera decisões históricas de não revisar automaticamente capítulos anteriores. Backup: backups/agd-revisao-contexto-001-020-20261115-155333/.
+
+
+## Revisão e publicação21–30 — 15/11/2026
+
+Todos os dez TXT revisados em sequência antes da integração. Contexto coerente: memória/desenvolvimento/acabamento21–22, abertura e preço23, dia vazio24, primeira jogadora25–26, grupo27–28, portabilidade/telemetria e visitaLin29–30. PVZ completo em testes, ainda não lançado publicamente ao final30, lançamento cogitado amanhã; jogoLin já publicado e ganha destaques. Não misturar resultados, receitas hipotéticas ou visitantes com vendas.
+
+Cinco ajustes:22 padroniza Música e Efeitos Sonoros com18–19;25 explicita altura;27 esclarece Wen conduzindo reunião;28 melhora refeição pedida por entrega;30 traduz navegação pela loja de aplicativos, sem sugerir corrida pela loja física. Nenhum corte ou mudança de números/títulos/ordem; primeira vintena idêntica à versão publicada.
+
+Glossário plantas/modos/contaThunderbolt e nomes novos conferidos. Chefe de Wen28 continua interpretação marcada conformehierarquia27. Mantidas/detalhadas pendências da fonte: promessa lançaamanhã23 versus29<24hapósmais3dias; recarga de Wen além3h não narrada; notainglesa25GuanGong/QinQiong duzentosanos/conceito não verificados; CogumeloApocalipse26 conformeDoomShroomfornecido, não substituir mecanicamente por outro fungo; meses/desenvolvimento aproximados mantidos. Não criar pagamentos/adiamentos/explicações para remendar essas lacunas.
+
+Publicados1–30; último30 — Potencial para virar febre! NenhumTXTpendente nesta obra; próximo31/fonte31. Próximo lote de revisão começa31, usando contexto anterior. BackupSHA256: backups/agd-publicar-revisar-021-030-20261115-161738/,19arquivos eALTERACOES.diff. TXT/JS sincronizados; chaves e progresso da aplicação intactos. Clube permanece522/279–800comTXT801–803pendentes. Commit/push/deploy manuais.
