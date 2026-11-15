@@ -21,11 +21,17 @@ jobs:
         run: |
           node --check app.js
           node --check chapters.js
+          node --check books.js
+          node --check catalog.js
+          node --check historias/i-found-a-planet/chapters.js
           node tests/reader.test.cjs
       - name: Preparar somente os arquivos públicos
         run: |
           mkdir _site
           cp index.html styles.css app.js chapters.js _site/
+          cp books.js catalog.js _site/
+          mkdir -p _site/historias/i-found-a-planet
+          cp historias/i-found-a-planet/chapters.js _site/historias/i-found-a-planet/
           touch _site/.nojekyll
       - name: Configurar Pages
         uses: actions/configure-pages@v5

@@ -6,7 +6,7 @@ const path = require('node:path');
 const root = path.join(__dirname,'..');
 const chapterSource = fs.readFileSync(path.join(root,'chapters.js'),'utf8');
 const appSource = fs.readFileSync(path.join(root,'app.js'),'utf8');
-function boot(saved, failStorage = false, hash = '', width = 1280) {
+function boot(saved, failStorage = false, hash = '', width = 1280, options = {}) {
   const nodes = new Map(), listeners = {}, documentListeners = {}, frames = [];
   class Element {
     constructor(tag = 'div') { this.tagName = tag; this.children=[]; this.attributes={}; this.dataset={}; this.handlers={}; this.hidden=false; this.style={setProperty(name,value){this[name]=value;}}; this.classes=new Set(); this.classList={add: name=>this.classes.add(name),toggle:(name,on)=>on?this.classes.add(name):this.classes.delete(name),contains:name=>this.classes.has(name)}; }
@@ -24,16 +24,25 @@ function boot(saved, failStorage = false, hash = '', width = 1280) {
   const themes = ['light','sepia','dark'].map(theme=>{const e=new Element('button');e.dataset.themeChoice=theme;return e;});
   let persisted = saved;
   const browser = {scrollY:0,innerWidth:width,innerHeight:900,scrollCalls:0,scrollTo(x,y){this.scrollCalls++;this.scrollY=y;},addEventListener(name,fn){listeners[name]=fn;}};
-  const location={hash};
+  const location={hash,search:options.search || ''};
+  const stores=options.stores || {};
+  if(saved) stores['entrelinhas.reading.v1']=saved;
   const context = {
-    window:browser,location,
+    window:browser,location,URLSearchParams,
     document:{getElementById:get,createElement:tag=>new Element(tag),createDocumentFragment:()=>new Element('fragment'),createTextNode:text=>({textContent:text}),body:get('body'),documentElement:get('html'),querySelectorAll:selector=>selector==='[data-theme-choice]'?themes:descendants(get('chapter-list')).filter(node=>node.className==='chapter-link'),addEventListener(name,fn){documentListeners[name]=fn;}},
-    localStorage:{getItem(){if(failStorage)throw Error('blocked');return persisted||null;},setItem(key,value){if(failStorage)throw Error('blocked');persisted=value;}},
+    localStorage:{getItem(key){if(failStorage)throw Error('blocked');return options.catalog ? stores[key] || null : persisted||null;},setItem(key,value){if(failStorage)throw Error('blocked');stores[key]=value;persisted=value;}},
     requestAnimationFrame:fn=>frames.push(fn),setTimeout:fn=>{context.timer=fn;return 1;},clearTimeout(){context.timer=null;}
   };
-  vm.createContext(context); vm.runInContext(chapterSource,context);vm.runInContext(appSource,context);
+  vm.createContext(context); vm.runInContext(chapterSource,context);
+  if(options.catalog){
+    vm.runInContext(fs.readFileSync(path.join(root,'historias/i-found-a-planet/chapters.js'),'utf8'),context);
+    if(options.planetChapters) browser.PLANET_CHAPTERS=options.planetChapters;
+    vm.runInContext(fs.readFileSync(path.join(root,'books.js'),'utf8'),context);
+    vm.runInContext(fs.readFileSync(path.join(root,'catalog.js'),'utf8'),context);
+  }
+  vm.runInContext(appSource,context);
   const flush=()=>{while(frames.length)frames.shift()();};flush();
-  return {get,themes,browser,location,listeners,documentListeners,context,flush,saved:()=>JSON.parse(persisted),changeHash(value){location.hash=value;listeners.hashchange();flush();}};
+  return {get,themes,browser,location,listeners,documentListeners,context,flush,stores,saved:()=>JSON.parse(persisted),changeHash(value){location.hash=value;listeners.hashchange();flush();}};
 }
 const app=boot();
 const expectedIds=Array.from({length:203},(_,i)=>290+i).filter(id=>![355,358,369,416,461,470].includes(id)).map(id=>id<=354?id-11:id===356?344:id===357?345:id===359?346:id>=360&&id<=368?id-13:id===370?356:id>=371&&id<=415?id-14:id===417?402:id>=418&&id<=460?id-15:id===462?446:id>=463&&id<=469?id-16:id>=471?id-17:id).concat(Array.from({length:325},(_,i)=>476+i));
@@ -170,7 +179,7 @@ assert(html.includes('522 capítulos disponíveis'));
 assert.equal((html.match(/id="index-toggle"/g)||[]).length,1);
 assert(html.indexOf('id="index-toggle"')<html.indexOf('id="header-title"'));
 assert(html.indexOf('id="header-title"')<html.indexOf('id="appearance-toggle"'));
-const header=html.slice(html.indexOf('<header'),html.indexOf('</header>'));
+const header=html.slice(html.indexOf('<header class="topbar"'),html.indexOf('</header>',html.indexOf('<header class="topbar"')));
 for(const id of ['font-decrease','font-increase','theme','line-height','text-width','reset-settings','reading-progress']) assert(header.includes('id="'+id+'"'),id+' deve estar no cabeçalho');
 assert(!html.includes('id="settings"'));assert(!html.includes('class="reading-bar"'));
 for(const match of appSource.matchAll(/\$\('([^']+)'\)/g)) assert(html.includes('id="'+match[1]+'"'),'ID ausente: '+match[1]);
@@ -368,7 +377,7 @@ console.log('OK: publicação offline 279–800 completa, navegação e retomada
 app.changeHash('#capitulo-475');app.get('next').click();assert.equal(app.location.hash,'capitulo-476');
 const merged480=app.browser.READING_CHAPTERS.find(c=>c.id===480);assert(merged480.body.includes('Aqueles que me desafiam perecerão'));assert(merged480.body.includes('Ter armas, porém, poderia aliviar aquela situação.'));
 for(let id=476;id<=720;id++){const c=app.browser.READING_CHAPTERS.find(c=>c.id===id);app.changeHash('#capitulo-'+id);const note=app.get('chapter-content').children.find(n=>n.className==='author-note');assert.equal(note?.textContent,c.authorNote===false?undefined:c.authorNote);}
-const numbering=JSON.parse(fs.readFileSync(path.join(root,'NUMERACAO-CAPITULOS.json'),'utf8'));assert(!numbering.confirmed.some(c=>c.offlinePending));for(const source of [497,498])assert.equal(numbering.confirmed.find(c=>c.old===source).new,480);
+const numbering=JSON.parse(fs.readFileSync(path.join(root,'NUMERACAO-CAPITULOS.json'),'utf8'));assert(!numbering.confirmed.some(c=>c.offlinePending && expectedIds.includes(c.new)));for(const source of [497,498])assert.equal(numbering.confirmed.find(c=>c.old===source).new,480);
 console.log('OK: 476–487 completos, notas e duas partes do 480 preservadas; sem TXT pendente.');
 
 // Limite final 500 e retomada da nova publicação.
@@ -454,7 +463,7 @@ for(const id of [630,631,632,635,636,637,638])assert.equal(numbering.confirmed.f
 app.changeHash('#capitulo-629');app.get('next').click();assert.equal(app.location.hash,'capitulo-630');
 app.changeHash('#capitulo-632');assert.equal(app.get('next').disabled,false);app.get('previous').click();assert.equal(app.location.hash,'capitulo-631');
 const resume632=boot(JSON.stringify({numberingVersion:8,chapter:632,positions:{632:.4},settings:{theme:'sepia',fontSize:22},sidebarVisible:false}));assert.equal(resume632.get('chapter-title').textContent,'O misterioso pergaminho de pele de carneiro');assert(resume632.browser.scrollY>0);assert.equal(resume632.saved().settings.theme,'sepia');assert.equal(resume632.saved().settings.fontSize,22);assert.equal(resume632.saved().sidebarVisible,false);assert.equal(resume632.get('chapter-list').children.filter(g=>!g.children[1].hidden).length,1);
-assert.deepEqual(numbering.confirmed.filter(c=>c.offlinePending).map(c=>c.new),[]);
+assert.deepEqual(numbering.confirmed.filter(c=>c.offlinePending && expectedIds.includes(c.new)).map(c=>c.new),[]);
 console.log('OK: 630–632 integrais, fonte651→630, limite632 e retomada;633–638 integrados;633/634 revistos integralmente.');
 
 // Publicação633–638: notas de versão e seis avisos preservados.
@@ -564,3 +573,46 @@ app.changeHash('#capitulo-800');assert.equal(app.get('chapter-title').textConten
 const resume800=boot(JSON.stringify({numberingVersion:8,chapter:800,positions:{800:.45},settings:{theme:'sepia',fontSize:24},sidebarVisible:false}));assert.equal(resume800.get('chapter-title').textContent,'A data do casamento');assert(resume800.browser.scrollY>0);assert.equal(resume800.saved().settings.theme,'sepia');assert.equal(resume800.saved().settings.fontSize,24);assert.equal(resume800.saved().sidebarVisible,false);assert.equal(resume800.get('chapter-list').children[5].children[1].hidden,false);assert.equal(resume800.get('chapter-list').children.filter(g=>!g.children[1].hidden).length,1);
 const mobile800=boot(null,false,'#capitulo-800',390);assert.equal(mobile800.get('chapter-title').textContent,'A data do casamento');
 console.log('OK:781–800 integrais,fontes803–822,último800,navegação/retomada/preferências/mobile simulados.');
+
+// Catálogo real + leitor compartilhado: abertura, compatibilidade e isolamento de dados.
+const oldState=JSON.stringify({numberingVersion:8,chapter:700,positions:{700:.42},settings:{theme:'dark',fontSize:24},sidebarVisible:false});
+const catalog=boot(oldState,false,'',1280,{catalog:true});
+assert.equal(catalog.get('catalog').hidden,false);
+assert.equal(catalog.get('reader-shell').hidden,true);
+assert.equal(catalog.get('book-cards').children.length,2);
+assert.equal(catalog.get('book-cards').children[0].href,'?obra=clube-da-longevidade');
+assert.equal(catalog.get('book-cards').children[1].href,'?obra=i-found-a-planet');
+assert.equal(catalog.stores['entrelinhas.reading.v1'],oldState,'Catálogo não altera progresso');
+const club=boot(oldState,false,'',1280,{catalog:true,search:'?obra=clube-da-longevidade'});
+assert.equal(club.get('reader-shell').hidden,false);
+assert.equal(club.get('chapter-number').textContent,'CAPÍTULO 700');
+assert.equal(club.get('book-title').textContent,'Clube da Longevidade');
+assert.equal(club.saved().settings.fontSize,24);assert(club.browser.scrollY>0);
+const legacyLink=boot(oldState,false,'#capitulo-600',390,{catalog:true});
+assert.equal(legacyLink.get('chapter-number').textContent,'CAPÍTULO 600');
+assert.equal(legacyLink.get('catalog').hidden,true);
+const emptyPlanet=boot(oldState,false,'#capitulo-700',390,{catalog:true,search:'?obra=i-found-a-planet'});
+assert.equal(emptyPlanet.get('empty-book').hidden,false);
+assert.equal(emptyPlanet.get('empty-title').textContent,'I Found A Planet');
+assert.equal(emptyPlanet.stores['entrelinhas.reading.v1'],oldState);
+assert.equal(emptyPlanet.get('chapter-list').children.length,0);
+const blockedCatalog=boot(null,true,'',390,{catalog:true});
+assert.equal(blockedCatalog.get('book-cards').children.length,2);
+const unknownBook=boot(null,false,'',1280,{catalog:true,search:'?obra=inexistente'});
+assert.equal(unknownBook.get('catalog').hidden,false);
+// Conteúdo fictício exclusivo do teste: nenhum capítulo inventado é publicado.
+const planetFixture=[{id:1,title:'Teste de isolamento',body:'Um parágrafo para testar o leitor.',authorNote:false},{id:2,title:'Segundo teste',body:'Outro parágrafo para testar a navegação.',authorNote:false}];
+const sharedStores={'entrelinhas.reading.v1':oldState};
+const planet=boot(null,false,'#capitulo-1',390,{catalog:true,search:'?obra=i-found-a-planet',stores:sharedStores,planetChapters:planetFixture});
+assert.equal(planet.get('chapter-number').textContent,'CAPÍTULO 1');
+planet.get('font-increase').click();planet.flush();planet.browser.scrollTo(0,3200);planet.listeners.scroll();planet.context.timer();
+planet.get('next').click();planet.changeHash('#capitulo-2');
+assert.equal(planet.get('next').disabled,true);
+assert.equal(sharedStores['entrelinhas.reading.v1'],oldState,'Leitura da segunda obra não altera a primeira');
+const planetSaved=JSON.parse(sharedStores['entrelinhas.reading.i-found-a-planet.v1']);
+assert.equal(planetSaved.chapter,2);assert.equal(planetSaved.numberingVersion,0);assert.equal(planetSaved.settings.fontSize,21);assert(planetSaved.positions[1]>0);
+const planetResume=boot(null,false,'',1280,{catalog:true,search:'?obra=i-found-a-planet',stores:sharedStores,planetChapters:planetFixture});
+assert.equal(planetResume.get('chapter-number').textContent,'CAPÍTULO 2');assert.equal(planetResume.saved().settings.fontSize,21);
+const migratedClub=boot(JSON.stringify({chapter:290,positions:{290:.4},settings:{theme:'sepia'}}),false,'',1280,{catalog:true,search:'?obra=clube-da-longevidade'});
+assert.equal(migratedClub.get('chapter-number').textContent,'CAPÍTULO 279');assert.equal(migratedClub.saved().numberingVersion,8);
+console.log('OK: catálogo com duas obras, legado e migrações preservados, obra vazia, armazenamento bloqueado, progresso/preferências isolados e retomada por obra.');

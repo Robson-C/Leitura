@@ -1,8 +1,12 @@
 (() => {
   'use strict';
-  const chapters = window.READING_CHAPTERS;
+  const book = window.READING_BOOK;
+  if (window.READING_CATALOG_ACTIVE && (!book || !book.chapters.length)) return;
+  const chapters = book ? book.chapters : window.READING_CHAPTERS;
   const $ = id => document.getElementById(id);
-  const key = 'entrelinhas.reading.v1';
+  // A obra original conserva a chave antiga: nenhuma cópia ou perda de progresso.
+  const key = book ? book.storageKey : 'entrelinhas.reading.v1';
+  const numberingVersion = book ? book.numberingVersion : 8;
   const defaults = { theme: 'sepia', fontSize: 20, lineHeight: 1.9, width: 720 };
   let stored = {}, storageAvailable = true;
   try { stored = JSON.parse(localStorage.getItem(key) || '{}') || {}; } catch { storageAvailable = false; }
@@ -17,7 +21,7 @@
     {version:7,min:418,max:462},
     {version:8,min:463,max:492}
   ];
-  if (stored.chapter != null) {
+  if (numberingVersion === 8 && stored.chapter != null) {
     for (const step of numberingSteps) {
       if ((Number(stored.numberingVersion) || 0) >= step.version) continue;
       try { localStorage.setItem(key + '.before-numbering-' + step.version,JSON.stringify(stored)); } catch {}
@@ -83,7 +87,7 @@
   }
   function persist() {
     try {
-      localStorage.setItem(key, JSON.stringify({ numberingVersion:8, settings, positions, chapter: current.id, sidebarVisible }));
+      localStorage.setItem(key, JSON.stringify({ numberingVersion, settings, positions, chapter: current.id, sidebarVisible }));
       storageAvailable = true;
     } catch { storageAvailable = false; }
     $('save-status').textContent = storageAvailable ? 'Progresso salvo neste navegador' : 'Salvamento indisponível neste navegador';
@@ -190,7 +194,7 @@
     $('chapter-number').textContent = 'CAPÍTULO ' + chapter.id;
     $('chapter-title').textContent = chapter.title;
     $('header-title').textContent = chapter.id + ' · ' + chapter.title;
-    document.title = 'Capítulo ' + chapter.id + ' · ' + chapter.title + ' | Entrelinhas';
+    document.title = 'Capítulo ' + chapter.id + ' · ' + chapter.title + ' | ' + (book ? book.title + ' · Leitura' : 'Leitura');
     $('chapter-position').textContent = 'CAPÍTULO ' + (index+1) + ' DE ' + chapters.length;
     $('reading-time').textContent = Math.max(1,Math.ceil(chapter.body.trim().split(/\s+/).length/200)) + ' min de leitura';
     $('chapter-content').replaceChildren();
@@ -244,6 +248,7 @@
   $('previous').addEventListener('click',() => { const index = chapters.indexOf(current); if(index>0) navigate(chapters[index-1].id); });
   $('next').addEventListener('click',() => { const index = chapters.indexOf(current); if(index<chapters.length-1) navigate(chapters[index+1].id); });
   $('brand').addEventListener('click',event => { event.preventDefault(); window.scrollTo(0,0); });
+  if ($('catalog-return')) $('catalog-return').addEventListener('click',() => { updateProgress(); persist(); });
   $('appearance-panel').hidden = true;
   $('appearance-toggle').addEventListener('click',toggleAppearance);
   $('index-toggle').addEventListener('click',() => toggleLibrary(!(isMobile() ? mobileLibraryOpen : sidebarVisible)));
