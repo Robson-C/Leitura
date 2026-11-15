@@ -1,0 +1,139 @@
+Capítulo 44 — Nova atualização
+
+Chen Mo explicou:
+
+— O que quero dizer é que suas ideias são muito conservadoras. Praticamente não há nada de novo nos dois documentos de design. Você só detalhou o que eu já havia feito.
+
+— Hum... — Su Jinyu ficou confusa. Chen Mo realmente enfatizara que ela deveria fazer do próprio jeito ao lhe entregar o documento, mas ela não havia dado tanta importância àquilo.
+
+Na maioria dos casos, os assistentes de designers de videogames costumavam realizar tarefas repetitivas. Além disso, a maioria dos designers não gostava que seus assistentes fizessem alterações, por menores que fossem.
+
+Por isso, Su Jinyu escolhera apenas desenvolver o que Chen Mo já havia feito, sem acrescentar nada.
+
+Mas aquilo era exatamente o contrário do que ele pedira. Chen Mo queria que ela incluísse suas próprias ideias.
+
+Ele disse:
+
+— Não se preocupe. Vou dar mais três dias. Lembre-se: quero ver suas ideias.
+
+Su Jinyu assentiu prontamente.
+
+— Certo!
+
+Ao voltar ao térreo, continuou quebrando a cabeça em busca de ideias.
+
+Depois que ela saiu, Chen Mo examinou mais uma vez o documento de design.
+
+Ela tinha uma base sólida na elaboração de documentos, e a lógica também não era ruim. O maior problema era a falta de inspiração. Naquele momento, Su Jinyu só era capaz de executar tarefas. Ainda estava longe de ser uma verdadeira designer de videogames.
+
+Persistente, trabalhadora, versátil, mas sem inspiração. Era assim que Chen Mo a avaliava naquele momento.
+
+Talvez ela sempre tivesse tido dificuldade para desenvolver ideias próprias, ou talvez aquilo fizesse parte de sua personalidade.
+
+Chen Mo poderia tratá-la apenas como assistente e envolvê-la somente na execução, mas ela não teria muito espaço para crescer num ambiente daqueles.
+
+Ele queria estimular Su Jinyu, pois ela se dedicava, mas não conseguia enxergar o conjunto. Assim, poderia prepará-la para ser uma designer mais completa nos meses seguintes, o que lhe pouparia trabalho no longo prazo.
+
+Su Jinyu vinha quebrando a cabeça para fazer ajustes no documento de design.
+
+Embora a segunda versão estivesse melhor, ainda não era boa o bastante.
+
+A terceira trouxe algumas boas ideias.
+
+Só na quarta versão Chen Mo finalmente deu sua aprovação.
+
+— Hum, embora ainda não esteja bem no nível esperado, você passou — disse ele, sorrindo.
+
+Su Jinyu ficou muito feliz com a surpresa.
+
+— Sério? Que ótimo!
+
+Chen Mo assentiu.
+
+— Sim, bom trabalho. Pode ir descansar. Vou fazer mais alguns ajustes esta noite e envio amanhã, quando terminar.
+
+— Certo. Obrigada pelo esforço, chefe! — Su Jinyu foi embora feliz. Levara quase duas semanas para concluir as quatro versões do documento e alcançar o padrão exigido por Chen Mo.
+
+Ele procurava pontos de destaque no projeto. Mesmo que aprovasse o documento, sem atrativos marcantes os jogadores não ficariam satisfeitos.
+
+Percebera que as ideias da quarta versão haviam consumido toda a criatividade de Su Jinyu. Mesmo que lhe desse mais tempo, provavelmente não surgiria uma versão melhor.
+
+Além disso, aquilo já se arrastava havia bastante tempo. Chen Mo planejara terminar em duas semanas, e esse prazo já havia sido ultrapassado. Se demorasse mais, afetaria o andamento do próximo jogo. Por isso, não queria continuar esperando.
+
+Foi ao computador e abriu seu próprio documento de design.
+
+Na verdade, enquanto Su Jinyu reescrevia o documento repetidas vezes, Chen Mo também preparava sua própria versão. Para não influenciar o raciocínio dela, decidira não contar.
+
+Quando os dois eram comparados, o documento de Su Jinyu deixava muito a desejar. Da interface às funcionalidades gerais, era evidente qual era o melhor.
+
+Chen Mo incorporou os trechos de seu documento à versão de Su Jinyu, acrescentando anotações que explicavam suas intenções.
+
+Quanto aos outros pontos que não faziam tanta diferença, deixou como estavam.
+
+Depois de trabalhar durante boa parte da noite, finalmente terminou. Fez os últimos ajustes, conferiu tudo e ficou satisfeito com o resultado.
+
+Como a atualização de Plants vs Zombies ainda usava a mesma estrutura, não era necessário criar um projeto novo no motor de jogos. Bastava modificar o projeto existente.
+
+Na manhã seguinte, a loja de experimentação abriu no horário de sempre.
+
+Bocejando, Chen Mo disse a Su Jinyu:
+
+— Enviei o documento de design que revisei. É só usar o motor de jogos para acrescentar as funcionalidades de acordo com ele.
+
+— Certo. — Su Jinyu assentiu.
+
+Como ainda estava cansado, Chen Mo voltou ao andar de cima para recuperar o sono.
+
+Su Jinyu ligou o notebook e viu a quantidade de alterações que ele havia feito.
+
+Ele mudou tanta coisa!
+
+Ela ficou chocada. O documento não apenas dobrara de tamanho: ao examinar os detalhes, percebeu que setenta por cento dele haviam sido modificados.
+
+Porém, Chen Mo não havia apagado as sugestões anteriores de Su Jinyu. Inserira as alterações junto de algumas anotações.
+
+I-incrível...
+
+Su Jinyu examinou todas as mudanças. A interface havia sido inteiramente reformulada, e as funcionalidades também tinham muitas modificações...
+
+Enquanto consultava o documento e implementava as alterações no motor de jogos, não conseguia evitar a sensação de que seu próprio projeto era uma farsa.
+
+O chefe é incrível. Como conseguiu fazer tantas mudanças numa noite? Essa eficiência é assustadora!
+
+Depois daquilo, seu respeito por Chen Mo aumentou.
+
+Na verdade, ele já havia preparado tudo antes...
+
+Uma semana depois, a atualização de Plants vs Zombies finalmente ficou pronta!
+
+Antes de qualquer outra coisa, Chen Mo a instalou nos computadores da loja de experimentação. Assim, Wen Lingwei, Jia Peng e os outros poderiam testá-la por alguns dias, enquanto ele corrigia os erros encontrados.
+
+Quando considerou que não havia mais problemas, enviou a atualização à loja oficial.
+
+Logo, ao perceberem que havia uma nova atualização de quarenta megabytes, os jogadores de Plants vs Zombies começaram a baixá-la, um após o outro.
+
+***
+
+“Hum? Tem uma atualização nova para Plants vs Zombies?!”
+
+“Atualizar um jogo para um jogador? Que maravilha!”
+
+“Que loucura. O que vai entrar nessa atualização? Plantas ou zumbis novos?”
+
+“Ei, olhem a descrição. Adicionaram ferramentas de desenvolvimento e um modo de confronto!”
+
+“O quê? É verdade? Vou dar uma olhada!”
+
+***
+
+Os jogadores baixavam a atualização assim que podiam. Os fóruns de discussão de Plants vs Zombies também atraíram bastante atenção com as conversas sobre aquela novidade completamente inesperada.
+
+No mundo paralelo, jogos para um jogador daquele tipo normalmente não recebiam atualizações. Os jogadores não pagariam duas vezes, e os designers também não queriam trabalhar de graça.
+
+Os designers de videogames daquele mundo ainda não haviam descoberto os DLCs!
+
+Nota do editor da tradução inglesa: DLC significa Downloadable Content, ou conteúdo para download. Segundo a nota original, o primeiro uso em larga escala em jogos online para múltiplos jogadores foi em Asheron's Call.
+
+Além disso, fazia pouco menos de dois meses que Plants vs Zombies havia sido lançado. Embora ainda fosse bastante popular, a primeira leva de jogadores já havia enjoado, apesar da chegada contínua de novos usuários.
+
+Eles não estavam um pouco entusiasmados demais com aquela atualização?

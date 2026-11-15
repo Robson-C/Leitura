@@ -6,7 +6,7 @@ Por instrução explícita do usuário, “publique”, “publicar” e equival
 
 Não inventar explicações, números, nomes ausentes ou acontecimentos para encobrir defeitos da fonte. Quando o contexto não resolver uma ambiguidade, manter indicação de incerteza e registrar a pendência. Não aplicar uma hipótese terminológica global como se tivesse sido confirmada pelo original. Não confundir revisão de tradução com revisão de código da aplicação. Renumerações, reordenações, fusões, complementos narrativos ou mudanças materiais fora desse fluxo continuam exigindo esclarecimento próprio. Commit, push e implantação remota permanecem manuais.
 
-Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos iniciais de Almighty Game Designer e atualizar sua versão local publicada. Último lote revisado:31–40 (capítulos1–30 já revisados anteriormente). Próximo envio41; próxima revisão automática começa no41, sem impedir correção pontual de trecho anterior que contexto novo esclareça, com backup/registro/sincronização.
+Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos iniciais de Almighty Game Designer e atualizar sua versão local publicada. Último lote revisado:41–50 (capítulos1–40 já revisados anteriormente). Próximo envio51; próxima revisão automática começa no51, sem impedir correção pontual de trecho anterior que contexto novo esclareça, com backup/registro/sincronização.
 
 
 ## Esclarecimento vigente do usuário — 21/10/2026

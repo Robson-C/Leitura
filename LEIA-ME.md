@@ -454,3 +454,18 @@ Incertezas da fonte preservadas: ranking de três em três horas versus alegaç�
 Leitor local1–40, último40 — Planos para a nova versão de Plants vs Zombies. Nenhum TXT pendente nesta obra. Próximo41/fonte41; próxima revisão automática41em diante. Backup prévio de19arquivos com SHA256 e ALTERACOES.diff: backups/agd-publicar-revisar-031-040-20261115-194707/. Aplicação e conteúdo do Clube preservados; Clube522/279–800 comTXT801–803pendentes. Commit/push/implantação remota manuais.
 
 Validação31–40 concluída: suíte reader.test.cjs aprovada;40TXT idênticos aoJS, títulos/notas/itálicos/separadores conferidos; catálogo40, navegação/limites/retomada e progresso isolado aprovados. Sintaxe dos cinco scripts conferida;19backupsSHA256íntegros. Arquivos da aplicação e conteúdo do Clube sem diferenças. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.
+
+
+## Revisão e publicação local 41–50 — 15/11/2026
+
+Dez capítulos revisados em sequência com as fontes e o contexto acumulado: entrevista e contratação de Su Jinyu41–42; integração à loja e quatro versões do projeto43–44; atualização40MBlançada e imitações45–47; sorteios/atributos48–49; discussão no Weibo e provocação a Qiu Bin50. Continuidade coerente, sem renumeração ou reordenação. Ao final50 ainda não se conhece o próximo jogo nem os termos da aposta; Interferidor de Raiva consumido, sem resposta do alvo narrada.
+
+Três ajustes de fluência:41 remove redundância em responsável/confiável;42 naturaliza pergunta sobre aparência;48 explicita que os candidatos ao lançamento são jogos. Nenhum corte, mudança de números, títulos, parágrafos ou encerramentos.1–40 idênticos à publicação anterior. Notas da tradução inglesa, insultos ficcionais, itálicos e separadores preservados.
+
+Distinções conferidas: Design de Narrativa (enredo, agora100/nível2) e Storyboards (desenhos dos planos,13) são habilidades diferentes, conforme nota48 e lista49. Valores reais da pulseira e avaliação do motor não são intercambiáveis. Qiu Hengyang e Qiu Bin são pessoas distintas, sem parentesco confirmado além de sobrenome coincidente; diálogo50nega seremirmãos. Lunar Defense é imitação direta; Guardian of the Holy Spring tem mudanças relevantes e lançamento futuro, não igualar os dois casos.
+
+Pendências da fonte mantidas: lista de livros48 discrimina108dos135, sem inventar os27restantes; cálculo de renda aproximada/repasse e proporção de sorteios anteriores não reconciliados por suposição; mensagem malredigida do sistema49 e account/registro de residência48 seguem marcados. Vídeo49 referido como dois dias no diálogo e três na narração: não inventar datas. Alegações jurídicas46 e referências históricas/notas são conteúdo da fonte, não verificações externas.
+
+Leitor local1–50, último50 — Emperor Dynasty Entertainment? E daí? Nenhum TXT pendente nesta obra. Próximo51/fonte51; próxima revisão automática51em diante. Backup prévio de19arquivos SHA256: backups/agd-publicar-revisar-041-050-20261115-204654/; ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação41–50 concluída: reader.test.cjs aprovado;50TXT idênticos aoJS/títulos/notas/itálicos/separadores; catálogo50, navegação/limites/retomada/progresso e preferências isolados aprovados. Sintaxe dos cinco scripts e19backupsSHA256íntegros conferidos. Arquivos da aplicação/conteúdo do Clube preservados. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.

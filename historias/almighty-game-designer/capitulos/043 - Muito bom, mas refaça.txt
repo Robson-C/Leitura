@@ -1,0 +1,165 @@
+Capítulo 43 — Muito bom, mas refaça
+
+Em apenas dez minutos, um grande grupo entrou na loja, uma pessoa atrás da outra. Wen Lingwei foi a primeira a chegar, e seus olhos logo encontraram Su Jinyu, sentada ao balcão.
+
+— A nova recepcionista? — perguntou Wen Lingwei, apoiando-se no balcão.
+
+Su Jinyu assentiu.
+
+— Sim, sou Su Jinyu. Prazer em conhecer você.
+
+Wen Lingwei disse:
+
+— Wen Lingwei. Não se preocupe, vou proteger você. Se o chefe implicar, me avise que eu acerto as contas com ele.
+
+Atrás dela, os outros também aproveitavam para dar uma olhada em Su Jinyu enquanto passavam suas identificações no leitor.
+
+Era mesmo uma garota bonita!
+
+Não era uma beleza que impressionava à primeira vista, mas daquelas que dava vontade de continuar olhando. Por trás do jeito meigo, havia uma vivacidade que atraía alguns dos rapazes.
+
+— Hum, veterana... — Um deles tentou puxar conversa com Wen Lingwei.
+
+Ela lhe lançou um olhar frio.
+
+— Cai fora.
+
+— Certo... — O rapaz recuou, sem jeito.
+
+Jia Peng ficou sem palavras. Droga, se soubesse que seria assim, nunca teria contado para vocês!
+
+Wen Lingwei, Chang Xiuya e algumas outras garotas cercaram Su Jinyu e começaram a conversar.
+
+Alguns rapazes só se atreviam a olhar de longe, sem coragem de se aproximar.
+
+— Droga, como a veterana pode fazer isso com a gente?!
+
+— Pois é, a garota é de todos nós!
+
+— Eu protesto!
+
+É claro que só ousavam dizer aquilo baixinho. Não teriam coragem de enfrentar Wen Lingwei.
+
+— Nossa, por que vocês estão todos aqui?
+
+Ao descer do andar de cima e ver aquela cena, Chen Mo ficou sem palavras.
+
+Enquanto trabalhava no documento de design de Plants vs Zombies, ouvira uma grande conversa no térreo. Quando desceu, encontrou umas dez pessoas. Havia mais de uma semana que sua loja não recebia tanta gente.
+
+Wen Lingwei olhou para ele e perguntou:
+
+— Chefe, posso comprar essa gracinha de você?
+
+O canto da boca de Chen Mo se contraiu.
+
+— Funcionários não estão à venda.
+
+— Mesquinho!
+
+Chen Mo ficou sem palavras. Por favor, tráfico de pessoas é crime!
+
+— Se querem se conhecer melhor, conversem depois do expediente. Não atrapalhem o trabalho dela — disse.
+
+Wen Lingwei rebateu:
+
+— Qual é o trabalho dela?
+
+Chen Mo respondeu:
+
+— Hum... Receber os clientes na recepção?
+
+Wen Lingwei perguntou, pausadamente:
+
+— E não é isso que ela está fazendo agora? Eu sou a cliente.
+
+Mais uma vez, Chen Mo ficou sem palavras. Bom argumento. Não tenho o que dizer!
+
+Su Jinyu riu.
+
+— Talvez vocês devessem me deixar trabalhar. Estou sentindo todo esse carinho, mas ainda é horário de expediente.
+
+— Que tal criarmos um grupo da loja de experimentação? — sugeriu Jia Peng.
+
+Chang Xiuya se surpreendeu.
+
+— Um grupo da loja?
+
+Jia Peng assentiu.
+
+— Sim, podemos adicionar os clientes habituais, incluindo o chefe e a garota.
+
+Chen Mo disse:
+
+— Só um lembrete: mostrem um pouco de respeito. Ela está no quarto ano, então é veterana de todos vocês.
+
+Wen Lingwei perguntou:
+
+— E o que você quer dizer com isso?
+
+Chen Mo respondeu:
+
+— Está bem, finjam que não falei nada.
+
+Era evidente que aquele grupo estava muito mais interessado em Su Jinyu do que em Chen Mo ou nos jogos dele!
+
+Pouco depois, o grupo da loja foi criado. Jia Peng adicionou todos e deu a Chen Mo, Wen Lingwei e Su Jinyu a função de administradores.
+
+É claro que aquilo também era uma maneira fácil de conseguir o contato da garota...
+
+Embora se sentisse um pouco deixado de lado, Chen Mo também estava aliviado. A popularidade de Su Jinyu significava que seu gosto para beleza era bastante normal.
+
+Depois de se certificar de que ninguém, principalmente Wen Lingwei, sequestraria sua nova recepcionista, Chen Mo voltou ao andar de cima.
+
+A estrutura básica do documento de design de Plants vs Zombies já estava pronta. Depois de pensar, decidiu deixar os recursos de conexão e multijogador com Su Jinyu e cuidar pessoalmente das ferramentas de desenvolvimento.
+
+As funcionalidades de conexão e multijogador já estavam definidas, e os requisitos eram claros. Por isso, queria aproveitar a oportunidade para testar as habilidades de design dela.
+
+Ao meio-dia, Chen Mo fechou a loja temporariamente e levou Su Jinyu, Wen Lingwei e os outros para almoçar num restaurante próximo. A refeição serviria tanto para comemorar as grandes vendas de Plants vs Zombies quanto para dar as boas-vindas a Su Jinyu.
+
+Como estavam entre os primeiros jogadores da loja e haviam acompanhado o sucesso de Plants vs Zombies, aquelas pessoas tinham se tornado boas amigas de Chen Mo.
+
+À tarde, ele enviou o documento de design a Su Jinyu.
+
+— Enviei a pasta inteira com os documentos de design. Basta detalhar melhor estes dois e me mandar quando terminar.
+
+— É o documento de design da próxima atualização de Plants vs Zombies. O principal objetivo é permitir que os jogadores se comuniquem melhor dentro do jogo e conheçam outros fãs na comunidade.
+
+— Já terminei a estrutura básica do multijogador. Leia e refine um pouco.
+
+— Não tenho exigências específicas para o documento, então faça do seu jeito. E enfatizo: do seu jeito. Procure fazer mudanças, sem ficar presa demais ao meu projeto. Preciso de uma primeira versão em três dias. Tudo bem?
+
+Su Jinyu assentiu, confiante.
+
+— Certo, sem problema!
+
+Chen Mo pensou em lhe dar mais algumas orientações, mas desistiu ao considerar que aquilo poderia limitar seu raciocínio.
+
+Pessoas diferentes costumavam ter visões diferentes sobre design de jogos. Restringir o pensamento de alguém poderia acabar estragando o resultado.
+
+Quanto a ele, precisava terminar as ferramentas de desenvolvimento de Plants vs Zombies, permitindo que os jogadores criassem seus próprios mods.
+
+De repente, sua carga de trabalho caíra pela metade. Ainda não estava acostumado com aquilo.
+
+Três dias depois, Su Jinyu enviou a primeira versão do documento de design a Chen Mo.
+
+— Hum... Nada mal.
+
+Enquanto examinava o documento, ele não parecia tão satisfeito, apesar de dizer que estava bom.
+
+Ao mesmo tempo, Su Jinyu mexia os polegares, nervosa.
+
+Embora já tivesse escrito documentos de design, haviam sido para minijogos muito simples. Não era de admirar que estivesse nervosa: aquele documento era para Plants vs Zombies.
+
+Desde que chegara ao topo dos rankings de jogos casuais de quebra-cabeças, Plants vs Zombies havia reunido uma enorme base de jogadores. Su Jinyu ficaria mortificada se eles não gostassem das mudanças que ela fizesse.
+
+Chen Mo não demorou a terminar a leitura.
+
+— A lógica está muito clara, e todos os detalhes foram contemplados. Também não há grandes erros. Você domina bem os fundamentos — disse.
+
+Su Jinyu piscou e respondeu:
+
+— O-obrigada.
+
+— Mas vai precisar refazer — disse Chen Mo, sorrindo.
+
+— Hã? — Su Jinyu ficou perplexa. A lógica e os detalhes estavam bons. Por que precisava refazer? Mas que coisa!

@@ -241,7 +241,67 @@
       "chapter": 40,
       "title": "Planos para a nova versão de Plants vs Zombies",
       "file": "capitulos/040 - Planos para a nova versão de Plants vs Zombies.txt"
+    },
+    {
+      "source": 41,
+      "chapter": 41,
+      "title": "Entrevista",
+      "file": "capitulos/041 - Entrevista.txt"
+    },
+    {
+      "source": 42,
+      "chapter": 42,
+      "title": "A nova funcionária é uma graça",
+      "file": "capitulos/042 - A nova funcionária é uma graça.txt"
+    },
+    {
+      "source": 43,
+      "chapter": 43,
+      "title": "Muito bom, mas refaça",
+      "file": "capitulos/043 - Muito bom, mas refaça.txt"
+    },
+    {
+      "source": 44,
+      "chapter": 44,
+      "title": "Nova atualização",
+      "file": "capitulos/044 - Nova atualização.txt"
+    },
+    {
+      "source": 45,
+      "chapter": 45,
+      "title": "Surgiu uma imitação",
+      "file": "capitulos/045 - Surgiu uma imitação.txt"
+    },
+    {
+      "source": 46,
+      "chapter": 46,
+      "title": "Esse jogo não vai fazer sucesso",
+      "file": "capitulos/046 - Esse jogo não vai fazer sucesso.txt"
+    },
+    {
+      "source": 47,
+      "chapter": 47,
+      "title": "O jogo da Emperor Dynasty Entertainment",
+      "file": "capitulos/047 - O jogo da Emperor Dynasty Entertainment.txt"
+    },
+    {
+      "source": 48,
+      "chapter": 48,
+      "title": "Dez giros, de novo e de novo",
+      "file": "capitulos/048 - Dez giros, de novo e de novo.txt"
+    },
+    {
+      "source": 49,
+      "chapter": 49,
+      "title": "Por que estão discutindo?",
+      "file": "capitulos/049 - Por que estão discutindo.txt"
+    },
+    {
+      "source": 50,
+      "chapter": 50,
+      "title": "Emperor Dynasty Entertainment? E daí?",
+      "file": "capitulos/050 - Emperor Dynasty Entertainment E daí.txt"
     }
   ],
-  "notes": "Fontes1–40→capítulos1–40 integrados e revistos contextualmente. Último lote revisado31–40; nenhum TXT pendente nesta obra. Próximo41/fonte41; próxima revisão começa41. Numeração independente; commit/push manuais."
+  "notes": "Fontes1–50→capítulos1–50 integrados e revistos contextualmente. Último lote revisado41–50; nenhum TXT pendente nesta obra. Próximo51/fonte51; próxima revisão começa51. Numeração independente; commit/push manuais."
 }

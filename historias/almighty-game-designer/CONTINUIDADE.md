@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 15/11/2026: capítulos 1–40 integrados e revisados contextualmente; nenhum TXT pendente nesta obra. Próximo esperado: fonte 41 → capítulo 41, conforme o material enviado.
+Estado em 15/11/2026: capítulos 1–50 integrados e revisados contextualmente; nenhum TXT pendente nesta obra. Próximo esperado: fonte 51 → capítulo 51, conforme o material enviado.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -409,3 +409,108 @@ Incertezas da fonte preservadas: ranking de três em três horas versus alegaç�
 Leitor local1–40, último40 — Planos para a nova versão de Plants vs Zombies. Nenhum TXT pendente nesta obra. Próximo41/fonte41; próxima revisão automática41em diante. Backup prévio de19arquivos com SHA256 e ALTERACOES.diff: backups/agd-publicar-revisar-031-040-20261115-194707/. Aplicação e conteúdo do Clube preservados; Clube522/279–800 comTXT801–803pendentes. Commit/push/implantação remota manuais.
 
 Validação31–40 concluída: suíte reader.test.cjs aprovada;40TXT idênticos aoJS, títulos/notas/itálicos/separadores conferidos; catálogo40, navegação/limites/retomada e progresso isolado aprovados. Sintaxe dos cinco scripts conferida;19backupsSHA256íntegros. Arquivos da aplicação e conteúdo do Clube sem diferenças. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.
+
+
+## Almighty Game Designer — capítulo41 traduzido — 15/11/2026
+
+Fonte41→capítulo41, Entrevista. TXT integral UTF-8. Três dias após anúncio, cinco entrevistas sem contratação; atualizaçãoPVZ em preparação, não concluída. Su Jinyu23anos, quarto ano em faculdade de artes da Capital Imperial, boa arte/semcertificação; defende convicções e alegria dos jogadores. Chen prevê jogo lucrativo malvisto, sem título definido. Ela propõe recepção+assistência parcial, podendo recusar projetos; ele oferece atéformatura e futurocontrato secontinuar. Capítulo termina na pergunta de Chen, SEM resposta/aceitação narrada. Standing up interpretado idiomaticamente como ganhar dinheiro sem abrir mão das convicções, não posição corporal. Prêmios associados a tarefas difíceis conforme inglês; não inventar nomes das premiações.
+
+Tabela/continuidade/handoff atualizados; TXT41pendente, leitor1–40 preservado; próximo42/fonte42. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-041-20261115-202317/. Clube/JS não alterados; semcommit/push.
+
+Validação41: UTF-8, cabeçalho, encerramento, sequência1–41, nomes/idades/prazo/contexto conferidos; quatro backupsSHA256íntegros; leitor permanece40. Nenhuma aceitação de proposta inventada.
+
+
+## Almighty Game Designer — capítulo42 traduzido — 15/11/2026
+
+Fonte42→capítulo42, A nova funcionária é uma graça. Su Jinyu aceita proposta41; horário10h–20h, oito folgas/mês, preferência segunda/terça e presença finsdesemana; cerca8000yuans/mês incluindo adicional finsdesemana/feriados, pago primeiros5dias. Não exigir horas além do expediente, sem apagar distinção do adicional. Começa dia seguinte, notebook+mesa digitalizadora; recepção e tarefas assistente/documento a enviar à tarde. Jia Peng10h05surpreso avisa grupo, Wen diz jáestouindo, chegada dela ainda não narrada. PlacaThunderboltGaming→ThunderboltGames conforme marca anterior. Título adapta cute como uma graça, sem inventar idade. Fonte anuncia10h e abertura10minantes; manter sem impor novo horário explícito.
+
+Tabela/continuidade/handoff atualizados; TXT41–42pendentes, leitor1–40 preservado; próximo43/fonte43. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-042-20261115-202501/. Clube/JS não alterados; semcommit/push.
+
+Validação42: UTF-8, cabeçalho/final, sequência1–42, integralidade/contexto/nomes/horários/salário/folgas conferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Almighty Game Designer — capítulo43 traduzido — 15/11/2026
+
+Fonte43→capítulo43, Muito bom, mas refaça. Dez minutos depois chega grupo, Wen conversa com Su; brincadeira comprar/sequestrar funcionária mantida como humor. Jia cria grupo da loja com Chen/Wen/Su administradores; almoço celebra vendas e boas-vindas. Chen delega documentos de conexão/social e multijogador a Su, guarda ferramentas de desenvolvimento/mods. Orienta liberdade de proposta, primeira versão em3dias. Após3dias elogia lógica/detalhes/fundamentos mas pede refazer; motivo NÃO explicado ainda. Atualização ainda em desenvolvimento; não confundir documento/projeto com funcionalidades já lançadas. VeteranaSu quartoano confirmada perantegrupo. Contato obtido pelogrupo, sem inventar número.
+
+Tabela/continuidade/handoff atualizados; TXT41–43pendentes, leitor1–40 preservado; próximo44/fonte44. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-043-20261115-202623/. Clube/JS não alterados; semcommit/push.
+
+Validação43: UTF-8, cabeçalho/final, sequência1–43, integralidade/contexto/nomes/prazo3dias conferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Almighty Game Designer — capítulo44 traduzido — 15/11/2026
+
+Fonte44→capítulo44, Nova atualização. Resolvegancho43: Su apenas expandiu proposta sem ideiaspróprias; Chen dá mais3dias, versões2/3/4, quartaaprovadaapósquase2semanas, planejado2semanasultrapassado. Chen preparava paralelamente seu documento e integra melhoras/anotações noite; Su vê tamanho2x/70%modificado, acha feito sónaquelanoite (ironia preservada). Chen dorme manhã, Su implementa no mesmo projeto/motor. Após1semana atualização pronta, testada algunsdias na loja e enviada à oficial;40MB, ferramentasdesenvolvimento/confronto. Primeira atualização agora lançada, pouco menos2meses desde estreia. Próximo jogo ainda não nomeado. Frasefinalquestiona entusiasmo; não inventar causa. Standalone→jogoparaumjogador conforme anteriores, agora com acréscimomultijogador. Alegação DLC atribuída à voz narrativa; notaeditoringlesAsheron'sCall preservada como nota da fonte, sem tratar referência histórica como verificada. Separadoresdechat convertidos***.
+
+Tabela/continuidade/handoff atualizados; TXT41–44pendentes, leitor1–40 preservado; próximo45/fonte45. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-044-20261115-202746/. Clube/JS não alterados; semcommit/push.
+
+Validação44: UTF-8, cabeçalho/final, sequência1–44, integralidade/contexto/nomes/versões/prazos/40MB/nota/separadores conferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Almighty Game Designer — capítulo45 traduzido — 15/11/2026
+
+Fonte45→capítulo45, Surgiu uma imitação. Wen/Xiuya vs Jia+rapaz no confronto; Su cria arte3plantas chinesas Metralhadora de Trigo/Mina de Batata-doce/Muralha de Bambu, não confundir plantas originais. PVZ2meses/>800miljogadores/>metadeativos/milharescomunidades/dezenasmods simples/trio20vitórias; perspectivas próximasmeses são previsões. Surge Lunar Defense: gratuito lançado2diasantes, nota2,3/maioria1estrela, anúnciosapósfases/moedapagaenergia/até3retornos. Distribuidora Sky's Limit Entertainment, criadorclasseCsemnome, empresa segunda linha Cidade Mágica (Magic City, sem acrescentar identificação geográfica ausente). Nome inglês Skys semapóstrofo normalizado Sky's, manter doravante. Chen examina histórico, ainda não anuncia reação. Cópia reelaboraarte/texturas/música/UIcomjogabilidadeigual; equivalências Ervilhadora→Torre de Metralhadora/Espinheira→Armadilha Eletromagnética/Girassol→Estação de Suprimentos/Canhão de Milho→Lançador de Mísseis Nucleares. Separadorescomentários***.
+
+Tabela/continuidade/handoff atualizados; TXT41–45pendentes, leitor1–40 preservado; próximo46/fonte46. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-045-20261115-202910/. Clube/JS não alterados; semcommit/push.
+
+Validação45: UTF-8, cabeçalho/final, sequência1–45, integralidade/contexto/nomes/800mil/2meses/20vitórias/nota2,3/3retornos/separadores conferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Almighty Game Designer — capítulo46 traduzido — 15/11/2026
+
+Fonte46→capítulo46, Esse jogo não vai fazer sucesso. Chen recusa ação judicial por cópia de jogabilidade com arte/música/documentos refeitos; explicações jurídicas e casos fazem parte do texto ficcional, não orientação jurídica verificada. Títulos Legends of the Three Kingdoms/Battle of the Three Kingdoms/Bang!/Monument Valley/Echochrome e nota[1]repetida na fonte preservados sem inferir outros nomes/corrigir alegações. Chen joga2fases prevê fracasso, sobe para planejar próximogam eaindaindefinido; não revela razão. Grupo especula nota/boicote/monetização. Su joga, sente repetição/tutorialarrastado antes3ªfase; não inventar conclusão ainda. Fonte descreve padrão3ªfase e emseguida vontade de desistir antesdechegar, preservado sem reordenar. WengLingwei→WenLingwei lapsoisolado normalizado. Glossário Sky's Limit/Lunar Defense/Estação de Suprimentos/Torre de Metralhadora mantido.
+
+Tabela/continuidade/handoff atualizados; TXT41–46pendentes, leitor1–40 preservado; próximo47/fonte47. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-046-20261115-203031/. Clube/JS não alterados; semcommit/push.
+
+Validação46: UTF-8, cabeçalho/final/nota[1], sequência1–46, integralidade/contexto/nomes/2fases/3ªfase conferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Almighty Game Designer — capítulo47 traduzido — 15/11/2026
+
+Fonte47→capítulo47, O jogo da Emperor Dynasty Entertainment. Chen pesquisa testes/lançamentos. Explica3motivosfracasso Lunar Defense: réplica/tutorialrepetido, monetizaçãoanúncios/créditos incompatível, arte desconectada dajogabilidade. Outrascópiasmenorespiorqualidade. Guardian of the Holy Spring, Qiu Bin classeB comsucessosanteriores, temdiferenças reais det erreno/defesas/tropas/dificuldade/combate; inspiraçãoevidente mas não rotular como cópi aexata. Fonte Sagrada/barreirasmágicas/torrescristal/ninhosdragões/acampamentos contra demônios. Vídeodeteste; lançamento sóprevisto emcerca3meses; potencialsuperarPVZporcanais é projeção, nãoresultado. Qiu Bin nãoé Qiu Hengyang juradodoscapítulosiniciais. Chen decide próximojogo, AINDAsemnome. Lapso Entertainment Dynasty Entertainment→Emperor Dynasty Entertainment normalizado. Termos técnicos towerdefense→defesadetorres/canais→divulgaçãoedistribuição. Contraste dois meses jádecorridos/PVZ e trêsmeses futuros/Guardian preservado.
+
+Tabela/continuidade/handoff atualizados; TXT41–47pendentes, leitor1–40 preservado; próximo48/fonte48. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-047-20261115-203149/. Clube/JS não alterados; semcommit/push.
+
+Validação47: UTF-8, cabeçalho/final, sequência1–47, integralidade/contexto/QiuBinclasseB/2mesesdecorridos/3mesesprevistos/nomes conferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Almighty Game Designer — capítulo48 traduzido — 15/11/2026
+
+Fonte48→capítulo48, Dez giros, de novo e de novo. PVZ900mildownloads rumo1milhão. Repasse500milcópias/~2,8milhõesyuans; recarga2,7milhões→27milhõespontos/27rodadas10=270prêmios, sobra~100milealgumtroco. Prevê2,5milhões mêsseguinte paraoutrofim. Consome Cápsula da Sorte guardada19/duração10min; sorteiosduram5min.135livrosdesigner/81especiais/54equipamentos, proporção5:3:2vs7:2:1anterior. Lista designer47Programação+39Fases+22Sistemas=108dos135, incompleta na fonte, não inventar27restantes; consumoalgunsProgramação antesdacontagem narrado semquantidade. Especiais34ArteConceitual+33Arte3D+10MúsicaEfeitos+4Storyboards=81. Equipamentos47PoçõesReproduçãoMemórias+1InterferidorRaiva+6Superaceleradores=54; efeitosnovos ainda não explicados. Possibilidade sortear outraCápsula mencionada genericamente, NÃO aquisição específica. LivroStoryboardprimeiro+10demais+1; nova habilidadevisual distinta do atributo anterior Design de Narrativa. Notainglesa[2]agora confirma ambiguidadeanterior e distinção; preservar notas[1]CG/[2], esclarecer denominação PTsemrenomear antigoscorretos. Account para registroplaca interpretado registroresidência em itálico, sem confirmaçãochinês. Números financeiros/ratioanterior não reconciliados por suposição. Próximojogo pretende monetização/recargas, ainda semnome.
+
+Tabela/continuidade/handoff atualizados; TXT41–48pendentes, leitor1–40 preservado; próximo49/fonte49. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-048-20261115-203327/. Clube/JS não alterados; semcommit/push.
+
+Validação48: UTF-8,cabeçalho/final/notas[1][2], sequência1–48, somas135+81+54=270/81/54, lista135incompletapreservada, tempos/nomes/itálico/contextoconferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Almighty Game Designer — capítulo49 traduzido — 15/11/2026
+
+Fonte49→capítulo49, Por que estão discutindo? InterferidorRaiva terceiroalvo/15min/decisõesruins; Superacelerador3xeficiência/8h, dormir10h, máximo1a3dias, efeitosadversosseexcesso. Itensguardadossemuso. Consome livros: Narrativa100alcança2ºnível, abrevisualizaçãohabilidadesREAIS pulseira: Sistemas93/Programação72/Fases71/Narrativa100nível2/ArteConceitual53/3D35/Animação10/MúsicaEfeitos20/Storyboards13. Motor separadopúblico/classeC: Criatividade49/Sistemas30/Programação48/Fases53/Narrativa15/ArteConceitual36/3D1/cota0de1,6GB. Não confundir estimativas antesconsumo comreal, motor avalia trabalhosmostrados. Mensagemnível1malredigida mantida itálico; narraçãoexplica sóenredossimples, nível2paracriaçãoenredosclássicos. Próximojogo aindasemdefinição. Dia seguinte8h30SuavisaWeibobrigafãsPVZvsEmperor; Chen20minentende, vídeogravadoescondido/player emloja. Faladiálogo2diasvsnarração3dias preservada semcorrigirdatas. QiuBinmantémsilêncio, fãsrevidam; gancho aindaaberto. Insultos3comentáriospreservados, separadores***.
+
+Tabela/continuidade/handoff atualizados; TXT41–49pendentes, leitor1–40 preservado; próximo50/fonte50. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-049-20261115-203500/. Clube/JS não alterados; semcommit/push.
+
+Validação49: UTF-8,cabeçalho/final,se quência1–49,duaslistasatributoscomparadasàfonte, duraçãoitens/horários/nomes/itálico/separadores/contextoconferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Almighty Game Designer — capítulo50 traduzido — 15/11/2026
+
+Fonte50→capítulo50, Emperor Dynasty Entertainment? E daí? Seiscomentáriosdefensores/4ataquesnoWeiboChen; Fantasy Tower Defense nome citado porfãs, não confundirGuardian. Chen defendejogadoreseprovocaQiuBinpublicamente. QiuHengyang mandaDMalertandopodercanais, explicitaNÃOirmãoQiuBin/sósobrenomeigual; evitarconfundirpersonagens. Dentro1horaDMs, depois+30minQiuBinsilente. Chenplanejaatraí-loaposta/prepararpróximosjogos, termosapostaNÃOdefinidos. Consome ÚNICOInterferidorRaivaemQiuBin;1mindepoissemresposta, nova provocaçãofinal. Não narrar efeito/reaçãoda vítima ainda. Expressão apostaamistosaboasintenções mantémironia. Fontecomeçamarkdownespúrioasteriscosperguntas removido, separadores***entreblocoscomentários. Título?mantidoemcabeçalho/tabela, removidos?nomedoarquivoWindows.
+
+Tabela/continuidade/handoff atualizados; TXT41–50pendentes, leitor1–40 preservado; próximo51/fonte51. Próximo publique revisa41em diante. BackupSHA256: backups/agd-capitulo-050-20261115-203626/. Clube/JS não alterados; semcommit/push.
+
+Validação50: UTF-8,cabeçalho/final,se quência1–50,10comentáriosiniciais/nomes/horários/consumoitem/contextoconferidos;4backupsSHA256íntegros; leitor40preservado.
+
+
+## Revisão e publicação local 41–50 — 15/11/2026
+
+Dez capítulos revisados em sequência com as fontes e o contexto acumulado: entrevista e contratação de Su Jinyu41–42; integração à loja e quatro versões do projeto43–44; atualização40MBlançada e imitações45–47; sorteios/atributos48–49; discussão no Weibo e provocação a Qiu Bin50. Continuidade coerente, sem renumeração ou reordenação. Ao final50 ainda não se conhece o próximo jogo nem os termos da aposta; Interferidor de Raiva consumido, sem resposta do alvo narrada.
+
+Três ajustes de fluência:41 remove redundância em responsável/confiável;42 naturaliza pergunta sobre aparência;48 explicita que os candidatos ao lançamento são jogos. Nenhum corte, mudança de números, títulos, parágrafos ou encerramentos.1–40 idênticos à publicação anterior. Notas da tradução inglesa, insultos ficcionais, itálicos e separadores preservados.
+
+Distinções conferidas: Design de Narrativa (enredo, agora100/nível2) e Storyboards (desenhos dos planos,13) são habilidades diferentes, conforme nota48 e lista49. Valores reais da pulseira e avaliação do motor não são intercambiáveis. Qiu Hengyang e Qiu Bin são pessoas distintas, sem parentesco confirmado além de sobrenome coincidente; diálogo50nega seremirmãos. Lunar Defense é imitação direta; Guardian of the Holy Spring tem mudanças relevantes e lançamento futuro, não igualar os dois casos.
+
+Pendências da fonte mantidas: lista de livros48 discrimina108dos135, sem inventar os27restantes; cálculo de renda aproximada/repasse e proporção de sorteios anteriores não reconciliados por suposição; mensagem malredigida do sistema49 e account/registro de residência48 seguem marcados. Vídeo49 referido como dois dias no diálogo e três na narração: não inventar datas. Alegações jurídicas46 e referências históricas/notas são conteúdo da fonte, não verificações externas.
+
+Leitor local1–50, último50 — Emperor Dynasty Entertainment? E daí? Nenhum TXT pendente nesta obra. Próximo51/fonte51; próxima revisão automática51em diante. Backup prévio de19arquivos SHA256: backups/agd-publicar-revisar-041-050-20261115-204654/; ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação41–50 concluída: reader.test.cjs aprovado;50TXT idênticos aoJS/títulos/notas/itálicos/separadores; catálogo50, navegação/limites/retomada/progresso e preferências isolados aprovados. Sintaxe dos cinco scripts e19backupsSHA256íntegros conferidos. Arquivos da aplicação/conteúdo do Clube preservados. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.
