@@ -82,19 +82,19 @@ O efeito dura dez minutos... É óbvio que foi feito para usar junto dos dez sor
 
 Deixa pra lá. Vou guardar para a próxima...
 
-Agora, Chen Mo estava numa situação delicada. Os créditos haviam acabado, e restavam cem mil yuans no banco. Seria arriscado demais transformar todo o restante em créditos. O mais seguro era voltar aos sorteios depois de ganhar algum dinheiro com seu primeiro jogo.
+Agora, Chen Mo estava numa situação delicada. Os créditos haviam acabado, e restavam cem mil yuans no banco. Seria arriscado demais transformar todo o restante em créditos. O mais seguro era voltar aos sorteios depois de ganhar algum dinheiro com o primeiro lançamento comercial de sua empresa.
 
 Chen Mo consumiu os livros de Design de Narrativa e Programação. Embora fossem seus pontos fortes, ainda estavam longe da perfeição. No fim das contas, continuavam sendo úteis.
 
 Ele desligou a tela virtual, tentando se acalmar.
 
-Duzentos mil yuans gastos em recargas, livros de habilidades e equipamentos especiais sorteados... Agora só faltava criar seu primeiro jogo de verdade.
+Duzentos mil yuans gastos em recargas, livros de habilidades e equipamentos especiais sorteados... Agora só faltava criar o primeiro jogo comercial de sua empresa.
 
 Chen Mo ainda estava indeciso sobre qual jogo fazer.
 
 Pensando apenas em ganhar dinheiro, a melhor opção seria um jogo chinês de celular de pagar para ganhar, de seu mundo anterior.
 
-Esses jogos não tinham uma qualidade extraordinária e atraíam os jogadores principalmente por meio da programação. *Não era preciso transformar um jogo assim em algo tão centrado na monetização.*
+Esses jogos não tinham uma qualidade extraordinária e atraíam os jogadores principalmente por meio da programação. *Não se devia fazer um jogo assim girar excessivamente em torno da monetização.*
 
 Porém, duas coisas o preocupavam.
 
@@ -108,11 +108,11 @@ Uma boa programação dava ao jogo uma base sólida. Ainda era possível salvá-
 
 Como Chen Mo não tinha nem trinta pontos em Programação, criar um jogo assim envolveria riscos, mesmo com a ajuda da Poção de Reprodução de Memórias.
 
-O código desses jogos ficava sempre parcialmente oculto, incluindo os cálculos de combate, a evolução dos atributos, as relações de vantagem e desvantagem, os algoritmos da economia e assim por diante. Cada parte tinha suas próprias configurações, mantidas por profissionais. Eram, essencialmente, segredos comerciais aos quais uma pessoa comum não tinha acesso.
+A lógica e os parâmetros internos desses jogos ficavam sempre parcialmente ocultos, incluindo os cálculos de combate, a evolução dos atributos, as relações de vantagem e desvantagem, os algoritmos da economia e assim por diante. Cada parte tinha suas próprias configurações, mantidas por profissionais. Eram, essencialmente, segredos comerciais aos quais uma pessoa comum não tinha acesso.
 
-Como o código era uma parte tão importante desses jogos, assim que vazasse, outras empresas poderiam usá-lo como base para produzir uma cópia.
+Como essa lógica e esses parâmetros eram uma parte tão importante dos jogos, assim que vazassem, outras empresas poderiam usá-los como base para produzir uma cópia.
 
-Se criasse um jogo daquele tipo, Chen Mo teria que escrever todo o código por conta própria. Porém, não tinha confiança de que conseguiria lidar com aquilo com suas habilidades atuais.
+Se criasse um jogo daquele tipo, Chen Mo teria que *definir por conta própria toda essa lógica e seus parâmetros*. Porém, não tinha confiança de que conseguiria lidar com aquilo com suas habilidades atuais.
 
 Havia ainda outro problema: a aceitação dos jogadores!
 
@@ -124,10 +124,10 @@ Se ele produzisse um jogo comum de pagar para ganhar e os jogadores percebessem 
 
 Será que reagiriam com forte oposição, prejudicando a imagem dele e da empresa? Talvez alguns até boicotassem seus próximos jogos?
 
-Era difícil dizer. Uma chance pequena não significava que aquilo não pudesse acontecer. Como aquele seria seu primeiro jogo, Chen Mo não queria correr o risco.
+Era difícil dizer. Uma chance pequena não significava que aquilo não pudesse acontecer. Como aquele seria o primeiro lançamento de sua empresa, Chen Mo não queria correr o risco.
 
 O gosto dos jogadores e o espaço para os jogos de pagar para ganhar naquele mundo ainda eram desconhecidos. Precisaria testar o terreno aos poucos. Um passo em falso poderia ser devastador.
 
-Por isso, Chen Mo escolheu o caminho mais seguro: criar um jogo independente, que pudesse ser jogado sozinho, e ganhar dinheiro honestamente com ele.
+Por isso, Chen Mo escolheu o caminho mais seguro: criar um jogo para um jogador, e ganhar dinheiro honestamente com ele.
 
 Seu plano era se firmar com aquele jogo, ao menos tornar o nome da Thunderbolt Games conhecido, e só depois testar aos poucos os limites dos jogadores!

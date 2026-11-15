@@ -193,3 +193,9 @@ Sete TXT6–12 integrados integralmente sem revisão narrativa;1–5 idênticos 
 ## Publicação local13–20 — 15/11/2026
 
 Oito TXT13–20 integrados integralmente, sem revisão narrativa. Capítulos1–12 idênticos à publicação anterior; catálogo/índice calculam20. Último20 — Novo jogo definido; próximo21/fonte21, nenhumTXTpendente nesta obra. Backup SHA256: backups/agd-publicar-013-020-20261115-154917/. Clube preservado522/279–800 e pendentes801–803. Commit/push manuais; estados inferiores históricos.
+
+## Revisão contextual1–20 concluída — 15/11/2026
+
+Usuário autorizou melhorias de tradução com contexto atualizado e revisão automática de lote antes de publique. Revisados todos20, sem salto de história. Ajustes capítulos2/3/6/7/10/14/16/18/19/20, integralidade e quantidade de parágrafos preservadas. TXT e JS sincronizados. Consultar REVISAO-CONTEXTUAL.md para achados, termos e pendências da fonte. Pitfalls→pontos fracos; stand-alone→jogo para um jogador; primeiro jogo→primeiro lançamento comercial da empresa, mantendo FlappyBird. Coding continua atributo Programação, mas exemplos de lógica/parâmetros de balanceamento explicitados; definição manual contextual incerta marcada, sem renomeação global sem chinês. Frase monetização19 ainda ambígua, shouldnt→não se devia. Receita bruta10 não confundida com lucro líquido. Números contraditórios da fonte preservados.
+
+Último lote revisado1–20; próximo21/fonte21. Antes do próximo publique revisar21até último recebido, aplicar correções contextuais autorizadas com backup, registrar e sincronizar. NenhumTXTpendente. Esta entrada supera decisões históricas de não revisar automaticamente capítulos anteriores. Backup: backups/agd-revisao-contexto-001-020-20261115-155333/.

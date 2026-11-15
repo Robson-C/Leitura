@@ -52,7 +52,7 @@ Alguns jogos chineses de pagar para ganhar podiam parecer fáceis de desenvolver
 
 Por exemplo: como diferenciar os níveis VIP? Qual seria a diferença de poder entre jogadores de níveis VIP distintos? Quanto o jogador ganharia ao fazer uma recarga? Até onde ele conseguiria avançar em determinado número de dias? Como controlar o ritmo do jogo?
 
-Tudo aquilo envolvia questões de programação. Embora Chen Mo as conhecesse, não tinha certeza absoluta de que conseguiria resolvê-las.
+Tudo aquilo envolvia a programação da lógica do jogo, especialmente os cálculos de balanceamento e progressão. Embora Chen Mo as conhecesse, não tinha certeza absoluta de que conseguiria resolvê-las.
 
 No fim das contas, FlappyBird ainda era um jogo extremamente simples, praticamente sem exigências de programação ou design de fases. O crescimento explosivo de jogos daquele tipo não podia ser reproduzido à vontade. Pensando no futuro, Chen Mo precisaria dominar todas aquelas áreas. Teria que elevar todos os atributos ligados à programação para mais de oitenta a fim de recriar um clássico da vida anterior.
 

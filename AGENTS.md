@@ -1,5 +1,14 @@
 # Regras do projeto Leitura
 
+## Revisão contextual antes de “publique” — autorização permanente de 15/11/2026
+
+Por instrução explícita do usuário, “publique”, “publicar” e equivalentes incluem revisar linguisticamente e conferir a continuidade de todos os capítulos da obra ativa traduzidos desde a publicação anterior ANTES de integrá-los ao leitor. Usar o contexto acumulado para corrigir interpretações, termos, referências e fluência, sem pedir nova aprovação a cada ajuste desse tipo. Comparar com a fonte disponível; preservar acontecimentos, nomes confirmados, integralidade, numeração e ordem. Criar backup antes de revisar e manter TXT e chapters.js sincronizados. Registrar termos corrigidos, dúvidas e último lote revisado na continuidade da obra.
+
+Não inventar explicações, números, nomes ausentes ou acontecimentos para encobrir defeitos da fonte. Quando o contexto não resolver uma ambiguidade, manter indicação de incerteza e registrar a pendência. Não aplicar uma hipótese terminológica global como se tivesse sido confirmada pelo original. Não confundir revisão de tradução com revisão de código da aplicação. Renumerações, reordenações, fusões, complementos narrativos ou mudanças materiais fora desse fluxo continuam exigindo esclarecimento próprio. Commit, push e implantação remota permanecem manuais.
+
+Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos iniciais de Almighty Game Designer e atualizar sua versão local publicada. Último lote revisado:1–20. Próximo envio21; próxima revisão automática começa no21, sem impedir correção pontual de trecho anterior que contexto novo esclareça, com backup/registro/sincronização.
+
+
 ## Esclarecimento vigente do usuário — 21/10/2026
 
 Nesta máquina, trabalhar em C:/Users/Robson/Documents/Curso/Leitura, conforme indicação explícita do usuário; o caminho Kanban mencionado abaixo pertence à outra máquina. O envio de cada novo capítulo aciona o escopo permanentemente aprovado de tradução, TXT UTF-8 e registro de continuidade, sem nova confirmação. “Publique”, “publicar” e variações equivalentes acionam a preparação offline já aprovada, também sem reconfirmação. Pedir confirmação somente para ampliação material do escopo ou conflitos que exijam esclarecimento. Commit, push e implantação remota continuam manuais e fora desses comandos.
