@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 15/11/2026: capítulos 1–30 traduzidos integralmente em TXT UTF-8, revisados contextualmente e integrados ao leitor; nenhum TXT pendente nesta obra. Próximo esperado: fonte 31 → capítulo 31, conforme o material enviado.
+Estado em 15/11/2026: capítulos 1–40 integrados e revisados contextualmente; nenhum TXT pendente nesta obra. Próximo esperado: fonte 41 → capítulo 41, conforme o material enviado.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -268,6 +268,102 @@ Listasatualizam: CavaleiroTempestade recebe doisdestaquessimultâneos/gênero+no
 
 Gamemarket/store→lojaoficial; spot/recommendation→espaço de destaque/recomendação; stats→números/estatísticas; go viral→virar febre. Nomesconformeanteriores. Não confundir jogoLin jácomercial com PVZpré-lançamento, nem sucesso potencial com resultadoobtido. Próximo publique revisar21–30e eventuaisnovos antes integrar.
 
+## Capítulo 31 — Táticas especiais de divulgação
+
+Fonte31→capítulo31. DiaseguinteJia/amigos chegamcedo semaula apoiar lançamentoPVZ. Quatrodiasprimeirogrupo/3–4diasAventuraterminada, agoraInfinito: Jia84/Wen93lider/outros60–80, Chen provoca verdadeirojogocomeçadepois100. Nãoharmonizar84comoutros60–80poisfaixaaproximada. LançamentoPVZplanejado12h, primeiras24hstats/ratings vitais; orçamento limitado apostaFB+repercussãoimprensa.
+
+10hFlappyBird disponibilizado gratuitamenteparaSEMPRE/anúncioredirecionaPVZ. Inglês diz “his game” nessa frase, identificado FB porpostseguintedizPVZsó12h eadsdentroFB; nãoafirmarPVZjácomercial10h. Fimgratuidadeobrigatória não muda modelofree, agora podepublicar/monetizaranúnciosmas escolheautodivulgação. PostWeiboanunciaPVZ12hPCcelular/desafia100mildownloads1mês/marcaShi+dezenasveículos, incluiHengyouVideoGamesChannel. Nomeausenteentrevírgulasnãoinventado, outrosperfis genéricos. Handles fonte são descrições, não URLsverificadasnemcontasreaiscontatadas.
+
+Imprensaem10minrepublica porconflito/campeão/desenvolvimento3meses; Chen obtémpromoçãográtis e mídia assunto. Previsão100mil×10yuans=1milhãobruto/~500millíquido é HIPÓTESE/APROXIMAÇÃO, não vendas realizadas/preçodefinitivoconfirmado nem brutoatual. Aindaaguardam12h ao final, nãoanunciar resultado/receita jáobtida. Primeirojogo→primeirolançamentocomercialconforme revisão1–20.
+
+Pendênciafonte: tela25descrita zumbisesquerda/plantasdireita, cartaz31dizplantasesquerda/zumbisdireita; descriçõespreservadas, semalterarimagemexterna. Statsseparate downloadsvendasfonte alterna, conservadasnosrespectivostrechos. Leaderboard→ranking, manager→chefe(dirigidoaChen, nãoWen); nomes/marca/glossárioconsistentes. Próximopublique revisar31em diante.
+
+## Capítulo 32 — Lançamento explosivo!
+
+Fonte32→capítulo32. PVZLANÇADO12hPC/celular, foco mobile porpúblicoPCpequeno; PREÇOAGORACONFIRMADO10yuans/compra, semanúnciosPVZ, queralcancetodasidades. Faixasloja grátis/1/10/20/50/>50 conformefonte. Jia/grupo compra5estrelas, Chenagradececháscomleitecortesia; Wen/aulamanhãprevistavirátarde,aindachegadanãonarrada.
+
+Stats13h887downloads9,7/10;14h1333;15h1914, acumuladosnãoincrementoshora. +~500/h, avaliaçõesdepois9,1–9,4/nunca<9; estimativa10mildownloads24h,NÃOresultadojáobtido. >1000repostsWeibo/alcancecentenasmilpotenciais estimado. Statsloja1h/ranking3h/destaques24h. PrimeirorankingatualizadoPVZ1º/LinCavaleiroTempestade3º. Imprensasurpresa, Chenplanejavamaioresmetas. NãodizerapenasrankingPCnem10mildownloadsconfirmados.
+
+DuascontradiçõesFONTE sinalizadasTXT:100milyuansnemcompram10sorteios mascustoregistrado100mil/exato (líquidocálculoaproximado); topo ranking “1hdepois” apesarfluxodados15h/atualização3h e finaltrêshoras. Mantidossemrenumerardadosneminventarhorários. Primeiraobservação sobre24h é critérioprojeção, não avançarrelógioparadia seguinte. DesktopjogoPCpublicado masfocomobile, semfaturamentofinal.
+
+Termos/nomes/glossário consistentes; bruto/líquido distinguidos. Publicidadepaga0referecompraanúncios, háautodivulgaçãoFB/mídiagrátis, semcontradição. Próximo publique revisar31–último antes integrar.
+
+## Capítulo 33 — Pequenos truques para o modo Infinito
+
+Fonte33→capítulo33. TardediadolançamentoWen/Chang/amigoschegam/lojaanimada/PCepoltronas. Wenpede passar100Infinito, grupo querdicas;Chencede demonstração paraexploração,semspoilercompletográtis. MaisjogadoresgêniosfuturosésuposiçãoWen, aindanãoapareceram. RespostavaiVirarFebreésimplificaçãoparabrincadeira,nãonovodadovendas.
+
+Chenusaoutroprograma/código ajustafase2012, colocaplantasviamotor paraadiantarpreparação, não recordelegítimoganho. Piscina4CanhõesMilho/4GirassóisDuplos/6CogumelosSombrios;terrenos2fileirasdecada lado espelhadas, mais4canhões terrestres, total8. Fileira1MelanciaCongelada/CogSombrio/2Melancias/Canhão/Espinheira;fileira2FolhaGuarda-chuva/CogSombrio/Melancia/Folha/Canhão/Espinheira. AbóboraProtetoraemtudoqueaceita(canhãonão).3000solseleção10plantas. Aindanãoinicioucombate,nãoinventarvitória/dicasdecontrole.
+
+Glossário novo: CobCannon→Canhão de Milho; TwinSunflower→Girassol Duplo; GloomShroom→Cogumelo Sombrio; UmbrellaLeaf→Folha Guarda-chuva; Spikeweed→Espinheira; IceShroom→Cogumelo Gelado; PuffShroom→Cogumelo Fumacinha; SunShroom→Cogumelo-sol; CoffeeBean→Grão de Café; ChillyPepper→Pimenta Explosiva; Pumpkin→Abóbora Protetora DIFERENTE Squash→Abóbora Esmagadora; MimicCherryBomb→imitação daCereja-bomba. WinterMelon/Cereja-bomba/CogumeloApocalipse mantidos. UmbrellaLead lapso→Leaf. NomeWenLingwe→WenLingwei.
+
+Umafala“Ismanagerthatguy?” semreferente claro vertida *Ochefeéd a queles?* com marca de incerteza, seminventarqualidade/insulto. Fala deespectadordiz sóexplosivasusoúnico apesarlista10tambémoutrasplantas, mantida comohipótese/entendimento deles, não corrigiropiniãoparamecânicaverificada. Próximo publique revisarlote31em diante.
+
+## Capítulo 34 — Fase concluída!
+
+Fonte34→capítulo34. Cheniniciademonstração2012/CogumeloGeladosegundafileira, hordasGargantuarsolhosvermelhos/arremessamImps→Zumbizinhos, primeiros8eoutroscontínuos. Explosões/canhões/melancias/cogumelossombrios, plantasbaratasatrasamavanço. Ritmo/mira/previsãocontrole, semperdasplantasnaonda;final~1minvence2012plantasquasevida/tiposbombasrecargaquasepronta/poucosol. CENÁRIOpré-configurado33, não recorderealpartidadocomeço. Alunos espantados com execução alémformação.
+
+Pedemrepetir/explicarpontos,Wenameaçaavaliaçãoruim/outrosbrincamjunto; NENHUMAavaliaçãoruim efetiva narrada. Chenrecusa/mantersensodescoberta. VoltamPC/montamformação/praticam/comparamlembranças. Fasesiniciais montardefesas, avançadas cartasdebombas, não removemcanhõesparacolocarbombasna mesmaárea. Não narrar quealunosjávenceram2012ou4000, apenascapazesmontar.
+
+Build3Coitocanhões/quatroGirassóis, notainglesa3Cautordeestratégia mantida atribuiçãoorigem. Texto33GirassóisDuplosagoraabreviaGirassóis, compatível. Fonte dizcapaz4000+ (potencial build, não feito realizado). Maiscanhõespoder/fragilidade/lacunaderecarga→cascataderrota. APM→açõesporminuto; Gargantuar nomepreservado eImps→Zumbizinhos; demaisplantasmantidasglossário33. Frasecode/swapcartasexplicada pelo contexto loadout33semcriar mecânica nova. Semnovosdadosvendas/PVZaindadiadolançamento.
+
+## Capítulo 35 — Destaque na página inicial!
+
+Fonte35→capítulo35. ContinuaestratégiasInfinito:22+canhõesdifíceis, exigeconhecerondas/antecipardisparos, formaçõessetacoração/meiomapa/semcanhões/mnemônicos, congelarpiscinaemmomentosprecisos evitaemergentes. Conhece teoria mas Chen precisariatreinar paraexecutarmaisavançadas, nãoinfallível. Não revela dicasadicionais, alunospraticam/esquecemapoiarevento. BaiduStickyNotes→fórunsdoBaidu pelo contexto tópicos20–30páginas, nãoblocodenotas.
+
+Tarde/noitelançamento acelera500→800downloads/h, topnovos1º, entraoutrosgêneros/top500pagos, nota9,2. Comentáriospositivos/mídia/designerstestam. Algumasnegativasvazias, contrataçãomaldosaésuspeitaChen não comprovada. Comentáriosseparados***, preservados todos; contadorasteriscosdeveignorarseparadores.
+
+Diaseguinte12h(são24hdelançamento): Jiaamigosloja/Wenausenteatémeiodia, dormspósnoitejogoéhipótese; Jia109versus84diaanterior, +25(mais20), Chenvence2012demonstradopré-config. RESULTADO24HCONFIRMADO23187downloads/nota9,1. Cresceunanoite/já>20milmanhã; nãoestimativa10mildocap32. Top10quebra-cabeça/estratégia/casual, top100pagos. DestaquenapáginainicialImperdíveisdeHoje.
+
+Seçõesdestaque: melhor clássicosbannerrotativo+5outros(6jogosconforme literal); segundoEmAltaHoje10íconesgrandes; terceiroImperdíveisdeHoje10–20grandes; últimoEspeciaisdeHoje~30. Mesmoúltimopáginainicialmelhorpágina2+. Mantê-lasdistintas, nãoconfundirrankingpagoscomposição3dadivulgação. Nãofotrarfaturamentolíquidojádepositado nemtotaldownloads>100milatingido.
+
+Whengroupse dizmanhãloja onlyJia,foiquandomeiodia, não inventarhoráriochegada. Statedlevel2000éabreviação2012, semmudarrecorde. Próximo publique revisarlote31–último e atualizar limite/testes.
+
+## Capítulo 36 — O jogo virou febre!
+
+Fonte36→capítulo36. Após24h>20mil imprensa publica matérias/reformulaexpectativas8–10mil e aumentaalcancejunto destaqueoficial. Manchetes/7 e comentáriosWeibo/5preservados separadores***. Shi apagarespostaaChen, não publicanovoscomentários, irritado mas evitaataques; debochesdesistemsemreação. “500milprimeiromês”éspeculaçãoempolgadainternautas,NÃOresultado jáobtido. Mancheteentrarrankingquebra-cabeças é textoimprensa, não rebaixar top10confirmado35.
+
+Zhao/LintelefonamparabenizarCHEN. Fonte erroneamente dizLincongratulateShi, corrigidopelodiálogoexplícito/fluxo. ZaoZihao→ZhaoZihao. ZhaoaguardaP2Wprometido, Chennãoesqueceu. Linagora2ºnovos(35anterior3º→progressão), elogiaPVZ/longaduração, sugerePVZ2 e tendênciapuzzle. Chenrecusa, próximonãoserápuzzle/pelomenosporora; NOME/ESTILOESPECÍFICOAINDANÃOREVELADO. Nãotratarrecusacomoimpossibilidadefuturadevoltaraogênero.
+
+Notaemtorno9,3/nunca<9, poucasdevoluções; lojareembolsa tempocurto/motivoválido conformeficção. Alegaçõesreviewsdeconcorrentes apresentadasnarradorsemnovaevidência, seminventarnomes/ações. Análise setorpuzzleinovaçãobarreiraC/D, expectativaseraouro. Textoaberturadizpúblicomenor(naperspectivamídia)/finaldizamplo, distinçãodeponto vista mantida semtrocarnúmeros. Semnovototaldownloadsexatodesde23187docap35, nemreceitalíquidadepositada. Próximo publique revisar31em diante.
+
+## Capítulo 37 — À frente da onda dos jogos casuais
+
+Fonte37→capítulo37. AVANÇO30DIAS: acumulados24h23187/3dias77409/7dias122375/30dias514580. Agora>500milvendas primeiro mês CONFIRMADAS, antesprojeção36;Chen>2milhõesyuansganhos/90milseguidoresWeibo. Não calcular valorlíquidoexatoque fonte nãofornece. ComunidadesestudamInfinito/rankings, imprensa/designeranalisam. DesignerAanonimodaZen publica elogio e renascimentopuzzle/casual, dizmais2–3jogosnívelPVZpoderia seromelhorChina; ÉOPINIÃO/PREVISÃO,nãoclassificaçãooficialdeChen nem promoçãoA.
+
+ChenavaliaPVZrecriado≥90%,poderia maisvendas frenteoriginal300mil9diasconformelembrança;campanhaspagasnenhuma sóimprensagrátis, lançadoSÓCHINA, internacionalpossível mas nãoprioridadeporriscogostos/tempo. Não inventar global/localizaçãojáfeita. Longopostpreservadoparágrafosaspas como faladoescrito deum personagem.
+
+10hmanhã póscomemoraçãoaté23h comLin/Zhao. CavaleiroTempestadeprimeiromês70mildownloads/top3novos/~800milyuansLin; númerosaproximadoscoerentescom20yuans/encargos mas semnovototalexatoimposto. Admiração/amigofelizsemciúmehostil. Wen/Jiavisitasmenosfrequentesapós1mês/pedemnovojogooucontinuação. Chenreconhecemaioriagosta1–2meses/alguns1–2anos, jogoindividualcompraúnicavendeantesfiminteresse. PretendeATUALIZARPVZantesnovojogo. ConteúdodaATUALIZAÇÃO e próximojogo AINDA NÃO REVELADOS. NãoafirmarPVZ2planejado nem mudançadeideiagêneropróximo36.
+
+Zhaonomemantido;standalone→jogoindividual coerente19, compraúnicaexplicadacontextualpormodelopago32. Puzzle/casual como categorias sobrepostas da obra. Não transformar afirmaçõesmarketingpersonagem em fatos externos verificados. Próximo publique revisar31em diante, preservar númerosecronologia.
+
+## Capítulo 38 — A visita da vizinha
+
+Fonte38→capítulo38. Chenestudafóruns/opiniõesparaATUALIZAÇÃOPVZ,nãoescolheuconteúdoainda. ZhuoYao/donalanhouseFates retorna1mêsdepois/ocupadaeviciadaPVZ. Infinito97ela, ofereceensinarChenprimeiras50semreconhecerautor. ChenapontagarotanumPCem174, NÃO NOMEADA, nãoassumirWen/Chang. ZhuopercebetodosPVZ/lojaexclusivatítulosautor/logotipo, descobreelecriador. Pedeestratégiaselemandafóruns,mesquinhariabrincadeira. Copoáguaoferecido, não cobrança bebida especial inventada.
+
+LanhouseFateséPC, pensouVRmascapitalalto/semverba, preocupa declínioperanteVR. Chenquestionainevitabilidade: faltamgrandesjogosPC, futurohitpoderácompetirVR;usaPVZmercadoexemplo/autoelogio. Recomenda manterPCsemvisãotãosombria. NÃOPROMETEutópicohitjáfeito, nemnomepróximojogo, nemmudançalanhouseVRacontecida. Standalone→jogosparaumjogador, não transformarem anúncioexclusividadePC porque inglêsnãodiz. Fontecontexto contrapõePCVRmasfalamobilePVZnãoajuda, preservaropiniãodeZhuo.
+
+NomesZhuoYao/Fates/contas/marcas preservados. Avanço1mêscoerente37 e desdevisita24, semnovaquadra temporal. Faladiálogo primeiroChenlanhousecomparação depropósito mantida/comréplicaZhuo, nãoerroneamenterenomearlojaChenlanhouse. Finalconversaaindana loja. Próximopublique revisarlote31–último antesintegrar.
+
+## Capítulo 39 — Contratações
+
+Fonte39→capítulo39. ChenrefleteMOBA dominaria5–10anos naexperiênciamundoanterior e inexistência gêneroatual/VRpressionaaventuraFPS/estratégia/gerenciamento,nãocasuaiscelular. EntendehitMOBApoderiasalvarPC/lanhouses, NÃOrevela conceitoaZhuo/outros,nãodefineMOBAcomo próximolançamento. NotainglesasiglaMOBA/LoL/DotApreservada; alegaçõesnarrativas nãosãorecomendações oupesquisarealexterna.
+
+Zhuoapontaatendimentotérreo10–20h versus escritórioacima, Chenpercebeproblemaapesarautoatendimento/manutenção/limpezaterceirizadas. Ela parte/convitevisitarsemanunciarexpedientecontratada. ChenpodepagarpessoapelaestabilidadereceitaPVZ;consideraassistente/riscovazarideias/criarconcorrente, acabadecidindosimporfuturosjogosmaiores, critériosrigorosos. Trabalho gratuito éhipótese deinteressedecandidatos, não promessaforma decontrataçãooucontratojáassinado.
+
+PUBLICAANÚNCIOficcionalWeibo:recepcionistamulher/boaaparência/boa postura/conhecimentosbásicos;assistentedesignerhomemoumulher/conhecimentos/profissionalismo. SolicitaCV/opiniãoPVZ/outrojogomóvel/futuroindústria, inbox/entrevistaselecionados. Critériosfontepreservadossemalterar. ~100milseguidoresagora(após90mil37), repostsmuitos/interessemuitosassistentes/poucarecepcionista. Ninguémcontratado/entrevistadoainda;semnomesnovoscandidatos. AtualizaçãoPVZaindasemdetalhes, próximojogoindefinido.
+
+ZuoYao varianteruidosa→ZhuoYao conforme24/38. Primeirogameviroufebre→primeirolançamentocomercialconformecontextoFlappyBird. Pandora→caixadePandora/segredoideias não objeto mágiconovo. Separadores***anúncio/comentários, ignorá-los emcontagemitálicos. Próximo publique revisarlote31em diante.
+
+## Capítulo 40 — Planos para a nova versão de Plants vs Zombies
+
+Fonte40→capítulo40. Planeja grandeatualizaçãoPVZ(primeira/últimaprovável, não negar patchesbalanceamento29). NãoPVZ2poisrecepçãomundooriginalinferior, prefereoutroP2Wseforreceberódio. Trêsfrentes: ferramentasdesenvolvimento/modseditorplantaszumbismapasarteprópria/repositórioavaliado e recomendado pordownloads/nota/tempo; socialamigos/comunidades/espectar/gravarpartidas/recomendarmods; multijogadorcoopeconfronto. Amigossimplesjáexistiam28,agorarecursosampliados, nãoinventarausênciaprévia.
+
+Coop2–5jogadores/cada3–5fileiras/max25/rolartela, solindividual/ajudaplantar/revivercompanheirocomplantaespecial/plantasespeciaisconjuntas. Confronto1v1/2v2/3v3, todosobtêmsolparaPLANTASeluaparaZUMBIS, defendem/atacam,no revive. Zumbisgeradosligeiramentemaisrápido segundoinglês; recursosseparadosevitamtartarugainfinita, não modelo1timeplantasoutrozumbis. Nomesplantasespeciais/valores/moedasvendidasnãofornecidos. TODOSPLANOS,nãofuncionalidadesjápublicadas. Prevê2semanas/crianúcleobase1mês(arte/áudiototal3meses22), documentoquaseprontoanoite, implementaçãoaindanãonarrada.
+
+Apósfecharloja/sobeexaminainbox.4candidatasrecepção:1poucoconhecimento/1nãojogouPVZ/2opiniõesrasas, principalmotivoaparêncianãogostou. Autojustificativaelebelezaambientebomsalário/semsegundaintenção preservada, não conselhoexterno do tradutor. Assistentesmuitos/precisa1, descartamaisvelhos(experiência/idade)epessoascomoutraempresa e merosjogadores; razões são visõesdeChen,nãoconclusãouniversal. AvaliaPVZ2–3pontoscriatividade/mecânicas/sistema/fases/código, outrojogosucessoemotivos, futurovisãocomplementar. Ninguémescolhido/entrevistado/contratadoainda;próximotítulodeChenindefinido.
+
+“Employment experience” lido rejeiçãodeexperiênciaemoutrasempresas peloparágrafoseguinte, não irrelevânciadecurrículogenérica. “First/last update” grandeversãodiferenciadapatchesparacoerência,preservaprovavelmente. “Twenty-five lanes” contextualaté25porque2–5×3–5, não25fixasqualquerpartida. Nomes/modos/contas e glossáriomantidos. Próximopublique revisar31–40e eventuaisnovos.
+
 ## Fluxo permanente
 
 Traduções TXT UTF-8 em `capitulos/` desta pasta. Numeração e continuidade exclusivas desta obra, sem aplicar deslocamentos ou personagens do Clube da Longevidade. O envio de capítulos autoriza tradução e TXT; integrar ao leitor somente pelo comando “publique”, no array `window.GAME_DESIGNER_CHAPTERS` de `chapters.js` desta pasta. Mesmo leitor, estilo e controles compartilhados. Não criar capítulos fictícios. Commit e push manuais.
@@ -300,3 +396,16 @@ Cinco ajustes:22 padroniza Música e Efeitos Sonoros com18–19;25 explicita alt
 Glossário plantas/modos/contaThunderbolt e nomes novos conferidos. Chefe de Wen28 continua interpretação marcada conformehierarquia27. Mantidas/detalhadas pendências da fonte: promessa lançaamanhã23 versus29<24hapósmais3dias; recarga de Wen além3h não narrada; notainglesa25GuanGong/QinQiong duzentosanos/conceito não verificados; CogumeloApocalipse26 conformeDoomShroomfornecido, não substituir mecanicamente por outro fungo; meses/desenvolvimento aproximados mantidos. Não criar pagamentos/adiamentos/explicações para remendar essas lacunas.
 
 Publicados1–30; último30 — Potencial para virar febre! NenhumTXTpendente nesta obra; próximo31/fonte31. Próximo lote de revisão começa31, usando contexto anterior. BackupSHA256: backups/agd-publicar-revisar-021-030-20261115-161738/,19arquivos eALTERACOES.diff. TXT/JS sincronizados; chaves e progresso da aplicação intactos. Clube permanece522/279–800comTXT801–803pendentes. Commit/push/deploy manuais.
+
+
+## Revisão e publicação local31–40 — 15/11/2026
+
+Revisados os dez capítulos com contexto acumulado: lançamento31–32, demonstração Infinito33–34, resultados24h/destaques35–36, primeiro mês37, visitaZhuo38, vagas39 e planos40. Mantidas numeração fonteN→capítuloN e integralidade. Resultado confirmado514580vendas no mês; atualização e contratações ainda em planejamento, ninguém contratado. Recursos sociais40 ampliam os anteriores, não apagam amigos28.
+
+Quatro ajustes de fluência em32/35: estatísticas e rankings foram atualizados; crítico maldoso vertido reclamão profissional. Sem cortes, mudanças de números, títulos, parágrafos ou encerramentos.1–30 idênticos à publicação anterior. Nomes comerciais, glossário de plantas e notas mantidos; separadores *** preservados e distinguidos de itálicos na validação.
+
+Incertezas da fonte preservadas: ranking de três em três horas versus alegação de primeiro lugar após uma hora32; dez sorteios e receita aproximada32; comentário ambíguo sobre o chefe33; cartaz31 com lados diferentes da descrição25. Não inventar explicações nem corrigir valores por suposição. Lin Mao parabeniza Chen Mo36, conforme diálogo, normalizando lapso nominal da fonte.
+
+Leitor local1–40, último40 — Planos para a nova versão de Plants vs Zombies. Nenhum TXT pendente nesta obra. Próximo41/fonte41; próxima revisão automática41em diante. Backup prévio de19arquivos com SHA256 e ALTERACOES.diff: backups/agd-publicar-revisar-031-040-20261115-194707/. Aplicação e conteúdo do Clube preservados; Clube522/279–800 comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação31–40 concluída: suíte reader.test.cjs aprovada;40TXT idênticos aoJS, títulos/notas/itálicos/separadores conferidos; catálogo40, navegação/limites/retomada e progresso isolado aprovados. Sintaxe dos cinco scripts conferida;19backupsSHA256íntegros. Arquivos da aplicação e conteúdo do Clube sem diferenças. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.

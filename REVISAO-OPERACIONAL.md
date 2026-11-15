@@ -4964,3 +4964,66 @@ Fonte30→capítulo30, Potencial para virar febre! TXT integral UTF-8; sales→d
 Porcomandopublique, revisados dezTXT21–30comcontextoacumulado e integrados integralmente. Cincoajustes de clareza/padronização em22/25/27/28/30;1–20idênticos. Total30capítulos1–30, último30 — Potencial para virar febre! SemTXTpendente nestaobra;próximo31/fonte31/próximoloterevisão31em diante. Notas/itálicos/valores e dúvidasfonte preservados, semreordenação/invenção. Detalhes historias/almighty-game-designer/REVISAO-CONTEXTUAL.md. BackupSHA256de19arquivos: backups/agd-publicar-revisar-021-030-20261115-161738/,ALTERACOES.diff. Reversão restaura docs/JS/testes/TXTanteriores dessebackup e registraoperação; não tocaClube. Aplicação/progresso/preferências intactos;Clube522/279–800comTXT801–803pendentes. Commit/push/deploy nãoexecutados.
 
 Validação21–30 concluída: reader.test.cjs aprovado,30TXT iguais aoJS/títulos/itálicos, catálogo30/navegação/limites/retomada/progressoisolado e regressõesClube.19backupsSHA256conferidos. Sintaxe dos scripts conferida. Semrevisãovisualemnavegador nesta publicação textual;commit/pushmanuais.
+
+
+## Almighty Game Designer — capítulo31 traduzido — 15/11/2026
+
+Fonte31→capítulo31, Táticas especiais de divulgação. TXT integral UTF-8;10hhisgame contextualizadoFB/12hPVZpelopostexplícito;nomedemídiaausente nãoinventado/preçoprevisão nãoresultado. Tabela/continuidade/handoff atualizados; TXT31 pendente, leitor1–30 intacto; próximo32/fonte32. BackupSHA256: backups/agd-capitulo-031-20261115-163606/. Validados UTF-8,cabeçalho/final,horários/recordes/nomes/previsões e contexto. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo32 traduzido — 15/11/2026
+
+Fonte32→capítulo32, Lançamento explosivo! TXT integral UTF-8; lançamentopreçoconfirmados10yuans12h, dadosacumulados13–15h, projeçõesdistinguidasresultados. Duascontradiçõesinglês100mil10giros/1htoporanking sinalizadaspreservadas. Tabela/continuidade/handoff atualizados; TXT31–32 pendentes, leitor1–30 intacto; próximo33/fonte33. BackupSHA256: backups/agd-capitulo-032-20261115-163903/. Validados UTF-8,cabeçalho/final/marcas,valores/tempos/classificação e contexto. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo33 traduzido — 15/11/2026
+
+Fonte33→capítulo33, Pequenos truques para o modo Infinito. TXT integral UTF-8; novasplantasglossárioregistrado/Pumpkinprotetora versusSquashesmagadora, fase2012preparadaporferramentas não recordereal. Falainglesasemreferentemarcada. Tabela/continuidade/handoff atualizados; TXT31–33 pendentes, leitor1–30 intacto; próximo34/fonte34. BackupSHA256: backups/agd-capitulo-033-20261115-164053/. Validados UTF-8,cabeçalho/final/marcas,plantas/números/formação/contexto. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo34 traduzido — 15/11/2026
+
+Fonte34→capítulo34, Fase concluída! TXT integral UTF-8; glossáriopreservado/GargantuarZumbizinho, build3Cnotainglesamantida. Tabela/continuidade/handoff atualizados; TXT31–34 pendentes, leitor1–30 intacto; próximo35/fonte35. BackupSHA256: backups/agd-capitulo-034-20261115-164227/. Validados UTF-8,cabeçalho/final,plantas/números/resultado2012 e contexto. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo35 traduzido — 15/11/2026
+
+Fonte35→capítulo35, Destaque na página inicial! TXT integral UTF-8;24hconfirmado23187downloads9,1,novasseçõesdestaqueregistradas. Comentárioscomseparadores***preservados. Tabela/continuidade/handoff atualizados; TXT31–35 pendentes, leitor1–30 intacto; próximo36/fonte36. BackupSHA256: backups/agd-capitulo-035-20261115-164416/. Validados UTF-8,cabeçalho/final,números/tempos/nomes/contexto e parágrafos(67contra64,3falas separadas da narração). Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo36 traduzido — 15/11/2026
+
+Fonte36→capítulo36, O jogo virou febre! TXT integral UTF-8; LinparabenizaChen corrigelapsoShidafontepelo diálogo, Zhao padronizado, especulaçõesdistintasresultados. Manchetes/comentários/separadores***mantidos. Tabela/continuidade/handoff atualizados; TXT31–36 pendentes, leitor1–30 intacto; próximo37/fonte37. BackupSHA256: backups/agd-capitulo-036-20261115-164615/. Validados UTF-8,cabeçalho/final,nomes/valores/rankings/previsões e contexto. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo37 traduzido — 15/11/2026
+
+Fonte37→capítulo37, À frente da onda dos jogos casuais. TXT integral UTF-8; avanço30dias/514580vendasconfirmado,postdesignerZenAopiniãopreservada e atualizaçãoPVZaindaindefinida. Tabela/continuidade/handoff atualizados; TXT31–37 pendentes, leitor1–30 intacto; próximo38/fonte38. BackupSHA256: backups/agd-capitulo-037-20261115-164754/. Validados UTF-8,cabeçalho/final,números/tempos/nomes/contexto. PostWeibo separado da frase introdutória em parágrafo próprio, sem corte. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo38 traduzido — 15/11/2026
+
+Fonte38→capítulo38, A visita da vizinha. TXT integral UTF-8; continuidadeZhuo/Fates/1mês, garota174semnome nãoidentificada por suposição, standalone→jogoparaumjogador. Tabela/continuidade/handoff atualizados; TXT31–38 pendentes, leitor1–30 intacto; próximo39/fonte39. BackupSHA256: backups/agd-capitulo-038-20261115-193947/. Validados UTF-8,cabeçalho/final,nomes/valores/opiniões/contexto. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo39 traduzido — 15/11/2026
+
+Fonte39→capítulo39, Contratações. TXT integral UTF-8; ZuoYao→ZhuoYao/contextoanterior, MOBAnota preservada, anúncioficcionalmantido integralmente/ninguémcontratadoainda. Tabela/continuidade/handoff atualizados; TXT31–39 pendentes, leitor1–30 intacto; próximo40/fonte40. BackupSHA256: backups/agd-capitulo-039-20261115-194127/. Validados UTF-8,cabeçalho/final,nomes/critérios/seguidores/estado/contexto. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Almighty Game Designer — capítulo40 traduzido — 15/11/2026
+
+Fonte40→capítulo40, Planos para a nova versão de Plants vs Zombies. TXT integral UTF-8; planosdistintosdefeitosimplementados, grandeatualizaçãodistinguepatches/max25fileirascontexto, critérioscontrataçãoevisõespersonagem preservados. Tabela/continuidade/handoff atualizados; TXT31–40 pendentes, leitor1–30 intacto; próximo41/fonte41. BackupSHA256: backups/agd-capitulo-040-20261115-194309/. Validados UTF-8,cabeçalho/final,parágrafoscorrespondentes,números/modos/requisitos e contexto. Próximo publique revisa31em diante. Clube/JS não alterados; sem commit/push.
+
+
+## Revisão e publicação local31–40 — 15/11/2026
+
+Revisados os dez capítulos com contexto acumulado: lançamento31–32, demonstração Infinito33–34, resultados24h/destaques35–36, primeiro mês37, visitaZhuo38, vagas39 e planos40. Mantidas numeração fonteN→capítuloN e integralidade. Resultado confirmado514580vendas no mês; atualização e contratações ainda em planejamento, ninguém contratado. Recursos sociais40 ampliam os anteriores, não apagam amigos28.
+
+Quatro ajustes de fluência em32/35: estatísticas e rankings foram atualizados; crítico maldoso vertido reclamão profissional. Sem cortes, mudanças de números, títulos, parágrafos ou encerramentos.1–30 idênticos à publicação anterior. Nomes comerciais, glossário de plantas e notas mantidos; separadores *** preservados e distinguidos de itálicos na validação.
+
+Incertezas da fonte preservadas: ranking de três em três horas versus alegação de primeiro lugar após uma hora32; dez sorteios e receita aproximada32; comentário ambíguo sobre o chefe33; cartaz31 com lados diferentes da descrição25. Não inventar explicações nem corrigir valores por suposição. Lin Mao parabeniza Chen Mo36, conforme diálogo, normalizando lapso nominal da fonte.
+
+Leitor local1–40, último40 — Planos para a nova versão de Plants vs Zombies. Nenhum TXT pendente nesta obra. Próximo41/fonte41; próxima revisão automática41em diante. Backup prévio de19arquivos com SHA256 e ALTERACOES.diff: backups/agd-publicar-revisar-031-040-20261115-194707/. Aplicação e conteúdo do Clube preservados; Clube522/279–800 comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação31–40 concluída: suíte reader.test.cjs aprovada;40TXT idênticos aoJS, títulos/notas/itálicos/separadores conferidos; catálogo40, navegação/limites/retomada e progresso isolado aprovados. Sintaxe dos cinco scripts conferida;19backupsSHA256íntegros. Arquivos da aplicação e conteúdo do Clube sem diferenças. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.

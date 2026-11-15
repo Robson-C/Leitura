@@ -1,0 +1,97 @@
+Capítulo 40 — Planos para a nova versão de Plants vs Zombies
+
+Chen Mo decidiu esperar até a noite para conferir as candidaturas. Por enquanto, se concentraria em planejar a próxima atualização de Plants vs Zombies.
+
+Em sua vida anterior, o jogo havia recebido uma continuação. Embora tivesse rendido bastante dinheiro, as avaliações dos jogadores deixavam muito a desejar em comparação com as do primeiro.
+
+Era por isso que ele não queria criar Plants vs Zombies 2. Se fosse para ganhar dinheiro e ser odiado pelos fãs, por que não fazer logo um jogo de pagar para ganhar? Pelo menos, não mancharia o nome de Plants vs Zombies.
+
+A próxima atualização provavelmente seria a primeira e a última grande atualização do jogo. Por isso, Chen Mo queria agradar aos fãs, permitindo que inventassem suas próprias formas de jogar e continuassem aproveitando o título por muito tempo.
+
+Como estava prestes a começar um jogo novo, não teria tempo nem energia para continuar cuidando daquele no futuro.
+
+Depois de pensar, definiu algumas funcionalidades.
+
+Primeiro, em termos de conteúdo, acrescentaria ferramentas de desenvolvimento. Qualquer pessoa poderia usá-las para experimentar alterações no jogo.
+
+Seria possível modificar plantas, zumbis, ambientes e mapas. Os jogadores também poderiam enviar recursos próprios para criar novos tipos de plantas e zumbis, ou usar a arte existente para produzir mapas, fases e formas de jogar diferentes.
+
+Essas modificações poderiam ser publicadas, consultadas e instaladas pelos jogadores, que também dariam notas e escreveriam avaliações. Um algoritmo as classificaria com base nos downloads, nas notas e no tempo de jogo, recomendando mods periodicamente.
+
+Segundo, ampliaria a conectividade e os recursos sociais para melhorar a comunicação dentro do jogo.
+
+Na estreia, Plants vs Zombies tinha funções simples de conexão e ranking. Porém, aquilo só atendia à vontade dos jogadores de exibir seus resultados, sem oferecer interações sociais mais profundas.
+
+Com os novos recursos, poderiam adicionar amigos e entrar em comunidades. Amigos ou integrantes da mesma comunidade poderiam assistir às partidas uns dos outros, publicar suas próprias gravações e recomendar mods.
+
+Terceiro, criaria um modo para vários jogadores.
+
+Em teoria, com as ferramentas de desenvolvimento, o multijogador seria apenas uma questão de tempo. Chen Mo só estava acelerando o processo.
+
+Por enquanto, planejava apenas dois modos simples.
+
+O primeiro seria cooperativo, com cada jogador controlando de três a cinco fileiras e partidas para duas a cinco pessoas. Assim, o campo poderia ter até vinte e cinco fileiras, e seria possível rolar a tela para cima para acompanhar a situação dos outros.
+
+Cada jogador teria sua própria reserva de sol, mas poderia ajudar os demais a plantar e defender o terreno dos zumbis.
+
+No multijogador, quando alguém fosse derrotado, os companheiros poderiam trazê-lo de volta com uma planta especial. Também seria possível coordenar o plantio conjunto de algumas plantas especiais.
+
+O segundo seria um modo de confronto, com partidas de um contra um, dois contra dois ou três contra três. Cada jogador obteria sol ou lua: sol para as plantas, lua para os zumbis.
+
+Os zumbis precisariam ser gerados um pouco mais depressa que as plantas.
+
+Os jogadores teriam que defender seus gramados e usar zumbis para atacar os dos adversários. Quem fosse derrotado não poderia voltar à partida.
+
+O motivo de usar dois recursos diferentes, sol e lua, era impedir que alguns jogadores prolongassem a partida indefinidamente, criando apenas plantas.
+
+Se um lado controlasse plantas e o outro, zumbis, seria muito difícil equilibrar o jogo. Por isso, Chen Mo não escolheu aquele formato.
+
+Não tinha certeza de que aqueles modos fariam sucesso, mas estava otimista. Como preservavam a base da jogabilidade original, as mudanças seriam um acréscimo e não prejudicariam o jogo principal.
+
+É claro que, se não dessem certo, ainda haveria os mods criados pela comunidade.
+
+Chen Mo estimou que precisaria de duas semanas. Era uma previsão folgada, já que a estrutura principal do jogo havia levado apenas um mês.
+
+Quando a noite chegou, o documento de design estava praticamente concluído.
+
+Depois de fechar a loja, ele voltou ao andar de cima, abriu a caixa de mensagens e examinou as candidaturas.
+
+A maioria era para assistente. Só quatro eram para a recepção.
+
+Chen Mo não ficou muito satisfeito com aquelas quatro candidaturas. Uma quase não tinha conhecimento sobre jogos; outra não tinha experiência com Plants vs Zombies; e as outras duas haviam escrito comentários pouco elaborados sobre o jogo.
+
+É claro que o principal problema era a aparência. Ele não as achara muito atraentes.
+
+Chen Mo não se considerava alguém que julgasse tudo pela beleza, nem tinha segundas intenções ao contratar uma recepcionista. Porém, era uma vaga bem remunerada. Tinha muitas opções e não precisava se contentar com qualquer pessoa.
+
+Só estava pensando nos jogadores. Uma recepcionista simpática melhoraria o humor de quem visitasse a loja, então seria melhor escolher alguém de boa aparência.
+
+Ou, pelo menos, alguém graciosa.
+
+Chen Mo continuou examinando as candidaturas para assistente.
+
+Havia muitos currículos, mas ele só precisava de uma pessoa naquele momento. Por isso, sempre que encontrava alguém fora de seus critérios, descartava a candidatura.
+
+Por enquanto, não consideraria pessoas mais velhas.
+
+Na opinião dele, tendiam a ser mais conservadoras, menos ativas e criativas, com menos potencial. Além disso, seria constrangedor ter um assistente mais velho que ele.
+
+Também não consideraria candidatos com experiência em outras empresas.
+
+Quem já havia trabalhado em outro lugar teria certas ideias arraigadas no processo de criação e no modo de pensar. Como as ideias de Chen Mo eram completamente diferentes, alinhá-las às suas exigiria tempo e esforço.
+
+Também descartaria quem só passava o dia jogando, sem fazer mais nada.
+
+Jogar e criar jogos eram coisas completamente diferentes. Para jogar, eram necessários reflexos, domínio dos controles e conhecimento do jogo. Para criar, era preciso raciocínio lógico, atenção aos detalhes, dedicação ao trabalho e alguma inspiração.
+
+Era difícil para alguém que fosse apenas jogador conseguir um emprego em design de videogames.
+
+Depois, começou a ler os textos com opiniões sobre os jogos.
+
+Eles refletiam o conhecimento dos candidatos. Chen Mo não podia contratar alguém cuja visão fosse contrária à sua filosofia de criação.
+
+No texto sobre Plants vs Zombies, queria apenas saber quanto a pessoa entendia do jogo. Se mencionasse dois ou três pontos sobre criatividade, jogabilidade, sistemas, fases ou código, já passaria naquele requisito.
+
+Quanto aos outros jogos, queria descobrir de que tipos os candidatos gostavam. Consideraria satisfatório escolher um título relativamente bem-sucedido e explicar seus pontos fortes.
+
+A opinião sobre o futuro da indústria era uma questão complementar. Se o julgamento estivesse longe demais da realidade, ele descartaria a candidatura: alguém assim teria dificuldade para assimilar o que lhe ensinasse.

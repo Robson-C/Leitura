@@ -43,3 +43,16 @@ Glossário plantas/modos/contaThunderbolt e nomes novos conferidos. Chefe de Wen
 Publicados1–30; último30 — Potencial para virar febre! NenhumTXTpendente nesta obra; próximo31/fonte31. Próximo lote de revisão começa31, usando contexto anterior. BackupSHA256: backups/agd-publicar-revisar-021-030-20261115-161738/,19arquivos eALTERACOES.diff. TXT/JS sincronizados; chaves e progresso da aplicação intactos. Clube permanece522/279–800comTXT801–803pendentes. Commit/push/deploy manuais.
 
 Validação21–30 concluída: reader.test.cjs aprovado,30TXT iguais aoJS/títulos/itálicos, catálogo30/navegação/limites/retomada/progressoisolado e regressõesClube.19backupsSHA256conferidos. Sintaxe dos scripts conferida. Semrevisãovisualemnavegador nesta publicação textual;commit/pushmanuais.
+
+
+## Revisão e publicação local31–40 — 15/11/2026
+
+Revisados os dez capítulos com contexto acumulado: lançamento31–32, demonstração Infinito33–34, resultados24h/destaques35–36, primeiro mês37, visitaZhuo38, vagas39 e planos40. Mantidas numeração fonteN→capítuloN e integralidade. Resultado confirmado514580vendas no mês; atualização e contratações ainda em planejamento, ninguém contratado. Recursos sociais40 ampliam os anteriores, não apagam amigos28.
+
+Quatro ajustes de fluência em32/35: estatísticas e rankings foram atualizados; crítico maldoso vertido reclamão profissional. Sem cortes, mudanças de números, títulos, parágrafos ou encerramentos.1–30 idênticos à publicação anterior. Nomes comerciais, glossário de plantas e notas mantidos; separadores *** preservados e distinguidos de itálicos na validação.
+
+Incertezas da fonte preservadas: ranking de três em três horas versus alegação de primeiro lugar após uma hora32; dez sorteios e receita aproximada32; comentário ambíguo sobre o chefe33; cartaz31 com lados diferentes da descrição25. Não inventar explicações nem corrigir valores por suposição. Lin Mao parabeniza Chen Mo36, conforme diálogo, normalizando lapso nominal da fonte.
+
+Leitor local1–40, último40 — Planos para a nova versão de Plants vs Zombies. Nenhum TXT pendente nesta obra. Próximo41/fonte41; próxima revisão automática41em diante. Backup prévio de19arquivos com SHA256 e ALTERACOES.diff: backups/agd-publicar-revisar-031-040-20261115-194707/. Aplicação e conteúdo do Clube preservados; Clube522/279–800 comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação31–40 concluída: suíte reader.test.cjs aprovada;40TXT idênticos aoJS, títulos/notas/itálicos/separadores conferidos; catálogo40, navegação/limites/retomada e progresso isolado aprovados. Sintaxe dos cinco scripts conferida;19backupsSHA256íntegros. Arquivos da aplicação e conteúdo do Clube sem diferenças. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.

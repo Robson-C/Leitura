@@ -441,3 +441,16 @@ Usuário autorizou revisão retrospectiva dos20capítulos e permanente antes de 
 ## Almighty Game Designer — revisão e publicação local21–30 — 15/11/2026
 
 Porcomandopublique, revisados dezTXT21–30comcontextoacumulado e integrados integralmente. Cincoajustes de clareza/padronização em22/25/27/28/30;1–20idênticos. Total30capítulos1–30, último30 — Potencial para virar febre! SemTXTpendente nestaobra;próximo31/fonte31/próximoloterevisão31em diante. Notas/itálicos/valores e dúvidasfonte preservados, semreordenação/invenção. Detalhes historias/almighty-game-designer/REVISAO-CONTEXTUAL.md. BackupSHA256de19arquivos: backups/agd-publicar-revisar-021-030-20261115-161738/,ALTERACOES.diff. Reversão restaura docs/JS/testes/TXTanteriores dessebackup e registraoperação; não tocaClube. Aplicação/progresso/preferências intactos;Clube522/279–800comTXT801–803pendentes. Commit/push/deploy nãoexecutados.
+
+
+## Revisão e publicação local31–40 — 15/11/2026
+
+Revisados os dez capítulos com contexto acumulado: lançamento31–32, demonstração Infinito33–34, resultados24h/destaques35–36, primeiro mês37, visitaZhuo38, vagas39 e planos40. Mantidas numeração fonteN→capítuloN e integralidade. Resultado confirmado514580vendas no mês; atualização e contratações ainda em planejamento, ninguém contratado. Recursos sociais40 ampliam os anteriores, não apagam amigos28.
+
+Quatro ajustes de fluência em32/35: estatísticas e rankings foram atualizados; crítico maldoso vertido reclamão profissional. Sem cortes, mudanças de números, títulos, parágrafos ou encerramentos.1–30 idênticos à publicação anterior. Nomes comerciais, glossário de plantas e notas mantidos; separadores *** preservados e distinguidos de itálicos na validação.
+
+Incertezas da fonte preservadas: ranking de três em três horas versus alegação de primeiro lugar após uma hora32; dez sorteios e receita aproximada32; comentário ambíguo sobre o chefe33; cartaz31 com lados diferentes da descrição25. Não inventar explicações nem corrigir valores por suposição. Lin Mao parabeniza Chen Mo36, conforme diálogo, normalizando lapso nominal da fonte.
+
+Leitor local1–40, último40 — Planos para a nova versão de Plants vs Zombies. Nenhum TXT pendente nesta obra. Próximo41/fonte41; próxima revisão automática41em diante. Backup prévio de19arquivos com SHA256 e ALTERACOES.diff: backups/agd-publicar-revisar-031-040-20261115-194707/. Aplicação e conteúdo do Clube preservados; Clube522/279–800 comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação31–40 concluída: suíte reader.test.cjs aprovada;40TXT idênticos aoJS, títulos/notas/itálicos/separadores conferidos; catálogo40, navegação/limites/retomada e progresso isolado aprovados. Sintaxe dos cinco scripts conferida;19backupsSHA256íntegros. Arquivos da aplicação e conteúdo do Clube sem diferenças. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.

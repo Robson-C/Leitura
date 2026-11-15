@@ -181,7 +181,67 @@
       "chapter": 30,
       "title": "Potencial para virar febre!",
       "file": "capitulos/030 - Potencial para virar febre.txt"
+    },
+    {
+      "source": 31,
+      "chapter": 31,
+      "title": "Táticas especiais de divulgação",
+      "file": "capitulos/031 - Táticas especiais de divulgação.txt"
+    },
+    {
+      "source": 32,
+      "chapter": 32,
+      "title": "Lançamento explosivo!",
+      "file": "capitulos/032 - Lançamento explosivo.txt"
+    },
+    {
+      "source": 33,
+      "chapter": 33,
+      "title": "Pequenos truques para o modo Infinito",
+      "file": "capitulos/033 - Pequenos truques para o modo Infinito.txt"
+    },
+    {
+      "source": 34,
+      "chapter": 34,
+      "title": "Fase concluída!",
+      "file": "capitulos/034 - Fase concluída.txt"
+    },
+    {
+      "source": 35,
+      "chapter": 35,
+      "title": "Destaque na página inicial!",
+      "file": "capitulos/035 - Destaque na página inicial.txt"
+    },
+    {
+      "source": 36,
+      "chapter": 36,
+      "title": "O jogo virou febre!",
+      "file": "capitulos/036 - O jogo virou febre.txt"
+    },
+    {
+      "source": 37,
+      "chapter": 37,
+      "title": "À frente da onda dos jogos casuais",
+      "file": "capitulos/037 - À frente da onda dos jogos casuais.txt"
+    },
+    {
+      "source": 38,
+      "chapter": 38,
+      "title": "A visita da vizinha",
+      "file": "capitulos/038 - A visita da vizinha.txt"
+    },
+    {
+      "source": 39,
+      "chapter": 39,
+      "title": "Contratações",
+      "file": "capitulos/039 - Contratações.txt"
+    },
+    {
+      "source": 40,
+      "chapter": 40,
+      "title": "Planos para a nova versão de Plants vs Zombies",
+      "file": "capitulos/040 - Planos para a nova versão de Plants vs Zombies.txt"
     }
   ],
-  "notes": "Fontes1–30→capítulos1–30 integrados ao leitor. Lote21–30 revisado contextualmente e publicado localmente em15/11/2026. NenhumTXTpendente nesta obra. Próximo31/fonte31; próxima revisão antes de publique começa no31. Numeração independente; commit/push manuais."
+  "notes": "Fontes1–40→capítulos1–40 integrados e revistos contextualmente. Último lote revisado31–40; nenhum TXT pendente nesta obra. Próximo41/fonte41; próxima revisão começa41. Numeração independente; commit/push manuais."
 }
