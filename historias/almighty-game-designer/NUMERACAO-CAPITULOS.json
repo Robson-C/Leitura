@@ -385,16 +385,107 @@
       "chapter": 64,
       "title": "A preparação para os testes",
       "file": "capitulos/064 - A preparação para os testes.txt",
-      "offlinePending": true,
-      "sourceIncomplete": true
+      "sourceIncomplete": true,
+      "editorialCompletion": "tenderia a cair com o tempo."
     },
     {
       "source": 65,
       "chapter": 65,
       "title": "A primeira rodada de dez sorteios",
-      "file": "capitulos/065 - A primeira rodada de dez sorteios.txt",
-      "offlinePending": true
+      "file": "capitulos/065 - A primeira rodada de dez sorteios.txt"
+    },
+    {
+      "source": 66,
+      "chapter": 66,
+      "title": "A primeira carta roxa de Jia Peng",
+      "file": "capitulos/066 - A primeira carta roxa de Jia Peng.txt"
+    },
+    {
+      "source": 67,
+      "chapter": 67,
+      "title": "O azar de Jia Peng",
+      "file": "capitulos/067 - O azar de Jia Peng.txt"
+    },
+    {
+      "source": 68,
+      "chapter": 68,
+      "title": "O lançamento dos dois jogos",
+      "file": "capitulos/068 - O lançamento dos dois jogos.txt"
+    },
+    {
+      "source": 69,
+      "chapter": 69,
+      "title": "Um jogo gratuito?!",
+      "file": "capitulos/069 - Um jogo gratuito.txt"
+    },
+    {
+      "source": 70,
+      "chapter": 70,
+      "title": "As primeiras vinte e quatro horas",
+      "file": "capitulos/070 - As primeiras vinte e quatro horas.txt"
+    },
+    {
+      "source": 71,
+      "chapter": 71,
+      "title": "O valor de um amigo forte",
+      "file": "capitulos/071 - O valor de um amigo forte.txt"
+    },
+    {
+      "source": 72,
+      "chapter": 72,
+      "title": "Uma equipe de baleia",
+      "file": "capitulos/072 - Uma equipe de baleia.txt"
+    },
+    {
+      "source": 73,
+      "chapter": 73,
+      "title": "Quinto lugar no ranking",
+      "file": "capitulos/073 - Quinto lugar no ranking.txt"
+    },
+    {
+      "source": 74,
+      "chapter": 74,
+      "title": "O resultado da aposta",
+      "file": "capitulos/074 - O resultado da aposta.txt"
+    },
+    {
+      "source": 75,
+      "chapter": 75,
+      "title": "Três designers de classe S",
+      "file": "capitulos/075 - Três designers de classe S.txt"
+    },
+    {
+      "source": 76,
+      "chapter": 76,
+      "title": "Dá para copiar Azeroth?",
+      "file": "capitulos/076 - Dá para copiar Azeroth.txt"
+    },
+    {
+      "source": 77,
+      "chapter": 77,
+      "title": "Uma semana de folga",
+      "file": "capitulos/077 - Uma semana de folga.txt",
+      "sourceIncomplete": true,
+      "editorialCompletion": "preguiçoso!"
+    },
+    {
+      "source": 78,
+      "chapter": 78,
+      "title": "O espaço de divulgação",
+      "file": "capitulos/078 - O espaço de divulgação.txt"
+    },
+    {
+      "source": 79,
+      "chapter": 79,
+      "title": "Um escritor no fórum",
+      "file": "capitulos/079 - Um escritor no fórum.txt"
+    },
+    {
+      "source": 80,
+      "chapter": 80,
+      "title": "A entrevista de Han Lu",
+      "file": "capitulos/080 - A entrevista de Han Lu.txt"
     }
   ],
-  "notes": "Capítulos1–63 integrados/revistos; último63 A estreia de I Am MT. Pendentes64–65:64INCOMPLETO, falta final após so the profit would d;65 aguarda64 para sequência. Anexos62–65semnúmero/título: sequência e títulos descritivos provisórios. Datas editoriais removidas. Próximo66oucontinuação64; próxima revisão64em diante. Commit/push manuais."
+  "notes": "Leitor local com os capítulos 1–80. Os capítulos 64 e 77 têm complementos editoriais autorizados em itálico na última frase. Próximo envio 81."
 }

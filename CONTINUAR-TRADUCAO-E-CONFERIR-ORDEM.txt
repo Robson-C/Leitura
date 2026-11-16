@@ -1,4 +1,40 @@
 ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor offline até 80. O final do 77 foi reparado em itálico. Próximo envio 81. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 80 traduzido em TXT. Leitor até 70. TXT 71–80 pendentes, com o 77 cortado. Próximo envio 81 ou continuação do 77. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 79 traduzido em TXT. Leitor até 70. TXT 71–79 pendentes, com o 77 cortado. Próximo envio 80 ou continuação do 77. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 78 traduzido em TXT. Leitor até 70. TXT 71–78 pendentes, com o 77 cortado. Próximo envio 79 ou continuação do 77. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 77 — Uma semana de folga traduzido até o corte na fala de Jia Peng. TXT 71–77 pendentes de publicação. Leitor 1–70. Aguardar continuação do 77 ou capítulo 78. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 76 — Dá para copiar Azeroth? traduzido em TXT. Capítulos 71–76 pendentes de publicação. Leitor 1–70. Próximo envio 77. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 75 — Três designers de classe S traduzido em TXT. Capítulos 71–75 pendentes de publicação. Leitor 1–70. Próximo envio 76. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 74 — O resultado da aposta traduzido em TXT. Capítulos 71–74 pendentes de publicação. Leitor 1–70. Próximo envio: 75. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 73 — Quinto lugar no ranking traduzido em TXT. Capítulos 71–73 pendentes de publicação. Leitor 1–70. Próximo envio: 74. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 72 — Uma equipe de baleia traduzido em TXT. Capítulos 71–72 pendentes de publicação. Leitor 1–70. Próximo envio: 73. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Capítulo 71 — O valor de um amigo forte traduzido em TXT, pendente de publicação. Leitor 1–70. Próximo envio: 72. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor offline atualizado até 70. Nenhum TXT pendente nesta obra. O usuário autorizou o complemento editorial em itálico na última frase do 64. Próximo envio e revisão: 71. O 70 termina na definição de DAU. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
 Publicação local e revisão concluídas até63 — A estreia de I Am MT. Pendentes64–65. ATENÇÃO64INCOMPLETO: anexo acaba so the profit would d, faltafinal;65nãoresolve. Não integrar64–65antescompletar64. Próximo66oucontinuação64; próxima revisão64em diante. Títulos62–65provisórios pois fontessemcabeçalho, datas editoriaisremovidas. Commit/push manuais. Histórico abaixo.
 
 ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
@@ -628,3 +664,48 @@ Mantidas incertezas da fonte: Cavernas dos Lamentos61 em itálico para Wailing T
 Leitor local1–63, último63 — A estreia de I Am MT. Pendentes64–65; é necessário receber o final faltante64 antes da próxima integração contínua. Próximo envio66 ou continuação64; próxima revisão64em diante. Backup prévio de14arquivos SHA256 (incluindo pendentes preservados): backups/agd-publicar-revisar-061-063-20261116-071928/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
 
 Validação61–63 concluída: reader.test.cjs aprovado;63TXT idênticos aoJS/títulos/notas/itálicos; catálogo63,navegação/limites/retomada/progressoisolado aprovados. Testes conferem exclusão dos pendentes e impedem integração de sourceIncomplete. Sintaxe5scripts/14backupsSHA256íntegros; TXT64–65intactos e fora do leitor; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
+
+
+## Almighty Game Designer — capítulo 66 traduzido — 16/11/2026
+
+O anexo de 4b9b380b-12dc-4ad6-b6e0-845f8a3fd169 retoma a decisão de Jia Peng de fazer dez sorteios no fim do 65. Sequência 66 e título descritivo provisório, pois o anexo não traz cabeçalho. Data editorial Mar 18, 2026 removida. capitulos/066 - A primeira carta roxa de Jia Peng.txt salvo em UTF-8, com nomes incertos *Ambasador* e *Nosuke Shinsuke* preservados e marcados. Rogue e Wen Lingwei padronizados.
+
+Jia Peng tira Brick roxo na penúltima carta, evolui a roxo+ e avança nas masmorras com Nevasca. Chen Mo explica a garantia da primeira rodada, as garantias periódicas posteriores, a diferença para Onmyoji e o papel da IP, da progressão, dos sorteios e das moedas na retenção. O texto recebido vai até a reflexão sobre abrir a carteira.
+
+Leitor até 63. TXT 64–66 pendentes, com o original do 64 ainda cortado. Próximo envio 67 ou continuação do 64. Conferidos sequência, UTF-8, cabeçalho, final e quatro asteriscos de incerteza. Backup das quatro cópias verificado por SHA-256 em backups/agd-capitulo-066-20261116T111003810Z. Para reverter, restaurar os registros a partir do backup se ainda não houver alterações posteriores e retirar o novo TXT.
+
+
+## Almighty Game Designer — capítulo 67 traduzido — 16/11/2026
+
+O anexo fc2997a2-b415-4f19-b98f-e2cdfaddce66 continua os testes de I Am MT. Sequência 67 e título descritivo provisório. Data editorial removida. Guardian of the Holy Spring, Emperor Dynasty Entertainment, I Am MT e Wen Lingwei mantidos conforme capítulos anteriores. Arquivo capitulos/067 - O azar de Jia Peng.txt salvo em UTF-8.
+
+Qiu Bin teme a repercussão da animação. Durante os testes, oito mil runas e créditos de recarga por classificação na arena permitem comparar níveis VIP. Wen lidera e Jia, já com o Brick do 66, só agora recebe uma carta roxa como recompensa de fase. A fala sobre ser o último foi interpretada nesse sentido e marcada. As probabilidades de 0,5%, 3% ao dia, aumento de até 5% e chance acima de 80% foram preservadas. As duas últimas ficaram marcadas pela relação ambígua na fonte. O fim retoma Onmyoji.
+
+Leitor até 63. TXT 64–67 pendentes, com o 64 cortado na fonte. Próximo envio 68 ou continuação do 64. Cabeçalho, final, UTF-8 e pares de asteriscos conferidos. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-067-20261116T111138564Z. Para reverter, restaurar os registros do backup se não houver alterações posteriores e retirar apenas o novo TXT.
+
+
+## Almighty Game Designer — capítulo 68 traduzido — 16/11/2026
+
+Anexo 0fb25ef5-a100-4df5-937f-6c8a956c9b02. O trecho continua o fim dos testes do capítulo 67 e apresenta o lançamento simultâneo de I Am MT e Guardian of the Holy Spring. Numeração sequencial e título descritivo provisório, pois o anexo veio sem cabeçalho. Data editorial removida. Wen discute pequenos gastos e benefícios VIP. Duas interpretações foram marcadas no TXT, o momento da compra depois dos testes e a fala de Chen sobre o pagamento pelas ilustrações.
+
+Guardian custa dez yuans. A fonte informa 1.290 cópias e menciona vendas da primeira hora. Um milhão de cópias e receita superior a dez milhões de yuans são projeções de Qiu Bin. A explicação de receita bruta foi mantida.
+
+TXT salvo em capitulos/068 - O lançamento dos dois jogos.txt. Cabeçalho, final, UTF-8 e asteriscos conferidos. Leitor até 63. TXT 64–68 pendentes, com o 64 cortado na fonte. Próximo envio 69 ou continuação do 64. Backup dos quatro registros conferido em backups/agd-capitulo-068-20261116T111301635Z. Para reverter, restaurar os registros se não houver alterações posteriores e retirar apenas o novo TXT.
+
+
+## Almighty Game Designer — capítulo 69 traduzido — 16/11/2026
+
+Anexo 60493194-d0fd-4188-97a2-eb16593e0855. O trecho continua o lançamento do capítulo 68. Numeração sequencial e título descritivo provisório. Data editorial inicial removida. Chem Mo padronizado para Chen Mo.
+
+Qiu Bin descobre que I Am MT é gratuito e tem cerca de 170 MB, contra 400 MB de Guardian of the Holy Spring. Chen anuncia o jogo gratuito e sem anúncios no Weibo e ao fim do episódio. I Am MT chega a quase quatro mil downloads na primeira hora. A comparação com Guardian foi mantida como fala de Chen. Siglas DNU, ARPI, ARPPU e LTV preservadas como aparecem no painel. O texto termina com a reação à explicação de Chen sobre as metas de receita.
+
+TXT salvo em capitulos/069 - Um jogo gratuito.txt. Cabeçalho, final e UTF-8 conferidos. TXT 64–69 aguardam integração, com o original do 64 cortado. Próximo envio 70 ou continuação do 64. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-069-20261116T111427509Z. Para reverter, restaurar os registros se não houver alterações posteriores e retirar apenas o novo TXT.
+
+
+## Almighty Game Designer — capítulo 70 traduzido
+
+Anexo 7e0bef1b-7721-48ae-a3b4-949894cfee55. Continuação do lançamento e das estatísticas do capítulo 69. Numeração sequencial e título descritivo provisório, pois o anexo veio sem cabeçalho. Data editorial inicial removida. Chem Mo padronizado para Chen Mo. Duas leituras marcadas no TXT: sales no comentário sobre o jogo gratuito interpretado como downloads e moneys como instantes.
+
+I Am MT tem nota 7,6. A possível queda para 7,4, os oito a dez milhões de Qiu Bin e os vinte milhões de Chen Mo são expectativas. As 38.938 cópias de Guardian of the Holy Spring correspondem às vinte e quatro horas. O trecho enviado termina na definição de DAU, preservada em inglês com tradução.
+
+TXT salvo em capitulos/070 - As primeiras vinte e quatro horas.txt. Cabeçalho, final, UTF-8 e asteriscos conferidos. Leitor até 63. TXT 64–70 pendentes, com o 64 cortado na fonte. Próximo envio 71 ou continuação do 64. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-070-20261116T111549767Z. Para reverter, restaurar os registros se não houver alterações posteriores e retirar apenas o novo TXT.

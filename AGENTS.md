@@ -6,7 +6,7 @@ Por instrução explícita do usuário, “publique”, “publicar” e equival
 
 Não inventar explicações, números, nomes ausentes ou acontecimentos para encobrir defeitos da fonte. Quando o contexto não resolver uma ambiguidade, manter indicação de incerteza e registrar a pendência. Não aplicar uma hipótese terminológica global como se tivesse sido confirmada pelo original. Não confundir revisão de tradução com revisão de código da aplicação. Renumerações, reordenações, fusões, complementos narrativos ou mudanças materiais fora desse fluxo continuam exigindo esclarecimento próprio. Commit, push e implantação remota permanecem manuais.
 
-Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos iniciais de Almighty Game Designer e atualizar sua versão local publicada. Último lote revisado e integrado:61–63 (capítulos1–60 já revisados anteriormente). TXT64–65 pendentes:64 incompleto por corte no anexo;65 aguarda a conclusão do64 para preservar a sequência. Próximo envio66 ou continuação do64; próxima revisão automática começa no64, sem impedir correção pontual de trecho anterior que contexto novo esclareça, com backup/registro/sincronização.
+Último lote revisado e integrado em Almighty Game Designer: 71–80. Os capítulos 64 e 77 têm complementos editoriais autorizados na última frase, em itálico. Leitor local com 80 capítulos. Próximo envio e próxima revisão a partir do 81.
 
 
 ## Esclarecimento vigente do usuário — 21/10/2026

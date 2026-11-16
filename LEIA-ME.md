@@ -4,7 +4,7 @@ Abra `index.html` com dois cliques e escolha uma história no catálogo: **Clube
 
 Cada obra usa o mesmo leitor, com índice à esquerda, título ao centro e engrenagem à direita. O link **← Catálogo** fica no índice. Progresso e preferências são independentes por obra; o Clube conserva o salvamento anterior no mesmo `index.html`. Links antigos com `#capitulo-N` continuam funcionando. Mantenha o mesmo navegador, perfil e endereço para conservar o armazenamento local.
 
-Almighty Game Designer está cadastrada, aguardando capítulos. Seus TXT, tabela de numeração, continuidade e conteúdo publicado ficam em `historias/almighty-game-designer/`. Os dados históricos do Clube permanecem na raiz para compatibilidade. `books.js` registra as obras e `catalog.js` controla catálogo e seleção. Novas obras podem usar o mesmo leitor, com ID, chave de salvamento e conteúdo próprios.
+Almighty Game Designer tem 80 capítulos consecutivos disponíveis no leitor offline, do 1 ao 80. Seus TXT, tabela de numeração, continuidade e conteúdo publicado ficam em `historias/almighty-game-designer/`. Os dados históricos do Clube permanecem na raiz para compatibilidade. `books.js` registra as obras e `catalog.js` controla catálogo e seleção. Novas obras podem usar o mesmo leitor, com ID, chave de salvamento e conteúdo próprios.
 
 O GitHub Pages foi preparado para incluir os arquivos novos; commit e push continuam manuais. Capítulos 801–803 do Clube continuam pendentes: esta mudança não publica traduções novas.
 
@@ -497,3 +497,27 @@ Mantidas incertezas da fonte: Cavernas dos Lamentos61 em itálico para Wailing T
 Leitor local1–63, último63 — A estreia de I Am MT. Pendentes64–65; é necessário receber o final faltante64 antes da próxima integração contínua. Próximo envio66 ou continuação64; próxima revisão64em diante. Backup prévio de14arquivos SHA256 (incluindo pendentes preservados): backups/agd-publicar-revisar-061-063-20261116-071928/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
 
 Validação61–63 concluída: reader.test.cjs aprovado;63TXT idênticos aoJS/títulos/notas/itálicos; catálogo63,navegação/limites/retomada/progressoisolado aprovados. Testes conferem exclusão dos pendentes e impedem integração de sourceIncomplete. Sintaxe5scripts/14backupsSHA256íntegros; TXT64–65intactos e fora do leitor; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
+
+
+## Revisão e publicação local 64–70 — 16/11/2026
+
+Integrados os sete TXT de Almighty Game Designer. O leitor tem 70 capítulos consecutivos e o próximo envio é o 71. Títulos 64–70 são descritivos provisórios.
+
+No 64, o anexo terminava em “so the profit would d”. Por autorização do usuário, a frase sobre o lucro de Plants vs Zombies termina com *tenderia a cair com o tempo.* A tabela registra o corte da fonte e o complemento editorial. O 65 inicia os testes, e o primeiro sorteio de dez do 66 é distinto da carta roxa obtida numa fase do 67. As probabilidades incertas do 67 continuam marcadas.
+
+No 68, as 1.290 cópias correspondem à primeira hora de Guardian of the Holy Spring. No 69, foi ajustada a redação da frase sobre a aposta, que segue sendo pela receita do primeiro mês. O jogo gratuito alcança quase quatro mil downloads na primeira hora. No 70, as 38.938 cópias de Guardian correspondem às primeiras 24 horas, os valores de receita são projeções e a fonte termina na definição de DAU. A revisão usou os anexos disponíveis dos capítulos 66–70 e os registros da conferência anterior dos capítulos 64–65.
+
+Validação: testes do leitor em DOM simulado aprovados, incluindo equivalência dos 70 TXT ao leitor, contagem, navegação e retomada. Os capítulos 1–63 são idênticos aos da publicação anterior e os TXT 65–68 e 70 são idênticos aos do backup. Sintaxe de chapters.js aprovada. Conferência visual em navegador ainda não realizada.
+
+Backup local verificado por SHA-256: backups/agd-publicar-revisar-064-070-20261116T112045304Z/. Para reverter este lote, restaurar os arquivos alterados a partir da cópia anterior, conciliando edições posteriores. Commit e push manuais.
+
+
+## Revisão e publicação local 71–80 — 16/11/2026
+
+Os dez capítulos foram integrados ao leitor offline. O 77 terminava em “Stop bein”. A pedido do usuário, a fala foi fechada como “Para de ser *preguiçoso!*”, seguindo o tom das duas falas anteriores sobre esforço e ambição. A tabela conserva o registro do corte e do complemento editorial. O 78 começa com a rotina de Chen Mo.
+
+A fala do 72 sobre pay to win agora explicita a vantagem de quem paga. A revisão conferiu a sequência do ranking no 73, o resultado divulgado no 74, o debate sobre Azeroth nos capítulos 75–76 e a passagem do convite no 79 para a entrevista no 80. Os créditos da Exodus Tales e as marcações de incerteza foram mantidos.
+
+Os testes automatizados conferiram a equivalência dos 80 TXT com o leitor, a navegação e a retomada em DOM simulado. Os capítulos 1–70 são idênticos aos da versão local anterior. A conferência visual no navegador está pendente. Próximo envio é o 81. Commit e push manuais.
+
+Backup local com 19 arquivos verificados por SHA-256 em backups/agd-publicar-revisar-071-080-20261116T140947478Z/. Para reverter o lote, restaurar os arquivos alterados a partir desse backup, preservando edições posteriores.

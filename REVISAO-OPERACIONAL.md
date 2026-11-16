@@ -5331,3 +5331,162 @@ Mantidas incertezas da fonte: Cavernas dos Lamentos61 em itálico para Wailing T
 Leitor local1–63, último63 — A estreia de I Am MT. Pendentes64–65; é necessário receber o final faltante64 antes da próxima integração contínua. Próximo envio66 ou continuação64; próxima revisão64em diante. Backup prévio de14arquivos SHA256 (incluindo pendentes preservados): backups/agd-publicar-revisar-061-063-20261116-071928/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
 
 Validação61–63 concluída: reader.test.cjs aprovado;63TXT idênticos aoJS/títulos/notas/itálicos; catálogo63,navegação/limites/retomada/progressoisolado aprovados. Testes conferem exclusão dos pendentes e impedem integração de sourceIncomplete. Sintaxe5scripts/14backupsSHA256íntegros; TXT64–65intactos e fora do leitor; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
+
+
+## Almighty Game Designer — capítulo 66 traduzido — 16/11/2026
+
+O anexo de 4b9b380b-12dc-4ad6-b6e0-845f8a3fd169 retoma a decisão de Jia Peng de fazer dez sorteios no fim do 65. Sequência 66 e título descritivo provisório, pois o anexo não traz cabeçalho. Data editorial Mar 18, 2026 removida. capitulos/066 - A primeira carta roxa de Jia Peng.txt salvo em UTF-8, com nomes incertos *Ambasador* e *Nosuke Shinsuke* preservados e marcados. Rogue e Wen Lingwei padronizados.
+
+Jia Peng tira Brick roxo na penúltima carta, evolui a roxo+ e avança nas masmorras com Nevasca. Chen Mo explica a garantia da primeira rodada, as garantias periódicas posteriores, a diferença para Onmyoji e o papel da IP, da progressão, dos sorteios e das moedas na retenção. O texto recebido vai até a reflexão sobre abrir a carteira.
+
+Leitor até 63. TXT 64–66 pendentes, com o original do 64 ainda cortado. Próximo envio 67 ou continuação do 64. Conferidos sequência, UTF-8, cabeçalho, final e quatro asteriscos de incerteza. Backup das quatro cópias verificado por SHA-256 em backups/agd-capitulo-066-20261116T111003810Z. Para reverter, restaurar os registros a partir do backup se ainda não houver alterações posteriores e retirar o novo TXT.
+
+
+## Almighty Game Designer — capítulo 67 traduzido — 16/11/2026
+
+O anexo fc2997a2-b415-4f19-b98f-e2cdfaddce66 continua os testes de I Am MT. Sequência 67 e título descritivo provisório. Data editorial removida. Guardian of the Holy Spring, Emperor Dynasty Entertainment, I Am MT e Wen Lingwei mantidos conforme capítulos anteriores. Arquivo capitulos/067 - O azar de Jia Peng.txt salvo em UTF-8.
+
+Qiu Bin teme a repercussão da animação. Durante os testes, oito mil runas e créditos de recarga por classificação na arena permitem comparar níveis VIP. Wen lidera e Jia, já com o Brick do 66, só agora recebe uma carta roxa como recompensa de fase. A fala sobre ser o último foi interpretada nesse sentido e marcada. As probabilidades de 0,5%, 3% ao dia, aumento de até 5% e chance acima de 80% foram preservadas. As duas últimas ficaram marcadas pela relação ambígua na fonte. O fim retoma Onmyoji.
+
+Leitor até 63. TXT 64–67 pendentes, com o 64 cortado na fonte. Próximo envio 68 ou continuação do 64. Cabeçalho, final, UTF-8 e pares de asteriscos conferidos. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-067-20261116T111138564Z. Para reverter, restaurar os registros do backup se não houver alterações posteriores e retirar apenas o novo TXT.
+
+
+## Almighty Game Designer — capítulo 68 traduzido — 16/11/2026
+
+Anexo 0fb25ef5-a100-4df5-937f-6c8a956c9b02. O trecho continua o fim dos testes do capítulo 67 e apresenta o lançamento simultâneo de I Am MT e Guardian of the Holy Spring. Numeração sequencial e título descritivo provisório, pois o anexo veio sem cabeçalho. Data editorial removida. Wen discute pequenos gastos e benefícios VIP. Duas interpretações foram marcadas no TXT, o momento da compra depois dos testes e a fala de Chen sobre o pagamento pelas ilustrações.
+
+Guardian custa dez yuans. A fonte informa 1.290 cópias e menciona vendas da primeira hora. Um milhão de cópias e receita superior a dez milhões de yuans são projeções de Qiu Bin. A explicação de receita bruta foi mantida.
+
+TXT salvo em capitulos/068 - O lançamento dos dois jogos.txt. Cabeçalho, final, UTF-8 e asteriscos conferidos. Leitor até 63. TXT 64–68 pendentes, com o 64 cortado na fonte. Próximo envio 69 ou continuação do 64. Backup dos quatro registros conferido em backups/agd-capitulo-068-20261116T111301635Z. Para reverter, restaurar os registros se não houver alterações posteriores e retirar apenas o novo TXT.
+
+
+## Almighty Game Designer — capítulo 69 traduzido — 16/11/2026
+
+Anexo 60493194-d0fd-4188-97a2-eb16593e0855. O trecho continua o lançamento do capítulo 68. Numeração sequencial e título descritivo provisório. Data editorial inicial removida. Chem Mo padronizado para Chen Mo.
+
+Qiu Bin descobre que I Am MT é gratuito e tem cerca de 170 MB, contra 400 MB de Guardian of the Holy Spring. Chen anuncia o jogo gratuito e sem anúncios no Weibo e ao fim do episódio. I Am MT chega a quase quatro mil downloads na primeira hora. A comparação com Guardian foi mantida como fala de Chen. Siglas DNU, ARPI, ARPPU e LTV preservadas como aparecem no painel. O texto termina com a reação à explicação de Chen sobre as metas de receita.
+
+TXT salvo em capitulos/069 - Um jogo gratuito.txt. Cabeçalho, final e UTF-8 conferidos. TXT 64–69 aguardam integração, com o original do 64 cortado. Próximo envio 70 ou continuação do 64. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-069-20261116T111427509Z. Para reverter, restaurar os registros se não houver alterações posteriores e retirar apenas o novo TXT.
+
+
+## Almighty Game Designer — capítulo 70 traduzido
+
+Anexo 7e0bef1b-7721-48ae-a3b4-949894cfee55. Continuação do lançamento e das estatísticas do capítulo 69. Numeração sequencial e título descritivo provisório, pois o anexo veio sem cabeçalho. Data editorial inicial removida. Chem Mo padronizado para Chen Mo. Duas leituras marcadas no TXT: sales no comentário sobre o jogo gratuito interpretado como downloads e moneys como instantes.
+
+I Am MT tem nota 7,6. A possível queda para 7,4, os oito a dez milhões de Qiu Bin e os vinte milhões de Chen Mo são expectativas. As 38.938 cópias de Guardian of the Holy Spring correspondem às vinte e quatro horas. O trecho enviado termina na definição de DAU, preservada em inglês com tradução.
+
+TXT salvo em capitulos/070 - As primeiras vinte e quatro horas.txt. Cabeçalho, final, UTF-8 e asteriscos conferidos. Leitor até 63. TXT 64–70 pendentes, com o 64 cortado na fonte. Próximo envio 71 ou continuação do 64. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-070-20261116T111549767Z. Para reverter, restaurar os registros se não houver alterações posteriores e retirar apenas o novo TXT.
+
+
+## Revisão e publicação local 64–70 — 16/11/2026
+
+Integrados os sete TXT de Almighty Game Designer. O leitor tem 70 capítulos consecutivos e o próximo envio é o 71. Títulos 64–70 são descritivos provisórios.
+
+No 64, o anexo terminava em “so the profit would d”. Por autorização do usuário, a frase sobre o lucro de Plants vs Zombies termina com *tenderia a cair com o tempo.* A tabela registra o corte da fonte e o complemento editorial. O 65 inicia os testes, e o primeiro sorteio de dez do 66 é distinto da carta roxa obtida numa fase do 67. As probabilidades incertas do 67 continuam marcadas.
+
+No 68, as 1.290 cópias correspondem à primeira hora de Guardian of the Holy Spring. No 69, foi ajustada a redação da frase sobre a aposta, que segue sendo pela receita do primeiro mês. O jogo gratuito alcança quase quatro mil downloads na primeira hora. No 70, as 38.938 cópias de Guardian correspondem às primeiras 24 horas, os valores de receita são projeções e a fonte termina na definição de DAU. A revisão usou os anexos disponíveis dos capítulos 66–70 e os registros da conferência anterior dos capítulos 64–65.
+
+Validação: testes do leitor em DOM simulado aprovados, incluindo equivalência dos 70 TXT ao leitor, contagem, navegação e retomada. Os capítulos 1–63 são idênticos aos da publicação anterior e os TXT 65–68 e 70 são idênticos aos do backup. Sintaxe de chapters.js aprovada. Conferência visual em navegador ainda não realizada.
+
+Backup local verificado por SHA-256: backups/agd-publicar-revisar-064-070-20261116T112045304Z/. Para reverter este lote, restaurar os arquivos alterados a partir da cópia anterior, conciliando edições posteriores. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 71 traduzido
+
+Anexo 7ca0d58c-820f-46f6-bef6-d1454ff1127c. A data editorial foi removida. Capítulo 71 por sequência, com título descritivo provisório. Nosuke Shinsuke permanece em itálico por incerteza na grafia, como no 66. O texto apresenta a assistência de amigos no combate e encerra explicando por que jogadores fortes recebem pedidos de amizade.
+
+Mantidos os números da fonte: queda de 15% na taxa de crescimento diário, estimativa de três milhões de jogadores contra cerca de oitocentos mil, conta hipotética de seis milhões de yuans e bônus Elder Sister por dois mil yuans (vinte mil runas). A suspeita de downloads inflados pertence aos personagens.
+
+TXT UTF-8 salvo em capitulos/071 - O valor de um amigo forte.txt. Cabeçalho, final, quatro separadores e marcação de itálico conferidos. Leitor local até 70, com o 71 pendente de publicação. Próximo envio 72. Backup SHA-256 dos quatro registros em backups/agd-capitulo-071-20261116T135459134Z/. Para reverter, restaurar esses registros se não houver alterações posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 72 traduzido
+
+Anexo d26d7296-a53e-4acf-a67e-f70e12a553bf. Data editorial removida, número sequencial e título descritivo provisório. Mantidos os termos ajuda de amigos, recarga, baleia e Cadeia de Raios. A estratégia Unmatched Pro foi traduzida como Mestre Imbatível. Mantida a nota [1] sobre o estilo de jogo.
+
+Marcados em itálico o sentido de non-playing como jogadores que não gastavam, a referência aos cinco sacerdotes, a comparação com uma história de amor e a grafia Nosuke Shinsuke, já incerta no capítulo 66. V12 custa cinquenta mil yuans e Chen Mo informa que já há vinte e sete contas nesse nível. Chan Xiuya normalizado para Chang Xiuya.
+
+TXT salvo em capitulos/072 - Uma equipe de baleia.txt. Cabeçalho, encerramento, UTF-8, separador, itálicos e nota conferidos. O leitor permanece até 70. TXT 71–72 aguardam publicação offline. Próximo envio 73. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-072-20261116T135634916Z/. Para reverter o lote, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 73 traduzido
+
+Anexo ec950eb1-e3e6-4051-9459-c9c5666303fc. Data editorial removida, número sequencial e título descritivo provisório. O começo retoma a conversa do 72. Mantidos Mestre Imbatível, Elder Sister e baleia. Crow Team, Pocket Rocket e Elder’s Help foram traduzidos como Equipe dos Corvos, Foguete de Bolso e Ajuda dos Anciãos. Nosuke Shinsuke e Cinco Sacerdotes da Bola de Fogo seguem com indicação de incerteza.
+
+I Am MT chegou ao quinto lugar no ranking de faturamento da loja oficial, com nota 7,1 nesse momento e variação posterior de 7 a 7,3. A receita de aproximadamente vinte milhões de yuans foi inferida por comparação com as vendas dos jogos vizinhos no ranking. O trecho termina na reação de incredulidade e ainda não traz divulgação formal de receita.
+
+TXT salvo em capitulos/073 - Quinto lugar no ranking.txt. Cabeçalho, encerramento, UTF-8, separadores e itálicos conferidos. O leitor permanece até 70. TXT 71–73 aguardam publicação offline. Próximo envio 74. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-073-20261116T135808882Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 74 traduzido
+
+Anexo e9afac8b-437b-4120-892f-5e80492953e9. Data editorial removida. Número sequencial e título descritivo provisório. O trecho retoma o quinto lugar no ranking e informa os resultados do primeiro mês: 890 mil cópias e 8,9 milhões de yuans para Guardian of the Holy Spring, contra 23 milhões para I Am MT. A comparação anterior de quase duas vezes permanece marcada como incerta, seguida da comparação final de quase três vezes.
+
+Mantidos Universo de Azeroth, baleias, loja de experiências e designer de classe C. Lin Choaxu e Liu Chaoxu foram normalizados para Lin Chaoxu pelo contexto. Qiu Bin admite a derrota, recolhe a carta de demissão e recebe a tarefa de supervisionar uma versão de I Am MT com outro visual.
+
+TXT UTF-8 salvo em capitulos/074 - O resultado da aposta.txt. Cabeçalho, encerramento, três separadores e itálico conferidos. O leitor segue até 70, com os TXT 71–74 pendentes de publicação offline. Próximo envio 75. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-074-20261116T135940826Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 75 traduzido
+
+Anexo 9cfbd63c-4717-4333-8789-fcf9dffe0e2d. A data editorial foi removida. O número segue a sequência e o título é descritivo e provisório. O lapso Qiu Xiao foi corrigido para Qin Xiao pelo lugar à mesa e pela continuidade da cena. Mantidos V12, Universo de Azeroth, loja de experiências, classe S e classe A. A nota [1] da fonte foi traduzida.
+
+Lin Chaoxu confirma que Qiu Bin ficou encarregado da cópia e espera resultados em dois meses. Qin Xiao, Yan Zhenyuan e Qiu Jiang conduzem a reunião sobre I Am MT e o Universo de Azeroth. O trecho termina quando Yan pede a Tang Dagang que desenvolva sua hipótese.
+
+TXT UTF-8 salvo em capitulos/075 - Três designers de classe S.txt. Cabeçalho, final e nota conferidos. O leitor local segue até 70 e os TXT 71–75 aguardam publicação. Próximo envio 76. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-075-20261116T140110212Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 76 traduzido
+
+Anexo b93ccde8-375c-4b70-af67-871bc57de935. O trecho continua a fala de Tang Dagang no capítulo 75. A data editorial foi removida e o título é descritivo e provisório. Qiu Xiao e Yang Zhenyuan foram corrigidos para Qin Xiao e Yan Zhenyuan pela continuidade da cena. Mantidos Universo de Azeroth, Heavenly Ring e a nota [1] sobre RPG.
+
+O lapso after welling foi interpretado como depois de vencer, e large scale show como uma produção de grande porte. As duas leituras estão em itálico. Tang Dagang fica encarregado do RPG para PC, com uma versão em realidade virtual condicionada ao resultado.
+
+TXT UTF-8 salvo em capitulos/076 - Dá para copiar Azeroth.txt. Cabeçalho, final, nota e marcações conferidos. Leitor até 70, com os TXT 71–76 pendentes. Próximo envio 77. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-076-20261116T140247261Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 77 traduzido até o corte
+
+Texto enviado na conversa com o número 77 e sem título. O título Uma semana de folga é provisório. Data editorial removida. Chan Xiuya e Weng Lingwei foram normalizados para Chang Xiuya e Wen Lingwei pelo contexto. Mantido gank, pois Chen Mo explica a expressão no diálogo.
+
+O material termina em “Stop bein”, no meio da fala de Jia Peng. O TXT termina com “Para de ser...” e um aviso de corte. A tabela registra sourceIncomplete e offlinePending.
+
+TXT UTF-8 salvo em capitulos/077 - Uma semana de folga.txt. Cabeçalho, separador e aviso de corte conferidos. O leitor segue até 70 e os TXT 71–77 aguardam publicação. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-077-20261116T140359463Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 78 traduzido
+
+Anexo ecc75bac-fd27-4d7b-be64-97dd454ced81. A abertura passa à rotina de Chen Mo e não continua a última fala de Jia Peng. O texto foi registrado como capítulo 78 em sequência, com título descritivo provisório e sem a data editorial. A leitura da abertura sobre o que Chen Mo disse foi marcada em itálico. Xiu Xiaojun foi padronizado para Xu Xiaojun pela continuidade da ligação.
+
+Lin concorda em reservar o espaço de divulgação por um mês para o próximo jogo de Chen Mo. TXT UTF-8 conferido em capitulos/078 - O espaço de divulgação.txt. O 77 continua incompleto na fonte. Próximo envio 79 ou continuação do 77.
+
+Backup dos quatro registros conferido por SHA-256 em backups/agd-capitulo-078-20261116T140528837Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 79 traduzido
+
+Anexo d444fe35-2044-4b4e-816d-abe2862d6b35. Data editorial removida e título descritivo provisório. Foram mantidos Moonglade, Kalimdor, Orgrimmar e os nomes Universo de Azeroth e National Geographic Azeroth (NGA). Zhen Hongxi foi normalizado para Zheng Hongxi. A fala com aspas corrompidas foi recomposta pela pontuação do diálogo. A nota [1] sobre dōjin foi preservada, e as leituras incertas ficaram em itálico.
+
+Chen Mo encontra a fanfic de Zheng Hongxi no fórum e o convida para conversar na Capital Imperial. Han Lu, do Tianji.com, marca uma entrevista para a manhã seguinte. TXT UTF-8 conferido em capitulos/079 - Um escritor no fórum.txt. Próximo envio 80 ou continuação do 77.
+
+Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-079-20261116T140654489Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 80 traduzido
+
+Anexo df9ba79f-df9a-419f-94fc-6a3158d63f1d, em sequência direta com o 79. Data editorial removida e título descritivo provisório. Os créditos de tradução e edição da Exodus Tales foram preservados. O lema Creating happiness mindfully foi traduzido como Criar felicidade com dedicação.
+
+Han Lu entrevista Chen Mo sobre o faturamento, as avaliações e a Elder Sister. Os números de dez por cento e duzentos yuans são apresentados como estimativas de especialistas. Preservadas as duas formulações sobre o gasto, em média e até duzentos yuans. O material termina com a pergunta completa da jornalista.
+
+TXT UTF-8 conferido em capitulos/080 - A entrevista de Han Lu.txt. Leitor até 70, com os capítulos 71–80 pendentes e o 77 cortado na fonte. Próximo envio 81 ou continuação do 77. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-080-20261116T140818558Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Revisão e publicação local 71–80 — 16/11/2026
+
+Os dez capítulos foram integrados ao leitor offline. O 77 terminava em “Stop bein”. A pedido do usuário, a fala foi fechada como “Para de ser *preguiçoso!*”, seguindo o tom das duas falas anteriores sobre esforço e ambição. A tabela conserva o registro do corte e do complemento editorial. O 78 começa com a rotina de Chen Mo.
+
+A fala do 72 sobre pay to win agora explicita a vantagem de quem paga. A revisão conferiu a sequência do ranking no 73, o resultado divulgado no 74, o debate sobre Azeroth nos capítulos 75–76 e a passagem do convite no 79 para a entrevista no 80. Os créditos da Exodus Tales e as marcações de incerteza foram mantidos.
+
+Os testes automatizados conferiram a equivalência dos 80 TXT com o leitor, a navegação e a retomada em DOM simulado. Os capítulos 1–70 são idênticos aos da versão local anterior. A conferência visual no navegador está pendente. Próximo envio é o 81. Commit e push manuais.
+
+Backup local com 19 arquivos verificados por SHA-256 em backups/agd-publicar-revisar-071-080-20261116T140947478Z/. Para reverter o lote, restaurar os arquivos alterados a partir desse backup, preservando edições posteriores.
