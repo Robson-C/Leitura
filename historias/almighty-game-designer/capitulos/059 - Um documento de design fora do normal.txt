@@ -1,0 +1,175 @@
+Capítulo 59 — Um documento de design fora do normal!
+
+O interessante era que, quanto menos um jogador queria gastar, mais se importava com os recursos gratuitos que o jogo oferecia!
+
+Não consegue avançar? Não se preocupe, vou dar alguns diamantes. Basta entrar hoje para ganhar cem. Depois de passar de um determinado número de fases, ganha mais quinhentos. E, quando chegar ao nível trinta, vou dar...
+
+Esses jogadores tentavam converter os recursos em dinheiro de verdade.
+
+Quer desistir? Isso significa perder dinheiro todos os dias!
+
+A essa altura, uma grande parcela continuaria jogando só para evitar aquela perda em potencial.
+
+Muita gente pensaria que só agiam assim por serem pobres. Se fossem ricos, não se deixariam atrair por quantias tão pequenas.
+
+Aquilo estava completamente errado!
+
+A disposição para gastar num jogo tinha relação com a personalidade. Muitos jogadores se importavam com o que ganhavam dentro dele.
+
+Chen Mo vira pessoas ricas assim na vida anterior. Podiam ter gasto centenas de milhares no jogo e, ainda assim, se importavam com as poucas centenas de diamantes do bônus diário.
+
+Quando jogavam apenas pelos recursos gratuitos, já haviam aceitado inconscientemente o modelo de pagar para ganhar e a relação entre equipamentos, diamantes e dinheiro de verdade.
+
+Depois disso, aquele grupo que não queria gastar poderia começar a pagar durante alguma promoção.
+
+Da primeira recarga à assinatura mensal, depois à vitalícia e à primeira grande recarga, os gastos aumentariam aos poucos.
+
+Não havia problema se a conversão não fosse imediata. Mesmo que alguns insistissem em nunca gastar, ao menos poderiam jogar ao lado de quem pagava, o que também seria bom para o jogo.
+
+A empresa também recebia bem quem não gastava um centavo. Se não podia apoiar financeiramente, o apoio moral também servia!
+
+É claro que a terceira fonte de satisfação se apoiava nas duas anteriores. Antes de se tornar escravo dos métodos de Ivan Pavlov e gastar com cartas e batalhas virtuais, o jogador precisava reconhecer o valor do jogo e de seu conteúdo.
+
+Planejar a estrutura básica levou dois dias. Depois, Chen Mo começou a trabalhar no documento das regras. Incluindo os refinamentos, o processo inteiro demorou uma semana.
+
+Era um prazo parecido com o de Plants vs Zombies. Embora os jogos de cartas chineses para celular parecessem simples, tinham muitos detalhes pequenos que consumiam bastante tempo.
+
+É claro que ele também trabalhava na arte conceitual das cartas. Havia muitas, mas não precisava terminar todas de uma vez. Bastava acompanhar o ritmo da empresa de arte, sem ocupar tempo demais com aquilo.
+
+Além disso, dedicara algum tempo a conferir o andamento das ilustrações e da animação. Guo Feng enviaria o primeiro episódio até o fim de semana seguinte.
+
+Depois de concluir todos os documentos de design, pediu a Su Jinyu que os implementasse no motor de jogos, produzindo a versão inicial de I Am MT.
+
+Ela e Wen Lingwei haviam terminado quatro ilustrações cada. Chen Mo percebeu que as duas eram realmente boas: os detalhes estavam à altura dos originais.
+
+É claro que algumas pequenas coisas diferiam da versão de sua vida anterior, mas aquilo não importava. Detalhes mínimos não teriam grande influência.
+
+Su Jinyu baixou os documentos enviados por Chen Mo.
+
+Ele disse:
+
+— Os documentos de design estão todos aí. Só faltam os valores numéricos e o design das fases, além dos atributos das cartas e da configuração geral. Por enquanto, implemente as regras no motor. Podemos acrescentar o restante depois.
+
+Su Jinyu se espantou.
+
+— Todos os documentos? Você terminou em uma semana?!
+
+Era natural que estivesse surpresa. Levara duas semanas para concluir as duas funcionalidades que ele lhe passara na atualização de Plants vs Zombies. Já Chen Mo escrevera o projeto de um jogo inteiro em uma semana!
+
+Aquela eficiência era sobre-humana!
+
+Ele continuou, tranquilo:
+
+— Leia os documentos e pergunte se não entender alguma coisa. Vou trabalhar nos valores numéricos e no design das fases.
+
+Depois de mais algumas orientações, voltou ao escritório.
+
+Muito curiosa, Su Jinyu abriu o material. Que tipo de jogo ele usaria numa aposta tão importante?
+
+Antes, Chen Mo encomendara ilustrações de cartas e entrara em contato com uma produtora de animação. O que estava planejando? O que uma animação tinha a ver com produzir um jogo?
+
+Até aquele momento, ela não fazia ideia do que ele pretendia.
+
+Wen Lingwei, Jia Peng e os outros se aproximaram para olhar.
+
+Apoiando-se no balcão, Wen Lingwei disse:
+
+— Estou mesmo curiosa para saber o que o chefe planejou para o próximo jogo.
+
+Jia Peng perguntou:
+
+— Aham... Veterana, você entende o que está escrito no documento de design?
+
+Ela lhe lançou um olhar frio.
+
+— E daí se não entendo? Peixinho Dourado, explique para mim.
+
+Su Jinyu ficou sem palavras...
+
+Examinaram um documento após o outro.
+
+Interface.
+
+Combate básico.
+
+Missões diárias.
+
+A incerteza de Su Jinyu não diminuiu. Na verdade, só aumentou.
+
+Depois de fechar o último arquivo, estava completamente confusa.
+
+— É isso? Só isso? Não está simples demais? O conteúdo não chega nem perto de Plants vs Zombies! — exclamou.
+
+Wen Lingwei franziu a testa.
+
+— O que aconteceu? Pode explicar como é o jogo?
+
+Jia Peng enxugou o suor da testa.
+
+— Embora eu não entenda muito bem o que está acontecendo, tenho a impressão de que não há muita coisa nesses documentos. Não está faltando conteúdo?
+
+Su Jinyu abriu o documento de combate e conferiu as regras outra vez.
+
+Na tela vertical do celular, jogador e inimigo ocupariam seis casas cada, com pequenas diferenças nas fases de chefes, e atacariam em sequência...
+
+Ela releu as regras.
+
+Sim, era aquilo! Não estava simples demais? Nem se comparava a Plants vs Zombies!
+
+Não conseguia acreditar no que via. Era difícil aceitar que Chen Mo lhe entregara um projeto tão pobre.
+
+Plants vs Zombies era um jogo em tempo real. Já o novo projeto, de alguma forma, regredira para o combate por turnos!
+
+Além disso, a batalha podia ser resumida a um monte de cartas se enfrentando. Fora reposicioná-las, o jogador não precisava fazer mais nada!
+
+Um jogo tão simples...
+
+Su Jinyu não conseguia imaginar direito como seria o combate, mas já tinha vontade de apagar aquilo da memória. Um monte de cartas brigando? Dava para ter uma ideia mais idiota?
+
+Além disso, o que era aquele sistema VIP?
+
+O V12 exigia cinco milhões de runas?
+
+A conversão era de dez runas por yuan. Isso significava que o V12 exigia *cinquenta mil yuans*?!
+
+Cinco, zero, zero, zero, zero yuans!
+
+Su Jinyu não entendia o sentido daquilo. Quem gastaria cinquenta mil yuans num jogo?
+
+Quantas refeições boas dava para pagar com aquele dinheiro?!
+
+Quantas peças de roupa?!
+
+Quantos filmes?!
+
+Quantos aparelhos eletrônicos?!
+
+Como poderia existir alguém disposto a gastar cinquenta mil yuans num jogo daqueles?!
+
+E ainda por cima, olhem aqueles privilégios VIP!
+
+Aumentar o limite de compras diárias, melhorar a liderança e ampliar a quantidade de participações nos vários modos! Havia até um pacote de presentes VIP!
+
+E o que era aquele bônus de recarga? Por que incluía cartas? Recarregar vinte mil runas dava uma carta exclusiva de Elder Sister!
+
+Dois mil yuans. Aquilo era um assalto!
+
+Ao examinar os documentos, Su Jinyu só conseguia pensar numa coisa: que porra é essa?
+
+Chefe, tudo bem que a aposta seja sobre o dinheiro ganho, mas essa tentativa de arrancar dinheiro está óbvia demais!
+
+Não. Preciso perguntar e descobrir o que está acontecendo!
+
+Su Jinyu subiu.
+
+Jia Peng olhou para Wen Lingwei, que retribuiu o olhar.
+
+— O que fazemos, veterana? — perguntou.
+
+Ela respondeu:
+
+— Quem sabe? Vamos fingir que nada aconteceu e cuidar da nossa vida. Não se meta no que não entende por completo. Deixe o Peixinho Dourado discutir com o chefe.
+
+Jia Peng ficou sem palavras.
+
+Como você consegue ficar tão tranquila com isso?!

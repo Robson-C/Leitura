@@ -1,0 +1,99 @@
+Capítulo 57 — Planejamento do jogo para celular
+
+Depois de acompanhar Guo Feng até a saída da loja, Chen Mo voltou mais uma vez ao escritório.
+
+Até então, não havia avançado no documento de design. Porém, não estava preocupado. As regras de um jogo de cartas para celular eram extremamente simples. Só o sistema de combate, a programação e o design das fases dariam um pouco mais de trabalho.
+
+Sua prioridade era terminar os roteiros e os storyboards da série animada.
+
+Era a popularidade da série que permitiria ao jogo ganhar dinheiro. Por isso, ela precisaria estrear bem antes do jogo, pois levaria tempo para conquistar público.
+
+Chen Mo havia planejado os quatro meses de desenvolvimento.
+
+Primeira semana: terminar tudo o que dizia respeito à animação, como os desenhos dos personagens, as artes conceituais dos cenários, os roteiros e os storyboards, além de organizar a produção.
+
+Cada episódio, com dez minutos, provavelmente levaria uma semana para ficar pronto.
+
+Como os episódios teriam cerca de metade da duração de outras animações, ele receava não atrair espectadores suficientes. Por isso, decidiu lançar os três primeiros juntos, um mês depois do início do plano.
+
+Depois, sairia um episódio por semana, e a primeira temporada seria concluída em três meses. Quando chegasse a hora, decidiria se a segunda começaria sem interrupção.
+
+Enquanto a série fosse produzida, o jogo também estaria em desenvolvimento. Porém, aquele cronograma seria um pouco mais flexível, pois seria necessário fazer ajustes no código.
+
+Se tudo ocorresse como previsto, as ilustrações das cartas e os demais recursos gráficos deveriam avançar sem problemas.
+
+Chen Mo pretendia terminar o jogo em três meses, deixando o tempo restante para testes e ajustes.
+
+Portanto, o primeiro passo continuava sendo preparar todo o material da animação em uma semana.
+
+Nos dias seguintes, assumiu o papel de artista. Sob o efeito das Poções de Reprodução de Memórias, fazia anotações sobre os roteiros e as cenas.
+
+Além disso, desenhou artes conceituais dos cenários para servirem de referência à produção.
+
+Não pretendia usar o Superacelerador. Ainda se sentia mal por causa dos efeitos colaterais da última vez.
+
+Uma semana depois.
+
+Guo Feng voltou à loja de experimentação. Dessa vez, Chen Mo pôde lhe mostrar os roteiros, o planejamento dos planos e os storyboards concluídos.
+
+Guo Feng folheou o material e se surpreendeu com o quanto estava completo e bem-feito. Só pelos storyboards, já conseguia entender o essencial da história!
+
+Além disso, os desenhos dos personagens eram novos e interessantes. Pelo visto, o protagonista era um boi!
+
+— Hum... — Guo Feng coçou o queixo. A princípio, imaginara que fosse apenas um capricho de alguém rico e que Chen Mo estivesse fazendo aquilo por diversão. Porém, depois de examinar os storyboards e os roteiros, percebeu que, embora não fosse perfeito, o projeto tinha uma boa ideia e muito potencial!
+
+Se fosse um projeto próprio do estúdio, destinaria a ele seus melhores recursos!
+
+Além disso, o material de Chen Mo era extremamente detalhado. Havia até observações sobre a intenção de alguns diálogos e os pontos que mereciam atenção durante a dublagem.
+
+O que Guo Feng não sabia era que Chen Mo já fizera pequenos ajustes no roteiro original e retirara algumas piadas mais obscuras, ajudando o público daquele mundo a entender melhor o conteúdo.
+
+Como havia maximizado o primeiro nível de Design de Narrativa, fazer alterações daquele tipo era bastante simples.
+
+— Se tiver alguma sugestão profissional sobre o roteiro ou os storyboards, pode falar comigo. Não está tudo fechado.
+
+Guo Feng assentiu.
+
+— Certo, avisaremos se tivermos ideias melhores. Mas estou bastante surpreso com a qualidade do roteiro. Na minha opinião, essa série certamente tem potencial para conquistar alguma popularidade.
+
+Chen Mo riu por dentro. Alguma popularidade? Você está subestimando essa animação!
+
+Porém, aquilo era normal. Em sua vida anterior, embora I Am MT tivesse recebido elogios ao estrear, quem imaginaria que faria tanto sucesso?
+
+Muita gente achara que a pessoa que decidira comprar seus direitos por três milhões de yuans era maluca.
+
+Olhando para trás, um número enorme de pessoas havia subestimado o potencial da animação e do jogo.
+
+Guo Feng inicialmente receara que os roteiros e os storyboards de Chen Mo fossem pouco convencionais. Porém, suas dúvidas desapareceram quando viu o material.
+
+A negociação avançou sem problemas. As duas partes decidiram assinar os contratos no início do mês seguinte e, então, começar oficialmente a produção.
+
+Zhao Zihao também enviou alguém de seu departamento jurídico para examinar o contrato de Chen Mo. Depois de confirmar que estava tudo certo, ele assinou e fez o pagamento.
+
+Plants vs Zombies rendera dois milhões e seiscentos mil yuans no segundo mês. Um milhão e oitocentos mil foram destinados à produção da animação. O restante serviria para pagar as ilustrações das cartas e os outros recursos gráficos.
+
+Com as questões da série resolvidas, só lhe restava esperar pelos resultados.
+
+Em seguida, precisava começar a planejar as regras do jogo para celular.
+
+Nas primeiras versões de I Am MT, a jogabilidade e os vários sistemas eram bastante simples. Porém, com as atualizações, o número de funcionalidades continuara crescendo, até o jogo ficar inchado.
+
+Chen Mo não pretendia trazer tudo daquele sistema para sua versão. Atualizar jogos para celular e acrescentar novas formas de jogar costumava ser um último recurso: muitas vezes, os desenvolvedores eram obrigados a adicionar conteúdo para manter a sensação de novidade. Era uma estratégia para impedir que o público fosse embora aos poucos, depois de se cansar.
+
+Nas primeiras etapas, ele precisaria cortar algumas partes extras. Se começasse com coisa demais, poderia dificultar a entrada dos jogadores!
+
+Depois de definir mentalmente como o jogo deveria ficar, começou a trabalhar na estrutura do documento de design.
+
+Ele incluía a interface principal, o sistema básico de combate, o sistema de evolução das cartas, o planejamento das masmorras, os combates especiais, os atributos da conta — nível, título, força e assim por diante —, a loja e os benefícios VIP, amigos, guildas, inventário, bate-papo, correio, conteúdo diário e outros elementos relacionados.
+
+Com a ajuda das Poções de Reprodução de Memórias, a estrutura ficou pronta em pouco tempo. Não era necessário refletir tanto: aqueles sistemas se tornariam o padrão de outros jogos chineses para celular com jogabilidade semelhante. Era um modelo maduro, que já passara por muitos testes.
+
+Chen Mo precisava se concentrar em dois aspectos: os sistemas de evolução das cartas e de combate; e o design das fases e o balanceamento das cartas.
+
+Pensara em deixar algumas partes do documento de funcionalidades com Su Jinyu. Porém, desistiu, pois aqueles recursos seriam completamente novos para ela. Se os delegasse, provavelmente teria que gastar muito tempo corrigindo e reescrevendo, o que seria um enorme desperdício.
+
+Além disso, seria muito difícil explicar o conceito do jogo a ela. Preferia que usasse aquele tempo para produzir mais ilustrações dos personagens.
+
+Ainda assim, depois que terminasse, deixaria que ela implementasse tudo no motor de jogos.
+
+Concluída a estrutura básica, descansou dez minutos e começou a trabalhar no documento mais importante: o do sistema de combate.

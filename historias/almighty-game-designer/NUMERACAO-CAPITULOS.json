@@ -301,7 +301,67 @@
       "chapter": 50,
       "title": "Emperor Dynasty Entertainment? E daí?",
       "file": "capitulos/050 - Emperor Dynasty Entertainment E daí.txt"
+    },
+    {
+      "source": 51,
+      "chapter": 51,
+      "title": "Uma aposta de peso",
+      "file": "capitulos/051 - Uma aposta de peso.txt"
+    },
+    {
+      "source": 52,
+      "chapter": 52,
+      "title": "O novo jogo está decidido",
+      "file": "capitulos/052 - O novo jogo está decidido.txt"
+    },
+    {
+      "source": 53,
+      "chapter": 53,
+      "title": "A alma dos jogos de cartas",
+      "file": "capitulos/053 - A alma dos jogos de cartas.txt"
+    },
+    {
+      "source": 54,
+      "chapter": 54,
+      "title": "A arte conceitual das cartas",
+      "file": "capitulos/054 - A arte conceitual das cartas.txt"
+    },
+    {
+      "source": 55,
+      "chapter": 55,
+      "title": "Tirar dinheiro do chefe de todo jeito!",
+      "file": "capitulos/055 - Tirar dinheiro do chefe de todo jeito.txt"
+    },
+    {
+      "source": 56,
+      "chapter": 56,
+      "title": "Animação é tão cara",
+      "file": "capitulos/056 - Animação é tão cara.txt"
+    },
+    {
+      "source": 57,
+      "chapter": 57,
+      "title": "Planejamento do jogo para celular",
+      "file": "capitulos/057 - Planejamento do jogo para celular.txt"
+    },
+    {
+      "source": 58,
+      "chapter": 58,
+      "title": "O segredo para lucrar com jogos de cartas",
+      "file": "capitulos/058 - O segredo para lucrar com jogos de cartas.txt"
+    },
+    {
+      "source": 59,
+      "chapter": 59,
+      "title": "Um documento de design fora do normal!",
+      "file": "capitulos/059 - Um documento de design fora do normal.txt"
+    },
+    {
+      "source": 60,
+      "chapter": 60,
+      "title": "O primeiro episódio da série animada",
+      "file": "capitulos/060 - O primeiro episódio da série animada.txt"
     }
   ],
-  "notes": "Fontes1–50→capítulos1–50 integrados e revistos contextualmente. Último lote revisado41–50; nenhum TXT pendente nesta obra. Próximo51/fonte51; próxima revisão começa51. Numeração independente; commit/push manuais."
+  "notes": "Fontes1–60→capítulos1–60 integrados e revistos contextualmente. Último lote revisado51–60; nenhum TXT pendente nesta obra. Próximo61/fonte61; próxima revisão começa61. Numeração independente; commit/push manuais."
 }

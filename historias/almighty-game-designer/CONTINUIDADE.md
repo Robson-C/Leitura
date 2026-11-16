@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 15/11/2026: capítulos 1–50 integrados e revisados contextualmente; nenhum TXT pendente nesta obra. Próximo esperado: fonte 51 → capítulo 51, conforme o material enviado.
+Estado em 15/11/2026: capítulos 1–60 integrados e revisados contextualmente; nenhum TXT pendente nesta obra. Próximo esperado: fonte 61 → capítulo 61, conforme o material enviado.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -514,3 +514,132 @@ Pendências da fonte mantidas: lista de livros48 discrimina108dos135, sem invent
 Leitor local1–50, último50 — Emperor Dynasty Entertainment? E daí? Nenhum TXT pendente nesta obra. Próximo51/fonte51; próxima revisão automática51em diante. Backup prévio de19arquivos SHA256: backups/agd-publicar-revisar-041-050-20261115-204654/; ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
 
 Validação41–50 concluída: reader.test.cjs aprovado;50TXT idênticos aoJS/títulos/notas/itálicos/separadores; catálogo50, navegação/limites/retomada/progresso e preferências isolados aprovados. Sintaxe dos cinco scripts e19backupsSHA256íntegros conferidos. Arquivos da aplicação/conteúdo do Clube preservados. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.
+
+
+## Almighty Game Designer — capítulo51 traduzido — 15/11/2026
+
+Fonte51→capítulo51, Uma aposta de peso. InterferidorRaiva provoca respostaQiuBin; debatevendas500mil1ºmês, Qiu evitaassuntocópia/intimidaapoiodaempresa. ApostaACEITA: Chencrianovojogo, amboslançamaomesmotempo, comparaLUCROprimeiromês (nãoquantidadevendas). SeQiu perder: Destaques do Mês/Promoted This Month, melhoráreahomeEmperor,1mêsgratuito; seChenperder:ficarforaprédioEmperorvestidodemulher. Resultadoem4meses, coerente3meseslançamento+1apuração, semdatacalendárioinventada. Lin Chaoxu presidenteEmperor, semconfundirLinMao. QiuBinclasseBnão controlaespaço, assumeconseguir; reservasnormalmenteA/Sinternos. Final15minefeitotermina; Chenbuscaespaçoepublicidade,nãodisputamoralnemresultadojáconhecido.
+
+Lapsofonte fãsdesapontadosvãoDMChen mascobramMrQiuBin normalizado para mensagens aQiuBin conforme falas/reaçãoimediata dele. Comentárioinglês he said he was copying you pronomesambíguos traduzido ele disse que você estava copiando, sentidoacusaçãoanterior. Primeiro jogoShiHuazhe→primeirolançamentocomercial para preservarFlappyBird conforme revisãoanterior. Asteriscos de capturaespúriosremovidos. Semcortes/omissões.
+
+Tabela/continuidade/handoff atualizados; TXT51pendente, leitor1–50 preservado; próximo52/fonte52. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-051-20261115-222410/. Clube/JS não alterados; semcommit/push.
+
+Validação51: UTF-8,cabeçalho/final, sequência1–51, integralidade/termosaposta/lucro/prazos/15min/nomes conferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Almighty Game Designer — capítulo52 traduzido — 15/11/2026
+
+Fonte52→capítulo52, O novo jogo está decidido. Qiu Bin se acalma e arrepende, mas Lin Chaoxu elogia resposta/aposta e promete apoio/publicidade; pede jogo melhor possível antes de abril. Fonte depois repete quatro meses de dedicação/desenvolvimento, mantidos ambos os prazos, sem datas inventadas ou antecipar data de lançamento. Ligações Lin Mao/Zhao Zihao/Su; loja abre normalmente, Chen admite documento ainda não escrito, promete tarefas amanhã. Desenha por meia hora minotauroMT com três pontos sob olhos, define I Am MT, jogo de cartas chinês/mobile baseado em recargas. Nome comercial mantido. Justificativa: aposta compara lucro, monetização de Guardian/PVZ limita potencial, não necessariamente qualidade. Vitória prevista pela confiança de Chen, NÃO resultado já alcançado.
+
+Lapso Su Jinys→Su Jinyu normalizado. Inglês without a total lack of concern interpretado despreocupado conforme falas/ações, sem inverter humor da cena. Resposta irritada em símbolos preservada como ruído gráfico; asteriscos substituídos por sinais sem marcação para evitar falso itálico no leitor. Pedido evitar folgas não apaga contrato de oito folgas/mês42: preservar fala atual sem inventar revisão contratual. Cronologia abril/quatro meses deve ser revista com fontes seguintes, não forçar conciliação.
+
+Tabela/continuidade/handoff atualizados; TXT51–52pendentes, leitor1–50 preservado; próximo53/fonte53. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-052-20261115-222604/. Clube/JS não alterados; semcommit/push.
+
+Validação52: UTF-8,cabeçalho/final, sequência1–52, integralidade/contexto/nomes/abril/quatro meses/meia hora/MT/monetização conferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Almighty Game Designer — capítulo53 traduzido — 15/11/2026
+
+Fonte53→capítulo53, A alma dos jogos de cartas. ComparaPVZglobal/vendascópias a IAmMTChinagratuito/recargas/rentabilidade. Númerosfonte: hipótese1,5milhãocópias×US$3=US$4,5milhões/~27milhõesyuans;2013IAmMT55milhõesmensais;3–4anosoperação,4anoscópias. Não confundirreceitavendascomparativa comlucromensal, nem comnúmerosanteriores/nãoajustarhistórico. TrêsrazõesIAmMT:facilidadeprodução2–3meses; tolerânciadegratuitos/runas/menorfrustraçãoPvP; divulgação/IP.
+
+IP→propriedadeintelectual/franquiaobra reconhecível, não sóregistrojurídico. Direitoscaros7dígitos+, nichoscentenasmil; Chen decide recriar IP via animaçãoIAmMT terceirizada comdesigns/história/cenas. Não começouproduçãonemcontratouempresa. Exemplosnomescomerciais preservados, inclusive Hawks ambiguamenteligadoOnePiece sem inventarMihawk. Soul Hunters referênciahistórica conformeinglês. Notas[1]–[6]mantidas como fonte. Trechoorigemanimação animated series turned games confuso mantidoitálico, sem transformarporcontaprópria em origemverificada. Erroyouryears→fouryears (3ou4anos)normalizado contexto.
+
+Riscofinal: WoWnãoexistemundoparalelo, referênciasMT/MainTankpodemnãoficarclaras; popularidadeanimação incerta. IAmMTsérieeIAmMTjogo são produtosdistintos interligados; MTpersonagemminotaurodesenhado52.30milhõesvisualizaçõesprimeiroepisódioiQiyi éalegaçãofonte, nãoresultadofuturoChen.
+
+Tabela/continuidade/handoff atualizados; TXT51–53pendentes, leitor1–50 preservado; próximo54/fonte54. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-053-20261115-222828/. Clube/JS não alterados; semcommit/push.
+
+Validação53: UTF-8,cabeçalho/final/notas1–6, sequência1–53, integralidade/contexto/números/IP/MT/WoW/itálico conferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Almighty Game Designer — capítulo54 traduzido — 15/11/2026
+
+Fonte54→capítulo54, A arte conceitual das cartas. Chen aposta compreensãoIAmMTmesmosemWoW, planejaajustesdeintrodução. Usa1Superacelerador+1PoçãoReproduçãoMemórias, lembraJOGOnãoanimação. Plano36personagens×3artes+~200monstros=308cartas; corrige fórmula capturada363,+200 para operação explícita36vezes3+200conformetotal. Original>1000cartas/425personagens, versões4/4+/5/5+/5+3/6trêsformas/7trêsformas; inicialaté5+3máximo (azul4/roxo5/roxo5+3). Artesclássicas36×10min=6h; pausas/termina18h. Sóesboçossemcor/detalhes/acabamento; envioaSu, grupoexamina. Regras/mecânicasprometidasem1semana; nenhumlançamentoinventado.
+
+Horde→Horda/Alliance→Aliança. Nomespersonagensingleses preservados conformeavisoexpresso tradutorColdTaco(páginaFandomincompleta/metadepossivelmenteoficial/metadeinventada): MT/Shaman/Rogue/Hunter/Druid/Caster/Warlock/Priest/Beauty/Thief/BarrelBull/BloodElfMage; Lady/Tyran/Brick/Meddy/ThePresident/Huntress/ElderSister/CannonLady/HolyRidersPentad/FireballGodsPentad/SunkenFish/FallenGoose/WaningMoon/ShyFlower/NosukeShinsuke/Winter. Não presumir que Rogue e Thief sejammesmopersonagem; nãoinventarnomes chinesesoficiais. NicknameSuJinyu→PeixinhoDourado, notaJin1Yu2vsJin3Yu2 preservada; pedraspreciosasnos2caracteresdonom e. Notas1–4eavisoinglesintegralmenteincluídos. Lapso plants→plans normalizado planos. Consequênciasitem(dormir10h)explicadas49 masaindanãonarradasagora; nãoinventardescanso/saldoformal.
+
+Tabela/continuidade/handoff atualizados; TXT51–54pendentes, leitor1–50 preservado; próximo55/fonte55. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-054-20261115-223016/. Clube/JS não alterados; semcommit/push.
+
+Validação54: UTF-8,cabeçalho/final/notas1–4/avisoColdTaco, sequência1–54, integralidade/contexto/nomes/308cartas/36esboços/6h/18h/itens conferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Almighty Game Designer — capítulo55 traduzido — 15/11/2026
+
+Fonte55→capítulo55, Tirar dinheiro do chefe de todo jeito! Suestima4–5dias refinamento/cores, Chenpede3; Wenartistaencomendas5000desconto→negocia2000porarte/3diascada. Jia/Changmenosaptosficammonstros; Chenoferecepagamentoigualdeinício, finaldizvaloresmercado, nãoinventarhonorárioefetivoestudantes. MantidoDepartamentoDivulgação/chefia/vice-chefia conforme27. Su/Wenpriorizampersonagens; conta36cartas×3dias÷2pessoas=54dias, mas totalplanoinclui3artes/personagem: fonte sóusa36nessapassagem, não corrigirpara162. Orçamento terceirizada2200/personagemarte+600/monstro:36×3×2200+200×600=357600yuans, fórmulacapturada3632200/200600recomposta pelosoperandos e resultado. Objetivoabaixo500mil, dificilabaixo300mil.
+
+Wenfornececontatoempresaartessemnome, Chen negocia e distribuitrabalho; animaçãoaindasemcontatoconfiável. CartasprincipaisMT/Shaman/Rogue/Hunter/Lady/President/ElderSister→WenSu/~1mês; outras→empresa; monstrosparte→estudantes. Prazo conjunto2meses; Su tambémdesigndojogo. Finalnãoéentregapronta, apenasdistribuição/encomenda. CansaçoSuperaceleradorcomeçaagora, sono10h ainda não narrado. ContinuidadePeixinhoDourado mantida.
+
+Pendênciaprazosfonte: resposta4–5dias depois3dias éambíguaquantoalote, maistardefonteexplicita3diasPORCARTA. Preservadasfalassemimporprazoportotalnematribuirerroàtradução. Originaldizcom500milficafeliz: preservadocondicionalorçamentosemtransformaremcustoreal.
+
+Tabela/continuidade/handoff atualizados; TXT51–55pendentes, leitor1–50 preservado; próximo56/fonte56. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-055-20261115-223207/. Clube/JS não alterados; semcommit/push.
+
+Validação55: UTF-8,cabeçalho/final, sequência1–55, integralidade/contexto/prazos/nomes/negociação2000/terceirizada2200e600/orçamento357600 conferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Almighty Game Designer — capítulo56 traduzido — 15/11/2026
+
+Fonte56→capítulo56, Animação é tão cara. Chen adia UI/fundos/efeitoscartas; ZhaopassaDazzlingAuroraStudio; marcaamanhã. Dorme10h apósSuperacelerador/continuaa travado, fechaefeitocolateral49/55. Wenchega10htododia comnotebook/mesa, colorecartas. Guo Feng~40responsávelestúdio visitaàtarde. Sérieplanejada1temporada10episódios×10min, músicasabertura/encerramento; Chenfornecedesigns/cenários/história/diálogos/planos, empresaexecuta. Preçoreferência24min~500mil/~20milmin, temporada~2milhões. Metaqualidademáxima, desconto~10%porfornecermateriais=200mileconomizados (1,8milhão implícito, não acrescentadofalas). ContratosAINDAporfechar: entregaem1semana/fimdomês. Títulos Warrior VS Dragon/Locojoy mantidos; fonte contém[1]apósWarriormasNÃO traznotacorrespondente; chamada preservada seminventartexto.
+
+Explicação2Dderivado3D/até90milminhanddrawn éregramundoficcional, nãorecomendaçãoatual/verificaçãoexterna. Referênciavidaanterior Locojoy3milhõesdireitos mantida, não confundircomorçamentodaprodução. Comparação1mêspaga10temporadaséestimativaChen, nãoresultado. Uma semanaatéfimdomês e janeiro/abriloutrocap cronologiapendente; nãodefinirdatasporinferência. Artecartascontinuaemprodução; novaempresa não éterceirizadaartes55nemempresaZhao.
+
+Tabela/continuidade/handoff atualizados; TXT51–56pendentes, leitor1–50 preservado; próximo57/fonte57. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-056-20261115-223342/. Clube/JS não alterados; semcommit/push.
+
+Validação56: UTF-8,cabeçalho/final, sequência1–56, integralidade/contexto/10hsono/nomes/10×10min/2milhões/10%/1semanaconferidos;4backupsSHA256íntegros; leitor50preservado. Chamada[1]semnotaéassimnafonte.
+
+
+## Almighty Game Designer — capítulo57 traduzido — 15/11/2026
+
+Fonte57→capítulo57, Planejamento do jogo para celular. Cronogramaplanejado4meses:1semanamateriaisanimação;1episódiode10minporsemana, estreia3juntosapós1mês, temporadafechadaem3meses, segundaacontinuarounãoaindasemdeci são. Jogoemparalelo, metapronto3meses/restantetesteajustes. UsaPoçõesMemóriasplural, quantidade nãoinformada; NÃOusaSuperaceleradornovamente. Após1semanaGuoFengavaliaaprov aroteiro/planos/storyboardsdetalhados; Chenadaptoupiadasobscuras, conformecompetênciaNarrativanível1max. Fonte repete Chen Mo inicialmente preocupado com scripts Chen Mo: sujeito normalizado Guo Feng, ponto devistaclaro.
+
+Contratoscombinadosiníciomêsseguinte; narraçãoavançaàrevisãojurídicoZhao/assinatura/pagamentoEFETIVOS. Segundo mêsPVZ2,6milhõesyuans (antes2,5eraprevisão), animação1,8milhãopago, restanteartescartas/outrosrecursos. Não afirmarentregaanimaçãooujogo pronto. Docjogobasepronto, sistemasiniciaisenxutos, próximaetapadocumentocombateapós10mindescanso. ListaUI/combate/evoluçãocartas/masmorras/combatesespeciais/atributosconta(nível,título,força)/lojaVIP/amigos/guildas/inventário/chat/correio/diários. Coding/code preservados programação/código semsubstituirglobalmenteporbalanceamento; narradorseparadepoisbalanceamento. Sucontinuaartes, implementarámotorapósdocpronto, nãodeleganovosconceitosde monetização.
+
+Tabela/continuidade/handoff atualizados; TXT51–57pendentes, leitor1–50 preservado; próximo58/fonte58. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-057-20261115-223521/. Clube/JS não alterados; semcommit/push.
+
+Validação57: UTF-8,cabeçalho/final, sequência1–57, integralidade/contexto/cronograma/2,6milhões/1,8milhão/pagamento/nomes/listas conferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Almighty Game Designer — capítulo58 traduzido — 15/11/2026
+
+Fonte58→capítulo58, O segredo para lucrar com jogos de cartas. Exposição3atrativos: colecionar/evoluir comvalorIPreconhecido; formações/estratégias; marketing/estímulonumérico. ExemplosOnePiececartaHawk-Eyes→OlhosdeFalcão e jogoTrêsReinos5milyuans/ZugeLiang→ZhugeLiang (lapso grafia conhecido); nãoalterarHawks53retroativamentesemconferência. Estrelasroxasfragmentos/10sorteios, cartas5personagensnaformação. Combate normal/especial/passivas, ataquesáreanevasca tela toda/redemoinho3casasfileira/perfurante2àfrente, físico/mágico/cura/redução/ressurreição/DoT/líder/posição/vantagens. Triânguloequilíbrio curaindividual>dano concentrado>curacoletiva>danoárea preservadoconformeexemplofonte, semcorrigirporregrasexternas.
+
+Marketingeventos/acesso7dias/diários/bônus/díamantes/online. Grátis→tutorialfácil→barreiraapós3dias–1semana→pagarparaprogredir; gancho ajudaquemnãopaga, detalhesnãoexplicadosainda. Numerical simulation no parágrafoconclusivo normalizado estímulonumérico porque repete conceitodef inidonoprópriocapítulo, não simulação numérica. NotaPavlovpreservada comoatribuídaàtraduçãoinglesa. Narradorargumenta rentabilidade=aprovaçãodiversão, afirmações/opiniõesdaintrigapreservadas semapresentarcomoanáliseexterna. Capítulonãonarranovafuncionalidadepronta/entrega/avanço temporal explícito; reflexão enquanto planejacombate57.
+
+Tabela/continuidade/handoff atualizados; TXT51–58pendentes, leitor1–50 preservado; próximo59/fonte59. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-058-20261115-223728/. Clube/JS não alterados; semcommit/push.
+
+Validação58: UTF-8,cabeçalho/final/nota, sequência1–58, integralidade/contexto/3atrativos/combate/5cartas/5mil/7dias/barreira3dias–1semana conferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Almighty Game Designer — capítulo59 traduzido — 15/11/2026
+
+Fonte59→capítulo59, Um documento de design fora do normal! Retomaajuda58: benefíciosgrátis/criamvalorreconhecido/conversãopromoção/recargamensalvitalíciaouapoiogratuito. BaseDoc2dias,regras/refino1semanatotal; desenhosparalelos, Guoprometeepisódio1atépróximofimsemana, NÃOentregouainda. Wen/Su4artescada. ChenenviaDocsregrasSuimplementarversãoinicial, faltamvalores/fases/atributosconfiggeral; elecuidará. Grupoexaminadescobresimplicidadecombatecartas/turnos/telavertical6casasporlado,nãoconfundir5cartasformação58comnúmerocasas; semexplicaçãoadicionalinventada.
+
+FonteinconsistênciaVIP:5milhõesrunas÷10runas/yuan=500milyuans, mastextoafirma50mil erepete50000porváriosparágrafos. Preservados5milhões/10/50mil, conversão50milmarcadaitálico, sem escolhercorrigir500milou500milrunasporcontaprópria. Recarga20milrunas=2milyuansElderSistercoerente. BenefíciosVIPcomprasdiárias/liderança/entradasmodos/pacote, aindaDocs/nãojogo lançado. Suquestionamonetização/sobeparaconfronto, Wen/Jianãosemetem; ganchoaberto. WTFvertido palavrãoequivalente, semcorte. Valor100diamantesacesso/500apósNfases/nível30semquantidadepreservado.
+
+Tabela/continuidade/handoff atualizados; TXT51–59pendentes, leitor1–50 preservado; próximo60/fonte60. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-059-20261115-223920/. Clube/JS não alterados; semcommit/push.
+
+Validação59: UTF-8,cabeçalho/final, sequência1–59, integralidade/contexto/prazos/4artescada/6casas/VIPvaloresfonte/20milrunas/2mil/itálico conferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Almighty Game Designer — capítulo60 traduzido — 15/11/2026
+
+Fonte60→capítulo60, O primeiro episódio da série animada. Resolvegancho59porrelatoterceiros: Su/Chenconversaram~1hora, conteúdoNÃOnarrado; desceimplementanovoprojetomotor, Jiaachaaceitatrabalharnãonecessariamenteconcorda. Lapso senior Xiuya came downstairs→veteranaJinyu, poisXiuyaéinterlocutoraperguntandoedes ignDocfoivistoporSu. Weng→Wen normalizado. MarcaThunderboltGaming→ThunderboltGames; empresaThunderboltEntertainmentconformelogo.
+
+Entregaprojetor/instalação30min/telaconectadaSu, Chenexibeprimeiroepisódio10minnolocal; NÃOestreiaonline dos3episódiosplanejados57, NÃOtemporada/jogo pronto. LogosThunderbolt+DazzlingAurora. AberturaincluinarradorAzeroth/AliançaHumanos/HordaOrcs/LegiãoArdente/exaliançaagoraguerra/guildataurens; StormwindCity→Ventobravo, Orgrimmar/Darnassusmantidos; taurenraça/minotaurodescriçãoanteriorsão compatíveis. Titan'sGrip mantidonom eoriginalparaevitarlocalizaçãoincerta. Grupoapreci aqualidade/mundo, históriaaindaemexibição; narrador explicaChenmisturaIAmMT+ambientaçãoWoWcomNarrativaprimeironívelmax; NÃOindicaWoWjogofuturoemprodução, faltamcapacidade/dinheiro.
+
+Tabela/continuidade/handoff atualizados; TXT51–60pendentes, leitor1–50 preservado; próximo61/fonte61. Próximo publique revisa51em diante. BackupSHA256: backups/agd-capitulo-060-20261115-224102/. Clube/JS não alterados; semcommit/push.
+
+Validação60: UTF-8,cabeçalho/final, sequência1–60, integralidade/contexto/nomes/1hconversa/30mininstalação/10minepisódio/loca ldaexibição/Azerothconferidos;4backupsSHA256íntegros; leitor50preservado.
+
+
+## Revisão e publicação local 51–60 — 15/11/2026
+
+Dez capítulos revisados com a fonte e o contexto acumulado. Sequência coerente: aposta formal51, decisão I Am MT52, IP/animação53, desenhos54, encomendas55, negociação56, roteiro/contrato e planejamento57, monetização58–59, primeiro episódio exibido na loja60. Aposta compara lucro no primeiro mês; não confundir com vendas ou faturamento. Série e jogo são produtos distintos. No final60 o episódio está sendo exibido localmente, sem estreia online confirmada, e o jogo continua em desenvolvimento.
+
+Cinco ajustes pontuais:51 naturaliza trocar ataques;52 recompõe a resposta em símbolos usando ∗ tipográfico para não gerar falso itálico;53 restaura o superlativo da opinião da fonte sobre Três Reinos, sem atenuá-lo;56 esclarece que a compra da Locojoy ocorreu na vida anterior;60 adapta witch culture ao universo dos bruxos no contexto Harry Potter. Sem cortes, mudanças de números, títulos, parágrafos ou encerramentos.1–50 idênticos à publicação anterior. Notas/nomes comerciais preservados; nomes ingleses de personagens mantidos por aviso explícito do tradutor sobre origens incertas.
+
+Conferidos: Qiu Bin/Qiu Hengyang/Lin Chaoxu distintos; Peixinho Dourado é apelido de Su Jinyu. Superacelerador54 seguido de sono10h56, sem novo uso57; Poções de Memórias utilizadas, sem inventar quantidade total. A arte usa36personagens×3+200monstros=308; orçamento36×3×2200+200×600=357600. Animação10episódios×10min/~2milhões, menos10%=1,8milhão efetivamente pago57. Renda2,6milhões no segundo mês atualiza a previsão2,5milhões48.
+
+Pendências da fonte mantidas: VIP59 afirma5milhõesrunas/10por yuan e conclui50mil, conta incompatível marcada em itálico sem escolher valor substituto. Prazos4–5dias/3dias/3diasporcarta55 e conta54dias para36cartas, sem transformar em outro total. Abril52 versus quatro meses de desenvolvimento e três meses até lançamento47/51 não recebeu datas inventadas. Chamada[1]56 sem nota explicativa permanece como fornecida. Frase de origem da animação53 ambígua continua marcada. Foram preservadas as diferenças entre interpretação de Su, argumentos do narrador e resultados efetivamente narrados.
+
+Leitor local1–60, último60 — O primeiro episódio da série animada. Nenhum TXT pendente nesta obra. Próximo61/fonte61; próxima revisão automática61em diante. Backup prévio de19arquivos SHA256: backups/agd-publicar-revisar-051-060-20261115-224244/; ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação51–60 concluída: reader.test.cjs aprovado;60TXT idênticos aoJS/títulos/notas/itálicos/separadores; catálogo60, navegação/limites/retomada/progresso e preferências isolados aprovados. Sintaxe dos cinco scripts e19backupsSHA256íntegros conferidos. Arquivos da aplicação/conteúdo do Clube preservados. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.

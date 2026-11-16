@@ -623,9 +623,9 @@ const agdMap=JSON.parse(fs.readFileSync(path.join(agdBookPath,'NUMERACAO-CAPITUL
 const agdActual=boot(oldState,false,'',390,{catalog:true,search:'?obra=almighty-game-designer'});
 assert.equal(agdActual.get('reader-shell').hidden,false);
 assert.equal(agdActual.get('empty-book').hidden,true);
-assert.equal(agdActual.get('book-count').textContent,'50 capítulos disponíveis');
-assert.equal(catalog.get('book-cards').children[1].children[3].textContent,'50 capítulos disponíveis');
-assert.deepEqual(Array.from(agdActual.browser.GAME_DESIGNER_CHAPTERS,c=>c.id),Array.from({length:50},(_,i)=>i+1));
+assert.equal(agdActual.get('book-count').textContent,'60 capítulos disponíveis');
+assert.equal(catalog.get('book-cards').children[1].children[3].textContent,'60 capítulos disponíveis');
+assert.deepEqual(Array.from(agdActual.browser.GAME_DESIGNER_CHAPTERS,c=>c.id),Array.from({length:60},(_,i)=>i+1));
 for(const row of agdMap.confirmed.filter(row=>!row.offlinePending)){
  const chapter=agdActual.browser.GAME_DESIGNER_CHAPTERS.find(c=>c.id===row.chapter);
  const txt=fs.readFileSync(path.join(agdBookPath,row.file),'utf8').replace(/\r\n/g,'\n');
@@ -637,14 +637,14 @@ for(const row of agdMap.confirmed.filter(row=>!row.offlinePending)){
  agdActual.changeHash('#capitulo-'+row.chapter);
  assert.equal(agdActual.get('chapter-title').textContent,row.title);
  assert.equal(agdActual.get('previous').disabled,row.chapter===1);
- assert.equal(agdActual.get('next').disabled,row.chapter===50);
- if(row.chapter<50){agdActual.get('next').click();assert.equal(agdActual.location.hash,'capitulo-'+(row.chapter+1));}
+ assert.equal(agdActual.get('next').disabled,row.chapter===60);
+ if(row.chapter<60){agdActual.get('next').click();assert.equal(agdActual.location.hash,'capitulo-'+(row.chapter+1));}
 }
 assert(!agdActual.browser.GAME_DESIGNER_CHAPTERS[1].body.includes('motores gráficos'));
 assert(!agdActual.browser.GAME_DESIGNER_CHAPTERS[4].body.includes('não consta na fonte'));
 assert.equal(agdActual.stores['entrelinhas.reading.v1'],oldState);
 const agdRestart=boot(null,false,'',1280,{catalog:true,search:'?obra=almighty-game-designer',stores:agdActual.stores});
-assert.equal(agdRestart.get('chapter-number').textContent,'CAPÍTULO 50');
+assert.equal(agdRestart.get('chapter-number').textContent,'CAPÍTULO 60');
 const agdCatalogResume=boot(null,false,'',1280,{catalog:true,stores:agdActual.stores});
-assert.equal(agdCatalogResume.get('book-cards').children[1].children[4].textContent,'Continuar no capítulo 50 →');
-console.log('OK: Almighty Game Designer1–50 integrais, catálogo, limites, navegação móvel simulada e retomada isolada.');
+assert.equal(agdCatalogResume.get('book-cards').children[1].children[4].textContent,'Continuar no capítulo 60 →');
+console.log('OK: Almighty Game Designer1–60 integrais, catálogo, limites, navegação móvel simulada e retomada isolada.');

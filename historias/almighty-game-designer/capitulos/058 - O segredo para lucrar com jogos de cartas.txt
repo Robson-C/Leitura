@@ -1,0 +1,101 @@
+Capítulo 58 — O segredo para lucrar com jogos de cartas
+
+Os jogos de cartas chineses eram divertidos?
+
+A resposta variava de pessoa para pessoa. Afinal, cada um tinha seu gosto.
+
+Muita gente dizia que eram rudimentares, monótonos e repetitivos. Tudo aquilo era verdade.
+
+Mas davam muito dinheiro!
+
+Dar dinheiro significava que os jogadores os aprovavam.
+
+Por que aprovavam? Porque achavam divertido!
+
+Era um fenômeno estranho: os jogadores reclamavam enquanto tiravam dinheiro do bolso.
+
+Por que os jogos de cartas eram tão lucrativos? Onde estava a diversão?
+
+Era uma pergunta aberta. Se Chen Mo escrevesse uma tese sobre a essência daqueles jogos, provavelmente precisaria de dezenas de milhares de palavras.
+
+De forma simples, o prazer vinha de três áreas distintas.
+
+A primeira era colecionar e evoluir cartas. Aquilo se apoiava no reconhecimento que os jogadores tinham pelos personagens.
+
+Certa empresa fizera uma imitação de I Am MT com o tema de One Piece. Um sujeito rico gastara alguns milhares de yuans sem hesitar, só para sortear uma carta de Olhos de Falcão!
+
+Em outro jogo de cartas dos Três Reinos, ainda em testes e sem grande fama, outro sujeito rico, irritado, recarregara cinco mil yuans só para conseguir Zhuge Liang. O problema era que o personagem ainda nem existia no jogo!
+
+A empresa acabara fazendo horas extras para adicioná-lo!
+
+Da mesma forma, em I Am MT, muitos jogadores repetiam masmorras diariamente para juntar fragmentos de cartas roxas ou gastavam uma fortuna em rodadas de dez sorteios, tudo para conseguir as cartas que desejavam!
+
+O designer ajustava as habilidades das cartas de acordo com as cenas da série — ou com a popularidade do personagem —, justamente para cultivar o reconhecimento dos jogadores por elas.
+
+Uma vez reconhecidas, as cartas ganhavam valor. E esse valor, por sua vez, incentivava os jogadores a gastar.
+
+Depois de estabelecido o valor de uma carta, ela se diferenciava das demais. O desejo de colecionar e evoluir também era satisfeito, e o jogador sentia que o dinheiro fora bem gasto.
+
+Por isso, a chave para lucrar com um jogo de cartas era criar um sistema de valores reconhecido pelo público. Assim, seria possível vender cartas novas constantemente, como se os jogadores colecionassem selos.
+
+Depois de conseguir a carta desejada, o jogador continuaria aumentando seu nível ou melhorando suas habilidades para torná-la mais forte. Cada evolução trazia uma sensação de crescimento, reforçando a impressão de que o dinheiro valera a pena.
+
+Aquilo também fazia parte do estímulo numérico mencionado antes.
+
+Era a principal fonte de satisfação dos jogos de cartas. Um modelo muito maduro e repetido à exaustão, motivo pelo qual o mercado de jogos de cartas para celular estava tão saturado.
+
+O segundo atrativo era descobrir formações e elaborar estratégias próprias.
+
+O sistema de combate podia parecer monótono, mas, na verdade, era bastante rico. Em I Am MT, cada carta tinha três componentes: um ataque normal, um especial e habilidades passivas. A criação dos personagens se baseava no sistema de combate de World of Warcraft, com habilidades diferentes para cada um.
+
+Havia vários tipos de ataques em área: os de nevasca atingiam a tela inteira; os de redemoinho, as três casas da fileira à frente; e os perfurantes, duas casas à frente.
+
+Também havia dano físico e mágico, além de habilidades contra um ou vários alvos.
+
+A cura seguia a mesma lógica, com efeitos individuais ou coletivos.
+
+Além disso, existiam redução de dano, ressurreição, dano contínuo e muitas outras habilidades. Se fosse possível imaginar algo, haveria uma maneira de integrá-lo ao combate de um jogo de cartas.
+
+Somavam-se a isso o posicionamento das cartas, a ordem das ações, as vantagens e fraquezas, as habilidades do líder e outras mecânicas complexas, aumentando bastante as possibilidades do sistema.
+
+É claro que aquele combate não se comparava ao de um jogo para um jogador, mas era mais que suficiente para o público de celular!
+
+Bastava trocar a aparência, usando temas de animações como One Piece ou Naruto, ou de romances wuxia, para apresentar o mesmo sistema de combate ao mundo outra vez.
+
+Esses sistemas tinham um equilíbrio cíclico. Por exemplo, a cura individual levava vantagem sobre o dano concentrado; o dano concentrado, sobre a cura coletiva; e a cura coletiva, sobre o dano em área. Para descobrir a melhor formação de cinco cartas entre dezenas de opções, os jogadores precisariam passar muito tempo testando e trocando experiências.
+
+A obtenção das cartas raras era rigorosamente controlada, exigindo tempo ou dinheiro. Experimentar cada uma em combate era um investimento enorme!
+
+O processo também trazia diversão e satisfação. Por isso, se o sistema de combate e a evolução das cartas combinassem perfeitamente, o resultado seria uma experiência que não envelhecia, permitindo jogar durante anos sem se cansar.
+
+O terceiro aspecto era a estratégia de marketing e o estímulo numérico.
+
+Aquilo abrangia uma área ampla: eventos e ações para manter o jogo ativo, como recompensas por sete dias de acesso, registros diários de presença e bônus de crescimento; benefícios diários, como diamantes gratuitos, bônus gratuitos de combate e recompensas por tempo conectado; benefícios iniciais e assim por diante...
+
+É claro que esses recursos não eram exclusivos dos jogos de cartas. Tornaram-se padrão em todos os jogos chineses para celular e também eram populares em outros gêneros, como estratégia e tiro em primeira pessoa.
+
+Porém, sua origem estava nos antigos jogos de navegador. Depois, foram popularizados pelos jogos de cartas para celular e, por fim, se espalharam pelo mercado chinês de jogos móveis.
+
+Naturalmente, muitos jogadores criticavam aquele estímulo numérico ao estilo de Ivan Pavlov. [1] No fim, porém, tudo ficava na crítica. Nenhuma empresa de jogos para celular se atrevia a deixar de fazer o mesmo.
+
+Por quê? Porque era simples e eficaz. Bastava removê-lo para que os indicadores do jogo e os lucros caíssem.
+
+Aquele era o efeito do estímulo numérico!
+
+Primeiro, o jogo precisava ser gratuito, atraindo o maior número possível de pessoas. Algumas talvez não pretendessem gastar, mas isso não importava.
+
+No começo, haveria um tutorial muito detalhado para que conhecessem a experiência rapidamente. Ao mesmo tempo, o jogo seria extremamente fácil, permitindo avançar sem resistência.
+
+Era a mesma lógica dos livros digitais: oferecer os primeiros trechos de graça, experimentar primeiro e pagar depois. Se o usuário não ficasse satisfeito, não haveria pagamento.
+
+Porém, aquilo não poderia durar muito. Depois de três dias a uma semana, provavelmente seria necessário apresentar dificuldades.
+
+Em jogos daquele tipo, quem pagava e quem jogava de graça naturalmente ficavam em patamares diferentes. Para levar as pessoas a gastar, seria preciso introduzir barreiras.
+
+Essas barreiras seriam dificuldades que as orientassem a gastar dinheiro para ficar mais fortes e, depois, avançar para fases mais difíceis.
+
+Isso criava outro problema: se um jogador não quisesse gastar e encontrasse uma barreira, o que aconteceria? Provavelmente, abandonaria o jogo!
+
+Como manter essas pessoas? Simples: bastava dar uma ajuda!
+
+[1] Nota da tradução inglesa: Ivan Pavlov é um psicólogo conhecido por seu trabalho com o condicionamento clássico.
