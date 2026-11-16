@@ -361,7 +361,40 @@
       "chapter": 60,
       "title": "O primeiro episódio da série animada",
       "file": "capitulos/060 - O primeiro episódio da série animada.txt"
+    },
+    {
+      "source": 61,
+      "chapter": 61,
+      "title": "Não deu para entender tudo",
+      "file": "capitulos/061 - Não deu para entender tudo.txt"
+    },
+    {
+      "source": 62,
+      "chapter": 62,
+      "title": "O universo de Azeroth",
+      "file": "capitulos/062 - O universo de Azeroth.txt"
+    },
+    {
+      "source": 63,
+      "chapter": 63,
+      "title": "A estreia de I Am MT",
+      "file": "capitulos/063 - A estreia de I Am MT.txt"
+    },
+    {
+      "source": 64,
+      "chapter": 64,
+      "title": "A preparação para os testes",
+      "file": "capitulos/064 - A preparação para os testes.txt",
+      "offlinePending": true,
+      "sourceIncomplete": true
+    },
+    {
+      "source": 65,
+      "chapter": 65,
+      "title": "A primeira rodada de dez sorteios",
+      "file": "capitulos/065 - A primeira rodada de dez sorteios.txt",
+      "offlinePending": true
     }
   ],
-  "notes": "Fontes1–60→capítulos1–60 integrados e revistos contextualmente. Último lote revisado51–60; nenhum TXT pendente nesta obra. Próximo61/fonte61; próxima revisão começa61. Numeração independente; commit/push manuais."
+  "notes": "Capítulos1–63 integrados/revistos; último63 A estreia de I Am MT. Pendentes64–65:64INCOMPLETO, falta final após so the profit would d;65 aguarda64 para sequência. Anexos62–65semnúmero/título: sequência e títulos descritivos provisórios. Datas editoriais removidas. Próximo66oucontinuação64; próxima revisão64em diante. Commit/push manuais."
 }

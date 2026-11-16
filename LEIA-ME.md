@@ -484,3 +484,16 @@ Pendências da fonte mantidas: VIP59 afirma5milhõesrunas/10por yuan e conclui50
 Leitor local1–60, último60 — O primeiro episódio da série animada. Nenhum TXT pendente nesta obra. Próximo61/fonte61; próxima revisão automática61em diante. Backup prévio de19arquivos SHA256: backups/agd-publicar-revisar-051-060-20261115-224244/; ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
 
 Validação51–60 concluída: reader.test.cjs aprovado;60TXT idênticos aoJS/títulos/notas/itálicos/separadores; catálogo60, navegação/limites/retomada/progresso e preferências isolados aprovados. Sintaxe dos cinco scripts e19backupsSHA256íntegros conferidos. Arquivos da aplicação/conteúdo do Clube preservados. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.
+
+
+## Revisão e publicação local 61–63 — 16/11/2026
+
+Revisão contextual dos capítulos recebidos61–65: três completos integrados,64–65 retidos.61encerraexibiçãolocal/feedback,62explicasistemanumérico e interesseAzeroth,63apresentasite/planejafórum e confirmaestreiaonline3episódios20h.64avançaresultados/segunda temporada/testes, mas anexo termina so the profit would d, semfim;65 começa testes e não completa a frase. NÃOinventarponte/final nem pular64 para integrar65. sourceIncomplete=true mantido64, offlinePending=true mantidos64e65.
+
+Único ajuste textual63: explicita fórum NGA, para distingui-lo do site Universo de Azeroth. Sem cortes, mudanças de números, títulos ou parágrafos. TXT64–65 intactos;1–60 idênticos à publicação anterior. Datas editoriais fora do texto, datas narrativas mantidas. Títulos62–63 (e64–65pendentes) são descritivos provisórios porque anexos sem cabeçalho, não originais confirmados.
+
+Mantidas incertezas da fonte: Cavernas dos Lamentos61 em itálico para Wailing Taverns, nota sobre filme/mençãoepisódio no mesmo capítulo sem remendo. Afirmação10milhõesPVZ64 permanece no TXTpendente/marcada, não introduzida no leitor. Não confundir previsões10milhõesviews61 com resultados1,3milhão/3,29milhões/50milhões64. Game Pass65 continua conta de jogos Thunderbolt, sem assinatura inventada.
+
+Leitor local1–63, último63 — A estreia de I Am MT. Pendentes64–65; é necessário receber o final faltante64 antes da próxima integração contínua. Próximo envio66 ou continuação64; próxima revisão64em diante. Backup prévio de14arquivos SHA256 (incluindo pendentes preservados): backups/agd-publicar-revisar-061-063-20261116-071928/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação61–63 concluída: reader.test.cjs aprovado;63TXT idênticos aoJS/títulos/notas/itálicos; catálogo63,navegação/limites/retomada/progressoisolado aprovados. Testes conferem exclusão dos pendentes e impedem integração de sourceIncomplete. Sintaxe5scripts/14backupsSHA256íntegros; TXT64–65intactos e fora do leitor; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.

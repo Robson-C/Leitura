@@ -6,7 +6,7 @@ Por instrução explícita do usuário, “publique”, “publicar” e equival
 
 Não inventar explicações, números, nomes ausentes ou acontecimentos para encobrir defeitos da fonte. Quando o contexto não resolver uma ambiguidade, manter indicação de incerteza e registrar a pendência. Não aplicar uma hipótese terminológica global como se tivesse sido confirmada pelo original. Não confundir revisão de tradução com revisão de código da aplicação. Renumerações, reordenações, fusões, complementos narrativos ou mudanças materiais fora desse fluxo continuam exigindo esclarecimento próprio. Commit, push e implantação remota permanecem manuais.
 
-Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos iniciais de Almighty Game Designer e atualizar sua versão local publicada. Último lote revisado:51–60 (capítulos1–50 já revisados anteriormente). Próximo envio61; próxima revisão automática começa no61, sem impedir correção pontual de trecho anterior que contexto novo esclareça, com backup/registro/sincronização.
+Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos iniciais de Almighty Game Designer e atualizar sua versão local publicada. Último lote revisado e integrado:61–63 (capítulos1–60 já revisados anteriormente). TXT64–65 pendentes:64 incompleto por corte no anexo;65 aguarda a conclusão do64 para preservar a sequência. Próximo envio66 ou continuação do64; próxima revisão automática começa no64, sem impedir correção pontual de trecho anterior que contexto novo esclareça, com backup/registro/sincronização.
 
 
 ## Esclarecimento vigente do usuário — 21/10/2026
@@ -14,6 +14,8 @@ Neste pedido, o usuário autorizou revisar retrospectivamente os20capítulos ini
 Nesta máquina, trabalhar em C:/Users/Robson/Documents/Curso/Leitura, conforme indicação explícita do usuário; o caminho Kanban mencionado abaixo pertence à outra máquina. O envio de cada novo capítulo aciona o escopo permanentemente aprovado de tradução, TXT UTF-8 e registro de continuidade, sem nova confirmação. “Publique”, “publicar” e variações equivalentes acionam a preparação offline já aprovada, também sem reconfirmação. Pedir confirmação somente para ampliação material do escopo ou conflitos que exijam esclarecimento. Commit, push e implantação remota continuam manuais e fora desses comandos.
 
 ## Tradução de capítulos — autorização permanente do usuário
+
+Preferência de 16/11/2026: ignorar/remover datas editoriais no início dos textos enviados (ex.: Oct 20, 2026); elas não entram no TXT ou no corpo do leitor. Preservar datas que pertençam à narrativa.
 
 Ao receber um capítulo para este projeto, traduzir para português brasileiro com frases coerentes e continuidade dos nomes e termos anteriores. Marcar interpretações incertas em itálico na conversa e no leitor; no TXT, usar asteriscos simples delimitando o trecho.
 

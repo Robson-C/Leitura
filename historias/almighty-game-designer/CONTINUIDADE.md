@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 15/11/2026: capítulos 1–60 integrados e revisados contextualmente; nenhum TXT pendente nesta obra. Próximo esperado: fonte 61 → capítulo 61, conforme o material enviado.
+Estado em 16/11/2026: capítulos 1–63 integrados e revisados contextualmente; capítulos 64–65 pendentes de publicação local, com o 64 incompleto por corte no anexo. Próximo esperado: continuação do 64 ou fonte 66 → capítulo 66, conforme o material enviado.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -643,3 +643,73 @@ Pendências da fonte mantidas: VIP59 afirma5milhõesrunas/10por yuan e conclui50
 Leitor local1–60, último60 — O primeiro episódio da série animada. Nenhum TXT pendente nesta obra. Próximo61/fonte61; próxima revisão automática61em diante. Backup prévio de19arquivos SHA256: backups/agd-publicar-revisar-051-060-20261115-224244/; ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
 
 Validação51–60 concluída: reader.test.cjs aprovado;60TXT idênticos aoJS/títulos/notas/itálicos/separadores; catálogo60, navegação/limites/retomada/progresso e preferências isolados aprovados. Sintaxe dos cinco scripts e19backupsSHA256íntegros conferidos. Arquivos da aplicação/conteúdo do Clube preservados. Sem verificação visual em navegador nesta publicação textual. Commit/push não executados.
+
+
+## Almighty Game Designer — capítulo61 traduzido — 16/11/2026
+
+Fonte61→capítulo61, Não deu para entender tudo, título informado pelo usuário fora do anexo semcabeçalho. Continuaexibiçãolocal60: aberturaMT/melodiaSaintSeiya/compositoresHiroakiMatsuzawaNobuoYamada segundo fonte; letrafornecidatraduzida, encerramentoAInternacional/letraalteradapessoaslugaresdestemundo. MTencontraShamanferida/tentamsalvarRogue/Tyranguardacadáver; identificaçãoAliançaemvermelhoexplicacontexto. Wailing Taverns inglês confuso poisentradacaverna, vertido Cavernas dos Lamentos emitálico como interpretação, sem alegarlocalizaçãooficial. Fragmentorepetido MT and Shaman semconteúdoadicional absorvidonafraseseguinte. WengLingwei/saidm normalizados.
+
+Feedback: qualidadealta/humor/personagensbons, curta/faltacontexto. JiaChangSucontinuariamprovavelmente; Wen sósepopular. Chenprevê10milhões1ºmês/suficienteIPcartas; NÃOresultado/estreiaonlineainda. ComparaçãoOneHundredThousandBadJokes10milhões3dias/160milhõesepisódio1 éalegaçãofontemantida, notafinalchamafilme2014contradizreferênciaepisódio, não corrigirsemoriginal. Suquaseperguntaporqueanimaçãoprioritária masnãopergunta. ChenagoraterceirizaUI/recursosgráficos (antes56opção, agora confirmação); concentracartas/habilidades/números/fases. Não inventar quantidade/custo/prazodaterceirização.
+
+Tabela/continuidade/handoff atualizados; TXT61pendente, leitor1–60 preservado; próximo62/fonte62. Próximo publique revisa61em diante. BackupSHA256: backups/agd-capitulo-061-20261116-071208/. Clube/JS não alterados; semcommit/push.
+
+Validação61: UTF-8,cabeçalho/final/nota[1], sequência1–61, integralidade/contexto/nomes/10minepisódio/previsõesviews/itálico conferidos;4backupsSHA256íntegros; leitor60preservado.
+
+
+## Almighty Game Designer — capítulo62 traduzido — 16/11/2026
+
+Usuário autoriza remover datas editoriais dos próximos envios. Oct20,2026 removida apenasdoTXTnarrativo; não édataevento. AnexoSEMnumeração/título; continuaçãoimediata61 registrada como62porsequência, título descritivo PROVISÓRIO O universo de Azeroth, derivadoúltimafrase, não alegar títulooriginalconfirmado. Corpoenviadoemblocoúnico redivididoemparágrafos, semresumir.
+
+Explicaforçasistemanumérico/IPTrêsReinosdesgastada/OMG!Kingdoms/JuniorThreeKingdom/Onmyoji; nomescomerciaisestranhosRivalessThrashing/BeatingWeiShuwu/LetGoofWaterMarginpreservados, semrenomearporhipótese. Após2semanas/faz1mêsdesenvolvimento, jogoquasepronto/artequasemetade, faltamatributosbalanceamento/arte, compatívelmetas3meses57nãoigualentregafinal. Grupoaindadesanimadocomjogo masanimaçãoganhaatenção/regrasAzerothconquistas/ressurreição/runaestalagem/montariaserpealadaegrifo. Runaédescriçãoprópriafonte, nãonormalizadoparaPedradeRegressoporconhecimentoexterno. AlegaçãoIdadeMédia/lareiraéfalapersonagemnãochecagemhistórica. ÚltimafrasetarefaUniversodeAzeroth, NÃOanúncioWoWVRdesenvolvido. Não há confirmaçãoestreiaonlinepúblicanesteanexo.
+
+Tabela/continuidade/handoff/regraAGENTS atualizados; TXT61–62pendentes, leitor1–60 preservado; próximo63conformeenvio. Próximo publique revisa61em diante. BackupSHA256: backups/agd-capitulo-062-20261116-071340/. Clube/JS não alterados; semcommit/push.
+
+Validação62: UTF-8,cabeçalho/final, sequência1–62, integralidade/contexto/nomes/salto2semanas/1mêsdesenvolvimento/dataeditorialremovida conferidos;5backupsSHA256íntegros; leitor60preservado.
+
+
+## Almighty Game Designer — capítulo63 traduzido — 16/11/2026
+
+TextoSEMnumeração/títuloapósdataOct20,2026, dataremovida, sequênciacapítulo63; títulodescritivoPROVISÓRIO A estreia de I Am MT, nãooriginalconfirmado. NacionalGeographicAzeroth/NGA conformefonte, grafiaGeogrpahicnormalizada. UniversoAzerothSITEhistória/consultaambientação (NÃOjogoWoWpronto), fórumNGAadicionarmaistarde.4categoriasHistória/Heróis/Regras/Regiões, foca3excetoHeróis; migraçãoinformaçõeslongoprazo. CorpseRunning→retornoalmaao corp o, Jobs→classes, nomenclaturaHorda/Aliança/Orgrimmarcoerente. UniversoLoL/Riotexemplosfontesemverificaçãohistóricaexterna.
+
+CONFIRMADAestreiaPÚBLICA3episódios1temporada às20h nasprincipaisplataformas. Chencompraespaçosbásicoshome(vídeostopmuitocaros), Dazzlingcontatos/divulgaprópriosite; Weibo+PVZanúncio+clipe2minabertura. Milharescompartilhamentos/fãsPVZFlappy/imprensaapost a/fãsEmperor. Após1mêsdesdeinício(comentário)começaavaliaçãoviews; primeiroscomentárioscurto/quercontinuação/protagonistaboi/mundointeressante. Semnúmerosdeviewsconfirmadosnesteanexo, semjogolançado. Antecedeanúncioentreaspas e depoisexibehorárioreal, semconfundircronologia.
+
+Tabela/continuidade/handoff atualizados; TXT61–63pendentes, leitor1–60 preservado; próximo64conformeenvio. Próximo publique revisa61em diante. BackupSHA256: backups/agd-capitulo-063-20261116-071501/. Clube/JS não alterados; semcommit/push.
+
+Validação63: UTF-8,cabeçalho/final, sequência1–63, integralidade/contexto/nomes/site4categorias/estreia3episódios20h/clipe2min/dataremovida conferidos;4backupsSHA256íntegros; leitor60preservado.
+
+
+## Almighty Game Designer — capítulo64 traduzido parcialmente — 16/11/2026
+
+TextoSEMnumeração/título, dataOct20,2026removida, sequência64; títulodescritivoPROVISÓRIO A preparação para os testes. ANEXOCORTADO: última frase exata Plants vs Zombies was a standalone game afterall, so the profit would d. Traduzido TODOtrechorecebido, semcompletarporinferência. AvisoTXTfim/marca sourceIncomplete=true na tabela: NÃOpublicar64comoíntegro atéreceberrestante.
+
+UniversoAzerothsitejáconsultado, primeirodiaIAmMT1,3milhãoviews, episódio1primeirasemana3,29milhões/temporada1após2meses>50milhões. FonteafirmaPVZ>10milhõescópiaslogoapós900mil48, saltoincompatívelnãoexplicado, dezmilhõesmarcadoitálico/preservado. QiuBincético. Tempoavança: produzsegunda temporadausandooutroSuperacelerador, criafórumNGA/contajogosThunderbolt(nãovendersubscriptionGamePass). Conteúdofãs/lorecresce. Falt a1mêsprazolançamento; jogo+arteconcluídos/iniciaajustestestesduração/dificuldade/preço, instalaPCtabletloja. Emexibiçãosegundoepisódiotemporada2, episódios24min/custodobrado, investequase2mesesrendimentosPVZ. Odesfechodafrasefinanceirafalta; nãoinferircair/aumentaretc.
+
+Tabela/continuidade/handoff atualizados; TXT61–64pendentes,64incompleto, leitor1–60 preservado. Próximo65oucontinuação64. Próximo publique revisa61em diante, exige resolvercorte64oupublicarapenasíntegros. BackupSHA256: backups/agd-capitulo-064-20261116-071630/. Clube/JS não alterados; semcommit/push.
+
+Validação64parcial: UTF-8,cabeçalho/finalcortado/aviso,todo trechorecebido traduzido; sequência1–64; valores/prazos/itálico/dataremovida/sourceIncomplete conferidos;4backupsSHA256íntegros; leitor60preservado. Faltafinaldoanexo,não considerarcapítulointegral.
+
+
+## Almighty Game Designer — capítulo65 traduzido — 16/11/2026
+
+AnexoSEMnumeração/título, dataOct20,2026removida; sequência65/títulodescritivoPROVISÓRIO A primeira rodada de dez sorteios. Não completaúltimafrasefinanceira64: passaadiretamenteàmontagemfeita porSu/testes; corte64permanece sourceIncomplete=true. Inicial she identificadaSu pelo contexto/funções57–60. Could understand why fun seguido boring interpretado não conseguia entender, provável couldn'tomitidoinglês. Lapso ChenMo recebeucartasiniciais→jogador/JiaPeng conforme todaação; Rouge→Rogue, Weng→Wen.
+
+ContajogosThunderboltsemassinatura. Batalhatutorial6cartas vs6: MT/Shaman/Hunter/Rogue/Beauty/Thief contraLady/Brick/Tyran/ThePresident/Hunter/ElderSister, Hunterrepetidonoladoinimigo mantidoconformefonte semtrocarHuntress. Normal5cartasexplicitamenteexplica6casas59. HillsbradFoothills→ContrafortedeEiradosMontes; ChainLightning→CadeiadeRaios/MoonGlaives→GlaivesLunares. AnimaçãoimpactoThief/deslocamento/backstab, detalhesnuméricos/texto/tela. MT+Shamanazuisiniciais,3ªescolhaRogueHunterDruidPriest, JiaescolhePriest.
+
+WensorteiaLadyroxa/rodada10na loja2500runas; Jiarecolherecompensas~2600runas. Comparação uns200yuans éaproximaçãofonte (1:10seria260), nãocorrigido. Chenconfirmajogadoresnormaismesmosbônusdiários/primeirodiamaior. SurepeteVIP50miljá59, não resolvesaltaaritméticarunas59. GanchoJia fará10sorteios antesdecidircontinuar; resultadosNÃOnarrados. Fonte acaba declaração semanticamentecompleta draw ten sempontuação, nãoidentificarcomocortedacertidão64. Sem completarhistóriafaltante.
+
+Tabela/continuidade/handoff atualizados; TXT61–65pendentes,64incompleto, leitor1–60 preservado. Próximo66oucontinuação64. Próximo publique revisa61em diante e deve resolvercorte64antesdeintegraçãocontínua. BackupSHA256: backups/agd-capitulo-065-20261116-071811/. Clube/JS não alterados; semcommit/push.
+
+Validação65: UTF-8,cabeçalho/final, sequência1–65, todo conteúdorecebido/nomes/5vs6cartas/Priest/2500e2600runas/contexto/dataremovida conferidos;4backupsSHA256íntegros; leitor60preservado; corte64seguependente.
+
+
+## Revisão e publicação local 61–63 — 16/11/2026
+
+Revisão contextual dos capítulos recebidos61–65: três completos integrados,64–65 retidos.61encerraexibiçãolocal/feedback,62explicasistemanumérico e interesseAzeroth,63apresentasite/planejafórum e confirmaestreiaonline3episódios20h.64avançaresultados/segunda temporada/testes, mas anexo termina so the profit would d, semfim;65 começa testes e não completa a frase. NÃOinventarponte/final nem pular64 para integrar65. sourceIncomplete=true mantido64, offlinePending=true mantidos64e65.
+
+Único ajuste textual63: explicita fórum NGA, para distingui-lo do site Universo de Azeroth. Sem cortes, mudanças de números, títulos ou parágrafos. TXT64–65 intactos;1–60 idênticos à publicação anterior. Datas editoriais fora do texto, datas narrativas mantidas. Títulos62–63 (e64–65pendentes) são descritivos provisórios porque anexos sem cabeçalho, não originais confirmados.
+
+Mantidas incertezas da fonte: Cavernas dos Lamentos61 em itálico para Wailing Taverns, nota sobre filme/mençãoepisódio no mesmo capítulo sem remendo. Afirmação10milhõesPVZ64 permanece no TXTpendente/marcada, não introduzida no leitor. Não confundir previsões10milhõesviews61 com resultados1,3milhão/3,29milhões/50milhões64. Game Pass65 continua conta de jogos Thunderbolt, sem assinatura inventada.
+
+Leitor local1–63, último63 — A estreia de I Am MT. Pendentes64–65; é necessário receber o final faltante64 antes da próxima integração contínua. Próximo envio66 ou continuação64; próxima revisão64em diante. Backup prévio de14arquivos SHA256 (incluindo pendentes preservados): backups/agd-publicar-revisar-061-063-20261116-071928/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; Clube522/279–800comTXT801–803pendentes. Commit/push/implantação remota manuais.
+
+Validação61–63 concluída: reader.test.cjs aprovado;63TXT idênticos aoJS/títulos/notas/itálicos; catálogo63,navegação/limites/retomada/progressoisolado aprovados. Testes conferem exclusão dos pendentes e impedem integração de sourceIncomplete. Sintaxe5scripts/14backupsSHA256íntegros; TXT64–65intactos e fora do leitor; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
