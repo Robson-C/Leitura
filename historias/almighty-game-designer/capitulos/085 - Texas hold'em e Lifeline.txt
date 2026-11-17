@@ -1,0 +1,97 @@
+Capítulo 85 — Texas hold'em e Lifeline
+
+Chen Mo pesquisava na internet quando, de repente, teve uma ideia.
+
+É mesmo! Acho que aqui não existe Texas hold'em!
+
+Mas como podia não existir? Não fazia sentido!
+
+Passara tanto tempo tentando descobrir qual jogo faltava. No fim, era Texas hold'em? Que absurdo!
+
+Continuou pesquisando, inclusive em sites estrangeiros, e confirmou que aquela modalidade realmente não existia naquele mundo!
+
+Eu sabia que estava faltando alguma coisa. Era Texas hold'em!
+
+Muito bem, a última peça de Thunderbolt Tabletop havia sido encontrada.
+
+Ficou até um pouco emocionado ao completar a seleção de jogos de mesa.
+
+Texas hold'em não era tão popular na China. Em quantidade de jogadores, não se comparava a Dou Dizhu ou mahjong. Também era menos conhecido.
+
+Porém, fazia bastante sucesso em determinados círculos, nos quais era estudado a fundo.
+
+Profissionais de tecnologia, empreendedores, investidores de capital de risco, presidentes de empresas... Todos gostavam da modalidade. Kai-Fu Lee, Liu Chuanzhi, Jack Ma e muitos outros eram fanáticos por pôquer.
+
+Texas hold'em também era um fenômeno mundial, principalmente nos Estados Unidos. Quando alguém dizia que jogava pôquer, provavelmente se referia àquela modalidade.
+
+As premiações dos torneios da World Series of Poker às vezes chegavam a dez milhões de dólares. Houve até um cozinheiro sueco que conquistou o primeiro lugar e se tornou milionário da noite para o dia.
+
+Muita gente não entendia o poder misterioso de Texas hold'em.
+
+Se fosse preciso resumir numa frase a diferença em relação às outras modalidades, seria esta: Texas hold'em era um tipo de pôquer em que se podia ganhar dinheiro de forma consistente.
+
+Podia parecer inacreditável, mas era a verdade.
+
+Outros jogos de mesa, como Dou Dizhu, mahjong e Golden Flower, tinham uma forte ligação com as apostas. A habilidade importava, mas a sorte importava ainda mais. Um profissional de Dou Dizhu ou mahjong dependeria muito dela para pôr comida na mesa. Aquilo não seria tão diferente de simplesmente apostar.
+
+E um dos princípios das apostas era que jogar por muito tempo garantia perdas. Ninguém conseguiria ganhar de forma consistente.
+
+Mas Texas hold'em permitia um lucro regular. Se alguém sempre perdia, aquilo só poderia significar uma coisa: jogava mal.
+
+Fora da China, havia muitos profissionais, como Phil Ivey, que vencera vinte e quatro vezes em diferentes torneios e terminara entre os premiados em mais de cem. Ao longo da carreira, acumulara mais de vinte milhões em prêmios.
+
+Na China, também havia muitos profissionais, que costumavam ganhar cerca de cem mil yuans por mês. Por vários motivos, a popularidade da modalidade era limitada no país. Ainda assim, havia cerca de sessenta milhões de jogadores.
+
+Por que o pôquer permitiria uma renda estável? Porque as regras de Texas hold'em eram muito mais complexas que as de outras variantes. Era possível desistir a qualquer momento ou arriscar tudo para tentar dobrar as fichas.
+
+Além disso, a estratégia podia mudar de acordo com as ações dos adversários, como apostar ou pagar uma aposta.
+
+Era diferente de Golden Flower, em que tudo dependia das cartas recebidas. Com uma mão boa, a vitória estava quase garantida. No Texas hold'em, porém, o resultado seria definido pelas cinco cartas comunitárias. Em teoria, até a pior mão inicial, dois e sete de naipes diferentes, teria uma boa chance de superar a melhor, um par de ases.
+
+Cálculos minuciosos, controle das expressões, tentativas de deduzir a mão dos adversários pelo comportamento e uma boa postura mental eram essenciais. Podia-se dizer que todos esses fatores reduziam ao mínimo o peso da sorte.
+
+Por exemplo, se um profissional enfrentasse um iniciante, não seria surpresa que o derrotasse por completo com recursos psicológicos, mesmo que o novato recebesse cartas melhores em todas as rodadas.
+
+Em Dou Dizhu ou mahjong, os iniciantes ainda poderiam ganhar algumas partidas por pura sorte. Em Texas hold'em, não teriam essa oportunidade.
+
+Com a base definida, Chen Mo começou a trabalhar no documento de design.
+
+As regras dos jogos de mesa eram simples e claras. Desenvolvê-los levaria muito menos tempo que I Am MT. Pretendia concluir a maior parte da plataforma Thunderbolt e de Thunderbolt Tabletop e, depois, passar mais uma semana fazendo ajustes antes do lançamento.
+
+Na manhã seguinte.
+
+Chen Mo entregou a Su Jinyu o mapa mental do documento de design.
+
+— O mapa está pronto. Você pode preencher as lacunas das regras. Não se preocupe com a história. Deixe essa parte para Zheng Hongxi quando ele chegar. Vocês dois vão trabalhar juntos, e isso também servirá para testar a habilidade de escrita dele.
+
+Su Jinyu abriu o arquivo. Ficou surpresa com o tamanho minúsculo: só umas duzentas palavras.
+
+— Lifeline? Ficção interativa? — exclamou.
+
+Chen Mo assentiu.
+
+— Sim. É principalmente um exercício para você e Zheng Hongxi. Já indiquei os pontos que merecem atenção. A qualidade do resultado depende de vocês.
+
+— Mas, chefe, esse jogo parece simples demais!
+
+Chen Mo sorriu.
+
+— Um jogo simples também pode ser muito bom. Não subestime. Talvez possam acrescentar mecânicas novas à estrutura básica.
+
+Su Jinyu assentiu.
+
+— Certo, entendi.
+
+Depois de lhe passar o projeto de Lifeline, Chen Mo concentrou todos os esforços na plataforma Thunderbolt e em Thunderbolt Tabletop.
+
+Lifeline era uma ficção interativa. Pretendia usá-lo como exercício para Zheng Hongxi e para conhecer melhor suas habilidades de escrita.
+
+Depois que os dois projetos ficassem prontos, começaria a planejar seu primeiro jogo de grande porte.
+
+Nos dois dias seguintes, aprimorou o documento de design.
+
+Os três jogos de Thunderbolt Tabletop — Happy Dou Dizhu, Happy Mahjong e Thunderbolt Poker, isto é, Texas hold'em — tinham públicos que praticamente não se sobrepunham. Fora por isso que os escolhera. Porém, muitos recursos gráficos poderiam ser reaproveitados entre eles, como avatares, interface e cartas de baralho.
+
+Chen Mo terceirizou aqueles recursos. Como havia muitos jogos de mesa no mundo paralelo, também existia uma grande oferta desse tipo de material. Bastariam pequenas alterações para aproveitá-lo. Como não considerava a arte uma parte tão importante daquele projeto, não se preocupava demais com a aparência. Sua única exigência era rapidez: queria receber tudo em duas semanas.
+
+Durante o planejamento, dedicou atenção especial a dois pontos: melhorar os tutoriais e acrescentar um modo de torneio que os concorrentes não ofereciam.

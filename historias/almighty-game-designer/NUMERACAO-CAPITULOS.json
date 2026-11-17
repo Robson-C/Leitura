@@ -485,7 +485,37 @@
       "chapter": 80,
       "title": "A entrevista de Han Lu",
       "file": "capitulos/080 - A entrevista de Han Lu.txt"
+    },
+    {
+      "source": 81,
+      "chapter": 81,
+      "title": "Criar felicidade com dedicação",
+      "file": "capitulos/081 - Criar felicidade com dedicação.txt"
+    },
+    {
+      "source": 82,
+      "chapter": 82,
+      "title": "O teste de Zheng Hongxi",
+      "file": "capitulos/082 - O teste de Zheng Hongxi.txt"
+    },
+    {
+      "source": 83,
+      "chapter": 83,
+      "title": "Um novo roteirista e os próximos jogos",
+      "file": "capitulos/083 - Um novo roteirista e os próximos jogos.txt"
+    },
+    {
+      "source": 84,
+      "chapter": 84,
+      "title": "A plataforma de jogos Thunderbolt",
+      "file": "capitulos/084 - A plataforma de jogos Thunderbolt.txt"
+    },
+    {
+      "source": 85,
+      "chapter": 85,
+      "title": "Texas hold'em e Lifeline",
+      "file": "capitulos/085 - Texas hold'em e Lifeline.txt"
     }
   ],
-  "notes": "Leitor local com os capítulos 1–80. Os capítulos 64 e 77 têm complementos editoriais autorizados em itálico na última frase. Próximo envio 81."
+  "notes": "Leitor local1–85; lote81–85revisado e integrado. Complementos editoriais autorizados64e77preservados. Anexos81–85semnúmero/título: numeração por sequência e títulos descritivos provisórios. Datas editoriais removidas. Nenhum TXT pendente nesta obra; próximo86; próxima revisão86em diante. Commit/push manuais."
 }

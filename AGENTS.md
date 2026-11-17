@@ -6,7 +6,7 @@ Por instrução explícita do usuário, “publique”, “publicar” e equival
 
 Não inventar explicações, números, nomes ausentes ou acontecimentos para encobrir defeitos da fonte. Quando o contexto não resolver uma ambiguidade, manter indicação de incerteza e registrar a pendência. Não aplicar uma hipótese terminológica global como se tivesse sido confirmada pelo original. Não confundir revisão de tradução com revisão de código da aplicação. Renumerações, reordenações, fusões, complementos narrativos ou mudanças materiais fora desse fluxo continuam exigindo esclarecimento próprio. Commit, push e implantação remota permanecem manuais.
 
-Último lote revisado e integrado em Almighty Game Designer: 71–80. Os capítulos 64 e 77 têm complementos editoriais autorizados na última frase, em itálico. Leitor local com 80 capítulos. Próximo envio e próxima revisão a partir do 81.
+Último lote revisado e integrado em Almighty Game Designer: 81–85. Os capítulos 64 e 77 têm complementos editoriais autorizados na última frase, em itálico, preservados. Leitor local com 85 capítulos, sem TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 86.
 
 
 ## Esclarecimento vigente do usuário — 21/10/2026

@@ -1,3 +1,21 @@
+ESTADO ATUAL — 17/11/2026 — ALMIGHTY GAME DESIGNER
+Publicação local/revisão até85 — Texas hold'em e Lifeline. SemTXTpendente; próximo86, próxima revisão86em diante.1–80/complementos64e77preservados. Zhengaprovadoaguardainício; novosprojetosplanejadosThunderboltTabletop+plataforma e LifelineSuZheng, aindasemlançamento. Títulos81–85provisórios/fontessemcabeçalho, datas editoriaisremovidas. Commit/push manuais. Histórico abaixo.
+
+ESTADO ATUAL — 17/11/2026 — ALMIGHTY GAME DESIGNER
+Última tradução85porsequência — Texas hold'em e Lifeline (títulodescritivoprovisório). TXT81–85pendentes; leitor1–80 preservado. Próximo86; revisãoantespublique81em diante. ThunderboltTabletop=HappyDouDizhu/HappyMahjong/ThunderboltPoker(Texas). LifelineficçãointerativaSu+Zheng(aguardachegada), Chencuidaplataforma/mesa. Artes2semanasprevistas. Datas editoriaisremovidas. Commit/push manuais. Histórico abaixo.
+
+ESTADO ATUAL — 17/11/2026 — ALMIGHTY GAME DESIGNER
+Última tradução84porsequência — A plataforma de jogos Thunderbolt (títulodescritivoprovisório). TXT81–84pendentes; leitor1–80 preservado. Próximo85; revisãoantespublique81em diante. Chenplanejaplataforma+ThunderboltTabletop/3melhorias, procuradiferencialaindasemdeci são; nenhumjogoadicionaldefinido. Datas editoriaisremovidas. Commit/push manuais. Histórico abaixo.
+
+ESTADO ATUAL — 17/11/2026 — ALMIGHTY GAME DESIGNER
+Última tradução83porsequência — Um novo roteirista e os próximos jogos (títulodescritivoprovisório). TXT81–83pendentes; leitor1–80 preservado. Próximo84; revisãoantespublique81em diante. Zhengaprovado/8000mês/início1semana; Che njogosimplesSu+própriosemnomes, busca fidelizarjogadores. Datas editoriaisremovidas. Commit/push manuais. Histórico abaixo.
+
+ESTADO ATUAL — 17/11/2026 — ALMIGHTY GAME DESIGNER
+Última tradução82porsequência — O teste de Zheng Hongxi (títulodescritivoprovisório). TXT81–82pendentes; leitor1–80 preservado. Próximo83; revisãoantespublique81em diante. Wenlêentrevista81, candidat oZheng24/Letrascomeçateste5questões/1h, resultadopendente. Datas editoriaisremovidas. Commit/push manuais. Histórico abaixo.
+
+ESTADO ATUAL — 17/11/2026 — ALMIGHTY GAME DESIGNER
+Pós-pull confirmado leitor1–80/complementos64e77autorizados. Última tradução81porsequência — Criar felicidade com dedicação (títulodescritivoprovisório). TXT81pendente; próximo82; revisãoantespublique81em diante. HanLuterminaentrevista/matériasai3diasdepois, públicoironiza. Datas editoriaisremovidas. Commit/push manuais. Histórico abaixo conserva estados anteriores.
+
 ESTADO ATUAL — 16/11/2026 — ALMIGHTY GAME DESIGNER
 Leitor offline até 80. O final do 77 foi reparado em itálico. Próximo envio 81. Commit e push manuais. Estados anteriores abaixo são históricos.
 
@@ -709,3 +727,65 @@ Anexo 7e0bef1b-7721-48ae-a3b4-949894cfee55. Continuação do lançamento e das e
 I Am MT tem nota 7,6. A possível queda para 7,4, os oito a dez milhões de Qiu Bin e os vinte milhões de Chen Mo são expectativas. As 38.938 cópias de Guardian of the Holy Spring correspondem às vinte e quatro horas. O trecho enviado termina na definição de DAU, preservada em inglês com tradução.
 
 TXT salvo em capitulos/070 - As primeiras vinte e quatro horas.txt. Cabeçalho, final, UTF-8 e asteriscos conferidos. Leitor até 63. TXT 64–70 pendentes, com o 64 cortado na fonte. Próximo envio 71 ou continuação do 64. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-070-20261116T111549767Z. Para reverter, restaurar os registros se não houver alterações posteriores e retirar apenas o novo TXT.
+
+
+## Almighty Game Designer — capítulo81 traduzido — 17/11/2026
+
+Estado pós-pull conferido: leitor1–80, commit76a3781(0064/0080), complementos64e77autorizadosmantidossemalteração. NovoanexoSEMnumeração/título, dataOct20,2026removida; sequência81, título descritivoPROVISÓRIO Criar felicidade com dedicação. Lemaigual80; não renomear82anterior etc. HanLucontinuaentrevista80sobregratuito/gastos, Chenbrincatransmigrador/controlementalcomironia (realtransmigraçãoécontextonarrador, não confissãopúblicaaceita). UniversoAzerothnomepadronizadoapesaringlêsWorldofAzeroth. Recusa confirmarprojetoAzerothfuturo.
+
+Entrevistaduraquase2h, HanLusaisemrevelações; Chennãodesejaensinarmonetizaçãoconcorrentes, estimaalgunsmesesparacopiarem/entãodesinteressedejogosruins. Após3diasmatériapublicada canaljogos (nomeblanknafonte, nãoinventarnome;79jáidentificaTianji.com), reproduzrespostasirônicas e ganhareaçõesdepúblico.9comentáriosfinaispreservados, inclusiveinsultos. Notíciaédoisprodutos/jogoeanimação, nada de novo anúncio/lançamento. Em80anúnciopausa mantémcontradiçãocômicafalaamortrabalho. Frasefinalíntegra.
+
+Tabela/continuidade/handoff atualizados; TXT81pendente, leitor1–80 preservado; próximo82. Próximo publique revisa81em diante. BackupSHA256: backups/agd-capitulo-081-20261117-062058/. Clube/JS não alterados; semcommit/push.
+
+
+## Almighty Game Designer — capítulo82 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dat aOct20,2026removida, sequência82/títulodescritivoPROVISÓRIO O teste de Zheng Hongxi. Início repete fala81 porqueWenLÊentrevistana loja: retomadanarrativa legítima mantida, não duplicação de anexo. Lema/paixão/carinho correspondemtexto81. EntrevistacandidatoZhengretomaconvite79; járecrutadorfala roteiros+balanceamento conforme79, não substituiratributoProgramação. Zheng24/LetrasuniversidadeCidadeMágica/empresa mídiaabandonada/recémformadomenos1ano; Chenformado1anopouco, diferençaanocomoinglês semforçaridadedois.
+
+ReadNovelFulls éinserçãodenomesitedecaptura, vertido romancesparainternet pelo contexto escreverintegral; não traduzircomotítuloouplataformadedicada. Cincoquestões: história+2classesMMORPGwuxia;5equipamentosTrêsReinoscomum→raro; Draenor/Azeroth; pequenoevento→missões; Fordring/marteloTaelan/diálogoscompletoscompossívelreformulaçãopersonagens. Umahora, testesócomeçou, semrespostas/resultadocontrataçãoainda. Grupodesiste/Suachadifícil, Chensótestafundamentos/competênciaavançadadepois. TermosUniversoAzeroth/PeixinhoDourado/lojaexperiências/roteirista/balanceamentomantidos. Nenhuma visitaCanalnova: HanLuentrevista81éoutrocontexto.
+
+Tabela/continuidade/handoff atualizados; TXT81–82pendentes, leitor1–80 preservado; próximo83. Próximo publique revisa81em diante. BackupSHA256: backups/agd-capitulo-082-20261117-062351/. Clube/JS não alterados; semcommit/push.
+
+
+## Almighty Game Designer — capítulo83 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dat aOct20,2026removida, sequência83/títulodescritivoPROVISÓRIO Um novo roteirista e os próximos jogos. Zhengtermina5questõesem~30min/aprovado; facçõesDeusesDemônios/classesmongessacerdotes, armasSabreArgolas/Cimitarra/LâminaCrescentedoDragãoVerde. LoreTirion/Taelan/CruzadaEscarlate/AmoreFamília/TerrasPestilentas/MãodePrata/Flageloconformeinglês, semrevisãodecanonexterna. Zhengrecriaquintaquestão, different from original masaceitável.
+
+Salárioantes6000→8000yuans/mês, experiência1mês,10h–19hsegunda–sexta, sábadoshoraextraemdesenvolvimentointenso; inícioem1semanaapósarrumarcoisasCidadeMágica. Contratosacertarainda, nãonarrarassinaturaconcluídase ausente. Atribuiçãoroteiros/missões/equipamentos, futuroambientações/jogosnarrativos. ChenprometeamanhãmapamentaljogosimplesSuSOZINHA e outrojogodele justo/muitodependentesorte, AINDASEMnomes; Jiaironia, Wenincrédula. Saltedfish→acomodado, nãoliteralpeixesalgado.
+
+IAmMTmanutençãoadiável2meses/depoispequenosupdates/cartas, servidorvalidaações; primeiro mês23milhõesreceita/12,8milhõesrecebido, loja20%comissão vsoutras80–90%. 23menos20%nãodá12,8, nãoinventartributos/despesasnemcorrigirfonte; nãoimporlucrolíquidooumesmabasecálculo. FantasyGamingPlatformnomepreservado. Gamepasses→contajogosThunderboltconforme79, semassinatura. Sérieusadapublicidadesemexpectativalucro. Últimotemagancho: usuáriosdosjogos≠públicofidelizadodacompanhia, explicaçãoapenascomeçada.
+
+Tabela/continuidade/handoff atualizados; TXT81–83pendentes, leitor1–80 preservado; próximo84. Próximo publique revisa81em diante. BackupSHA256: backups/agd-capitulo-083-20261117-062516/. Clube/JS não alterados; semcommit/push.
+
+
+## Almighty Game Designer — capítulo84 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência84/títulodescritivoPROVISÓRIO A plataforma de jogos Thunderbolt. Retoma83: públicoindividualjogos≠públicofielplataforma. Emperor dezenasmilhõesativosmensais/>2milhões simultâneos; ChenplanejaplataformaThunderbolt/avisarcontasexistentes/atrairpúblicoexterno. BibliotecaFlappyBirdPVZIAmMTpobre, negociaçãoterceirossematrativomútuo; doisnovosjogosampliarãoacervo. EscreveDocThunderboltTabletopnomeproduto. Jogosmesa(cartas/tabuleiros) distintos de mobilecartascolecionáveisIAmMT. DouDizhumahjongessenciais, xadrezchinês/go/bridgecomparação. Trêsmelhoriasplanejadas iniciantes(diários,tutoriais,créditos),torneios,lojaitensVIP(trocaatépresente real), mas insuficientespararomperfidelidade. Procurajogodiferente, AINDAnãodefine, gancho Oqueera?
+
+Nome blizzard.net preservadocomofonte semnormalizarparaBattle.netsemoriginal; GamePass→contajogosThunderboltse massinatura. TencentTabletop240milhões/umemcincoconformeinglês, referência estatísticaambígua nãoinventardenominador. Regrascuringas/BloodMahjongnomesconformeinglêssemexplicaçãoexterna. ShengJi/GoldenFlower/SevenJokerFiveTwoThreepreservadosnomesdafonte, nãoinventarnomesoficiais. Tempoenunciado pesquisaúltimosdias, sempassagemdediasadicionalinferida. Plataforma/jogoestãoemplanejamento,nãoimplementadosnoprópriorepositório.
+
+Tabela/continuidade/handoff atualizados; TXT81–84pendentes, leitor1–80 preservado; próximo85. Próximo publique revisa81em diante. BackupSHA256: backups/agd-capitulo-084-20261117-062637/. Clube/JS não alterados; semcommit/push.
+
+
+## Almighty Game Designer — capítulo85 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência85/títulodescritivoPROVISÓRIO Texas hold'em e Lifeline. Resolvegancho84: Texashold'emNÃOexistemundoparalelo, pesquisaatéexteriorconfirma; escolheThunderboltPokerjuntoHappyDouDizhu/HappyMahjongparaThunderboltTabletop. Nomesprodutospreservados. Alegaçõesabsolutassobreganhosregulares/sorte/mãospôquer/estatísticasrendaPhilIveyempresários/prêmios são exposiçãoficcionaldafonte, não orientaçãofinanceiraouendossoverificado; preservadassemreescrevererrosprobabilísticosporcontaprópria.20milhõesprêmiossemmoedaespecificadainglês, nãocompletarUSDporinferência.
+
+ManhãseguinteChentrazmapa~200palavrasLifeline/ficçãointerativa, Sucompletaregras/Zhenghistóriaquandochegar, exercíciodosdois; ChenaindaplanejaprimeirojogograndeAPÓSessesprojetos.2diasaperfeiçoaDocThunderbolt; arteterceirizada/reutilizável/entrega2semanas, ajustes+1semanaantespublicação seminventartempobase. Finalprioridadetutoriais/torneios, semjogosprontosnemZhengjácomeçado. ChemMo→ChenMo/holdme→hold'em/smilegame→simplegame/aventuracapital→capitalderisconormalizadoscontexto.
+
+Tabela/continuidade/handoff atualizados; TXT81–85pendentes, leitor1–80 preservado; próximo86. Próximo publique revisa81em diante. BackupSHA256: backups/agd-capitulo-085-20261117-062802/. Clube/JS não alterados; semcommit/push.
+
+
+## Revisão e publicação local 81–85 — 17/11/2026
+
+Cinco capítulos revisados com as fontes e o contexto pós-pull1–80: fim da entrevista81, repercussão e testeZheng82, aprovação/condiçõescontratação83, planejamento plataforma84 e decisãoTexas/Lifeline85. Sequência coerente. A fala repetida no início82 é leitura da entrevista por Wen, mantida como retomada legítima. Lema Criar felicidade com dedicação mantém80. Zheng começa em uma semana;85aindaoaguarda, não hácontradição. LifelineficaSu+Zheng, plataforma/ThunderboltTabletopcomChen, jogo de grande porte sódepois.
+
+Dois ajustes de clareza:81 naturaliza impressão de Han Lu como me enrolaram;82 troca primeiro nível de competência por fundamentos do trabalho, evitando confundir exigência profissional com níveis do sistema/pulseira. Sem cortes, mudanças de números, títulos ou quantidade de parágrafos.1–80 idênticos à versão anterior, incluindo complementos64e77autorizados. Títulos81–85descritivos provisórios pois fontessemcabeçalho; datas editoriaisremovidas, narrativa mantida.
+
+Conferidosroteirista/balanceamento conforme79, Zheng24/Letras/8000mês/experiência1mês, salárioanterior6000,10h–19h/sábadoshorasextraquandonecessário. Cincoquestõesem30min; recrutamento não deve virarcontratoassinadoantesdenarração. ContaThunderbolt élogin,nãoassinaturaGamePass. Plataformaexplicaobjetivoatr aír/fidelizarpúblico,eThunderboltTabletoptemHappyDouDizhu/HappyMahjong/ThunderboltPoker, Lifelineficçãointerativa/mapa~200palavras. Nenhumdesteslançadoainda.
+
+Pendênciasdafontepreservadas: números23milhõesreceita/12,8recebido/comissão20%83semexplicaçãocompleta, nãoinventartributos; referência240milhões/umemcinco84semdenominadorinventado. Nomeblizzard.netoriginalnãoalterado por suposição. Alegações de renda estável/sorte no pôquer85 são do narrador e não verificação externa; não corrigir estatísticas ou probabilidades como se o original dissesse outra coisa. Renomeações comerciais/técnicas e conteúdo não foram inventados.
+
+Leitor local1–85, último85 — Texas hold'em e Lifeline. Nenhum TXT pendente nesta obra. Próximo86; próxima revisão86em diante. Backup prévio de14arquivos SHA256: backups/agd-publicar-revisar-081-085-20261117-062925/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; commit/push/implantação remota manuais.
+
+Validação81–85 concluída: reader.test.cjs aprovado;85TXT idênticos aoJS/títulos/notas/itálicos; catálogo85,navegação/limites/retomada/progressoisolado aprovados. Complementos64e77preservados e validados. Sintaxe5scripts/14backupsSHA256íntegros; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.

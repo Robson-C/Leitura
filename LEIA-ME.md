@@ -521,3 +521,18 @@ A fala do 72 sobre pay to win agora explicita a vantagem de quem paga. A revisã
 Os testes automatizados conferiram a equivalência dos 80 TXT com o leitor, a navegação e a retomada em DOM simulado. Os capítulos 1–70 são idênticos aos da versão local anterior. A conferência visual no navegador está pendente. Próximo envio é o 81. Commit e push manuais.
 
 Backup local com 19 arquivos verificados por SHA-256 em backups/agd-publicar-revisar-071-080-20261116T140947478Z/. Para reverter o lote, restaurar os arquivos alterados a partir desse backup, preservando edições posteriores.
+
+
+## Revisão e publicação local 81–85 — 17/11/2026
+
+Cinco capítulos revisados com as fontes e o contexto pós-pull1–80: fim da entrevista81, repercussão e testeZheng82, aprovação/condiçõescontratação83, planejamento plataforma84 e decisãoTexas/Lifeline85. Sequência coerente. A fala repetida no início82 é leitura da entrevista por Wen, mantida como retomada legítima. Lema Criar felicidade com dedicação mantém80. Zheng começa em uma semana;85aindaoaguarda, não hácontradição. LifelineficaSu+Zheng, plataforma/ThunderboltTabletopcomChen, jogo de grande porte sódepois.
+
+Dois ajustes de clareza:81 naturaliza impressão de Han Lu como me enrolaram;82 troca primeiro nível de competência por fundamentos do trabalho, evitando confundir exigência profissional com níveis do sistema/pulseira. Sem cortes, mudanças de números, títulos ou quantidade de parágrafos.1–80 idênticos à versão anterior, incluindo complementos64e77autorizados. Títulos81–85descritivos provisórios pois fontessemcabeçalho; datas editoriaisremovidas, narrativa mantida.
+
+Conferidosroteirista/balanceamento conforme79, Zheng24/Letras/8000mês/experiência1mês, salárioanterior6000,10h–19h/sábadoshorasextraquandonecessário. Cincoquestõesem30min; recrutamento não deve virarcontratoassinadoantesdenarração. ContaThunderbolt élogin,nãoassinaturaGamePass. Plataformaexplicaobjetivoatr aír/fidelizarpúblico,eThunderboltTabletoptemHappyDouDizhu/HappyMahjong/ThunderboltPoker, Lifelineficçãointerativa/mapa~200palavras. Nenhumdesteslançadoainda.
+
+Pendênciasdafontepreservadas: números23milhõesreceita/12,8recebido/comissão20%83semexplicaçãocompleta, nãoinventartributos; referência240milhões/umemcinco84semdenominadorinventado. Nomeblizzard.netoriginalnãoalterado por suposição. Alegações de renda estável/sorte no pôquer85 são do narrador e não verificação externa; não corrigir estatísticas ou probabilidades como se o original dissesse outra coisa. Renomeações comerciais/técnicas e conteúdo não foram inventados.
+
+Leitor local1–85, último85 — Texas hold'em e Lifeline. Nenhum TXT pendente nesta obra. Próximo86; próxima revisão86em diante. Backup prévio de14arquivos SHA256: backups/agd-publicar-revisar-081-085-20261117-062925/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; commit/push/implantação remota manuais.
+
+Validação81–85 concluída: reader.test.cjs aprovado;85TXT idênticos aoJS/títulos/notas/itálicos; catálogo85,navegação/limites/retomada/progressoisolado aprovados. Complementos64e77preservados e validados. Sintaxe5scripts/14backupsSHA256íntegros; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
