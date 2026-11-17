@@ -557,7 +557,57 @@
       "chapter": 92,
       "title": "A terceira força dos jogos de mesa",
       "file": "capitulos/092 - A terceira força dos jogos de mesa.txt"
+    },
+    {
+      "source": 93,
+      "chapter": 93,
+      "title": "A primeira mensagem de Lifeline",
+      "file": "capitulos/093 - A primeira mensagem de Lifeline.txt"
+    },
+    {
+      "source": 94,
+      "chapter": 94,
+      "title": "À espera de Taylor",
+      "file": "capitulos/094 - À espera de Taylor.txt"
+    },
+    {
+      "source": 95,
+      "chapter": 95,
+      "title": "O sucesso de Lifeline e as cópias de I Am MT",
+      "file": "capitulos/095 - O sucesso de Lifeline e as cópias de I Am MT.txt"
+    },
+    {
+      "source": 96,
+      "chapter": 96,
+      "title": "Chen Mo experimenta Earth Online",
+      "file": "capitulos/096 - Chen Mo experimenta Earth Online.txt",
+      "sourceIncomplete": true,
+      "editorialCompletion": "um nicho."
+    },
+    {
+      "source": 97,
+      "chapter": 97,
+      "title": "O futuro dos jogos de realidade virtual",
+      "file": "capitulos/097 - O futuro dos jogos de realidade virtual.txt"
+    },
+    {
+      "source": 98,
+      "chapter": 98,
+      "title": "Uma visita à lan house Fates",
+      "file": "capitulos/098 - Uma visita à lan house Fates.txt"
+    },
+    {
+      "source": 99,
+      "chapter": 99,
+      "title": "A descoberta de Legion Conquest",
+      "file": "capitulos/099 - A descoberta de Legion Conquest.txt"
+    },
+    {
+      "source": 100,
+      "chapter": 100,
+      "title": "Em busca de alguém para o balanceamento",
+      "file": "capitulos/100 - Em busca de alguém para o balanceamento.txt"
     }
   ],
-  "notes": "Leitor local1–92; lote86–92revisado e integrado. Complementos editoriais autorizados64e77preservados. Anexos86–92semnúmero/título: numeração por sequência e títulos descritivos provisórios. Datas editoriais removidas. Nenhum TXT pendente nesta obra; próximo93; próxima revisão93em diante. Commit/push manuais."
+  "notes": "Leitor local até 100. Complementos editoriais no 64, 77 e 96. Próximo envio 101."
 }

@@ -1,0 +1,183 @@
+Capítulo 100 — Em busca de alguém para o balanceamento
+
+Chen Mo voltou à loja de experiências.
+
+— Bem-vindo de volta, chefe — disse Su Jinyu.
+
+Chen Mo assentiu.
+
+— Dei um pulo na lan house pra pesquisar e buscar inspiração.
+
+Su Jinyu se animou com a surpresa.
+
+— Uau, já tá planejando outro jogo? Chefe, você faz jogo como porca dá cria.
+
+— ... Não dava pra escolher uma comparação melhor?
+
+Chen Mo pegou uma lata de bebida.
+
+— Peixinho Dourado, como anda o mercado de jogos para celular? Tem acompanhado?
+
+— Ah, Lifeline tá indo bem — respondeu Su Jinyu.
+
+Chen Mo ficou sem palavras.
+
+— Não foi isso que eu perguntei! Para de olhar só pro seu jogo. Tô perguntando dos outros jogos do mercado.
+
+— Ah, os outros? Cada vez mais jogos estão copiando I Am MT... E também tem cada vez mais jogos de mesa copiando Thunderbolt Tabletop.
+
+Até Zheng Hongxi, que costumava ficar calado, entrou na conversa:
+
+— Praticamente metade da indústria de jogos para celular tá copiando você.
+
+— Ah, ótimo — respondeu Chen Mo.
+
+Su Jinyu ficou sem palavras.
+
+— Hein? Como é que ter tanta gente copiando você pode ser ótimo?
+
+— Você não entende. Se estão copiando a gente, é porque perderam a capacidade de criar algo novo. E isso quer dizer que o que fizerem nunca vai superar o que eu faço.
+
+— Nossa, chefe, acho que você tá sendo... otimista demais. Demon Slayers tá chegando cada vez mais perto da receita de I Am MT.
+
+— Chegando perto. Ainda não passou, né? Então qual é o problema? Aliás, o que vocês sabem sobre jogos de estratégia em tempo real?
+
+Su Jinyu respondeu:
+
+— Ah... pouca coisa. Sou só estagiária.
+
+— Eu sou só escritor — disse Zheng Hongxi.
+
+Chen Mo ficou sem palavras.
+
+— Nossa, vocês esperam muito pouco de si mesmos. Um dia, cada um vai criar seus próprios jogos, entenderam? Vou dar três dias pros dois conhecerem o mercado de RTS. Depois quero um relatório de pesquisa de cada um.
+
+Su Jinyu se espantou.
+
+— Hein? Mas nunca consegui jogar direito esse tipo de jogo...
+
+— Não tô pedindo pra você virar jogadora profissional. Tanto faz se você joga ou não. Só quero que entenda o mercado. De qualquer jeito, quero os relatórios em três dias. E é bom que sejam diferentes. Não quero receber dois relatórios parecidos.
+
+Depois de distribuir o trabalho, Chen Mo subiu.
+
+Su Jinyu levou a mão à testa. Meu Deus, o que era um relatório de pesquisa? Nunca tinha escrito um!
+
+***
+
+No andar de cima, Chen Mo começou a pensar no próximo jogo.
+
+Já podia fazer um jogo para PC, mas achava que precisava de mais ajuda.
+
+Zheng Hongxi podia poupá-lo de muito trabalho com os roteiros, e Su Jinyu podia cuidar de algumas funcionalidades ou da arte conceitual. Ainda faltava alguém que soubesse lidar com os números e com o design das fases.
+
+Chen Mo procurava essa pessoa havia muito tempo, sem sucesso.
+
+— Números, design de fases... Certo. Vou olhar os fóruns.
+
+Ele abriu o fórum de I Am MT à procura de alguém que soubesse analisar os números e o balanceamento do jogo.
+
+Os números de um jogo de cartas daqueles eram bem complicados. Quem conseguisse fazer uma análise minimamente sólida de I Am MT já teria praticamente toda a base necessária para a função.
+
+Chen Mo passou por alguns dos tópicos mais comentados.
+
+Jogo lixo, devolvam meu dinheiro!
+
+Análise do sistema de dez sorteios
+
+Dicas para farmar cartas roxas
+
+A estratégia perfeita para dominar o campo de batalha!
+
+Quanto você deve gastar? Jogador V12 ensina a aproveitar melhor seu dinheiro.
+
+***
+
+Depois de ler as postagens, Chen Mo não resistiu e apertou Ctrl+W.
+
+Aquilo era horrível!
+
+Tópicos de pseudociência como “Análise do sistema de dez sorteios” e “Dicas para farmar cartas roxas” só faziam Chen Mo se sentir ainda mais longe da ciência e da matemática que procurava.
+
+Sem desistir, ele continuou a busca no fórum de Thunderbolt Poker.
+
+Analisar Texas Hold’em também exigia bastante conhecimento de estatística. Quem conseguisse calcular, ainda que aproximadamente, a probabilidade de vitória de cada tipo de mão provavelmente tinha jeito para matemática.
+
+Chen Mo olhou alguns tópicos fixados.
+
+Clube presencial de Thunderbolt Poker: XXXXXX
+
+Clube presencial de Thunderbolt Poker: XXXXXX
+
+Clube presencial de Thunderbolt Poker: XXXXXX
+
+***
+
+Em silêncio, Chen Mo clicou no botão de denúncia e apertou Ctrl+W mais uma vez.
+
+Que história era aquela?!
+
+Ele estava perdendo a esperança. Será que nenhum jogador usava métodos mais científicos para analisar um jogo?
+
+Pelo jeito, aquele pessoal se dava melhor com jogos em que bastava pagar para ficar mais forte.
+
+Chen Mo abriu o fórum de Plants vs Zombies. Dessa vez, teve uma surpresa agradável. A postagem mais votada apresentava um mod!
+
+Apresento o mod que fiz: melhorei os atributos das plantas e dos zumbis e acrescentei 8 plantas e 5 zumbis inéditos.
+
+O título era comprido demais, mas o tópico também era muito popular. Tinha sido publicado havia só duas semanas e já passava de cem páginas de respostas.
+
+Chen Mo ficou curioso. Abriu Plants vs Zombies e descobriu que o mod que acabara de ver era o mais popular do jogo.
+
+Ele o testou. As principais mudanças eram as plantas e os zumbis inéditos, mas o autor também havia mexido nos atributos para ajustar a dificuldade.
+
+O mod não era o mais criativo, mas era o mais completo e bem balanceado. Por isso tinha tantos fãs.
+
+— Esse cara é bom. Vou ver se consigo trazê-lo pra equipe.
+
+Mais uma vez, Chen Mo encontrou o número de telefone pelo Game Pass da Thunderbolt.
+
+— Alô?
+
+Era a voz de outro homem.
+
+Ué? Por que “outro”?
+
+Chen Mo disse:
+
+— Olá, aqui é Chen Mo, o criador de Plants vs Zombies.
+
+— Ah, oi — respondeu o homem.
+
+— Hum, você não duvida nem um pouco de que sou eu? Não tem medo de que eu esteja me passando pelo Chen Mo?
+
+O homem riu do outro lado da linha.
+
+— Quem ia se passar por você só pra ter um monte de fã furioso no encalço?
+
+Chen Mo ficou sem palavras.
+
+— Brincadeira. Sou Qian Kun, com Q. [1]
+
+— Ah, esse aí. Certo.
+
+— Aham... Na verdade, sou muito seu fã.
+
+Chen Mo ficou contente.
+
+— Hein? Sério?
+
+— Sim, desde antes de você fazer I Am MT.
+
+Chen Mo ficou sem palavras de novo.
+
+— Mas virei ainda mais fã depois que você fez I Am MT. Acho incrível conseguir usar simulações numéricas pra criar um jogo tão lucrativo!
+
+Chen Mo ficou sem palavras. Por que esse garoto dava tanta volta pra dizer as coisas?
+
+— Quer aprender?
+
+— É claro!
+
+— Então venha pra Capital Imperial — disse Chen Mo.
+
+[1] Nota do tradutor da fonte. O nome de Qian Kun tem a mesma pronúncia que outra palavra. Ele está esclarecendo qual é o seu nome.

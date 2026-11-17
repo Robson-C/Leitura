@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 17/11/2026: capítulos 1–92 integrados e revisados no leitor offline; nenhum TXT pendente nesta obra. Complementos editoriais autorizados dos capítulos 64 e 77 preservados. Próximo envio esperado é o 93.
+Estado em 17/11/2026: leitor offline até 100. Próximo envio 101. A revisão de publicação inclui o fechamento de frases cortadas quando o contexto permite.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -1044,3 +1044,87 @@ Pendênciasdafontepreservadas: cabine8000versusfaixageral50000–200000/dita int
 Leitor local1–92, último92 — A terceira força dos jogos de mesa. Nenhum TXT pendente nesta obra. Próximo93; próxima revisão93em diante. Backup prévio de16arquivos SHA256: backups/agd-publicar-revisar-086-092-20261117-064153/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; commit/push/implantação remota manuais.
 
 Validação86–92 concluída: reader.test.cjs aprovado;92TXT idênticos aoJS/títulos/notas/itálicos; catálogo92,navegação/limites/retomada/progressoisolado aprovados. Complementos64e77preservados e validados. Sintaxe5scripts/16backupsSHA256íntegros; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
+
+
+## Almighty Game Designer — capítulo 93 traduzido — 17/11/2026
+
+Anexo 98c09575-5891-4d85-a745-9c15ffc790df. Data editorial removida. Número sequencial e título descritivo provisório. O capítulo mostra o teste interno de Lifeline, com Chang Xiuya como primeira jogadora. Ela orienta o astronauta a seguir rumo ao local da queda da Varia e aguarda a resposta. Mantida a grafia Tyler da fonte, em itálico por incerteza sobre o nome. Também foi marcada a leitura de cargo pod como cápsula de carga.
+
+TXT UTF-8 conferido em capitulos/093 - A primeira mensagem de Lifeline.txt. Capítulo 93 aguarda publicação offline. Próximo envio 94. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-093-20261117T104826773Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 94 traduzido — 17/11/2026
+
+Anexo 1d966ef4-90b0-4879-91e1-764183764939. Numeração sequencial e título descritivo provisório. Data editorial removida e créditos da Exodus Tales preservados. A grafia Taylor aparece de forma consistente neste anexo e se refere ao mesmo astronauta chamado Tyler no 93. Rever a grafia do 93 na publicação do lote. A informação sobre radiação é apresentada como resultado da pesquisa da personagem na ficção.
+
+Chang Xiuya termina o primeiro dia de teste. Lifeline é lançado no dia seguinte, exclusivamente na plataforma da Thunderbolt, por um yuan. O capítulo termina antes da apuração das primeiras 24 horas.
+
+TXT UTF-8 conferido em capitulos/094 - À espera de Taylor.txt. Leitor local até 92. TXT 93–94 pendentes de publicação. Próximo envio 95. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-094-20261117T104950308Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 95 traduzido — 17/11/2026
+
+Anexo d1b47612-636c-42f5-974d-b6f709ce2821. Numeração sequencial e título descritivo provisório. Data editorial removida e créditos da Exodus Tales preservados. Taylor mantém a grafia do 94. Foram preservados o total de 39.874 cópias nas primeiras 24 horas e a comparação da fonte com Guardian of the Holy Spring, marcada em itálico porque o capítulo 70 informa 38.938 cópias para esse jogo no mesmo intervalo. Também ficou em itálico a classificação dos novos títulos como jogos de mesa, pois a passagem os descreve como cópias de I Am MT.
+
+TXT UTF-8 conferido em capitulos/095 - O sucesso de Lifeline e as cópias de I Am MT.txt. Leitor local até 92. TXT 93–95 aguardam publicação. Próximo envio 96. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-095-20261117T105117248Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 96 traduzido até o corte — 17/11/2026
+
+Anexo 9e1affbc-c832-4685-a98b-9bc9d735065b. Data editorial removida e título descritivo provisório. O capítulo retoma a reação às cópias de I Am MT e mostra Chen Mo testando Earth Online. Demon Slayer foi padronizado para Demon Slayers pelo capítulo 95 e pelo restante do anexo. Marcadas em itálico a frase corrompida sobre o visual, a descrição ambígua do custo de acesso e a cifra de bilhões, que diverge da proporção de dez vezes sobre quarenta milhões.
+
+O anexo termina em “VR games were still a”. O TXT tem um aviso de corte e a numeração registra a fonte como incompleta. Leitor até 92. TXT 93–96 pendentes. Próximo envio 97 ou continuação do 96.
+
+TXT UTF-8 conferido em capitulos/096 - Chen Mo experimenta Earth Online.txt. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-096-20261117T105235137Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 97 traduzido — 17/11/2026
+
+Anexo b359daac-ec0e-402d-86fb-eca576f7cb60. O texto retoma Earth Online em uma frase nova sobre as regras do jogo. A frase cortada do 96 segue pendente. Número sequencial, título descritivo provisório, data editorial removida e créditos da Exodus Tales preservados. Wuxiao foi padronizado para wuxia. A expressão sobre preencher um vazio na vida real ficou marcada em itálico devido à redação ambígua da fonte.
+
+TXT UTF-8 conferido em capitulos/097 - O futuro dos jogos de realidade virtual.txt. Leitor até 92. TXT 93–97 pendentes de publicação. Próximo envio 98 ou continuação do 96. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-097-20261117T105354605Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 98 traduzido — 17/11/2026
+
+Anexo 65bad2fd-96ec-4d42-80f6-66775c60278f. Numeração sequencial, título descritivo provisório, data editorial removida e créditos da Exodus Tales preservados. Chan Mo foi normalizado para Chen Mo. Mantidos Fates, Zhuo Yao, Qiu Jiang e os nomes dos jogos. A leitura de comprisable como disposição a fazer concessões ficou em itálico.
+
+Chen Mo visita a lan house para observar o mercado de PC e abre Legion Conquest. A versão de realidade virtual de Moon Lord’s Prophecy ainda está em desenvolvimento. TXT UTF-8 conferido em capitulos/098 - Uma visita à lan house Fates.txt. Leitor até 92. TXT 93–98 pendentes. O 96 segue cortado. Próximo envio 99 ou continuação do 96.
+
+Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-098-20261117T105517903Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 99 traduzido — 17/11/2026
+
+Anexo c5794a4c-cabf-4d81-a15e-9030d5111d7f. Continuação direta da abertura de Legion Conquest no capítulo 98. Título descritivo provisório. Data editorial removida. Mantidos Red Alert, Apocalypse, Prism e Legion Conquest. A resposta sobre aceitar o balanceamento aparece atribuída a Chen Mo na fonte e foi atribuída ao rapaz em itálico pela sequência do diálogo. Outras leituras incertas também foram marcadas, inclusive a menção a trinta pilotos.
+
+Chen Mo observa a campanha e uma partida ranqueada, identifica a popularidade dos RTS e percebe a ausência de MOBAs. O trecho termina sem revelar o próximo jogo. TXT UTF-8 conferido em capitulos/099 - A descoberta de Legion Conquest.txt. Leitor até 92. TXT 93–99 pendentes, com o 96 cortado. Próximo envio 100 ou continuação do 96.
+
+Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-099-20261117T105637534Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 100 traduzido — 17/11/2026
+
+Anexo 607940a3-7938-4b15-a63a-3d178b2988d8. Continuação da ida à lan house no 98–99. Título descritivo provisório e data editorial removida. Mantidos Peixinho Dourado, Thunderbolt Poker e Game Pass da Thunderbolt. A nota do tradutor sobre o nome de Qian Kun foi preservada.
+
+Chen Mo pede relatórios individuais sobre RTS em três dias. Encontra Qian Kun pelo mod de Plants vs Zombies, com oito plantas e cinco zumbis inéditos, e o convida para a Capital Imperial. A conversa ainda não confirma contratação.
+
+TXT UTF-8 conferido em capitulos/100 - Em busca de alguém para o balanceamento.txt. Leitor até 92. TXT 93–100 pendentes, com o 96 cortado na fonte. Próximo envio 101 ou continuação do 96. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-100-20261117T105800375Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Revisão e publicação offline 93–95 — 17/11/2026
+
+Integrados os capítulos 93–95. O nome do astronauta no 93 foi padronizado para Taylor, grafia usada nos capítulos 94–95. Os créditos da Exodus Tales e a comparação incerta de vendas do capítulo 95 foram preservados. A continuidade do teste de Lifeline, do lançamento por um yuan e das vendas nas primeiras 24 horas foi conferida.
+
+Os TXT 96–100 aguardam integração em ordem. O 96 termina em “VR games were still a”, e o 97 abre uma frase nova sobre as regras de Earth Online. O fechamento editorial da frase depende de autorização específica ou do envio da continuação. Os capítulos seguintes foram conferidos quanto à ordem, de Earth Online a Legion Conquest e ao convite a Qian Kun.
+
+A sintaxe de chapters.js, git diff --check e os testes automatizados passaram. O teste compara os 95 TXT publicados com o leitor e confere navegação e retomada em DOM simulado. A conferência visual no navegador ficou pendente. Backup local verificado por SHA-256 em backups/agd-publicar-revisar-093-095-20261117T110404011Z/. Para reverter a integração, restaurar os arquivos alterados da cópia, conciliando edições posteriores. Commit e push manuais.
+
+
+## Revisão e publicação offline 96–100 — 17/11/2026
+
+O usuário autorizou completar frases cortadas durante a revisão de publicação sempre que houver um fechamento coerente. O 96 terminava em “VR games were still a”. O fecho “*um nicho.*” segue a discussão sobre os custos e o público reduzido da realidade virtual. A tabela registra o corte e o complemento. O 97 começa uma frase nova sobre as regras de Earth Online.
+
+Integrados os cinco capítulos em sequência. A revisão conferiu a passagem de Earth Online à visita à lan house Fates, à análise de Legion Conquest e ao convite a Qian Kun. A sintaxe, git diff --check e os testes automatizados passaram. Os testes comparam os 100 TXT com o leitor e conferem navegação e retomada em DOM simulado. Conferência visual no navegador pendente. Próximo envio 101. Commit e push manuais.
+
+Backup verificado por SHA-256 em backups/agd-publicar-revisar-096-100-20261117T111054583Z/. Para reverter o lote, restaurar os arquivos alterados dessa cópia, conciliando edições posteriores.

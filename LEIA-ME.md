@@ -4,7 +4,7 @@ Abra `index.html` com dois cliques e escolha uma história no catálogo: **Clube
 
 Cada obra usa o mesmo leitor, com índice à esquerda, título ao centro e engrenagem à direita. O link **← Catálogo** fica no índice. Progresso e preferências são independentes por obra; o Clube conserva o salvamento anterior no mesmo `index.html`. Links antigos com `#capitulo-N` continuam funcionando. Mantenha o mesmo navegador, perfil e endereço para conservar o armazenamento local.
 
-Almighty Game Designer tem 80 capítulos consecutivos disponíveis no leitor offline, do 1 ao 80. Seus TXT, tabela de numeração, continuidade e conteúdo publicado ficam em `historias/almighty-game-designer/`. Os dados históricos do Clube permanecem na raiz para compatibilidade. `books.js` registra as obras e `catalog.js` controla catálogo e seleção. Novas obras podem usar o mesmo leitor, com ID, chave de salvamento e conteúdo próprios.
+Almighty Game Designer tem 100 capítulos consecutivos disponíveis no leitor offline, do 1 ao 100. Seus TXT, tabela de numeração, continuidade e conteúdo publicado ficam em `historias/almighty-game-designer/`. Os dados históricos do Clube permanecem na raiz para compatibilidade. `books.js` registra as obras e `catalog.js` controla catálogo e seleção. Novas obras podem usar o mesmo leitor, com ID, chave de salvamento e conteúdo próprios.
 
 O GitHub Pages foi preparado para incluir os arquivos novos; commit e push continuam manuais. Capítulos 801–803 do Clube continuam pendentes: esta mudança não publica traduções novas.
 
@@ -551,3 +551,21 @@ Pendênciasdafontepreservadas: cabine8000versusfaixageral50000–200000/dita int
 Leitor local1–92, último92 — A terceira força dos jogos de mesa. Nenhum TXT pendente nesta obra. Próximo93; próxima revisão93em diante. Backup prévio de16arquivos SHA256: backups/agd-publicar-revisar-086-092-20261117-064153/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; commit/push/implantação remota manuais.
 
 Validação86–92 concluída: reader.test.cjs aprovado;92TXT idênticos aoJS/títulos/notas/itálicos; catálogo92,navegação/limites/retomada/progressoisolado aprovados. Complementos64e77preservados e validados. Sintaxe5scripts/16backupsSHA256íntegros; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
+
+
+## Revisão e publicação offline 93–95 — 17/11/2026
+
+Integrados os capítulos 93–95. O nome do astronauta no 93 foi padronizado para Taylor, grafia usada nos capítulos 94–95. Os créditos da Exodus Tales e a comparação incerta de vendas do capítulo 95 foram preservados. A continuidade do teste de Lifeline, do lançamento por um yuan e das vendas nas primeiras 24 horas foi conferida.
+
+Os TXT 96–100 aguardam integração em ordem. O 96 termina em “VR games were still a”, e o 97 abre uma frase nova sobre as regras de Earth Online. O fechamento editorial da frase depende de autorização específica ou do envio da continuação. Os capítulos seguintes foram conferidos quanto à ordem, de Earth Online a Legion Conquest e ao convite a Qian Kun.
+
+A sintaxe de chapters.js, git diff --check e os testes automatizados passaram. O teste compara os 95 TXT publicados com o leitor e confere navegação e retomada em DOM simulado. A conferência visual no navegador ficou pendente. Backup local verificado por SHA-256 em backups/agd-publicar-revisar-093-095-20261117T110404011Z/. Para reverter a integração, restaurar os arquivos alterados da cópia, conciliando edições posteriores. Commit e push manuais.
+
+
+## Revisão e publicação offline 96–100 — 17/11/2026
+
+O usuário autorizou completar frases cortadas durante a revisão de publicação sempre que houver um fechamento coerente. O 96 terminava em “VR games were still a”. O fecho “*um nicho.*” segue a discussão sobre os custos e o público reduzido da realidade virtual. A tabela registra o corte e o complemento. O 97 começa uma frase nova sobre as regras de Earth Online.
+
+Integrados os cinco capítulos em sequência. A revisão conferiu a passagem de Earth Online à visita à lan house Fates, à análise de Legion Conquest e ao convite a Qian Kun. A sintaxe, git diff --check e os testes automatizados passaram. Os testes comparam os 100 TXT com o leitor e conferem navegação e retomada em DOM simulado. Conferência visual no navegador pendente. Próximo envio 101. Commit e push manuais.
+
+Backup verificado por SHA-256 em backups/agd-publicar-revisar-096-100-20261117T111054583Z/. Para reverter o lote, restaurar os arquivos alterados dessa cópia, conciliando edições posteriores.
