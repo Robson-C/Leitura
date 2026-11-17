@@ -171,3 +171,42 @@ O usuário autorizou completar frases cortadas durante a revisão de publicaçã
 Integrados os cinco capítulos em sequência. A revisão conferiu a passagem de Earth Online à visita à lan house Fates, à análise de Legion Conquest e ao convite a Qian Kun. A sintaxe, git diff --check e os testes automatizados passaram. Os testes comparam os 100 TXT com o leitor e conferem navegação e retomada em DOM simulado. Conferência visual no navegador pendente. Próximo envio 101. Commit e push manuais.
 
 Backup verificado por SHA-256 em backups/agd-publicar-revisar-096-100-20261117T111054583Z/. Para reverter o lote, restaurar os arquivos alterados dessa cópia, conciliando edições posteriores.
+
+
+## Correção dos prêmios do capítulo 90 — 17/11/2026
+
+O usuário definiu o valor da cabine em oitenta mil yuans. Corrigidas as duas ocorrências de oito mil no TXT e no leitor. As ocorrências de oitenta mil estão em itálico como ajuste editorial. O total semanal passa a 3 × (80.000 + 10.000 + 7.000) = 291.000 yuans, compatível com os quase trezentos mil da narrativa. A marca de incerteza desse total foi retirada.
+
+A revisão anterior havia registrado a divergência e mantido o número da fonte. O registro histórico continua disponível acima. Esta correção resolve a ordem dos prêmios e a compatibilidade com a faixa de cinquenta a duzentos mil yuans citada no capítulo.
+
+Backup local verificado por SHA-256 em backups/agd-correcao-premios-090-20261117T141013567Z/. Para reverter, restaurar seletivamente o TXT e o leitor dessa cópia e registrar a reversão. Validação automatizada será registrada após a execução.
+
+Validação da correção concluída. Testes do leitor aprovados, incluindo igualdade dos 100 TXT com o leitor, sintaxe aprovada e git diff --check aprovado. Conferido que somente o corpo do capítulo 90 mudou entre os capítulos publicados. Commit e push manuais.
+
+
+## Auditoria de coerência dos capítulos 90–100 — 17/11/2026
+
+Pedido do usuário para procurar e corrigir outros erros semelhantes ao valor dos prêmios. Foram lidos os onze capítulos, comparados os números e os acontecimentos, e consultados os anexos locais de 93–100 e os registros anteriores de 90–92. Os originais de 90–92 e o backup da publicação anterior em outra máquina não foram encontrados nesta máquina. Essa parte da conferência usa a tradução atual e os registros disponíveis.
+
+No 90, a capacidade de cinquenta a sessenta participantes passou a se referir a cada torneio e à quantidade de torneios, em itálico como interpretação contextual. O capítulo 87 já limita a mesa de pôquer a dois a nove participantes. O valor de oitenta mil yuans por cabine, definido pelo usuário, foi preservado.
+
+No 92, acrescentado cerca de ao orçamento mensal de um milhão. Três competições com prêmios de 80.000, 10.000 e 7.000 somam 291.000 por semana e 1.164.000 em quatro semanas. O texto apresenta uma estimativa arredondada.
+
+No 95, a comparação passou a pouco acima de Guardian of the Holy Spring. As 39.874 cópias de Lifeline superam as 38.938 de Guardian no capítulo 70 por 936. Os números foram preservados. Os oito jogos que copiam o sistema de I Am MT passaram de jogos de mesa a jogos de cartas. As duas correções estão em itálico.
+
+No 96, a estimativa de bilhões passou a cerca de quatrocentos milhões de dólares, em itálico, a partir da proporção explícita de dez vezes quarenta milhões. O custo de acesso à realidade virtual foi descrito como considerável, em itálico, seguindo os preços de cabines e jogos do mesmo trecho. O complemento editorial um nicho no encerramento foi preservado.
+
+No 99, trinta pilotos passou a trinta unidades aéreas, em itálico, seguindo a estratégia que o rapaz descreve antes do contra-ataque. No 100, Game Pass foi esclarecido como cadastro da conta de jogos da Thunderbolt, conforme a consulta de telefone narrada no 79.
+
+Dúvida preservada nos capítulos 91–92. O 91 diz mais de 1,5 milhão de jogadores no domingo e o 92 diz 2,2 milhões ao fim da primeira semana. A expressão mais de não fixa um teto, e as apurações podem se referir a momentos ou métricas diferentes, mas a fonte disponível não informa isso. Não foi atribuído um novo número ou uma métrica a qualquer passagem.
+
+Conferidos também o preço de um yuan e a receita de 39.874 cópias de Lifeline, os 9 milhões de usuários totais e 2,7 milhões de ativos diários do Tabletop, a diferença entre receita e lucro de I Am MT e os relatos da pesquisa de radiação feita pela personagem dentro de Lifeline. O lançamento de Lifeline segue o teste e antecede as apurações. A visita à lan house termina antes do convite a Qian Kun. Sem outras alterações nesses trechos.
+
+TXT e leitor sincronizados para os seis capítulos ajustados. Testes do leitor aprovados, incluindo igualdade dos 100 TXT, navegação e retomada simuladas. Sintaxe e git diff --check aprovados. Verificados os quinze backups SHA-256 e a preservação dos demais 94 corpos de capítulos em comparação com a versão anterior. Conferência visual no navegador pendente.
+
+Backup em backups/agd-auditoria-coerencia-090-100-20261117T141428648Z/. Para reverter esta auditoria, restaurar seletivamente os seis TXT e chapters.js dessa cópia, preservando as demais alterações do usuário. A correção anterior de oitenta mil já está incluída nesse backup. Commit e push manuais.
+
+
+## Esclarecimento das contagens de 91–92 — 17/11/2026
+
+Na revisão de coerência, considerar o período, a métrica e a escala de cada contagem. Variações plausíveis entre um dia, um fim de semana ou momentos de apuração podem ser aceitas. Destacar diferenças de escala que contrariem o contexto narrativo, avaliando o evento descrito. O usuário considerou compatíveis os 1,5 milhão no domingo e os 2,2 milhões ao fim da semana nos capítulos 91–92. Essa dúvida está encerrada. O exemplo de 150 mil durante a final foi apresentado como hipótese de uma discrepância relevante, sem criar um limite numérico obrigatório para outras situações. Registro anterior da dúvida superado por este esclarecimento. Backup dos registros em backups/agd-criterio-contagens-20261117T141832172Z/.

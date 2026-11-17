@@ -278,3 +278,8 @@ Comando publique: oitoTXT13–20 integrados integralmente em historias/almighty-
 ## Almighty Game Designer — revisão e publicação local21–30 — 15/11/2026
 
 Porcomandopublique, revisados dezTXT21–30comcontextoacumulado e integrados integralmente. Cincoajustes de clareza/padronização em22/25/27/28/30;1–20idênticos. Total30capítulos1–30, último30 — Potencial para virar febre! SemTXTpendente nestaobra;próximo31/fonte31/próximoloterevisão31em diante. Notas/itálicos/valores e dúvidasfonte preservados, semreordenação/invenção. Detalhes historias/almighty-game-designer/REVISAO-CONTEXTUAL.md. BackupSHA256de19arquivos: backups/agd-publicar-revisar-021-030-20261115-161738/,ALTERACOES.diff. Reversão restaura docs/JS/testes/TXTanteriores dessebackup e registraoperação; não tocaClube. Aplicação/progresso/preferências intactos;Clube522/279–800comTXT801–803pendentes. Commit/push/deploy nãoexecutados.
+
+
+## Critério de coerência das contagens — 17/11/2026
+
+Na revisão de coerência, considerar o período, a métrica e a escala de cada contagem. Variações plausíveis entre um dia, um fim de semana ou momentos de apuração podem ser aceitas. Destacar diferenças de escala que contrariem o contexto narrativo, avaliando o evento descrito. O usuário considerou compatíveis os 1,5 milhão no domingo e os 2,2 milhões ao fim da semana nos capítulos 91–92. Essa dúvida está encerrada. O exemplo de 150 mil durante a final foi apresentado como hipótese de uma discrepância relevante, sem criar um limite numérico obrigatório para outras situações.
