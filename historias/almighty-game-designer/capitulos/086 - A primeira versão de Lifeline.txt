@@ -1,0 +1,97 @@
+Capítulo 86 — A primeira versão de Lifeline
+
+Muitos designers achavam os jogos de mesa simples demais para precisar de uma apresentação aos iniciantes. Afinal, a maioria já teria jogado na vida real.
+
+Mas aquela visão estava completamente errada.
+
+Havia muitas variantes locais. No mahjong, por exemplo, as regras para pongs, gongs ou para vencer podiam mudar de uma região para outra. Se alguém acostumado à modalidade internacional quisesse experimentar Blood Mahjong, teria muita dificuldade para descobrir tudo sozinho, sem uma introdução.
+
+Também havia pessoas que raramente tinham a oportunidade de jogar, mal conseguiam se sair bem até no Dou Dizhu e, ainda assim, queriam melhorar. Não custaria muito participar de vez em quando. Quando jogassem, esperariam receber algumas dicas para iniciantes.
+
+O Tencent Tabletop de sua vida anterior fazia aquilo muito bem. Bastava conhecer algumas regras para começar. As orientações permitiam continuar jogando e receber recompensas ao concluir missões.
+
+Chen Mo já conseguira recriar um jogo de cartas como I Am MT. Comparados àquilo, esses estímulos numéricos eram brincadeira de criança.
+
+O segundo ponto era o modo de torneio.
+
+Na verdade, fora pensado principalmente para Texas hold'em, muito adequado àquele formato. Havia até quem só participasse de torneios.
+
+Os jogadores pagariam uma inscrição e receberiam a mesma quantidade inicial de fichas. Seriam distribuídos entre várias mesas e eliminados quando suas fichas acabassem. O vencedor e os demais finalistas receberiam parte do dinheiro arrecadado com as inscrições.
+
+Aquele formato lembrava jogos de sobrevivência, pois exigia regularidade. Sem ela, a participação terminaria. Afinal, o objetivo era chegar às colocações premiadas. Por outro lado, também era preciso aproveitar as oportunidades para aumentar as próprias fichas e tirar as dos adversários.
+
+Jogadas irracionais faziam muita gente perder grandes quantidades de fichas e dificultavam o controle da partida. Num torneio, porém, a perda se limitava à inscrição. Quem chegasse à mesa final teria a chance de multiplicar o valor por mais de dez.
+
+Por isso, muitos preferiam os torneios. Mesmo que, em teoria, pudessem perder mais dinheiro — pagando várias inscrições sem nunca chegar à premiação —, a sensação de fracasso era relativamente menor.
+
+Em sua vida anterior, Dou Dizhu e mahjong também tinham torneios semelhantes, mas não se comparavam à popularidade e à difusão de Texas hold'em.
+
+Como aquela modalidade não existia no mundo paralelo, os torneios de jogos de mesa também estavam atrasados. Chen Mo acabara de concluir o modo e pretendia usá-lo como um dos diferenciais de Thunderbolt Tabletop em relação às outras plataformas.
+
+A plataforma Thunderbolt agora reunia cinco jogos: FlappyBird, Plants vs Zombies, I Am MT, Lifeline e Thunderbolt Tabletop, que incluía Dou Dizhu, mahjong e Thunderbolt Poker.
+
+A maioria era para celular. Plants vs Zombies e Thunderbolt Tabletop tinham versões tanto para computador quanto para dispositivos móveis.
+
+Chen Mo pretendia priorizar a plataforma no PC, realizando promoções regularmente e permitindo acompanhar a atividade dos amigos e suas conquistas nos jogos.
+
+É claro que não precisava concluir tudo de uma vez. As funções poderiam ser acrescentadas aos poucos. O aplicativo para computador tinha cerca de dez megabytes. Com mais recursos, talvez ultrapassasse cem, mas, para não irritar os fãs, ele decidira mantê-lo pequeno naquela etapa.
+
+No celular, seria ainda menor e funcionaria apenas como uma loja de aplicativos. Queria ficar abaixo de cinco megabytes e nunca ultrapassar quinze, mesmo com futuras funcionalidades.
+
+Na segunda-feira, Zheng Hongxi começou oficialmente a trabalhar na empresa.
+
+Por enquanto, Chen Mo o deixou usar os computadores da loja de experiências. Pensava em mudar para um espaço maior quando ganhasse mais dinheiro.
+
+É claro que ainda era cedo para considerar aquilo. Embora tivesse os recursos, não queria enfrentar toda a trabalheira.
+
+Su Jinyu já havia concluído boa parte da estrutura de Lifeline. Por ser uma ficção interativa, as exigências eram muito simples. Programar caixas de diálogo não levaria tanto tempo.
+
+Chen Mo disse a Zheng Hongxi:
+
+— Isto é uma ficção interativa. O atrativo principal é a história. Preciso que desenvolva a ambientação de acordo com estas especificações. Planeje um pouco e dê mais riqueza à trama.
+
+Zheng Hongxi ficou surpreso ao examinar o esboço.
+
+— É só isso? O jogo inteiro é apresentado basicamente por meio de uma conversa?
+
+Chen Mo assentiu.
+
+— Sim. A história será o único motivo para as pessoas comprarem.
+
+— É bastante pressão. Tudo bem assumir tanta responsabilidade logo no primeiro dia? — perguntou Zheng Hongxi.
+
+— Nem é uma tarefa tão importante. No futuro, talvez precise que trabalhe no Universo de Azeroth e até escreva um romance ambientado nele.
+
+— Vou fazer o possível — murmurou Zheng Hongxi.
+
+Chen Mo deu um tapinha em seu ombro.
+
+— Tudo bem, não se preocupe! Se fizer um trabalho ruim, terá outra chance de refazer.
+
+— Isso não ajuda em nada! — reclamou Su Jinyu.
+
+Depois de deixar Lifeline com os dois, Chen Mo voltou ao escritório para trabalhar nos jogos de mesa.
+
+Três dias depois, Zheng Hongxi entregou a primeira versão de Lifeline.
+
+O essencial daquele esboço era estabelecer a estrutura, incluindo os diferentes caminhos e finais. Em cada etapa, haveria uma escolha capaz de levar a desfechos distintos.
+
+Tudo estava organizado num fluxograma. Cada etapa do fluxograma continha uma ideia breve e geral da cena.
+
+Chen Mo examinou rapidamente o material. Havia mais de setenta cenas e quatro finais.
+
+— Sim, nada mal — disse. — Mas vai precisar refazer.
+
+Zheng Hongxi ficou sem palavras.
+
+— Primeiro, a história precisa de uma progressão. A linha do tempo está confusa. O tempo dentro do jogo deve acompanhar o tempo real. Se a história pede que o jogador espere oito horas, são oito horas mesmo. Isso vai aproximá-lo da experiência.
+
+— E é evidente que você não prestou atenção nisso enquanto escrevia. Não considerou o efeito sobre o ritmo da narrativa.
+
+— Segundo, a história mantém praticamente a mesma intensidade do começo ao fim, quando deveria crescer continuamente. Principalmente na tentativa de fuga, que ficou muito sem graça. Talvez possa acrescentar algo mais surpreendente, como alienígenas capazes de mudar de forma.
+
+— E tem mais uma coisa: o conteúdo ainda não é rico o bastante. Precisa dobrar a quantidade de escolhas, passando de cento e vinte. Também deve aumentar o número de finais. Noventa por cento deles precisam ser fracassos, obrigando o jogador a agir com mais cuidado. Para alcançar o melhor desfecho, terá que acertar todas as escolhas.
+
+Ouvindo com atenção, Zheng Hongxi assentiu.
+
+— Sim, entendi. Vou fazer algumas alterações.

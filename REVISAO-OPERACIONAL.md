@@ -5562,3 +5562,103 @@ Pendênciasdafontepreservadas: números23milhõesreceita/12,8recebido/comissão2
 Leitor local1–85, último85 — Texas hold'em e Lifeline. Nenhum TXT pendente nesta obra. Próximo86; próxima revisão86em diante. Backup prévio de14arquivos SHA256: backups/agd-publicar-revisar-081-085-20261117-062925/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; commit/push/implantação remota manuais.
 
 Validação81–85 concluída: reader.test.cjs aprovado;85TXT idênticos aoJS/títulos/notas/itálicos; catálogo85,navegação/limites/retomada/progressoisolado aprovados. Complementos64e77preservados e validados. Sintaxe5scripts/14backupsSHA256íntegros; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
+
+
+## Almighty Game Designer — capítulo86 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência86/títulodescritivoPROVISÓRIO A primeira versão de Lifeline. Continua85: importância guiasiniciantes/variantesmahjong e modo torneioTexas(inscrição,fichasiguais,eliminação,premiação). Explicaçõesfinanceiras/táticasdo narradorpreservadassemvalidarcomoaconselhamento. Numericalsimulation→estímulosnuméricosconforme58. Pongs/gongs grafiafontepreservada seminventarregras. Chenmodo torneiojáconcluído; plataformareúne5títulos(contaThunderboltTabletopcomo1embora3jogosinternos); não inferirpublicaçãocomercialLifelinepoisrestanteestáemprodução. PC~10MB/metafunções>100MBpossível, celular<5MB/máximofuturo15MB; metasdistintas.
+
+ZhengentraoficialmenteSEGUNDA, provisóriousacomputadoresloja, mudançaespaçofuturaplanejada. SuestruturaLifelinepronta, Zhengescreve, após3diasrascunho>70cenas/4finaisfluxograma. Chenped erefazer: temporeal=8hseespera8h; tensão crescente/fuga/alienígenasmudamforma; dobrar escolhas/passarde120/maisfinais90%fracassos. Fonte70cenasvs120escolhasnãoénecessariamentemesmamétrica, nãoforçar140nemsuporcontagemexata. Próximaversãoaindanãopronta. FuturoromanceAzerothpossibilidade, nãoconfirmação.
+
+Tabela/continuidade/handoff atualizados; TXT86pendente, leitor1–85 preservado; próximo87. Próximo publique revisa86em diante. BackupSHA256: backups/agd-capitulo-086-20261117-063144/. Clube/JS não alterados; semcommit/push.
+
+Validação86: UTF-8,cabeçalho/final, sequência1–86, integralidade/contexto/nomes/5títulos/MB/segunda/3dias/70cenas4finais/8h/120escolhas90%/dataremovida conferidos;4backupsSHA256íntegros; leitor85preservado.
+
+
+## Almighty Game Designer — capítulo87 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência87/títulodescritivoPROVISÓRIO O primeiro torneio de Thunderbolt Poker. ChenensinaTexasbaralhofísico/salareuniões8pessoas/Jiadistribui7jogam, regra2–9oumaislimitedamesa. Fichascada500+3×100+6×25+10×5=1000; vencedorlevatudo. Promessapresenteaté5000yuans, depoisfonterefere5000emprêmios, mantido sem converteremdinheiroobrigatoriamente. DealerposiçãomarcadabonecoZhengtiraás/Wenrei versusJiaocupafunçãodistribuidor, distinçãotraduzidaparaevitarcontradição. FraseJia I'm just from looking estágramaticalmenteincompleta, mantémSódeolhar...sem inventar reação. Após30min2rodadasChensobe; Zhengganhaprimeirotorneio/troféuinterno, encontroscontinuam2semanas.
+
+Alegaçõeslegais/apostas/jogosazarno mundoficcionalpreservadasfalas/narrador, nãoaconselhamentojurídicoexterno. SemavisoextranoTXTnemchecagemreal. Chenquerretirarapostasedivulgarcompetição; premiaçãoéparteintriga, nãocorrigircontradiçãoporsuposição. Lifelinerevisadomúltiplasvezes/ritmoaproximadooriginal;2projetos+arteprontosem1mês, aindapróximaetapaajustes, semlançamentoanunciado.
+
+Rumores3–4empresasimitamIAmMT/prazoprodução2–4meses, previsãonovosmercados/semameaçaimediata, SoulHuntersnívelinovaçãorequer~1ano segundoChen. Nãoafirmarcompetidoresjálançadosnemnomearoutrasempresas. ChanMo planeja usarfolgaparaoutrosjogos.
+
+Tabela/continuidade/handoff atualizados; TXT86–87pendentes, leitor1–85 preservado; próximo88. Próximo publique revisa86em diante. BackupSHA256: backups/agd-capitulo-087-20261117-063324/. Clube/JS não alterados; semcommit/push.
+
+Validação87: UTF-8,cabeçalho/final, sequência1–87, integralidade/contexto/nomes/fichas1000/8pessoas/5000prêmio/2semanas/1mês/rumores3–4/prazo2–4meses/dataremovida conferidos;4backupsSHA256íntegros; leitor85preservado.
+
+
+## Almighty Game Designer — capítulo88 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência88/títulodescritivoPROVISÓRIO A avaliação de Wu Zhao. TabletopprontoPC/mobile3módulosinstalaçãoopcional, loginplataformaobrigatórioPVZIAmMT/compensarunas. XuXiaojuncontatoigual78publicidade, ofereceLinparaaprovarespaçohomeiníciopróximasemana; Linaceitacumprirpromessa, aindanãodivulgou. Testaapós1hpor10min,chamaWuZhao/chega30min. Wu30e poucos/designclasseAresponsávelEmperorDynastyTabletop. Não confundirLinChaoxu/LinMao/nemWucomQiu.
+
+Aparelhoplataformaexibe6entradasFlappyPVZIAmMT3mesa,3primeirosacinzentadosbaixa/3mesainstalados; Lifelineaindanãoexibidonesseaparelho apesar5produtos86, não inventarremoção/anúncioextra. WuDouDizhu2mãos/mahjong/pôquer5min, apenasbots,nãoentendepotencialsocialTexas. HappyBeans→FeijõesdaAlegria(moedaficcional,traduçãodescritiva), reposiçãoaofaliraté3vezesdia+missões, lojacomemojis/animações/chat/VIP, tutelaobrigatóriopareceexcessivaparaele.
+
+ConclusãoWunãoameaça: públicosnovosnãofiéisvsmarcafiel/estoquemoedapresente, redegrandebarreira. PerspectivadeWu/opinião,não conclusãoobjetivanarrador. JogoTabletopnovoemteste/semoutrosjogadores, semestatísticaslançamentoinventadas. Five-cardStud/GoldenFlower/BloodMahjongpreservadosnomesdafonte.
+
+Tabela/continuidade/handoff atualizados; TXT86–88pendentes, leitor1–85 preservado; próximo89. Próximo publique revisa86em diante. BackupSHA256: backups/agd-capitulo-088-20261117-063455/. Clube/JS não alterados; semcommit/push.
+
+Validação88: UTF-8,cabeçalho/final, sequência1–88, integralidade/contexto/nomes/6entradas/3jogos/horários/WuclasseA/feijões/dataremovida conferidos;4backupsSHA256íntegros; leitor85preservado.
+
+
+## Almighty Game Designer — capítulo89 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência89/títulodescritivoPROVISÓRIO Jogadores em vez de dinheiro. Segue88Lin/Wu: Texasmodonovoavaliarpotencial/pareceGoldenFlowerFivecardStud,informaçãopúblicaoculta; copyrightsemriscoéfaladoWunomundoficcional,nãoparecerjurídicoexterno. Linrevelaespaçohom e1mêsaposta, Wuestimaimpactolimitado, ordenaacompanhar. LinreconheceChenescolhepúblicoemvezdinheiro/preparaplataforma; receitaIAmMTpotencialdobrar/~50milhões/lucrolíquido+10milhõeséprojeção,nãoresultado.
+
+Últimaparteexplicabaixamotivaçãoarecargamodamesa/feijõeseresumemétodossombrioscomcâmbioexterior/salasprivadasdaVIDAANTERIOR, não planoChen; eleDECIDEguardareesperanuncasurgirestemeiomundoparalelo. Percentual99%/valores/léiadaintrigamantidoscomoafirmaçõesdafonte, nãoverificadosouendossados. Não removerconteúdoporsuposiçãoderisco,nemacrescentarprocedimentostécnicos. HappyBeans→FeijõesdaAlegria/feijõesconforme88. EmperorDynastygamblingplatform→plataformajogos conformeempresa/contexto, nãorenomearcomocassino porlapsoisoladoinglês. Golden no início→GoldenFlower porrepetiçãoimediataparágrafoseguinte. Sempassagemtempoadicional/lançamentonarrado.
+
+Tabela/continuidade/handoff atualizados; TXT86–89pendentes, leitor1–85 preservado; próximo90. Próximo publique revisa86em diante. BackupSHA256: backups/agd-capitulo-089-20261117-063619/. Clube/JS não alterados; semcommit/push.
+
+Validação89: UTF-8,cabeçalho/final, sequência1–89, integralidade/contexto/nomes/1mêsespaço/projeção50milhões/+10milhões/99%/dataremovida conferidos;4backupsSHA256íntegros; leitor85preservado.
+
+
+## Almighty Game Designer — capítulo90 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência90/títulodescritivoPROVISÓRIO Cabines de realidade virtual como prêmio. LANÇAMENTOCONFIRMADOTabletoplojaoficial/Emperor, bannerDestaquesdoMêsconforme51+Weibo/Thunderbolt. >200mildownloadsdia1,80–90%curiososporprêmios.3competições(PokerDouDizhuMahjong), segunda–sábado10–22cada2h, gratuitos10/12/14/16, pagos18/20até30minapósinício/taxalancesFeijões.60/30/10%prêmios; pontosclassificaçãodistintosmoedafeijões, top50semanalvai finaldomingo.
+
+Fonteinconsistente: cabineR(VRconformecontexto)8000yuansvsfaixacabines50000–200000/declaramédia, total3×(8000+10000+7000)=75000, masfonteafirma~300000semanais. Preservados8mil/10mil/7mil/300mil/faixa50a200mil; primeiram enção8mil+total300milmarcadositálico,nãocorrigirpara80milporinferência. Mesa50–60pessoascontrastaTexas2–9citado87; nãoinventarmultimesasporgrupo, mantidocomofonte/pendência. Horários10–22masúltimoinício20preservado,nãoinventar22ouinterpretarfechamentoexplícito.
+
+Tutoriaissãopuláveisconformecomentáriojogador90, Wu88diziaobrigatórios; pode serperspectiva/alteraçãoimplícita, nãoreescrever88. Fraseimpossívelmanipularcompetiçãoéalegaçãonarrador, nãoverificaçãoexterna. Top50final/table termoapostaaquitratadocomofinalsemforçartodosmesamesa. Objetivoatr airpúblicoTexasporcompetiçãoaindatodoiniciante. Lifelinesemnovoestadopúblico, nãodeclararlançamentojunto.
+
+Tabela/continuidade/handoff atualizados; TXT86–90pendentes, leitor1–85 preservado; próximo91. Próximo publique revisa86em diante. BackupSHA256: backups/agd-capitulo-090-20261117-063747/. Clube/JS não alterados; semcommit/push.
+
+Validação90: UTF-8,cabeçalho/final, sequência1–90, integralidade/contexto/nomes/horários/pontosfeijões/50finalistas/60–30–10%/valoresfonte/200mildownloads/itálico/dataremovida conferidos;4backupsSHA256íntegros; leitor85preservado.
+
+
+## Almighty Game Designer — capítulo91 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência91/títulodescritivoPROVISÓRIO A reação da Emperor Dynasty. WuZhaopanicaquedascentenasmilusuáriosEmperordia1; Lincobraestimativaerrada. Instaladordemoanteriornãorevelaprêmios. Lindiz10xprêmios/cabines, propõesorteioatétempo/partidas; Wuprevê1em100mil/AFK/repetição, contrapõe3cabinessemanaiscompetição. Torneio~30%jogo/desenvolvimento2semanasestimado, Linexige1semana/extraestimulantes(falaficcionalpreservada). Jáordenatrabalho, sorteioscomeçam1diaapósTabletop, númerousuáriosestabilizavolta masmaiorianãoseriamentejogando.
+
+ThunderboltPokeratr aífãsestratégicos/outrosrejeitamrestrição/alternamDouMahjong. Afirmaçãovitóriasgarantidasédo narradorconformefonte, nãoaconselhamentojogosapostas.7comentárioscomdoadorníveldivino/brincadeiraperdedor/viralatacaridosopreservados; pontosrankingdistintosfeijõesconforme90. DOMINGO>1,5milhãojogadores/maiorianãopaga, crescimentomaiorIAmMT/receitamenor. Streamersmigram/decenasmilviewsstream, semduplicarcomnúmerodeusuários. Ganchoampliaçãoaudiência, nãoinventaresultadofinaltorneiodomingo.
+
+Tabela/continuidade/handoff atualizados; TXT86–91pendentes, leitor1–85 preservado; próximo92. Próximo publique revisa86em diante. BackupSHA256: backups/agd-capitulo-091-20261117-063906/. Clube/JS não alterados; semcommit/push.
+
+Validação91: UTF-8,cabeçalho/final, sequência1–91, integralidade/contexto/nomes/perdascentenasmil/prazos1e2semanas/30%/1,5milhãodomingo/7comentários/dataremovida conferidos;4backupsSHA256íntegros; leitor85preservado.
+
+
+## Almighty Game Designer — capítulo92 traduzido — 17/11/2026
+
+AnexoSEMnumeração/título/dataOct20,2026removida, sequência92/títulodescritivoPROVISÓRIO A terceira força dos jogos de mesa. Ding XingpresidenteFantasyGamingPlatformperdedezenasmilativos/dia,vítimacolateralChenEmperor, ordenacabines/torneiohorasextra; DingXinlapso→DingXing/Chem→Chen. ~4coleçõesdistribuemprêmios; fãsloginsmúltiplossorteios, Thunderbolt retémporjogopontos.
+
+Domingofinais3jogos/1horapartidas/top3cada, ChentransmiteWeibo/divulgavencedores/contataparaenvio; nãoinventarnomesvencedores.10comentáriosinclui+1preservados. Fimprimeirasemana2,2milhõesusuáriosvs1,5milhãopréviadoming o91sãoapuraçõesmomentosdistintos, nãocorrigirdados. Estimativa8–10milhõesfutura/LoL1,4milhãoS1→11,5S2/DotaOverwatch/Tencent200milhõescomparaçãodafonte,nãoverificaçãohistóricaexterna. Metadeinativos provável/opinião,nãonúmerocontabilizado.
+
+ChenreinvesteLUCROnacomunidade+IAmMTsubsídio;1milhãoprêmios/mês/1–2milhõescustomensalprevisto,nãoreceitaconfirmada. Segunda semanaEmperor+Fant asylançamtorneiosrecuperamparte, ThunderboltmelhorUX/primeirotorneioseenraíza3ªforça. Frasefonte final third most influential game vertida terceiraforçacontextual,nãoafirmamaiorplataformageraltodasindústrias. Lifelinesemmençãonovalançamento/semalterarestado.
+
+Tabela/continuidade/handoff atualizados; TXT86–92pendentes, leitor1–85 preservado; próximo93. Próximo publique revisa86em diante. BackupSHA256: backups/agd-capitulo-092-20261117-064034/. Clube/JS não alterados; semcommit/push.
+
+Validação92: UTF-8,cabeçalho/final, sequência1–92, integralidade/contexto/nomes/top3de3/1h/2,2milhões/metas8–10milhões/1milhãoprêmios/semana2/10comentários/dataremovida conferidos;4backupsSHA256íntegros; leitor85preservado.
+
+
+## Revisão e publicação local 86–92 — 17/11/2026
+
+Sete capítulos revisados com as fontes e o contexto acumulado: contratação efetiva e revisãoLifeline86, demonstraçãoPoker/projetosprontos87, análiseEmperor88–89, lançamento90, reação91 e finais/expansão92. Sequência coerente. Lifeline passa por versões/ritmo/tempo real antes de se concluir; não há anúncio explícito de seu lançamento comercial neste lote. Tabletoplançamento90confirmado, finaisdomingo92, concorrenteslançamtorneiossemana2. Públicos1,5milhãodomingo91e2,2milhõesfimsemana92preservadoscomoapuraçõesdistintas, seminventardata.
+
+Dois ajustes:86 esclarece que cada ponto é uma etapa do fluxograma;92 recupera o alcance absoluto de todos os jogadores na ambição expressa da fonte. Sem cortes, mudanças de números, títulos, parágrafos ou encerramentos.1–85 idênticos à versão anterior, incluindo complementos64e77autorizados. Títulos86–92descritivosprovisórios/fontessemcabeçalho; datas editoriaisremovidas.
+
+Glossário e distinções: Feijões da Alegria é moeda de jogo; pontos de classificação90–92definemfinalistas. Dealer87 éposiçãorotativa/boneco, Jia distribui cartas. Cinco produtos86 versus seis entradas noaparelho88 (trêsmesaseparados/Lifelineausente) mantidossemexplicarremoçãonãonarrada. ProjeçõesLin89doublereceita/50milhões/+10lucro não são resultados. A opiniãoWu subestima potencial humano por testar apenas bots, e édesmentidapela reação91; tradução nãoinverteperspectivas.
+
+Pendênciasdafontepreservadas: cabine8000versusfaixageral50000–200000/dita intermediária;3×(8000+10000+7000)=75000masfontediz~300000semanais90, marcaçõesitálicasconservadas. Mesa50–60pessoas90contrasta2–9regras87; mantido seminventargrupossubmesas. Horários10–22comúltimoinício20nãoforamalterados. Wu88achaobrigatóriotutorial, jogador90dizpulável: perspectivas/possívelmudançanãonarrada, não inventarpatch. Declaraçõesjurídicas/ganhos/apostas e opiniões categóricas de popularidade são da ficção, não verificações externas nem aconselhamento acrescentado.
+
+Leitor local1–92, último92 — A terceira força dos jogos de mesa. Nenhum TXT pendente nesta obra. Próximo93; próxima revisão93em diante. Backup prévio de16arquivos SHA256: backups/agd-publicar-revisar-086-092-20261117-064153/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; commit/push/implantação remota manuais.
+
+Validação86–92 concluída: reader.test.cjs aprovado;92TXT idênticos aoJS/títulos/notas/itálicos; catálogo92,navegação/limites/retomada/progressoisolado aprovados. Complementos64e77preservados e validados. Sintaxe5scripts/16backupsSHA256íntegros; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.

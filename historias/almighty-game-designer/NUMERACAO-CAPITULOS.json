@@ -515,7 +515,49 @@
       "chapter": 85,
       "title": "Texas hold'em e Lifeline",
       "file": "capitulos/085 - Texas hold'em e Lifeline.txt"
+    },
+    {
+      "source": 86,
+      "chapter": 86,
+      "title": "A primeira versão de Lifeline",
+      "file": "capitulos/086 - A primeira versão de Lifeline.txt"
+    },
+    {
+      "source": 87,
+      "chapter": 87,
+      "title": "O primeiro torneio de Thunderbolt Poker",
+      "file": "capitulos/087 - O primeiro torneio de Thunderbolt Poker.txt"
+    },
+    {
+      "source": 88,
+      "chapter": 88,
+      "title": "A avaliação de Wu Zhao",
+      "file": "capitulos/088 - A avaliação de Wu Zhao.txt"
+    },
+    {
+      "source": 89,
+      "chapter": 89,
+      "title": "Jogadores em vez de dinheiro",
+      "file": "capitulos/089 - Jogadores em vez de dinheiro.txt"
+    },
+    {
+      "source": 90,
+      "chapter": 90,
+      "title": "Cabines de realidade virtual como prêmio",
+      "file": "capitulos/090 - Cabines de realidade virtual como prêmio.txt"
+    },
+    {
+      "source": 91,
+      "chapter": 91,
+      "title": "A reação da Emperor Dynasty",
+      "file": "capitulos/091 - A reação da Emperor Dynasty.txt"
+    },
+    {
+      "source": 92,
+      "chapter": 92,
+      "title": "A terceira força dos jogos de mesa",
+      "file": "capitulos/092 - A terceira força dos jogos de mesa.txt"
     }
   ],
-  "notes": "Leitor local1–85; lote81–85revisado e integrado. Complementos editoriais autorizados64e77preservados. Anexos81–85semnúmero/título: numeração por sequência e títulos descritivos provisórios. Datas editoriais removidas. Nenhum TXT pendente nesta obra; próximo86; próxima revisão86em diante. Commit/push manuais."
+  "notes": "Leitor local1–92; lote86–92revisado e integrado. Complementos editoriais autorizados64e77preservados. Anexos86–92semnúmero/título: numeração por sequência e títulos descritivos provisórios. Datas editoriais removidas. Nenhum TXT pendente nesta obra; próximo93; próxima revisão93em diante. Commit/push manuais."
 }

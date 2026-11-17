@@ -138,3 +138,18 @@ Pendênciasdafontepreservadas: números23milhõesreceita/12,8recebido/comissão2
 Leitor local1–85, último85 — Texas hold'em e Lifeline. Nenhum TXT pendente nesta obra. Próximo86; próxima revisão86em diante. Backup prévio de14arquivos SHA256: backups/agd-publicar-revisar-081-085-20261117-062925/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; commit/push/implantação remota manuais.
 
 Validação81–85 concluída: reader.test.cjs aprovado;85TXT idênticos aoJS/títulos/notas/itálicos; catálogo85,navegação/limites/retomada/progressoisolado aprovados. Complementos64e77preservados e validados. Sintaxe5scripts/14backupsSHA256íntegros; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
+
+
+## Revisão e publicação local 86–92 — 17/11/2026
+
+Sete capítulos revisados com as fontes e o contexto acumulado: contratação efetiva e revisãoLifeline86, demonstraçãoPoker/projetosprontos87, análiseEmperor88–89, lançamento90, reação91 e finais/expansão92. Sequência coerente. Lifeline passa por versões/ritmo/tempo real antes de se concluir; não há anúncio explícito de seu lançamento comercial neste lote. Tabletoplançamento90confirmado, finaisdomingo92, concorrenteslançamtorneiossemana2. Públicos1,5milhãodomingo91e2,2milhõesfimsemana92preservadoscomoapuraçõesdistintas, seminventardata.
+
+Dois ajustes:86 esclarece que cada ponto é uma etapa do fluxograma;92 recupera o alcance absoluto de todos os jogadores na ambição expressa da fonte. Sem cortes, mudanças de números, títulos, parágrafos ou encerramentos.1–85 idênticos à versão anterior, incluindo complementos64e77autorizados. Títulos86–92descritivosprovisórios/fontessemcabeçalho; datas editoriaisremovidas.
+
+Glossário e distinções: Feijões da Alegria é moeda de jogo; pontos de classificação90–92definemfinalistas. Dealer87 éposiçãorotativa/boneco, Jia distribui cartas. Cinco produtos86 versus seis entradas noaparelho88 (trêsmesaseparados/Lifelineausente) mantidossemexplicarremoçãonãonarrada. ProjeçõesLin89doublereceita/50milhões/+10lucro não são resultados. A opiniãoWu subestima potencial humano por testar apenas bots, e édesmentidapela reação91; tradução nãoinverteperspectivas.
+
+Pendênciasdafontepreservadas: cabine8000versusfaixageral50000–200000/dita intermediária;3×(8000+10000+7000)=75000masfontediz~300000semanais90, marcaçõesitálicasconservadas. Mesa50–60pessoas90contrasta2–9regras87; mantido seminventargrupossubmesas. Horários10–22comúltimoinício20nãoforamalterados. Wu88achaobrigatóriotutorial, jogador90dizpulável: perspectivas/possívelmudançanãonarrada, não inventarpatch. Declaraçõesjurídicas/ganhos/apostas e opiniões categóricas de popularidade são da ficção, não verificações externas nem aconselhamento acrescentado.
+
+Leitor local1–92, último92 — A terceira força dos jogos de mesa. Nenhum TXT pendente nesta obra. Próximo93; próxima revisão93em diante. Backup prévio de16arquivos SHA256: backups/agd-publicar-revisar-086-092-20261117-064153/. ALTERACOES.diff registra revisão/integração. Aplicação e conteúdo do Clube preservados; commit/push/implantação remota manuais.
+
+Validação86–92 concluída: reader.test.cjs aprovado;92TXT idênticos aoJS/títulos/notas/itálicos; catálogo92,navegação/limites/retomada/progressoisolado aprovados. Complementos64e77preservados e validados. Sintaxe5scripts/16backupsSHA256íntegros; aplicação/Clube preservados. Sem verificação visual em navegador nesta publicação textual; commit/push não executados.
