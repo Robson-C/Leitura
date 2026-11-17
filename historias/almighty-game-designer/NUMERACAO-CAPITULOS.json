@@ -607,7 +607,127 @@
       "chapter": 100,
       "title": "Em busca de alguém para o balanceamento",
       "file": "capitulos/100 - Em busca de alguém para o balanceamento.txt"
+    },
+    {
+      "source": 101,
+      "chapter": 101,
+      "title": "Qian Kun entra para a equipe",
+      "file": "capitulos/101 - Qian Kun entra para a equipe.txt"
+    },
+    {
+      "source": 102,
+      "chapter": 102,
+      "title": "O próximo jogo será Warcraft",
+      "file": "capitulos/102 - O próximo jogo será Warcraft.txt"
+    },
+    {
+      "source": 103,
+      "chapter": 103,
+      "title": "Unidades e construções de Warcraft",
+      "file": "capitulos/103 - Unidades e construções de Warcraft.txt"
+    },
+    {
+      "source": 104,
+      "chapter": 104,
+      "title": "O esboço de Arthas",
+      "file": "capitulos/104 - O esboço de Arthas.txt"
+    },
+    {
+      "source": 105,
+      "chapter": 105,
+      "title": "Sempre copiado, jamais superado",
+      "file": "capitulos/105 - Sempre copiado, jamais superado.txt"
+    },
+    {
+      "source": 106,
+      "chapter": 106,
+      "title": "Todos esperam por um RPG",
+      "file": "capitulos/106 - Todos esperam por um RPG.txt"
+    },
+    {
+      "source": 107,
+      "chapter": 107,
+      "title": "O lançamento de Warcraft",
+      "file": "capitulos/107 - O lançamento de Warcraft.txt"
+    },
+    {
+      "source": 108,
+      "chapter": 108,
+      "title": "A primeira impressão de Kaiser",
+      "file": "capitulos/108 - A primeira impressão de Kaiser.txt"
+    },
+    {
+      "source": 109,
+      "chapter": 109,
+      "title": "O retorno de Arthas",
+      "file": "capitulos/109 - O retorno de Arthas.txt"
+    },
+    {
+      "source": 110,
+      "chapter": 110,
+      "title": "Warcraft domina as atenções",
+      "file": "capitulos/110 - Warcraft domina as atenções.txt"
+    },
+    {
+      "source": 111,
+      "chapter": 111,
+      "title": "Hora de jogar",
+      "file": "capitulos/111 - Hora de jogar.txt"
+    },
+    {
+      "source": 112,
+      "chapter": 112,
+      "title": "Um desafio na lan house",
+      "file": "capitulos/112 - Um desafio na lan house.txt"
+    },
+    {
+      "source": 113,
+      "chapter": 113,
+      "title": "Duas derrotas sem explicação",
+      "file": "capitulos/113 - Duas derrotas sem explicação.txt"
+    },
+    {
+      "source": 114,
+      "chapter": 114,
+      "title": "As condições de Chen Mo",
+      "file": "capitulos/114 - As condições de Chen Mo.txt"
+    },
+    {
+      "source": 115,
+      "chapter": 115,
+      "title": "O Monstro Supremo dos Tentáculos",
+      "file": "capitulos/115 - O Monstro Supremo dos Tentáculos.txt"
+    },
+    {
+      "source": 116,
+      "chapter": 116,
+      "title": "Silent encontra Nightwind",
+      "file": "capitulos/116 - Silent encontra Nightwind.txt"
+    },
+    {
+      "source": 117,
+      "chapter": 117,
+      "title": "Torres por toda parte",
+      "file": "capitulos/117 - Torres por toda parte.txt"
+    },
+    {
+      "source": 118,
+      "chapter": 118,
+      "title": "A revolta contra as torres",
+      "file": "capitulos/118 - A revolta contra as torres.txt"
+    },
+    {
+      "source": 119,
+      "chapter": 119,
+      "title": "A resposta às torres",
+      "file": "capitulos/119 - A resposta às torres.txt"
+    },
+    {
+      "source": 120,
+      "chapter": 120,
+      "title": "Os melhores se unem contra Silent",
+      "file": "capitulos/120 - Os melhores se unem contra Silent.txt"
     }
   ],
-  "notes": "Leitor local até 100. Complementos editoriais no 64, 77 e 96. Próximo envio 101."
+  "notes": "Leitor local com os capítulos 1–120. Lote 111–120 revisado e integrado. Ajustes de coerência e leituras incertas indicados em itálico. Próximo envio 121. Commit e push manuais."
 }

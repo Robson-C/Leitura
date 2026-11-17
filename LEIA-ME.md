@@ -4,7 +4,7 @@ Abra `index.html` com dois cliques e escolha uma história no catálogo: **Clube
 
 Cada obra usa o mesmo leitor, com índice à esquerda, título ao centro e engrenagem à direita. O link **← Catálogo** fica no índice. Progresso e preferências são independentes por obra; o Clube conserva o salvamento anterior no mesmo `index.html`. Links antigos com `#capitulo-N` continuam funcionando. Mantenha o mesmo navegador, perfil e endereço para conservar o armazenamento local.
 
-Almighty Game Designer tem 100 capítulos consecutivos disponíveis no leitor offline, do 1 ao 100. Seus TXT, tabela de numeração, continuidade e conteúdo publicado ficam em `historias/almighty-game-designer/`. Os dados históricos do Clube permanecem na raiz para compatibilidade. `books.js` registra as obras e `catalog.js` controla catálogo e seleção. Novas obras podem usar o mesmo leitor, com ID, chave de salvamento e conteúdo próprios.
+Almighty Game Designer tem 120 capítulos consecutivos disponíveis no leitor offline, do 1 ao 120. Seus TXT, tabela de numeração, continuidade e conteúdo publicado ficam em `historias/almighty-game-designer/`. Os dados históricos do Clube permanecem na raiz para compatibilidade. `books.js` registra as obras e `catalog.js` controla catálogo e seleção. Novas obras podem usar o mesmo leitor, com ID, chave de salvamento e conteúdo próprios.
 
 O GitHub Pages foi preparado para incluir os arquivos novos; commit e push continuam manuais. Capítulos 801–803 do Clube continuam pendentes: esta mudança não publica traduções novas.
 
@@ -569,3 +569,35 @@ O usuário autorizou completar frases cortadas durante a revisão de publicaçã
 Integrados os cinco capítulos em sequência. A revisão conferiu a passagem de Earth Online à visita à lan house Fates, à análise de Legion Conquest e ao convite a Qian Kun. A sintaxe, git diff --check e os testes automatizados passaram. Os testes comparam os 100 TXT com o leitor e conferem navegação e retomada em DOM simulado. Conferência visual no navegador pendente. Próximo envio 101. Commit e push manuais.
 
 Backup verificado por SHA-256 em backups/agd-publicar-revisar-096-100-20261117T111054583Z/. Para reverter o lote, restaurar os arquivos alterados dessa cópia, conciliando edições posteriores.
+
+
+## Revisão e publicação offline 101–110 — 17/11/2026
+
+Integrados os dez capítulos em sequência após revisão com os anexos e o contexto acumulado. Conferidas a entrada de Qian Kun, a escolha de Warcraft, a divisão das tarefas, o desenvolvimento do editor e das cenas cinematográficas, os testes internos e o lançamento às 14h do dia primeiro por 88 yuans. O público espera um RPG enquanto a equipe desenvolve um RTS. Os betas abertos dos concorrentes nos dias cinco e dez seguem os anúncios anteriores.
+
+A passagem das habilidades no 101 foi esclarecida como atributos aptos a avançar, com livros de segundo nível ainda bloqueados até os requisitos gerais serem atendidos. Balanceamento Numérico conserva a marca de interpretação, porque a categoria foi chamada de Programação em capítulos anteriores. O contexto atual trata de números, atributos e equilíbrio de unidades. As notas externas do motor continuam distintas das habilidades da pulseira.
+
+As listas do 101 fecham em 250 livros de designer, 150 especiais e cem equipamentos. O reembolso de cerca de 190 livros a trinta mil créditos corresponde a 5,7 milhões. No 109, vinte mil cópias a 88 yuans foram expressas como 1,76 milhão, e as 24.960 cópias correspondem a 2.196.480 yuans brutos. A projeção de oitocentas mil cópias no 110 equivale a 70,4 milhões. Receita e lucro foram mantidos distintos.
+
+Legend of the Sword foi harmonizado pontualmente no 98 como xianxia, em itálico, seguindo o contraste explícito do 105 com o wuxia de Seven Heroes. O cabeçalho duplicado 104/103 foi mantido como 104 por sequência. O complemento interno um feito impressionante no 109 foi conferido e preservado. Mantidas as interpretações assinaladas sobre a expansão The Frozen Throne no 102, o conjunto de cenas de 37 milhões no 108 e o beta aberto de Ain World no 110.
+
+Validação concluída com os testes automatizados do leitor, igualdade dos 110 TXT com os capítulos publicados, títulos, itálicos, navegação e retomada em DOM simulado. Sintaxe de chapters.js e git diff --check aprovados. Os vinte arquivos de backup foram conferidos por SHA-256. Entre os capítulos anteriores ao lote, houve somente a revisão pontual do 98. A conferência visual no navegador ficou pendente.
+
+Leitor local até 110, sem TXT pendente nesta obra. Próximo envio 111. Backup em backups/agd-publicar-revisar-101-110-20261117T194702195Z/. Para reverter esta publicação, restaurar seletivamente o leitor, os testes, a tabela e os TXT revistos dessa cópia, conciliando edições posteriores. Commit e push manuais.
+
+
+## Revisão e publicação offline 111–120 — 17/11/2026
+
+Integrados os dez capítulos após revisão com os anexos e o contexto acumulado. A sequência vai dos sorteios de Chen Mo às partidas de Silent, à negociação internacional e às estratégias contra Nightwind e Digwa. As tarefas da equipe e os nomes dos heróis foram conferidos. Os TXT preparados foram integrados integralmente.
+
+No 111, preservadas as correções assinaladas de vinte milhões para dois milhões de cópias, de 255 livros para 219 e de oitenta giros para oitenta rodadas de dez. Os 219 livros resultam das diferenças até cem dos atributos 80, 84, 40, 41 e 36 do 101. Oitenta giros individuais não comportariam esse total. As 740 mil cópias a 88 yuans representam 65,12 milhões brutos, distintos dos quase 41 milhões recebidos pelo protagonista.
+
+Blademaster +2 continua como Mestre das Lâminas com duas unidades, em itálico, apoiado na descrição completa da terceira partida no 112. A faixa de APM de 108 a 207 permanece como aparece na fonte, marcada, pois a redação isolada não permite estabelecer outro intervalo. A reação, velocidade e habilidade da pulseira continuam distintas da classificação externa do motor.
+
+O contrato do 116 confirma setenta por cento para Chen Mo após custos, coerente com a interpretação da condição do 114. A bonificação por vitórias consecutivas no 115 explica uma subida mais rápida que a projeção de Kaiser. A evolução segue 2.400 na colocação, 3.492, 3.700 e 3.794; o 120 conserva a correção contextual para mais de 3.794 em vez de reduzir a 3.780 após outra vitória.
+
+No 117, as 24 torres da mina e as 22 do centro são conjuntos distintos. No 118, aumentar o tempo de construção preserva a intenção de enfraquecer as torres. No 119, o cancelamento do Caçador de Demônios e a contratação do Pandaren preparam a vitória do 120. A transição para a tarde combinada mantém coerência com o convite para o dia seguinte. As chamadas de notas ausentes foram sinalizadas, e as leituras incertas permanecem em itálico.
+
+Validação concluída com testes do leitor, igualdade dos 120 TXT ao conteúdo publicado, títulos, itálicos, navegação e retomada em DOM simulado. Sintaxe de chapters.js e git diff --check aprovados. Dezenove backups conferidos por SHA-256. Os 110 capítulos anteriores são idênticos à versão local anterior. Conferência visual no navegador pendente.
+
+Leitor local até 120, sem TXT pendente nesta obra. Próximo envio 121. Backup em backups/agd-publicar-revisar-111-120-20261117T202050835Z/. Para reverter a integração, restaurar seletivamente leitor, testes, tabela e registros dessa cópia, conciliando edições posteriores. Commit e push manuais.

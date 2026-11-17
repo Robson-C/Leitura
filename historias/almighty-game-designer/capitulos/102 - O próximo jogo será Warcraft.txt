@@ -1,0 +1,128 @@
+Capítulo 102 — O próximo jogo será Warcraft
+
+Tradução da fonte — Exodus Tales
+Edição da fonte — Exodus Tales
+
+Chen Mo achava que a cota anterior de 1,6 GB já era mais do que suficiente, principalmente para jogos de celular.
+
+A cota tinha apenas duas utilidades. A primeira era baixar artes e músicas de uso público.
+
+Designers iniciantes recorriam a esse material, mas geralmente o usavam de forma provisória. Para elevar a qualidade dos jogos, a maioria preferia produzir os próprios recursos do zero.
+
+A segunda era usar o motor para gerar a estrutura do jogo a partir das regras, consumindo recursos do sistema.
+
+Jogos como I Am MT eram muito simples e precisavam de no máximo trinta megabytes para gerar essa estrutura. Era tão pouco que praticamente não fazia diferença.
+
+Chen Mo nem tinha se preocupado com isso nos jogos de celular anteriores.
+
+Jogos mais complexos, como RTS e MOBAs, tinham conjuntos de regras mais elaborados e consumiam muito mais recursos do motor.
+
+Se ainda tivesse uma cota de 1,6 GB, Chen Mo ficaria um pouco apreensivo ao fazer um RTS. Com cinco gigabytes, podia trabalhar com mais liberdade.
+
+Depois, passou aos Equipamentos Especiais.
+
+Nunca reclamaria de receber mais Poções de Reprodução de Memórias. Quanto mais, melhor.
+
+Quanto aos Soros de Velocidade de Reação e às Poções de Aumento de Velocidade das Mãos... Pareciam meio inúteis, mas valia a pena consumir os dois, já que seus efeitos eram permanentes.
+
+Pelo menos poderiam ajudá-lo a jogar no futuro.
+
+Depois de consumir tudo, Chen Mo não sentiu diferença alguma.
+
+— Certo, por enquanto é isso.
+
+Era hora de começar o documento de design do próximo jogo.
+
+***
+
+Agora que tinha público e dinheiro, Chen Mo queria fortalecer sua marca.
+
+Plants vs Zombies tinha causado uma grande impressão quando ele entrou no mercado de jogos para celular. Chen Mo queria fazer o mesmo no mercado de PC, usando um clássico.
+
+Estava dividido entre fazer um RTS ou um MOBA.
+
+Pensando no longo prazo, o MOBA seria a melhor escolha. Recriar League of Legends já bastaria para que ele não precisasse fazer mais nada por seis ou sete anos.
+
+Pelo que vira no mundo anterior, os RTS começariam a perder espaço depois da chegada dos MOBAs.
+
+Mesmo assim, depois de pesquisar o mercado, decidiu fazer primeiro um RTS. Escolheu um produto da Blizzard: Warcraft.
+
+O primeiro motivo era a dificuldade de desenvolvimento. MOBAs eram muito mais difíceis do que RTS porque exigiam enorme atenção ao balanceamento numérico. Um problema pequeno podia provocar uma reação em cadeia de ajustes, e uma atualização ruim podia acabar com o jogo.
+
+RTS também exigiam balanceamento, mas o trabalho era mais simples e menos complexo do que num MOBA.
+
+O segundo motivo era a divulgação. Os jogadores daquele mundo conheciam bem os RTS, mas nunca tinham visto um MOBA. Provavelmente, um MOBA levaria mais tempo para conquistar público.
+
+Além disso, Chen Mo queria transformar o Universo de Azeroth em jogo o quanto antes. Quanto mais cedo aquele mundo ganhasse vida num jogo, mais jogadores conheceriam sua história, facilitando ainda mais sua divulgação.
+
+Por isso, decidiu criar Warcraft primeiro. Depois de lançar um MOBA, já não faria tanto sentido fazer um RTS.
+
+***
+
+O próximo passo era definir as bases do projeto.
+
+Warcraft era, na verdade, uma série. Orcs & Humans, Tides of Darkness, Beyond the Dark Portal, Reign of Chaos e The Frozen Throne faziam parte dela, mas havia diferenças enormes entre esses títulos.
+
+Mesmo deixando a história de lado, a jogabilidade mudava bastante de um para outro.
+
+Em Warcraft II, por exemplo, a Blizzard já tinha encontrado seu estilo. O botão esquerdo selecionava, e o direito servia para mover e atacar. O conceito de “névoa de guerra” também se espalhara por muitos outros RTS.
+
+Em Warcraft III, os heróis passaram a ocupar um lugar central no design. Eles equilibravam a importância do trabalho em equipe com o protagonismo individual, tornando o mundo de um RTS muito mais rico.
+
+Com a chegada de *The Frozen Throne*, Warcraft III continuou recebendo ajustes de balanceamento, e a história atingiu seu auge. Isso ajudou Warcraft a se tornar um clássico.
+
+Chen Mo achava que não precisava percorrer todo o caminho da Blizzard. Podia ir direto para Warcraft III.
+
+Em The Frozen Throne, os dois heróis mais populares, Illidan e Arthas, duelavam pelo Trono de Gelo, levando a história de Azeroth ao auge. Muitos jogadores tinham começado a jogar ou se aprofundado no universo por causa dos dois.
+
+Chen Mo decidiu condensar os principais acontecimentos de Reign of Chaos e combinar seu conteúdo com The Frozen Throne.
+
+As outras histórias, como Tides of Darkness e Beyond the Dark Portal, poderiam sair como conteúdos adicionais para download, caso os jogadores quisessem mais.
+
+***
+
+Chen Mo dividiu o design de Warcraft em seis partes: regras e especificações, mecânicas de combate, raças e unidades, história, design de fases e mapas e multijogador.
+
+Havia muita coisa para fazer, então não tinha pressa de terminar tudo. Depois de anotar alguns conceitos e pontos principais, desceu.
+
+Qian Kun começara a trabalhar no dia anterior e estava sentado ao lado de Zheng Hongxi.
+
+Zheng Hongxi e Su Jinyu jogavam Legion Conquest enquanto se esforçavam para terminar os relatórios sobre o mercado de RTS.
+
+— Os relatórios estão prontos? — perguntou Chen Mo.
+
+— Quase — respondeu Zheng Hongxi.
+
+Su Jinyu disse, sem muita confiança:
+
+— O meu... tá pronto.
+
+Chen Mo assentiu.
+
+— Certo. Podem guardar. Não vou ler.
+
+Zheng Hongxi e Su Jinyu ficaram visivelmente confusos.
+
+Su Jinyu estava pasma.
+
+— Chefe, se não ia ler, por que fez a gente se esforçar tanto?
+
+— Se eu não tivesse pedido os relatórios, vocês teriam levado o jogo tão a sério? Além disso, os relatórios provavelmente estão uma porcaria. Nem preciso ler pra saber.
+
+Os dois ficaram sem palavras.
+
+— Certo, já tenho os planos do próximo jogo. Vou explicar melhor na sala de reuniões.
+
+Ao redor da mesa, Chen Mo distribuiu a proposta de design aos três.
+
+Zheng Hongxi se espantou.
+
+— Uau, finalmente vamos trabalhar em Azeroth?
+
+— Um RTS! Parece um projeto grande! Será que a gente consegue...? — disse Su Jinyu.
+
+Qian Kun esfregou o queixo.
+
+— Então não é um jogo caça-níquel. Que decepção...
+
+Chen Mo ficou sem palavras. Esse garoto só pensa nisso?

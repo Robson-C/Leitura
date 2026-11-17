@@ -5785,3 +5785,223 @@ Backup em backups/agd-auditoria-coerencia-090-100-20261117T141428648Z/. Para rev
 ## Esclarecimento das contagens de 91–92 — 17/11/2026
 
 Na revisão de coerência, considerar o período, a métrica e a escala de cada contagem. Variações plausíveis entre um dia, um fim de semana ou momentos de apuração podem ser aceitas. Destacar diferenças de escala que contrariem o contexto narrativo, avaliando o evento descrito. O usuário considerou compatíveis os 1,5 milhão no domingo e os 2,2 milhões ao fim da semana nos capítulos 91–92. Essa dúvida está encerrada. O exemplo de 150 mil durante a final foi apresentado como hipótese de uma discrepância relevante, sem criar um limite numérico obrigatório para outras situações. Registro anterior da dúvida superado por este esclarecimento. Backup dos registros em backups/agd-criterio-contagens-20261117T141832172Z/.
+
+
+## Almighty Game Designer — capítulo 101 traduzido — 17/11/2026
+
+Anexo 3d3b355f-d043-4db7-b2d8-3121dd8d71f4. Data editorial removida. Numeração sequencial e título descritivo provisório. Qian Kun entra como estagiário de oito mil yuans, no mesmo ano universitário de Su Jinyu. A contratação sucede o convite do capítulo 100.
+
+Conferidas as somas de 250 livros de designer, 150 especiais e cem equipamentos. As subdivisões fecham os totais. A conversão de cerca de 190 livros a trinta mil créditos totaliza 5,7 milhões. Cinco milhões de yuans por cinquenta milhões de créditos correspondem a quinhentos giros de cem mil créditos.
+
+Numerics foi traduzido como Balanceamento Numérico, com indicação em itálico nas listas, porque capítulos antigos usam Programação para a categoria correspondente. A fonte mistura habilidades em cem, transição ao segundo nível e bloqueio dos sorteios. Foi preservada a distinção entre atingir o limite de uma habilidade e liberar os livros de nível dois para todas as habilidades. O trecho ambíguo de transição ficou em itálico. A avaliação externa do Illusion foi mantida separada dos atributos da pulseira.
+
+TXT UTF-8 conferido em capitulos/101 - Qian Kun entra para a equipe.txt. Leitor até 100. Capítulo 101 aguarda publicação offline. Próximo envio 102. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-101-20261117T143854141Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 102 traduzido — 17/11/2026
+
+Anexo 2afbf3f7-dbb1-4c7d-8db3-c1ee22683f29. Data editorial removida e créditos da Exodus Tales preservados. Numeração sequencial e título descritivo provisório. League Conquest e Chen Hongxi foram padronizados para Legion Conquest e Zheng Hongxi. A referência isolada a Wrath of the Lich King foi interpretada como The Frozen Throne, em itálico, pois o trecho discute Warcraft III e imediatamente detalha a expansão The Frozen Throne.
+
+Conferidas cota de 1,6 GB para 5 GB, estrutura de I Am MT de até 30 MB e seis partes do design. Qian Kun começou no dia anterior. Chen Mo escolhe um RTS e planeja combinar Reign of Chaos e The Frozen Throne. Os demais títulos são possibilidades de conteúdo adicional.
+
+TXT UTF-8 conferido em capitulos/102 - O próximo jogo será Warcraft.txt. Leitor até 100. TXT 101–102 aguardam publicação offline. Próximo envio 103. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-102-20261117T144006362Z/. Para reverter, restaurar os registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 103 traduzido — 17/11/2026
+
+Anexo 3715cdb1-63c0-448c-b5ad-033ee01b08d5. Título descritivo provisório, numeração sequencial e data editorial removida. Preservada a nota [1] sobre o título chinês e esclarecida a referência das falas a monstros e demônios. Illadin foi normalizado para Illidan. Column chart foi traduzido como tabela conforme as colunas de atributos descritas na sequência.
+
+As leituras sobre ataques-surpresa e evolução das construções centrais foram marcadas em itálico para limitar as generalizações ambíguas da fonte. Mantidas as quatro raças, cerca de doze tipos de unidade por raça e mil pontos de vida do Ancient of War como descritos no anexo.
+
+TXT UTF-8 conferido em capitulos/103 - Unidades e construções de Warcraft.txt. Leitor até 100. TXT 101–103 aguardam publicação offline. Próximo envio 104. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-103-20261117T144118077Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 104 traduzido — 17/11/2026
+
+Anexo ae49d41f-0883-4398-9a0b-63ff9cfb9fc9. O cabeçalho diz Chapter 104: Chapter 103: Arthas’s Sketch. Foi adotado 104 pela sequência do projeto, pelo número externo e pela continuação do planejamento de unidades e construções do 103. Título traduzido como O esboço de Arthas. Data editorial removida.
+
+Fortmourne foi corrigido para Frostmourne conforme a identificação da arma no próprio anexo. Mantidos Invincible, Arthas Menethil, Warcraft e os títulos de minijogos, com a nota [1]. Scourge foi traduzido como Flagelo. As interpretações de engine for the world, concept document e two-sword foram marcadas em itálico. Também foi marcada a adaptação da explicação dos nomes chineses, pois a tradução inglesa usa Rogue e Priest.
+
+TXT UTF-8 conferido em capitulos/104 - O esboço de Arthas.txt. Leitor até 100. TXT 101–104 aguardam publicação offline. Próximo envio 105. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-104-20261117T144236021Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 105 traduzido — 17/11/2026
+
+Anexo 0a66bfe7-41b4-4b8b-bba9-a945b6ee73ab. Numeração sequencial, título descritivo provisório e data editorial removida. Seven Heroes, Ain World, Legend of the Sword e Frostmourne preservados. A fonte classifica Legend of the Sword como xianxia neste trecho, enquanto o capítulo 98 o chamava de wuxia. A classificação específica foi mantida em itálico para conferência na publicação.
+
+Wen Lingwei e Jia Peng ainda supõem que o projeto seja RPG, coerente com o 104, em que desconhecem o gênero. Seven Heroes entra em beta fechado e prevê beta aberto em dois meses. Ain World também anuncia beta fechado. O período de quatro meses se refere ao desenvolvimento e preparativos desde I Am MT. A postagem de Arthas segue o anúncio da Emperor Dynasty em cinco minutos.
+
+TXT UTF-8 conferido em capitulos/105 - Sempre copiado, jamais superado.txt. Leitor até 100. TXT 101–105 aguardam publicação offline. Próximo envio 106. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-105-20261117T144346569Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 106 traduzido — 17/11/2026
+
+Anexo e6c76d6c-a7dc-43c1-aa46-e927874fd499. Numeração sequencial, título descritivo provisório e data editorial removida. Mantidos Sempre copiado, jamais superado e os nomes dos jogos. A expectativa de RPG pertence aos jogadores e profissionais. Chen Mo continua desenvolvendo o RTS e não revelou o gênero ao público.
+
+Conferidos crescimento de comentários, terceirização dos modelos, quatro novas reescritas e datas narrativas dos betas abertos. Seven Heroes tem data no dia cinco do mês seguinte e Ain World no dia dez. A previsão de dois meses do 105 e o mês seguinte deste capítulo não foram convertidos em datas absolutas, pois a passagem do desenvolvimento não tem duração explícita.
+
+TXT UTF-8 conferido em capitulos/106 - Todos esperam por um RPG.txt. Leitor até 100. TXT 101–106 aguardam publicação offline. Próximo envio 107. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-106-20261117T144456189Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 107 traduzido — 17/11/2026
+
+Anexo 25a9e121-2623-439c-80b8-d8bfe5f0aadc. Numeração sequencial, título descritivo provisório e data editorial removida. Mestre das Lâminas, Caçador de Demônios e Cavaleiro da Morte traduzem os nomes das classes de heróis. O código whosyourdaddy foi preservado. Modem foi interpretado como modelo de monetização pelo contexto de Qian Kun e I Am MT, em itálico.
+
+Conferidos classificação de zero a quatro mil pontos, média em 1.500, preço de 88 yuans para Warcraft e 99 yuans para Legion Conquest na China, contra quarenta dólares no exterior. O jogo é lançado às 14h do dia primeiro. Os betas dos concorrentes foram anunciados para os dias cinco e dez no 106. Primeiro capítulo gratuito, demais capítulos e multijogador pagos. A frase final da fonte tem sentido completo, apesar da ausência de ponto final.
+
+TXT UTF-8 conferido em capitulos/107 - O lançamento de Warcraft.txt. Leitor até 100. TXT 101–107 aguardam publicação offline. Próximo envio 108. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-107-20261117T144610416Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 108 traduzido — 17/11/2026
+
+Anexo 0a4d26a3-e4f7-4332-8863-9ed29985cfe3. Numeração sequencial, título descritivo provisório e data editorial removida. Xua Kai foi normalizado para Xue Kai. Kaiser é o apelido de um estudante de dezessete anos entre os dez melhores jogadores de Legion Conquest no país.
+
+A cifra de 37 milhões de yuans foi interpretada como custo do conjunto de cenas, porque o texto fala de vários trechos, cortes e substituições por narração. A comparação com cerca de seis milhões de dólares foi mantida como comparação do conjunto, sem confundir com a estimativa de cinco milhões de dólares para uma única abertura citada antes. As interpretações estão em itálico. A referência a Wrath of the Lich King aqui identifica a abertura usada como exemplo de custo, ao contrário do lapso contextual do 102.
+
+Xue Kai vê a abertura de Medivh e Terenas, termina a primeira fase com Arthas e recomenda o jogo ao grupo. TXT UTF-8 conferido em capitulos/108 - A primeira impressão de Kaiser.txt. Leitor até 100. TXT 101–108 aguardam publicação offline. Próximo envio 109. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-108-20261117T144908876Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 109 traduzido — 17/11/2026
+
+Anexo 23314a42-3653-4662-8f8e-114ae095dbe7. Numeração sequencial, título descritivo provisório e data editorial removida. Xue Kia foi normalizado para Xue Kai. A audiência cresce de duzentos mil para oitocentos mil, diante de um milhão de seguidores. Preservada a distinção entre seguidores e espectadores.
+
+Conferidas 24.960 cópias a 88 yuans, equivalentes a 2.196.480 yuans brutos. O exemplo seguinte usa vinte mil cópias, com 1,76 milhão, arredondado na fonte para cerca de 1,7 milhão. A projeção de dois milhões de cópias na China permanece uma expectativa de Chen Mo.
+
+A fonte contém um corte interno após being able to sell 1.6 million copies were, antes de seguir para o próximo parágrafo. Foi usado o fechamento mínimo um feito impressionante, em itálico, pela autorização permanente de reparo contextual. Conferir esse complemento na publicação. O anúncio anterior de primeiro capítulo gratuito não impede a compra feita por Kaiser antes de continuar a campanha.
+
+TXT UTF-8 conferido em capitulos/109 - O retorno de Arthas.txt. Leitor até 100. TXT 101–109 aguardam publicação offline. Próximo envio 110. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-109-20261117T145105657Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 110 traduzido — 17/11/2026
+
+Anexo 91a48bc0-c76e-4aef-937b-e999c934d150. Numeração sequencial, título descritivo provisório e data editorial removida. Preservadas 43 mil cópias no terceiro dia e quase cem mil acumuladas. Cerca de oito milhões foi tratado como receita, pela relação com as vendas, e não lucro líquido. A projeção de oitocentas mil cópias a 88 yuans é 70,4 milhões e concorda com os cerca de setenta milhões citados.
+
+O beta de Ain World no dia dez foi interpretado como aberto, em itálico, de acordo com o anúncio do 106 e o beta fechado já iniciado no 105. A leitura de group farming como caça a criaturas neutras em grupo também foi marcada em itálico. As notas acima de 9,5 e o ranking de 2.400 pontos em uma semana foram preservados.
+
+TXT UTF-8 conferido em capitulos/110 - Warcraft domina as atenções.txt. Leitor até 100. TXT 101–110 aguardam publicação offline. Próximo envio 111. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-110-20261117T145219456Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Revisão e publicação offline 101–110 — 17/11/2026
+
+Integrados os dez capítulos em sequência após revisão com os anexos e o contexto acumulado. Conferidas a entrada de Qian Kun, a escolha de Warcraft, a divisão das tarefas, o desenvolvimento do editor e das cenas cinematográficas, os testes internos e o lançamento às 14h do dia primeiro por 88 yuans. O público espera um RPG enquanto a equipe desenvolve um RTS. Os betas abertos dos concorrentes nos dias cinco e dez seguem os anúncios anteriores.
+
+A passagem das habilidades no 101 foi esclarecida como atributos aptos a avançar, com livros de segundo nível ainda bloqueados até os requisitos gerais serem atendidos. Balanceamento Numérico conserva a marca de interpretação, porque a categoria foi chamada de Programação em capítulos anteriores. O contexto atual trata de números, atributos e equilíbrio de unidades. As notas externas do motor continuam distintas das habilidades da pulseira.
+
+As listas do 101 fecham em 250 livros de designer, 150 especiais e cem equipamentos. O reembolso de cerca de 190 livros a trinta mil créditos corresponde a 5,7 milhões. No 109, vinte mil cópias a 88 yuans foram expressas como 1,76 milhão, e as 24.960 cópias correspondem a 2.196.480 yuans brutos. A projeção de oitocentas mil cópias no 110 equivale a 70,4 milhões. Receita e lucro foram mantidos distintos.
+
+Legend of the Sword foi harmonizado pontualmente no 98 como xianxia, em itálico, seguindo o contraste explícito do 105 com o wuxia de Seven Heroes. O cabeçalho duplicado 104/103 foi mantido como 104 por sequência. O complemento interno um feito impressionante no 109 foi conferido e preservado. Mantidas as interpretações assinaladas sobre a expansão The Frozen Throne no 102, o conjunto de cenas de 37 milhões no 108 e o beta aberto de Ain World no 110.
+
+Validação concluída com os testes automatizados do leitor, igualdade dos 110 TXT com os capítulos publicados, títulos, itálicos, navegação e retomada em DOM simulado. Sintaxe de chapters.js e git diff --check aprovados. Os vinte arquivos de backup foram conferidos por SHA-256. Entre os capítulos anteriores ao lote, houve somente a revisão pontual do 98. A conferência visual no navegador ficou pendente.
+
+Leitor local até 110, sem TXT pendente nesta obra. Próximo envio 111. Backup em backups/agd-publicar-revisar-101-110-20261117T194702195Z/. Para reverter esta publicação, restaurar seletivamente o leitor, os testes, a tabela e os TXT revistos dessa cópia, conciliando edições posteriores. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 111 traduzido — 17/11/2026
+
+Anexo aeb9d21a-3e25-427f-b23f-f7b54140ea67. Título descritivo provisório, numeração sequencial e data editorial removida. As vendas do primeiro mês são 740 mil cópias, receita bruta de 65,12 milhões a 88 yuans. Os quase 41 milhões recebidos por Chen Mo são o valor que lhe cabe após a distribuição. A proporção exata de comissões não foi inventada.
+
+Três leituras corrigidas pelo contexto e marcadas em itálico. A estimativa anterior de vinte milhões de cópias foi ajustada para dois milhões, conforme o 109. Os 255 livros ainda necessários foram ajustados para 219, somando as diferenças até cem dos atributos 80, 84, 40, 41 e 36 no 101. A menção a mais oitenta sorteios foi interpretada como oitenta rodadas de dez, pois oitenta giros individuais não forneceriam livros suficientes. A perda por livro devolvido é de sete mil yuans, coerente com custo de dez mil e reembolso equivalente a três mil.
+
+Preservada a diferença entre notas externas do Illusion e atributos da pulseira. Chen Mo é promovido à classe B, com cota de 180 GB. O convite da Meteorite Technology para distribuição internacional antecede uma nova ida à Fates.
+
+TXT UTF-8 conferido em capitulos/111 - Hora de jogar.txt. Leitor até 110. Capítulo 111 aguarda publicação offline. Próximo envio 112. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-111-20261117T194954985Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 112 traduzido — 17/11/2026
+
+Anexo cd2be649-18a6-420c-b253-da22f20586a6. Numeração sequencial, título descritivo provisório e data editorial removida. Silent, Zou Zhuo, pandaren e o trocadilho com Cho foram preservados. A chamada [1] não tem explicação no anexo, e essa ausência foi sinalizada. A fala com caracteres corrompidos foi recomposta pela pontuação do diálogo.
+
+Blademaster plus two foi interpretado como Mestre das Lâminas com duas unidades, em itálico, seguindo a descrição completa da terceira partida pouco antes. Mantidos três mil pontos de Zou Zhuo, dez partidas de colocação, 27 minutos contra o computador e compensação de duzentos yuans. Game Pass é tratado como conta de jogos da Thunderbolt. A partida entre Chen Mo e Zou Zhuo ainda não terminou.
+
+TXT UTF-8 conferido em capitulos/112 - Um desafio na lan house.txt. Leitor até 110. TXT 111–112 aguardam publicação offline. Próximo envio 113. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-112-20261117T195129200Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 113 traduzido — 17/11/2026
+
+Anexo 0e37b27c-f967-4b3d-890d-247479fc8b66. Numeração sequencial, título descritivo provisório e data editorial removida. A primeira partida, iniciada no 112, termina aos dezessete minutos. A segunda termina aos vinte. Chen Mo joga de orcs e depois de elfos noturnos. Zou Zhuo usa mortos-vivos nas duas. Preservadas a oferta anterior de oitenta por cento de vida e a confirmação de que as partidas foram a cem por cento.
+
+Kiaser e Zou Zhou foram padronizados para Kaiser e Zou Zhuo. Crypt field foi interpretado como Crypt Fiend pela unidade citada no capítulo. A falta de mana do Cavaleiro da Morte foi descrita como impedimento para usar habilidades de cura. A interpretação de Blademaster +2 como herói com duas unidades segue marcada em itálico. Mine rush foi mantido em inglês e itálico porque a chamada [1] não tem explicação no anexo.
+
+TXT UTF-8 conferido em capitulos/113 - Duas derrotas sem explicação.txt. Leitor até 110. TXT 111–113 aguardam publicação offline. Próximo envio 114. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-113-20261117T195308892Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 114 traduzido — 17/11/2026
+
+Anexo bee753c0-1e90-4102-b1ee-747a6b14792c. Numeração sequencial, título descritivo provisório e data editorial removida. Xue Kia foi normalizado para Xue Kai. O 113 encerra com a espera pela análise de Kaiser, que ocorre neste capítulo.
+
+Preservados 2.800 pontos na lembrança de Xue Kai sobre Zzz, os três mil informados antes no 112, 3.700 de Kaiser e 2.400 de Silent após dez vitórias na colocação. A diferença entre 2.800 e três mil pode refletir informação anterior ou arredondamento e é pequena em relação à escala. A projeção de mais de cem partidas envolve aproveitamento de noventa por cento e não equivale apenas a dividir a diferença de pontos por quinze.
+
+Na negociação internacional, a referência à parcela maior de receita foi esclarecida como parcela destinada a Chen Mo, em itálico por interpretação contextual. Mantidas as três condições. Ainda não há contrato fechado.
+
+TXT UTF-8 conferido em capitulos/114 - As condições de Chen Mo.txt. Leitor até 110. TXT 111–114 aguardam publicação offline. Próximo envio 115. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-114-20261117T195446396Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 115 traduzido — 17/11/2026
+
+Anexo 08564efd-e043-4db7-b24c-83c9f425bb09. Numeração sequencial, título descritivo provisório e data editorial removida. A Meteorite recebe dois dias para avaliar as condições, sem acordo concluído. A bonificação por vitórias consecutivas explica por que a progressão pretendida por Chen Mo pode ser mais rápida que a estimativa de Kaiser no 114.
+
+Mantidos os valores de APM da fonte e distinguido APM efetivo de total. A faixa de 108 a 207 aparece em itálico pela redação numérica incomum do anexo. Não foi substituída por 180 a 270 sem evidência. Pico de Silent em 466, Kaiser em duzentos e referência a sky em trezentos preservados como afirmações narrativas. A leitura de Blademaster +2 como herói com duas unidades segue em itálico.
+
+TXT UTF-8 conferido em capitulos/115 - O Monstro Supremo dos Tentáculos.txt. Leitor até 110. TXT 111–115 aguardam publicação offline. Próximo envio 116. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-115-20261117T195622671Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 116 traduzido — 17/11/2026
+
+Anexo 75cea113-4093-463c-a821-b57a96088333. Numeração sequencial, título descritivo provisório e data editorial removida. Contrato com Meteorite assinado, com setenta por cento para Chen Mo e trinta por cento para a distribuidora após os custos. Confirma a interpretação sobre a parcela destinada a Chen Mo no 114.
+
+Mantidos 3.492 pontos de Silent, cerca de 3.400 na conta LateWind e 3.704 na principal Nightwind. A partida começa com humanos contra orcs. Marcadas em itálico as interpretações sobre adversários ainda fora do topo, a frase corrompida one true god of Silent e a posição da Fazenda diante da base adversária, coerente com a perseguição do Mestre das Lâminas.
+
+TXT UTF-8 conferido em capitulos/116 - Silent encontra Nightwind.txt. Leitor até 110. TXT 111–116 aguardam publicação offline. Próximo envio 117. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-116-20261117T195744035Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 117 traduzido — 17/11/2026
+
+Anexo 88d201ae-db4f-461d-8d16-54e55a4027d5. Numeração sequencial, título descritivo provisório, data editorial removida e créditos da Exodus Tales preservados. A partida entre humanos de Silent e orcs de Nightwind segue sem resultado final.
+
+Guard Tower e Watch Tower foram distinguidas como Torre de Guarda e Torre de Vigia. A leitura de only spared one Raider foi interpretada como só um saqueador escapou, em itálico. Troll Riders foi mantido como cavaleiros trolls, com marcação inicial de incerteza, sem deduzir uma montaria ausente no texto.
+
+As 24 torres na mina tomada e as 22 no centro do mapa foram mantidas como conjuntos em posições diferentes. O Mestre das Lâminas chega ao nível seis antes da última fala. TXT UTF-8 conferido em capitulos/117 - Torres por toda parte.txt. Leitor até 110. TXT 111–117 aguardam publicação offline. Próximo envio 118. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-117-20261117T195920424Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 118 traduzido — 17/11/2026
+
+Anexo 164d8a3f-f7c4-4f50-a664-65f8633f4c4d. Numeração sequencial, título descritivo provisório e data editorial removida. As torres formam NB!, e Nightwind perde após a morte do Mestre das Lâminas. Silent chega a 3.700 pontos e encerra por não encontrar partidas. A audiência citada é superior a trezentos mil espectadores.
+
+A sugestão de reduzir o tempo de construção foi ajustada para aumentar, em itálico, pois o objetivo explícito de Qian Kun é enfraquecer as torres. Demolition strategy foi traduzido como estratégia de demolição, também em itálico porque a composição ainda não foi revelada. A fonte tem chamada [1] sem nota explicativa de NB; a ausência foi sinalizada.
+
+TXT UTF-8 conferido em capitulos/118 - A revolta contra as torres.txt. Leitor até 110. TXT 111–118 aguardam publicação offline. Próximo envio 119. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-118-20261117T200050260Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 119 traduzido — 17/11/2026
+
+Anexo be084ed5-be71-456e-b88a-853f8605eee5. Numeração sequencial, título descritivo provisório e data editorial removida. Preservados 3.794 pontos de Silent, 3.722 de Digwa e quase quatrocentos mil espectadores somados entre plataformas. A conta de Kaiser está em aula, coerente com o estudante apresentado no 108.
+
+Gourd foi traduzido como Cabaça e Pandaren Brewmaster como Mestre Cervejeiro Pandaren. Mantida a chamada [1] da fonte, que não tem nota explicativa no anexo. A referência ao Altar foi vertida como Altar dos elfos noturnos, evitando tratar Altar of Elders como nome confirmado. Silent engana a exploração adversária e recruta um herói neutro. A partida continua.
+
+TXT UTF-8 conferido em capitulos/119 - A resposta às torres.txt. Leitor até 110. TXT 111–119 aguardam publicação offline. Próximo envio 120. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-119-20261117T200215043Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Almighty Game Designer — capítulo 120 traduzido — 17/11/2026
+
+Anexo 30ae78a4-e36e-4fe6-92c0-c46307af1f36. Numeração sequencial, título descritivo provisório e data editorial removida. Silent derrota Digwa usando Pandaren, arqueiras e mercenários. A construção Ancient of War acompanha as arqueiras, conforme o 103. O Pandaren como único herói foi esclarecido em itálico para preservar o sentido da experiência concentrada.
+
+A fonte atribui 3.780 pontos a Silent depois da vitória, abaixo dos 3.794 já informados no 119 antes da partida, apesar de seguir invicto. Foi usado já passou dos 3.794 pontos, em itálico, preservando a progressão sem inventar uma pontuação exata. A transição para o jogo após o almoço foi explicitada como na tarde combinada, também em itálico, seguindo o convite para amanhã à tarde.
+
+TXT UTF-8 conferido em capitulos/120 - Os melhores se unem contra Silent.txt. Leitor até 110. TXT 111–120 aguardam publicação offline. Próximo envio 121. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-120-20261117T200406902Z/. Para reverter, restaurar esses registros se não houver edições posteriores e retirar somente o novo TXT.
+
+
+## Revisão e publicação offline 111–120 — 17/11/2026
+
+Integrados os dez capítulos após revisão com os anexos e o contexto acumulado. A sequência vai dos sorteios de Chen Mo às partidas de Silent, à negociação internacional e às estratégias contra Nightwind e Digwa. As tarefas da equipe e os nomes dos heróis foram conferidos. Os TXT preparados foram integrados integralmente.
+
+No 111, preservadas as correções assinaladas de vinte milhões para dois milhões de cópias, de 255 livros para 219 e de oitenta giros para oitenta rodadas de dez. Os 219 livros resultam das diferenças até cem dos atributos 80, 84, 40, 41 e 36 do 101. Oitenta giros individuais não comportariam esse total. As 740 mil cópias a 88 yuans representam 65,12 milhões brutos, distintos dos quase 41 milhões recebidos pelo protagonista.
+
+Blademaster +2 continua como Mestre das Lâminas com duas unidades, em itálico, apoiado na descrição completa da terceira partida no 112. A faixa de APM de 108 a 207 permanece como aparece na fonte, marcada, pois a redação isolada não permite estabelecer outro intervalo. A reação, velocidade e habilidade da pulseira continuam distintas da classificação externa do motor.
+
+O contrato do 116 confirma setenta por cento para Chen Mo após custos, coerente com a interpretação da condição do 114. A bonificação por vitórias consecutivas no 115 explica uma subida mais rápida que a projeção de Kaiser. A evolução segue 2.400 na colocação, 3.492, 3.700 e 3.794; o 120 conserva a correção contextual para mais de 3.794 em vez de reduzir a 3.780 após outra vitória.
+
+No 117, as 24 torres da mina e as 22 do centro são conjuntos distintos. No 118, aumentar o tempo de construção preserva a intenção de enfraquecer as torres. No 119, o cancelamento do Caçador de Demônios e a contratação do Pandaren preparam a vitória do 120. A transição para a tarde combinada mantém coerência com o convite para o dia seguinte. As chamadas de notas ausentes foram sinalizadas, e as leituras incertas permanecem em itálico.
+
+Validação concluída com testes do leitor, igualdade dos 120 TXT ao conteúdo publicado, títulos, itálicos, navegação e retomada em DOM simulado. Sintaxe de chapters.js e git diff --check aprovados. Dezenove backups conferidos por SHA-256. Os 110 capítulos anteriores são idênticos à versão local anterior. Conferência visual no navegador pendente.
+
+Leitor local até 120, sem TXT pendente nesta obra. Próximo envio 121. Backup em backups/agd-publicar-revisar-111-120-20261117T202050835Z/. Para reverter a integração, restaurar seletivamente leitor, testes, tabela e registros dessa cópia, conciliando edições posteriores. Commit e push manuais.

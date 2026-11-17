@@ -1,0 +1,141 @@
+Capítulo 104 — O esboço de Arthas
+
+Com a ajuda da Poção de Reprodução de Memórias, o planejamento das unidades e construções levou só dois dias. Mas Chen Mo tinha preparado apenas os números, sem nenhuma imagem de referência.
+
+Já havia publicado algumas artes conceituais do Universo de Azeroth, incluindo grifos e hipogrifos. A maioria das unidades, porém, ainda não tinha ilustrações.
+
+Como tinha muita coisa para fazer, Chen Mo passou o trabalho com as construções e unidades para Qian Kun.
+
+Qian Kun montou um sistema baseado nos tipos de ataque e defesa das unidades e construções, buscando equilibrar as raças e suas tropas.
+
+Su Jinyu cuidava das ilustrações de parte das unidades, seguindo as artes conceituais. O restante foi terceirizado para uma empresa de arte.
+
+Quanto à história, Chen Mo passou a Zheng Hongxi apenas o enredo de The Frozen Throne. Pediu que preparasse uma primeira versão, incluindo a trama e a campanha, para revisarem depois.
+
+Com as tarefas distribuídas, Chen Mo começou a parte mais importante: as bases do sistema de mapas.
+
+O editor de mundos de Warcraft, também conhecido como WE, era poderosíssimo. Graças a ele, surgiram muitos minijogos.
+
+Entre os clássicos estavam Chenghai 3C, Dynasty Warriors [1] e DotA. Este último era especialmente importante por ter dado início à longa trajetória dos MOBAs.
+
+A Blizzard não sabia até onde seu editor podia chegar, mas Chen Mo sabia. Por conhecer seu potencial, queria fazê-lo direito e até melhorá-lo em relação à versão de sua vida anterior.
+
+Além de uma boa estrutura para o editor, era preciso incluir as mecânicas dos heróis, como reaparecimento, ressurreição e invulnerabilidade.
+
+As opções de configuração dos mapas também eram muito amplas.
+
+Incluíam tamanho do mapa, relevo, texturas e áreas de terra e água.
+
+Também havia configurações de horário, com dia e noite. Elas afetavam o alcance de visão e até se certas unidades estariam dormindo. Podiam influenciar as estratégias de cada raça.
+
+Entre os elfos noturnos, por exemplo, alguns heróis e unidades ficavam invisíveis ao permanecerem parados à noite. A raça também tinha vantagens de regeneração de vida e alcance de visão.
+
+Por limitações do motor, os controles de Warcraft não eram tão precisos e responsivos quanto os de StarCraft II ou de alguns MOBAs. Chen Mo achava que podia melhorar esse ponto.
+
+***
+
+O desenvolvimento avançava de maneira constante.
+
+Chen Mo passava a maior parte do tempo construindo *a estrutura do editor de mundos*. No restante, fazia esboços de unidades, construções e cenários para Su Jinyu finalizar e colorir.
+
+Esses desenhos não precisavam ter tantos detalhes quanto as cartas. A atenção dos jogadores se concentraria mais nos modelos dos personagens do que nas ilustrações.
+
+Depois da arte, ainda seria preciso criar os modelos, as animações, as caixas de colisão e muitos outros elementos. Por isso, Chen Mo priorizou *concluir as referências conceituais*. Todo o restante dependia dessa etapa.
+
+No térreo da loja de experiências, Wen Lingwei perguntou:
+
+— Peixinho Dourado, dá pra contar qual é o gênero? É um RPG?
+
+— Ah, tenha calma. Você vai saber quando sair — respondeu Su Jinyu.
+
+— Mas as artes conceituais estão muito boas. Tô quase me oferecendo pra ajudar a colorir, de tanta vontade.
+
+Jia Peng também comentou:
+
+— Parece que tem a ver com Azeroth, mas agora não é uma versão fofinha. Será que é um I Am MT mais realista?
+
+Su Jinyu ficou sem palavras.
+
+— Vocês subestimam o chefe. Ele é desse tipo? Do tipo que só muda o visual de um jogo pra arrancar mais dinheiro?
+
+Wen Lingwei levou a mão à testa.
+
+— E você acha o quê?
+
+Zheng Hongxi disse:
+
+— Não precisam se preocupar. Este jogo é completamente diferente de I Am MT. A base dele é a história do Universo de Azeroth.
+
+— Mas o Universo de Azeroth e I Am MT não são a mesma coisa? — perguntou Jia Peng.
+
+Zheng Hongxi balançou a cabeça.
+
+— Claro que não. Já perceberam que as histórias do Universo de Azeroth que o chefe publica descrevem o mundo por trás de I Am MT, mas que os personagens de I Am MT nunca aparecem nelas?
+
+Jia Peng pensou um pouco.
+
+— Ah, isso... é verdade.
+
+Wen Lingwei também ficou confusa.
+
+— Por quê?
+
+— Vocês ainda não entenderam? *Os nomes dos personagens chamados Rogue e Priest são adaptações fonéticas dos termos ingleses*. Não parecem nomes comuns de personagens de fantasia ocidental. Acho que o chefe receava que o público ainda não aceitasse tão bem esse tipo de fantasia. Por isso, fez um jogo e uma animação mais fofinhos, adaptados ao gosto local, para apresentar esse mundo.
+
+— I Am MT é basicamente uma paródia. A trama dele não faz parte da história de Azeroth.
+
+Todos enfim entenderam.
+
+— Então é isso! O chefe pensa mesmo lá na frente.
+
+Wen Lingwei franziu a testa.
+
+— Agora que ele acha que chegou a hora, resolveu contar a verdadeira história do Universo de Azeroth?
+
+Zheng Hongxi assentiu.
+
+— Exatamente. Não posso revelar muita coisa, mas garanto que a história é incrível. Incrível mesmo.
+
+... Será que era tão boa assim?
+
+***
+
+Enquanto conversavam, Chen Mo desceu.
+
+— Peixinho Dourado, mandei mais uma leva de esboços.
+
+Su Jinyu abriu os arquivos, e todos se juntaram ao redor dela.
+
+O desenho mostrava um jovem de armadura verde-escura, cabelos acinzentados e um olhar cheio de malícia.
+
+Na mesma imagem havia outros estudos. Um cavalo esquelético em chamas corria, e uma *espada de duas mãos* trazia inscrições mágicas.
+
+O esboço também identificava o personagem e seus equipamentos: Arthas Menethil, sua montaria Invincible e sua arma Frostmourne.
+
+— Esse é o novo herói dos mortos-vivos? Que lindo! — exclamou Su Jinyu.
+
+Wen Lingwei se juntou aos elogios:
+
+— Bonito demais! Ele é o protagonista?
+
+Jia Peng comentou:
+
+— Hum... Parece o vilão. Esse sorriso dá um arrepio na espinha.
+
+— O esboço de Arthas finalmente ficou pronto? Deixa eu ver! Caramba, ficou incrível! — exclamou Zheng Hongxi.
+
+Todos elogiaram o desenho.
+
+O esboço de Chen Mo transmitia toda a ambiguidade de Arthas, que parecia capaz tanto do bem quanto do mal. Com Invincible e Frostmourne, já era possível imaginar sua figura imponente conduzindo o Flagelo à conquista de Azeroth.
+
+Só aquela imagem já fazia o sangue ferver!
+
+Ao examinarem melhor, surgiram mais comentários.
+
+Embora ainda estivesse longe de concluído, o esboço transmitia muito bem a ideia e as características do personagem. Do ponto de vista do design, era praticamente perfeito. Podia até competir com Heavenly Ring!
+
+Wen Lingwei disse:
+
+— Certo, decidi. Eu vou colorir esse esboço, de graça!
+
+[1] Nota do tradutor da fonte. São nomes de minijogos. Neste trecho, Dynasty Warriors não se refere à série de jogos de mesmo nome.

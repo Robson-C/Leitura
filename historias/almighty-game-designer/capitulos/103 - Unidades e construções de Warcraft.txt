@@ -1,0 +1,109 @@
+Capítulo 103 — Unidades e construções de Warcraft
+
+Os três terminaram de ler a proposta em pouco tempo.
+
+O documento apresentava uma visão geral do jogo, seus principais atrativos e sua estrutura básica. Depois da leitura, os três já tinham uma ideia de como seria Warcraft.
+
+O que surpreendeu Chen Mo foi que nenhum deles gostou do nome.
+
+— Monstros? Acho esse nome estranho. Por que não chamar de Guerra de Azeroth? [1] — perguntou Zheng Hongxi, confuso.
+
+— Gosto da ideia de guerra. Combina com um RTS. Mas o nome não fica parecido com Legion Conquest? — perguntou Qian Kun.
+
+— Mas que demônios são esses...? Tem orcs e mortos-vivos, mas não tem demônios... — Zheng Hongxi ainda tentava entender.
+
+Su Jinyu, por sua vez, estava preocupada com o futuro do projeto.
+
+— Chefe, na pesquisa percebi que Legion Conquest ainda domina os RTS. Algumas empresas tentaram entrar no gênero e fracassaram. Tem certeza de que conseguimos chegar ao nível deles?
+
+Chen Mo ficou sem palavras. Por que estavam preocupados com coisas tão estranhas?
+
+Pensando bem, o nome original em inglês era Warcraft, que não tinha relação alguma com demônios. Mas a tradução chinesa representava bem o jogo e soava grandiosa. Por isso se tornara oficial, e aquele nome passara a ser reconhecido por si só.
+
+— Relaxem. Não precisam se preocupar com minha capacidade de escolher nomes nem de prever o desempenho do jogo — disse Chen Mo.
+
+— Nossa, chefe, poderoso e infalível. Então, quando começamos? — perguntou Su Jinyu.
+
+— Calma, primeiro precisamos dividir o trabalho.
+
+— Hongxi, você vai cuidar da história. Vou passar um resumo do enredo, que vai girar em torno da relação entre Arthas e Illidan. Tenha isso em mente.
+
+— Você já sabe o que fazer com as descrições de missões, os diálogos e os textos das unidades e construções. Não preciso explicar tudo de novo.
+
+— A partir daí, vamos definir as construções e as unidades de cada raça. Por enquanto, temos quatro raças: humanos, orcs, elfos e mortos-vivos. Cada uma terá construções completamente diferentes. Você precisa pensar em como elas se encaixam na história e discutir isso com Qian Kun.
+
+— Desta vez, uma história no nível de Lifeline não vai bastar. Prepare-se. A história deste jogo precisa se tornar um clássico.
+
+Zheng Hongxi enxugou o suor da testa.
+
+— Vou dar o meu melhor.
+
+Chen Mo continuou:
+
+— Qian Kun, você fica com o design das fases e o balanceamento. Isso inclui o equilíbrio entre as unidades, a dificuldade das fases e a progressão dos atributos dos heróis. Converse com Hongxi sobre esses pontos.
+
+— Primeiro, precisa montar um modelo de balanceamento. Você já deve saber como fazer isso. Vai levar tempo, então não se preocupe em acertar logo de primeira.
+
+Antes que Chen Mo terminasse, Su Jinyu acrescentou:
+
+— É, porque o chefe vai dizer: “Ficou bom. Agora faz de novo.”
+
+Zheng Hongxi confirmou:
+
+— É verdade.
+
+Chen Mo e Qian Kun ficaram sem palavras.
+
+Chen Mo prosseguiu:
+
+— Jinyu vai me ajudar com a arte, incluindo os conceitos dos personagens e dos cenários. Também vai cuidar de parte das especificações do jogo.
+
+— Entendi — disse Su Jinyu, assentindo.
+
+— Consultem o Universo de Azeroth quando tiverem tempo. Há muita coisa que podemos aproveitar diretamente de lá. Também dá para buscar referências em outras obras de fantasia ocidental, como Heavenly Ring.
+
+Depois da divisão das tarefas, todos começaram a trabalhar.
+
+Seria irrealista esperar que Zheng Hongxi e Qian Kun recriassem Warcraft por inteiro. Por isso, Chen Mo precisava preparar uma base para os dois.
+
+De volta ao escritório, tomou outra Poção de Reprodução de Memórias e começou a recuperar lembranças esquecidas.
+
+Voltou aos anos em que passava tardes inteiras nas lan houses.
+
+Começou pelas unidades.
+
+O jogo não tinha tantas unidades assim. Eram quatro raças, com cerca de doze tipos de unidade para cada uma.
+
+Chen Mo montou uma tabela com colunas para os atributos das unidades. Havia custo em ouro, madeira e comida, velocidade de ataque, alcance, velocidade de movimento, tipo de ataque, tipo de defesa, vida, mana, tipo de arma e armadura, habilidades especiais e assim por diante.
+
+Depois, começou a preenchê-la para todas as unidades, a partir dos elfos noturnos: wisps, arqueiras, lançadores de glaives, hipogrifos...
+
+Cada unidade precisava ter seus atributos preenchidos de acordo com a tabela.
+
+Com suas habilidades atuais, Chen Mo provavelmente conseguiria refazer todos aqueles valores mesmo sem usar as Poções de Reprodução de Memórias.
+
+Mas queria treinar Qian Kun. Por isso, decidiu preparar a base e deixar que ele praticasse a partir dali.
+
+Em seguida, vieram as construções.
+
+O sistema de construções de Warcraft era bem complexo. Em Red Alert, elas cumpriam uma só função e eram frágeis demais.
+
+Uma dúzia de recrutas com metralhadoras já bastava para destruir um quartel. De qualquer ângulo, aquilo não fazia sentido.
+
+Em Warcraft, as construções funcionavam como uma camada de proteção para a base. Só algumas unidades especializadas conseguiam destruí-las depressa. Unidades de nível baixo mal faziam cócegas, e alguns golpes de martelo dos camponeses já resolviam o estrago.
+
+Os jogadores também podiam fechar passagens com construções para proteger melhor a base.
+
+Ao integrar as construções ao sistema de balanceamento, o jogo *evitava os ataques-surpresa fáceis de executar em Red Alert*.
+
+Warcraft também trabalhava bem a evolução das construções e o treinamento de unidades. *As construções centrais podiam avançar do nível um ao três*. O jogador devia investir em construções para produzir tropas mais avançadas ou criar muitas unidades básicas e atacar cedo? A árvore de evolução ampliava bastante as opções estratégicas.
+
+Além disso, era preciso considerar quais unidades cada construção produzia, quais tecnologias cada unidade tinha e onde posicionar os edifícios.
+
+Um exemplo era o Ancient of War, dos elfos noturnos. Além de treinar unidades básicas, como arqueiras e caçadoras, ele tinha mil pontos de vida e um ataque forte. Podia até consumir árvores para recuperar vida.
+
+Por isso, muitos jogadores usavam o Ancient of War para ajudar a eliminar criaturas neutras, uma estratégia comum entre os elfos noturnos.
+
+Todos esses detalhes mostravam que valia a pena planejar bem. Unidades e construções eram partes fundamentais de Warcraft.
+
+[1] Nota do tradutor da fonte. Em chinês, o nome do jogo remete a algo como “demônios em guerra”. As falas sobre monstros e demônios se referem a esse título.
