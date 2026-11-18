@@ -6225,3 +6225,92 @@ Lote revisado e integrado por comando do usuário. Os capítulos 135 e 136 confi
 O teste de sintaxe e os testes do leitor passaram. A suíte conferiu os 140 textos, a navegação e a retomada em ambiente simulado. Os primeiros 130 capítulos foram comparados com a versão anterior e preservados. A revisão visual no navegador não foi executada. Não restam TXT pendentes nesta obra. Próximo envio 141. Commit e push manuais.
 
 Backup local com 19 arquivos verificados por SHA-256 em backups/agd-publicar-revisar-131-140-20261118T120338781425Z/. Para reverter, restaurar seletivamente os arquivos do backup, conciliando edições posteriores.
+
+
+## Capítulo 141 — A concorrência da Zen Entertainment
+
+Anexo 04aa1b79-e15b-4d73-939b-12364ea0fdac. Numeração sequencial, título descritivo, data editorial removida e créditos Exodus Tales preservados. Equipe desenvolve ramificações e descrições de técnicas/equipamentos. Espadas dos Seis Meridianos vinculadas à Caverna Wuliang. Wen Ling normalizado Wen Lingwei, caracteres corrompidos no diálogo recuperados pelo contexto. Autoelogio repetido de Zheng Hongxi preservado como humor. Yao Yu, designer de classe A e roteirista de Legend of the Sword, dirige quatro assistentes num projeto xianxia para um jogador. Nether Crypt traduzido Cripta do Submundo. Antecedência de cerca de um mês compatível com estimativa anterior. Final completo.
+
+TXT 141 conferido em UTF-8. Leitor até 140. TXT 141 aguarda revisão e integração por publique. Próximo envio 142. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-141-20261118T145004015476Z/. Reversão seletiva mediante restauração desses registros considerando mudanças posteriores e retirada do TXT 141.
+
+
+## Capítulo 142 — Uma streamer na loja de experiências
+
+Anexo cdc92ef2-8cf5-4fc4-801c-297b47b79c78. Número sequencial, título descritivo, data editorial removida e créditos Exodus Tales preservados. Restam duas semanas no concurso. Empresas grandes fazem jogos de PC e pequenas fazem jogos móveis; prazo inviabiliza VR segundo a narrativa. Opiniões sobre jurados e vitória da Zen mantidas como conversa de jogadores. Lin Xue, streamer de jogos para um jogador, visita a loja numa terça à tarde. Graduação Renmin, mestrado Universidade de Pequim e faixa de salário potencial de 20–30 mil mensais preservados. Formação de destaque em humanas não ampliada para título específico de concurso escolar. Menos de vinte PCs compatível com dezoito anteriores, apenas um PC disponível ao final. Wulin Legend ainda incompleto, disponível para teste local. Quiet interpretado como reservada no comentário do chat e marcado em itálico. Final completo.
+
+TXT 142 conferido em UTF-8, marcação equilibrada e tabela JSON válida. Leitor até 140. TXT 141–142 aguardam revisão e integração por publique. Próximo envio 143. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-142-20261118T145128048865Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 142.
+
+
+## Capítulo 143 — O primeiro contato com Wulin Legend
+
+Anexo 25a2f12f-1b16-4976-86b5-f00b21138b95. Número sequencial e título descritivo; data editorial removida. Lin Xue muda transmissão do celular para computador e abre Wulin Legend. Chen Mo não localizado, segundo andar é suposição dela. Atalho sem ícone próprio compatibiliza as duas referências da fonte. Abertura em tinta, sem identificar os personagens por referências externas. Thunderbolt Gaming padronizado Thunderbolt Games. Opções de menu traduzidas literalmente, sem deduzir função de cada uma. Criação de personagem tem três talentos e três atributos centrais cujos rótulos ingleses são ambíguos; os dois grupos estão em itálico. Três diagramas de oito atributos cada preservados sem reinterpretar a lista médica. Valores de zero a trinta e hipótese do total fixo preservados como observação de Lin Xue. Qinggong mantido como termo marcial. Final completo.
+
+TXT 143 conferido em UTF-8, duas marcações equilibradas e tabela JSON válida. Leitor até 140. TXT 141–143 aguardam revisão e integração por publique. Próximo envio 144. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-143-20261118T145250487097Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 143.
+
+
+## Capítulo 144 — O treinamento no Vale Xiaoyao
+
+Anexo 960c4a2c-022c-4591-94a6-8bd1b43f841c. Número sequencial, título descritivo e data editorial removida. Sentimentalismo mantido do 143, com experiência artística dobrada, mais um em estratégia e limite artístico 120. Valores iniciais zero–30 do 143 não representam teto definitivo, portanto sem conflito. Coração de Serpente favorece moralidade baixa. Depois de uma hora em Luoyang, protagonista encontra Gu Yuexuan, é envenenado por Xuan Mingzi e tratado por Wu Xiazi no Vale Xiaoyao, onde vira terceiro discípulo. Grafias da fonte preservadas, sem substituir por transliteração externa. Tela de desenvolvimento refere-se ao treinamento do personagem. Surgery preservado como cirurgia, conforme lista anterior. Neigong como passive attacks interpretado efeitos passivos e marcado em itálico, pois descreve bônus combinados aos ataques básicos. Final completo, ainda sem lançamento público do jogo.
+
+TXT 144 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 140. TXT 141–144 aguardam revisão e integração por publique. Próximo envio 145. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-144-20261118T145407898493Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 144.
+
+
+## Capítulo 145 — Em busca da voz para Wulin Legend
+
+Anexo fbf17f5a-f18b-4796-ae6c-2d7855d97bd8. Numeração sequencial, título descritivo, data editorial removida e créditos Exodus Tales preservados. Cerca de trinta horas e mais de trinta para diferentes perfis mantidos como estimativas; múltiplos finais podem levar muito mais. Lin Xue continua jogando, Chen Mo está na Dazzling Aurora. Tale of the Sword é o título do projeto da Zen, distinto do anterior Legend of the Sword. Yao Yu vê vídeos, receia a jogabilidade inovadora e decide pedir mais verba publicitária. Estratégia ainda não significa vitória ou verba aprovada.
+
+Guo Feng oferece gravação, Chen Mo rejeita e pede cantor de primeira linha. Demais cinematográficas de Warcraft seguem em produção. Zhou Yifeng, cantor e compositor da Huaxiang em Hong Kong, enfrenta falta de faixa principal para álbum e ainda não aceitou a proposta. China interpretada como China continental e marcada em itálico para situar a origem do contato. Seat normalizado suor. Guo Feng reconhece qualidade da gravação e técnica do cantor, mas Chen Mo pede interpretação superior. Não atribuir nome à música ou custo específico. Final completo antes da audição de Zhou.
+
+TXT 145 conferido em UTF-8, marcação equilibrada e tabela JSON válida. Leitor até 140. TXT 141–145 aguardam revisão e integração por publique. Próximo envio 146. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-145-20261118T145552248620Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 145.
+
+
+## Capítulo 146 — Uma canção para o mundo marcial
+
+Anexo 4d00f48f-f847-4863-aed1-847e9c3b0db7. Número sequencial, título descritivo e data editorial removida. Zhou Yifeng ouve a gravação e pede compra dos direitos. Chen Mo recusa inicialmente e concorda após considerar divulgação, fechando participação nas vendas do álbum sem percentual informado. Não inventar preço, exclusividade ou termos de licença do jogo. Títulos A Life of Fighting Is but a Dream e Unforgettable Scripture preservados; nota inglesa inclui 难念的经 e atribuição de título oficial como afirmação da nota. Letra traduzida integralmente apenas a partir dos versos fornecidos, sem buscar ou completar com letra externa. Referências a Emil Chau, Albert Leung, Eason Chan e Asura pertencem ao relato da vida anterior. Ainda não há resultado público da música. Final completo.
+
+TXT 146 conferido em UTF-8 e tabela JSON válida. Leitor até 140. TXT 141–146 aguardam revisão e integração por publique. Próximo envio 147. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-146-20261118T145722971757Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 146.
+
+
+## Capítulo 147 — O final de mendigo e a música-tema
+
+Anexo 93dde617-5f81-4d53-95f4-c6b973837db3. Número sequencial, título descritivo, data editorial removida. Lin Xue alcança final de mendigo após três dias de jogo e recomeça. Meses de inconsciência são tempo ficcional do protagonista do jogo. Shalins/Warriors/beggars interpretados Shaolin, Wudang e Seita dos Mendigos com marcação em itálico. Cult of the Sky Dragon → Culto do Dragão Celestial; Dragon King → Rei Dragão. Gíria punch me for me corrigida pelo contexto para bater em Chen Mo.
+
+RTS traduzido combate em tempo real nos trechos sobre sistemas de RPG, conforme discussão anterior. Escolha de turnos interpretada como base do combate, em itálico, preservando a existência do segundo modo anunciado no 140. Sword Heroes Fate e The Legend of Sword and Fairy mantidos como títulos da referência à vida anterior. Quase oito mil votos positivos são de respostas promocionais. Música publicada com Zhou Yifeng; impressão de gasto alto pertence ao público, sem alterar contrato de direitos/participação do 146. Final completo.
+
+TXT 147 conferido em UTF-8, duas interpretações equilibradas e tabela JSON válida. Leitor até 140. TXT 141–147 aguardam revisão e integração por publique. Próximo envio 148. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-147-20261118T145854816280Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 147.
+
+
+## Capítulo 148 — A música que virou o jogo
+
+Anexo 26e50d88-d3f5-422a-a426-d28d0ebb151f. Numeração sequencial, título descritivo e data editorial removida. Zhou Yifeng divulga a música e esclarece autoria atribuída a Chen Mo. Canção chega ao top três do dia, sem alcance numérico ou valor financeiro informado. Piada dos quatro médicos preservada, ligada aos termos riso/suspiro/alegria/tristeza. Qian Kun erra o verso ao cantar, erro mantido como humor. Ganhos da música coerentes com contrato de participação anterior. Ao fim do mês, jogos chegam ao mercado e jurados começam a baixar; não há vencedores definidos. Tale of the Sword e Wulin Legend permanecem favoritos na opinião do público. A scammy game would ever have a chance corrigido contextualmente para não teria chance e marcado em itálico, conforme exigências dos jurados descritas no mesmo trecho. Final completo.
+
+TXT 148 conferido em UTF-8, marcação equilibrada e tabela JSON válida. Leitor até 140. TXT 141–148 aguardam revisão e integração por publique. Próximo envio 149. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-148-20261118T150016607777Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 148.
+
+
+## Capítulo 149 — Duas recepções diferentes
+
+Anexo b8aeb48a-6112-4ebe-9373-604210949b6b. Número sequencial, título descritivo e data editorial removida. Administração Nacional de Rádio e Televisão e Comitê descritos conforme mundo ficcional da fonte, sem tratar como orientação jurídica real. Seleção preliminar e ferramentas de avaliação permitem explorar narrativas sem jogar tudo. Primeiro lugar em discussão entre os dois favoritos, resultado indefinido. Ambos a 50 yuans. Avaliações cinco/uma/duas estrelas são do público. Quase dez finais segundo relato em fórum. Dois finais de Lin Xue mencionados depois do fracasso anterior; não excluir o final de mendigo já apresentado nem inferir contagem total dela. Guerreiro das Galinhas como título humorístico. Combate contra mestres virtuosos na eleição mantido como relato de jogador, sem confundir com inimigos do final de Heroes of Jin Yong no 139. Liberdade e guias aumentam repercussão de Wulin Legend. Final completo.
+
+TXT 149 conferido em UTF-8 e tabela JSON válida. Leitor até 140. TXT 141–149 aguardam revisão e integração por publique. Próximo envio 150. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-149-20261118T150149366451Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 149.
+
+
+## Capítulo 150 — O primeiro lugar de Wulin Legend
+
+Anexo 12a43ff3-e903-4ea8-970e-2e5aad29fba7. Numeração sequencial, título descritivo, data editorial removida. Primeiro mês: Tale of the Sword 320 mil cópias, Wulin Legend mais de 400 mil. Comparações com outros jogos não alteram unidades, receita ou lucro. Primeiro lugar para Wulin Legend e segundo para Tale of the Sword, sem inventar demais premiados. Certificado e troféu recebidos na véspera.
+
+Would ever play through all of it interpretado como ainda não conheceriam tudo depois de três ou quatro partidas e marcado em itálico, conforme diversidade de rotas. Fonte fala melhor destaque da loja por uma semana, enquanto edital 137 promete um mês de recomendação. Traduzido como destaque principal por uma semana em itálico, sem reduzir a duração da recomendação total, que a fonte não detalha aqui. Manter distinção na revisão e verificar esclarecimentos futuros. Seis anos de interesse pelo clássico pertencem à comparação da vida anterior. Final completo.
+
+TXT 150 conferido em UTF-8, duas marcações equilibradas e tabela JSON válida. Leitor até 140. TXT 141–150 aguardam revisão e integração por publique. Próximo envio 151. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-150-20261118T150255531074Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 150.
+
+
+## Revisão e publicação offline 141–150 — 18/11/2026
+
+Lote revisado e integrado por comando publique. Sequência conferida do desenvolvimento e concorrência da Zen à transmissão de Lin Xue, gravação da música, divulgação, lançamento e premiação. Texto preparado dos dez capítulos preservado integralmente. Não houve final cortado que exigisse complemento. Títulos e termos mantidos conforme continuidade, incluindo distinção entre Tale of the Sword e Legend of the Sword.
+
+Valores conferidos: cerca de um mês de antecedência da Zen, duas semanas restantes no 142, três dias de jogo de Lin Xue no 147, estimativas acima de trinta horas e primeiro mês de vendas no 150 são referências distintas. Atributos iniciais zero–30 e teto artístico 120 não conflitam. Ambos os jogos custam cinquenta yuans. Tale of the Sword vende 320 mil cópias; Wulin Legend supera 400 mil. Não acrescentado faturamento líquido por multiplicação simples. Sucesso financeiro da canção corresponde à participação negociada no 146, com percentuais desconhecidos. Custos supostos pelo público não foram transformados em despesas confirmadas.
+
+Incertezas mantidas em itálico: rótulos de atributos do 143, energia interna como efeito passivo no 144, China continental no 145, escolas reunidas e turnos como base do combate no 147, negação recuperada no 148 e leituras do 150. A semana de destaque principal no 150 não esclarece a recomendação de um mês prometida pelo edital do 137. A interpretação permanece sinalizada e exige atenção a novos capítulos. Não assumir alteração do regulamento. Lin Xue alcança finais do bem e do mal após o de mendigo, sem fixar total de finais vistos. Resultado do concurso confirmado no 150, sem inventar demais premiados.
+
+Validação concluída: node --check historias/almighty-game-designer/chapters.js, node tests/reader.test.cjs e git diff --check passaram. Suíte comparou os 150 TXT aos capítulos, títulos, marcações, navegação, limites e retomada em DOM simulado. Os 140 objetos de capítulos anteriores e os dez TXT preparados foram preservados. Conferência visual nova no navegador não executada.
+
+Leitor até 150, nenhum TXT pendente nesta obra. Próximo envio 151. Backup de 19 arquivos reconferido por SHA-256 em backups/agd-publicar-revisar-141-150-20261118T154439711788Z/. Para reverter, restaurar seletivamente os arquivos do backup conciliando mudanças posteriores. Commit, push e implantação remota permanecem manuais.

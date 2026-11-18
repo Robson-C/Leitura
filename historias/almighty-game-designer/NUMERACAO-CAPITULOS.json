@@ -847,7 +847,67 @@
       "chapter": 140,
       "title": "As muitas possibilidades de Wulin Legend",
       "file": "capitulos/140 - As muitas possibilidades de Wulin Legend.txt"
+    },
+    {
+      "source": 141,
+      "chapter": 141,
+      "title": "A concorrência da Zen Entertainment",
+      "file": "capitulos/141 - A concorrência da Zen Entertainment.txt"
+    },
+    {
+      "source": 142,
+      "chapter": 142,
+      "title": "Uma streamer na loja de experiências",
+      "file": "capitulos/142 - Uma streamer na loja de experiências.txt"
+    },
+    {
+      "source": 143,
+      "chapter": 143,
+      "title": "O primeiro contato com Wulin Legend",
+      "file": "capitulos/143 - O primeiro contato com Wulin Legend.txt"
+    },
+    {
+      "source": 144,
+      "chapter": 144,
+      "title": "O treinamento no Vale Xiaoyao",
+      "file": "capitulos/144 - O treinamento no Vale Xiaoyao.txt"
+    },
+    {
+      "source": 145,
+      "chapter": 145,
+      "title": "Em busca da voz para Wulin Legend",
+      "file": "capitulos/145 - Em busca da voz para Wulin Legend.txt"
+    },
+    {
+      "source": 146,
+      "chapter": 146,
+      "title": "Uma canção para o mundo marcial",
+      "file": "capitulos/146 - Uma canção para o mundo marcial.txt"
+    },
+    {
+      "source": 147,
+      "chapter": 147,
+      "title": "O final de mendigo e a música-tema",
+      "file": "capitulos/147 - O final de mendigo e a música-tema.txt"
+    },
+    {
+      "source": 148,
+      "chapter": 148,
+      "title": "A música que virou o jogo",
+      "file": "capitulos/148 - A música que virou o jogo.txt"
+    },
+    {
+      "source": 149,
+      "chapter": 149,
+      "title": "Duas recepções diferentes",
+      "file": "capitulos/149 - Duas recepções diferentes.txt"
+    },
+    {
+      "source": 150,
+      "chapter": 150,
+      "title": "O primeiro lugar de Wulin Legend",
+      "file": "capitulos/150 - O primeiro lugar de Wulin Legend.txt"
     }
   ],
-  "notes": "Leitor local com capítulos 1–140. Lote 131–140 revisado e integrado. Próximo envio 141. Commit e push manuais."
+  "notes": "Leitor local com capítulos 1–150. Lote 141–150 revisado e integrado. Próximo envio 151. Commit e push manuais."
 }

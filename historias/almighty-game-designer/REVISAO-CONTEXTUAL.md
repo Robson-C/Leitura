@@ -268,3 +268,16 @@ Lote revisado e integrado por comando do usuário. Os capítulos 135 e 136 confi
 O teste de sintaxe e os testes do leitor passaram. A suíte conferiu os 140 textos, a navegação e a retomada em ambiente simulado. Os primeiros 130 capítulos foram comparados com a versão anterior e preservados. A revisão visual no navegador não foi executada. Não restam TXT pendentes nesta obra. Próximo envio 141. Commit e push manuais.
 
 Backup local com 19 arquivos verificados por SHA-256 em backups/agd-publicar-revisar-131-140-20261118T120338781425Z/. Para reverter, restaurar seletivamente os arquivos do backup, conciliando edições posteriores.
+
+
+## Revisão e publicação offline 141–150 — 18/11/2026
+
+Lote revisado e integrado por comando publique. Sequência conferida do desenvolvimento e concorrência da Zen à transmissão de Lin Xue, gravação da música, divulgação, lançamento e premiação. Texto preparado dos dez capítulos preservado integralmente. Não houve final cortado que exigisse complemento. Títulos e termos mantidos conforme continuidade, incluindo distinção entre Tale of the Sword e Legend of the Sword.
+
+Valores conferidos: cerca de um mês de antecedência da Zen, duas semanas restantes no 142, três dias de jogo de Lin Xue no 147, estimativas acima de trinta horas e primeiro mês de vendas no 150 são referências distintas. Atributos iniciais zero–30 e teto artístico 120 não conflitam. Ambos os jogos custam cinquenta yuans. Tale of the Sword vende 320 mil cópias; Wulin Legend supera 400 mil. Não acrescentado faturamento líquido por multiplicação simples. Sucesso financeiro da canção corresponde à participação negociada no 146, com percentuais desconhecidos. Custos supostos pelo público não foram transformados em despesas confirmadas.
+
+Incertezas mantidas em itálico: rótulos de atributos do 143, energia interna como efeito passivo no 144, China continental no 145, escolas reunidas e turnos como base do combate no 147, negação recuperada no 148 e leituras do 150. A semana de destaque principal no 150 não esclarece a recomendação de um mês prometida pelo edital do 137. A interpretação permanece sinalizada e exige atenção a novos capítulos. Não assumir alteração do regulamento. Lin Xue alcança finais do bem e do mal após o de mendigo, sem fixar total de finais vistos. Resultado do concurso confirmado no 150, sem inventar demais premiados.
+
+Validação concluída: node --check historias/almighty-game-designer/chapters.js, node tests/reader.test.cjs e git diff --check passaram. Suíte comparou os 150 TXT aos capítulos, títulos, marcações, navegação, limites e retomada em DOM simulado. Os 140 objetos de capítulos anteriores e os dez TXT preparados foram preservados. Conferência visual nova no navegador não executada.
+
+Leitor até 150, nenhum TXT pendente nesta obra. Próximo envio 151. Backup de 19 arquivos reconferido por SHA-256 em backups/agd-publicar-revisar-141-150-20261118T154439711788Z/. Para reverter, restaurar seletivamente os arquivos do backup conciliando mudanças posteriores. Commit, push e implantação remota permanecem manuais.
