@@ -1,0 +1,97 @@
+Capítulo 140 — As muitas possibilidades de Wulin Legend
+
+As lembranças de Chen Mo, antes vagas, ficaram nítidas depois que ele tomou a Poção de Reprodução de Memórias.
+
+Tale of Wuxia era basicamente uma versão atualizada de Wulin Legend. A trama era a mesma, salvo pequenas correções.
+
+Chen Mo anotou os pontos principais de cada versão para reuni-los numa história mais completa. Como já havia levado sua habilidade de Design de Narrativa ao máximo do primeiro nível, acreditava que alguns ajustes poderiam melhorar a trama.
+
+O percurso principal era claro. Começava em Luoyang, passava pelo Vale Xiaoyao, por Hangzhou e por Chengdu, até chegar às invasões das seitas. Entre essas etapas, havia missões secundárias e retornos ao Vale Xiaoyao.
+
+Não era difícil reconstituir a ordem dos acontecimentos a partir desse esboço. Bastava registrar as linhas gerais, pois Zheng Hongxi cuidaria do restante.
+
+Tale of Wuxia oferecia várias rotas, cada uma com um final diferente. Entre elas estavam o *Departamento Oriental*, a Seita dos Mendigos, a liderança da Liga Wulin pelo caminho do bem e a tomada da Liga Wulin pelo caminho do mal.
+
+O protagonista podia se tornar líder da Liga Wulin ou matar os próprios amigos e familiares para tomar o controle da liga. Também podia ser um líder despreocupado ou seguir a vida de juiz ou de *andarilho*. A escolha cabia ao jogador.
+
+Além desses desfechos, havia finais românticos, inclusive um reservado a quem conquistasse uma moça em particular.
+
+Sim, era possível encontrar o amor naquele jogo. O jogador podia dar e receber presentes e cumprir missões especiais até conquistar a moça.
+
+Claro que também havia um final de harém.
+
+Com tantos finais, Zheng Hongxi teria bastante trabalho.
+
+Chen Mo ainda precisava preparar os esboços dos personagens e das cenas, além dos sistemas de combate, habilidades cotidianas e itens.
+
+Wulin Legend tinha mais de cento e oitenta personagens. A maioria se distinguia pela aparência, pelas técnicas marciais ou pela personalidade.
+
+Chen Mo daria um nome a cada um e faria um esboço inicial, que Su Jinyu finalizaria. Zheng Hongxi completaria a caracterização e a história de cada personagem.
+
+As habilidades cotidianas incluíam caça, pesca, mineração e coleta. Cada uma tinha seu próprio minijogo e seus próprios equipamentos.
+
+Ao caçar cobras, por exemplo, o jogador podia conseguir vesículas biliares. Ao caçar ursos, podia obter patas ou vesículas biliares. Alguns desses *itens* podiam ser vendidos, enquanto outros concediam bônus. Comer uma vesícula de cobra, por exemplo, aumentava em um ponto a energia interna do personagem.
+
+Essas atividades também influenciavam o desempenho em combate. O minério extraído podia ser usado para fabricar armas e fortalecer o personagem.
+
+O sistema de combate exigia um esforço parecido.
+
+Tale of Wuxia tinha um combate tático em tabuleiro, parecido com o de Heroes of Might and Magic. A cada rodada, o jogador podia se mover uma vez e atacar uma vez. Os ataques variavam em área, dano e efeitos.
+
+A primeira forma das Nove Espadas de Dugu, por exemplo, ignorava a defesa do alvo. Com a Espada Aotian e o talento Mestre de Armas, podia causar um dano enorme. Combinando a técnica com efeitos como cortes múltiplos, era possível derrotar sozinho todos os inimigos do campo de batalha.
+
+Além das técnicas marciais, havia muitos outros fatores que influenciavam o combate: golpes que atingiam vários alvos, ataques consecutivos, cortes múltiplos, itens, bônus e penalidades especiais. Tudo isso dava bastante profundidade às lutas.
+
+Havia técnicas de energia interna, punhos, chutes e garras, além de estilos com espadas, sabres, duas armas, bastões longos, bastões curtos, guqin e armas ocultas. Cada estilo tinha alcance, área de efeito, potência e efeitos próprios. O sistema reunia as armas mais conhecidas e combinava bem com a maneira como as técnicas marciais haviam sido concebidas.
+
+Chen Mo também corrigiu alguns pontos fracos de Wulin Legend.
+
+O primeiro era o visual. A arte havia melhorado de Tale of Wuxia para Tale of Wuxia: The Pre-Sequel, mas continuava longe de ser um dos pontos fortes dos jogos.
+
+Chen Mo queria supervisionar toda a produção das ilustrações e dos modelos de personagens para caprichar nos modelos, nas animações e nos cenários. Também pretendia melhorar os efeitos especiais dos combates para que pelo menos chegassem ao padrão dos jogos daquele mundo.
+
+O segundo ponto era a curva de dificuldade. Ele poderia incluir pistas em certos momentos. Quando o jogador passasse tempo demais preso num quebra-cabeça, por exemplo, os personagens do jogo poderiam dar uma dica ou oferecer mais oportunidades de treino. Assim, seria possível terminar o jogo sem depender de uma estratégia específica.
+
+Chen Mo também planejou dois sistemas de combate. O primeiro seguia o original, com batalhas por turnos. O segundo lembrava a estratégia em tempo real de Soul Hunters, com comandos para reposicionar um personagem ou usar habilidades durante a luta.
+
+Ele ainda melhorou a habilidade de inspeção. Com ela, o jogador podia conferir a classificação e a força de suas técnicas marciais, ver como se combinavam e avaliar a própria estratégia. Caso seu nível de inspeção fosse baixo demais, podia levar o manual da técnica ao mestre para que ele o examinasse. Assim, seria mais fácil distinguir técnicas fortes de técnicas fracas.
+
+Qian Kun ficaria responsável por todo o sistema de combate. Chen Mo lhe deu uma breve explicação sobre técnicas como as Nove Espadas de Dugu e efeitos como os golpes que atingiam vários alvos, pois Qian Kun não os conhecia.
+
+Também explicaria a Qian Kun *como distribuir os inimigos e estruturar as fases*.
+
+Su Jinyu cuidaria dos outros sistemas, como títulos, recrutamento de guerreiros, relações com os personagens do jogo e romances.
+
+Depois de trabalhar em Warcraft, Su Jinyu, Zheng Hongxi e Qian Kun estavam cada vez melhores em suas funções. Já entendiam com facilidade o que Chen Mo esperava a partir dos documentos de design. O desenvolvimento avançava sem problemas de comunicação.
+
+Warcraft havia sido um grande desafio. Depois de superá-lo, os três conseguiam trabalhar em outros jogos com muito mais eficiência.
+
+Na loja de experiências, Su Jinyu finalizava as ilustrações dos personagens.
+
+Em Wulin Legend, o protagonista se chamava Dongfang Weiming. Em Tale of Wuxia, os jogadores podiam mudar livremente seu nome e sua aparência.
+
+Wen Lingwei ajudava a colorir as ilustrações.
+
+— Peixinho Dourado, por que tem tantos retratos? Só muda a expressão. São praticamente todos iguais — perguntou Wen Lingwei.
+
+Su Jinyu assentiu.
+
+— É pra dar opções aos jogadores.
+
+Wen Lingwei ficou confusa.
+
+— E isso serve pra quê?
+
+Su Jinyu parou para pensar antes de explicar:
+
+— Deve ser pra personalizar o personagem e combinar a aparência dele com a personalidade. Como a personalidade não é fixa, você pode interpretar tanto um herói quanto um vilão.
+
+— Ah — disse Wen Lingwei, assentindo. — Parece ter bastante conteúdo, tipo uma visual novel.
+
+— Sim, o jogo se inspira um pouco nisso. Mas a diferença é grande, e aqui tem muito mais conteúdo que numa visual novel — disse Su Jinyu.
+
+Wen Lingwei parecia preocupada.
+
+— É o tipo de jogo que eu jogaria. Mas será que misturar tantos estilos vai dar certo? Parece que pode acabar sem uma identidade própria.
+
+— Difícil dizer. Só vamos saber quando o jogo estiver pronto. Acho que dá pra confiar no gerente. Ele deve saber o que tá fazendo — respondeu Su Jinyu.

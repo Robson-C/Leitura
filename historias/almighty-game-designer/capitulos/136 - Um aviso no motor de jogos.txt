@@ -1,0 +1,122 @@
+Capítulo 136 — Um aviso no motor de jogos
+
+Tradução inglesa: Exodus Tales
+Edição inglesa: Exodus Tales
+
+— Poxa, até colocaram tutoriais?
+
+— Meu Deus, são detalhados mesmo!
+
+— Pelo que tá dizendo aqui, a gente também pode fazer aqueles quatro mapas? Qualquer pessoa consegue?
+
+— Cara, não é igual a Plants vs Zombies? Só que tem muito mais possibilidades. Dá pra combinar habilidades de heróis, criar itens e fases!
+
+— Isso é loucura! Não é praticamente um editor de jogos dentro de Warcraft?
+
+— Pois é. O editor usado pelos designers exige autorização, mas esse não exige nenhuma permissão especial. Também é bem simples, dentro das possibilidades de Warcraft. Deve dar pra criar muitos jogos diferentes!
+
+— Beleza, vou experimentar!
+
+— Tem vários modos novos em Plants vs Zombies, e os mais bem avaliados são muito divertidos. Quero ver o que o pessoal vai criar aqui!
+
+— Ouvi dizer que um dos melhores criadores de modificações de Plants vs Zombies foi contratado por causa do trabalho dele.
+
+— Sério?
+
+— Não sei, só ouvi falar.
+
+— Poxa, também quero trabalhar na Thunderbolt Entertainment! Deve ter um monte de bônus!
+
+Depois de experimentar alguns mapas de RPG, os jogadores ficaram animados. Com talento ou sem ele, muitos começaram a aprender a usar o editor e a tentar criar seus próprios mapas.
+
+É claro que os que realmente conseguiam produzir um mapa provavelmente não chegavam a um por cento. Fazer um mapa de alta qualidade era ainda mais difícil.
+
+Seus criadores precisavam ter algum conhecimento de design, boas ideias e disposição para ouvir sugestões e opiniões dos jogadores. Também precisavam modificar e aperfeiçoar o trabalho dia após dia. Era comparável a desenvolver um jogo simples.
+
+Mas Chen Mo já havia cumprido seu objetivo ao despertar aquele entusiasmo.
+
+Com a popularização dos mapas de RPG, as vendas de Warcraft voltaram a crescer.
+
+Muitos jogadores convenceram os amigos a comprar o jogo. Essas pessoas não gostavam do formato tradicional de estratégia em tempo real, mas, com os mapas de RPG, Warcraft havia se tornado uma forma de se divertir com os amigos. Isso impulsionou as vendas.
+
+Não demorou para Warcraft seguir o caminho de Plants vs Zombies, com mapas de vários tipos criados pelos próprios jogadores. Ainda eram simples e rudimentares, mas Chen Mo considerava aquilo um bom começo.
+
+Assim que o público se interessasse, o crescimento seria rápido.
+
+Nunca se devia duvidar do que os jogadores eram capazes de fazer quando recebiam uma oportunidade.
+
+Naquele ponto, Chen Mo deixou o desenvolvimento de Warcraft de lado.
+
+Para os jogadores, o jogo ainda estava no começo de sua evolução.
+
+O modo de confronto seguia a todo vapor.
+
+Novos jogadores habilidosos surgiam sem parar nas partidas ranqueadas.
+
+Cada vez mais pessoas fora da China descobriam seu encanto.
+
+Os mapas de RPG atraíam um grande número de pessoas que não gostavam de estratégia em tempo real, e muitas delas começavam a criar os próprios mapas.
+
+Para Chen Mo, porém, o trabalho de desenvolvimento já estava quase no fim. Ele havia feito tudo o que podia para orientar os jogadores. Agora, restava deixá-los aproveitar o que o jogo oferecia.
+
+Daí em diante, os jogos de estratégia em tempo real seguiriam por um lento declínio. Era o destino do gênero, e Chen Mo não pretendia mudá-lo.
+
+Desde o início do desenvolvimento de Warcraft, ele não tinha parado de trabalhar. Vieram o lançamento, a escalada avassaladora no ranking, a versão internacional e os mapas de RPG. Estava cansado e queria descansar.
+
+Ao entrar no gênero com um jogo da qualidade de Warcraft, a Thunderbolt Entertainment havia conseguido fazer a transição dos jogos para celular para os de PC.
+
+Isso não significava, é claro, abandonar os jogos móveis. Cabia a Chen Mo decidir o que desenvolveria.
+
+E qual seria o próximo projeto? Nem ele sabia ainda.
+
+Na manhã seguinte, Chen Mo recebeu uma ligação de Lin Mao.
+
+— Alô? — atendeu, ainda sonolento.
+
+— Alô? Chen Mo, fiz um jogo dentro de Warcraft. Pode me ajudar a divulgar? — perguntou Lin Mao.
+
+Chen Mo riu.
+
+— Quê? Você também tá jogando Warcraft?
+
+— Sim. Ah, eu nunca fui de jogar estratégia em tempo real. Depois de terminar a história, praticamente larguei o jogo. Mas, quando saiu a atualização, percebi que o editor de mundos era bem divertido. Antes, nem tinha prestado atenção nele. Aí resolvi fazer um mapa por diversão.
+
+— Andei ocupado ultimamente e acabei sem falar com vocês — disse Chen Mo.
+
+— Imagina, não precisa se preocupar com isso. Pra fazer um jogo daqueles, você devia estar ocupado mesmo. Aliás, ficou incrível. Até levou o jogo pro exterior e representou nós, designers chineses — respondeu Lin Mao.
+
+— Ah, não foi nada. Também faz tempo que não ouço falar de Zhao Zihao. O que ele anda fazendo?
+
+— Acho que viajou pro exterior pra resolver uns assuntos pessoais. Não perguntei muito. Afinal, ele vem de uma família rica. Não é tão estranho viajar pra fora e se divertir. Aliás, já faz tanto tempo... Vamos comer juntos qualquer dia?
+
+Chen Mo se sentou na cama.
+
+— Qualquer dia? Que tal hoje à noite? Agora tô com tempo livre mesmo.
+
+— Fechado, hoje à noite. Vou procurar algum lugar pra comer. Você também dá uma olhada e a gente combina depois. Aliás, viu o aviso no editor?
+
+Chen Mo estranhou.
+
+— Aviso? Que aviso? Faz alguns dias que não entro no editor de jogos.
+
+Lin Mao ficou sem palavras.
+
+— Como você deixou passar uma coisa tão importante? Também queria falar disso. Tá bom, dá uma olhada e conversamos depois.
+
+Chen Mo desligou, confuso.
+
+“Que aviso?”
+
+Depois de cuidar da rotina da manhã, abriu o editor de desenvolvimento de jogos. Assim que entrou, encontrou o comunicado.
+
+Ficou surpreso. Nunca tinha visto algo assim.
+
+O Illusion Game Engine era desenvolvido na China. Como permitia criar jogos de realidade virtual, tinha muitos recursos ligados a essa tecnologia.
+
+Evidentemente, não era um simples editor. Devia contar com apoio do governo. Uma empresa qualquer não conseguiria realizar aquilo sozinha.
+
+O enorme investimento necessário para criar um editor capaz de produzir mundos de realidade virtual e oferecê-lo gratuitamente se explicava pela importância que os países davam à tecnologia.
+
+A loja oficial de aplicativos e o Illusion Game Engine tinham fortes vínculos com o governo. Caso contrário, seria impossível construir um sistema tão grande e completo, que permitisse aos designers começar do zero e se desenvolver sem obstáculos.
+
+Chen Mo estava confuso. Qual era o objetivo daquele comunicado?

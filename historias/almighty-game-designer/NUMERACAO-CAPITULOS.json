@@ -727,7 +727,127 @@
       "chapter": 120,
       "title": "Os melhores se unem contra Silent",
       "file": "capitulos/120 - Os melhores se unem contra Silent.txt"
+    },
+    {
+      "source": 121,
+      "chapter": 121,
+      "title": "A última esperança dos orcs",
+      "file": "capitulos/121 - A última esperança dos orcs.txt"
+    },
+    {
+      "source": 122,
+      "chapter": 122,
+      "title": "A vitória dos ciclones",
+      "file": "capitulos/122 - A vitória dos ciclones.txt"
+    },
+    {
+      "source": 123,
+      "chapter": 123,
+      "title": "O legado de Silent",
+      "file": "capitulos/123 - O legado de Silent.txt"
+    },
+    {
+      "source": 124,
+      "chapter": 124,
+      "title": "O segredo de Silent",
+      "file": "capitulos/124 - O segredo de Silent.txt"
+    },
+    {
+      "source": 125,
+      "chapter": 125,
+      "title": "A estreia de Chen Mo nos comentários",
+      "file": "capitulos/125 - A estreia de Chen Mo nos comentários.txt"
+    },
+    {
+      "source": 126,
+      "chapter": 126,
+      "title": "Comentários que preveem o futuro",
+      "file": "capitulos/126 - Comentários que preveem o futuro.txt"
+    },
+    {
+      "source": 127,
+      "chapter": 127,
+      "title": "O desafio ao campeão",
+      "file": "capitulos/127 - O desafio ao campeão.txt"
+    },
+    {
+      "source": 128,
+      "chapter": 128,
+      "title": "A verdadeira identidade de Silent",
+      "file": "capitulos/128 - A verdadeira identidade de Silent.txt"
+    },
+    {
+      "source": 129,
+      "chapter": 129,
+      "title": "Warcraft rumo ao mundo",
+      "file": "capitulos/129 - Warcraft rumo ao mundo.txt"
+    },
+    {
+      "source": 130,
+      "chapter": 130,
+      "title": "A estreia internacional de Warcraft",
+      "file": "capitulos/130 - A estreia internacional de Warcraft.txt"
+    },
+    {
+      "source": 131,
+      "chapter": 131,
+      "title": "Warcraft conquista os jogadores do mundo",
+      "file": "capitulos/131 - Warcraft conquista os jogadores do mundo.txt"
+    },
+    {
+      "source": 132,
+      "chapter": 132,
+      "title": "Uma loja pequena demais",
+      "file": "capitulos/132 - Uma loja pequena demais.txt"
+    },
+    {
+      "source": 133,
+      "chapter": 133,
+      "title": "Novas possibilidades para Warcraft",
+      "file": "capitulos/133 - Novas possibilidades para Warcraft.txt"
+    },
+    {
+      "source": 134,
+      "chapter": 134,
+      "title": "A primeira atualização dos mapas de RPG",
+      "file": "capitulos/134 - A primeira atualização dos mapas de RPG.txt"
+    },
+    {
+      "source": 135,
+      "chapter": 135,
+      "title": "Compre um jogo, leve mais quatro",
+      "file": "capitulos/135 - Compre um jogo, leve mais quatro.txt"
+    },
+    {
+      "source": 136,
+      "chapter": 136,
+      "title": "Um aviso no motor de jogos",
+      "file": "capitulos/136 - Um aviso no motor de jogos.txt"
+    },
+    {
+      "source": 137,
+      "chapter": 137,
+      "title": "Um concurso de jogos sobre a cultura chinesa",
+      "file": "capitulos/137 - Um concurso de jogos sobre a cultura chinesa.txt"
+    },
+    {
+      "source": 138,
+      "chapter": 138,
+      "title": "O desafio de criar um jogo wuxia",
+      "file": "capitulos/138 - O desafio de criar um jogo wuxia.txt"
+    },
+    {
+      "source": 139,
+      "chapter": 139,
+      "title": "O projeto de Wulin Legend",
+      "file": "capitulos/139 - O projeto de Wulin Legend.txt"
+    },
+    {
+      "source": 140,
+      "chapter": 140,
+      "title": "As muitas possibilidades de Wulin Legend",
+      "file": "capitulos/140 - As muitas possibilidades de Wulin Legend.txt"
     }
   ],
-  "notes": "Leitor local com os capítulos 1–120. Lote 111–120 revisado e integrado. Ajustes de coerência e leituras incertas indicados em itálico. Próximo envio 121. Commit e push manuais."
+  "notes": "Leitor local com capítulos 1–140. Lote 131–140 revisado e integrado. Próximo envio 141. Commit e push manuais."
 }

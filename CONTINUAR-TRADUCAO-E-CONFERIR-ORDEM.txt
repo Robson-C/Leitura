@@ -1,3 +1,69 @@
+ESTADO ATUAL — ALMIGHTY GAME DESIGNER
+Leitor até 140. Lote 131–140 revisado e integrado. Próximo envio 141. Quatro mapas no capítulo 134, conforme 135–136. Wulin Legend está em desenvolvimento. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–140 prontos para revisão e publicação offline. Próximo envio 141. Revisar a contagem de quatro mapas no 134. Wulin Legend está em desenvolvimento, com rotas narrativas e dois sistemas de combate.
+
+ESTADO ATUAL — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–139 prontos para revisão e publicação offline. Próximo envio 140. Revisar a contagem de quatro mapas no 134. Chen Mo escolhe Wulin Legend e distribui as tarefas do projeto.
+
+ESTADO ATUAL — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–138 prontos para revisão e publicação offline. Próximo envio 139. Revisar a contagem de quatro mapas no 134. Chen Mo escolhe desenvolver um jogo wuxia para um jogador.
+
+ESTADO ATUAL — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–137 prontos e pendentes de publicação offline. Próximo envio 138. Revisar a contagem para quatro mapas no 134. Chen Mo considera participar do concurso de cultura tradicional e ainda não escolheu o jogo.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–136 prontos, pendentes de revisão e integração por publique. Próximo envio 137. Lin Mao cria mapa de Warcraft, combina jantar com Chen Mo e avisa de comunicado no Illusion. Conteúdo do comunicado ainda desconhecido. Harmonizar contagem do 134 para quatro mapas na revisão de publicação. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–135 prontos, pendentes de revisão e integração por publique. Próximo envio 136. Jogadores experimentam quatro mapas, confirmados nominalmente no 135. Na revisão de publicação, harmonizar contagem três/quatro do 134 com backup e itálicos. Tutorial do editor mencionado no final. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–134 prontos, pendentes de revisão e integração por publique. Próximo envio 135. Atualização gratuita de Warcraft publicada na história, uma cinemática e três mapas conforme fonte. Quatro modelos descritos, trio lançado não identificado: contagem preservada e marcada. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–133 prontos, pendentes de revisão e integração por publique. Próximo envio 134. Atualização planejada: cinematográficas, atalhos personalizáveis, editor simplificado, tutorial e mapas RPG. Equipe recebe tarefas; novo jogo ainda sem título. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131–132 prontos, pendentes de revisão e integração por publique. Próximo envio 133. Sucesso internacional atrai fãs à loja; Chen Mo adia mudança para lugar maior e exibe ranking nos comentários do fórum. Referência a WCG pertence à vida anterior. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 130. TXT 131 pronto, pendente de revisão e integração por publique. Próximo envio 132. Warcraft ultrapassa cem mil cópias internacionais em três dias e setecentas mil no mês; cerca de sessenta milhões líquidos para Chen Mo, moeda inferida como yuans em itálico. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Revisão e publicação offline concluídas até 130. Nenhum TXT pendente nesta obra. Próximo envio 131. Silent revelado e vencedor da exibição; Warcraft lançado internacionalmente, sem números de vendas ainda. Testes de integridade, navegação e retomada em DOM simulado aprovados. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–130 prontos, pendentes de revisão e integração por publique. Próximo envio 131. Warcraft lançado no exterior; versão em inglês a 29 dólares e primeiro capítulo grátis. Reação à cinemática de Illidan, sem contagem de vendas ainda. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–129 prontos, pendentes de revisão e integração por publique. Próximo envio 130. Equipe ganha folga, salário e participação em projetos próprios. Divulgação internacional de Warcraft em andamento, lançamento iminente sem resultados ainda. Bônus de Lifeline interpretado como faixa de dez mil por pessoa, marcado. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–128 prontos, pendentes de revisão e integração por publique. Próximo envio 129. Identidade de Silent revelada publicamente, conta com 4.196 pontos. Chen Mo vence Goph na exibição em trinta minutos e retorna à Capital Imperial. Goph mantém título do torneio. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–127 prontos, pendentes de revisão e integração por publique. Próximo envio 128. Goph vence Digwa na final da Copa Fantasy. Chen Mo aceita exibição contra o campeão e pede que use as duas mãos. Partida ainda não começou. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–126 prontos, pendentes de revisão e integração por publique. Próximo envio 127. Primeira partida mostrada da Copa Fantasy vencida pelos mortos-vivos; fãs dos orcs questionam críticas de execução feitas por Chen Mo. Não confundir um jogo com o confronto melhor de três inteiro. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–125 prontos, pendentes de revisão e integração por publique. Próximo envio 126. Chen Mo estreia como comentarista ao lado de Zhang Yang na Copa Fantasy; oito convidados, partidas ainda não começaram. Grade interpretada em itálico para resolver duplicação da fonte. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–124 prontos, pendentes de revisão e integração por publique. Próximo envio 125. Preparação internacional de Warcraft; equipe descobre identidade de Silent. Chen Mo irá comentar torneio na Cidade Mágica. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–123 prontos, pendentes de revisão e integração por publique. Próximo envio 124. Silent desaparece após chegar ao topo; Chen Mo revisa a tradução internacional de Warcraft na Meteorite. Identidade de Silent desconhecida do público. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121–122 prontos, pendentes de revisão e integração por publique. Próximo envio 123. Silent derrota Goph com Ciclones e chega ao topo sem derrotas. Sem nova pontuação exata. Commit e push manuais. Estados anteriores abaixo são históricos.
+
+ESTADO ATUAL — 18/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor até 120. TXT 121 pronto, pendente de revisão e integração por publique. Próximo envio 122. Silent soma 4.012 pontos e começa de elfos noturnos contra Goph, jogador de orcs. Partida sem resultado. Commit e push manuais. Estados anteriores abaixo são históricos.
+
 ESTADO ATUAL — 17/11/2026 — ALMIGHTY GAME DESIGNER
 Publicação offline e revisão concluídas até 120. Nenhum TXT pendente nesta obra. Próximo envio 121. Silent venceu Nightwind e Digwa; os melhores se organizam para enfrentá-lo. Leituras incertas mantidas em itálico. Commit e push manuais. Estados anteriores abaixo são históricos.
 

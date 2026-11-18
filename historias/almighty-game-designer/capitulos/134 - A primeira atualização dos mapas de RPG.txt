@@ -1,0 +1,117 @@
+Capítulo 134 — A primeira atualização dos mapas de RPG
+
+Depois de receber o documento da atualização, Su Jinyu, Zheng Hongxi e Qian Kun começaram a trabalhar com afinco.
+
+Na verdade, aqueles mapas de RPG não eram os mais clássicos nem os mais equilibrados. Então, por que Chen Mo os havia escolhido?
+
+Porque representavam os caminhos pelos quais os mapas de RPG de Warcraft acabariam se desenvolvendo. Eram modelos iniciais de estilos clássicos, permitindo que os jogadores descobrissem a diversão daqueles mapas sem limitar sua criatividade.
+
+Os mapas de RPG de Warcraft acabariam dando origem a DotA. Chen Mo não queria dar um tiro no próprio pé e inspirar outros criadores de mapas a fazer algo assim.
+
+Mapa de defesa: Proteja Atena.
+
+Os mapas de defesa eram simples, mas reuniam a essência dos RPGs de Warcraft: combinar heróis e desenvolvê-los. Com o passar do tempo, os inimigos ficavam cada vez mais fortes. O objetivo era encontrar a melhor combinação entre os muitos heróis e itens disponíveis.
+
+Mapa de defesa de torres: Defesa de Torres.
+
+A ideia vinha dos clássicos jogos de defesa de torres de sua vida anterior. O princípio era parecido com o dos mapas de defesa, mas os jogadores escolhiam torres em vez de heróis.
+
+Mapa casual: Fuga da Pirâmide.
+
+Era um exemplo dos mapas casuais. Os jogadores podiam escolher entre dez modos diferentes e precisavam desviar de várias armadilhas para chegar ao fim.
+
+Mapa de confronto entre jogadores: Chenghai 3C.
+
+Comparado a DotA, Chenghai 3C era bastante rudimentar. Seu maior problema era o balanceamento. Ainda assim, era justamente a falta de equilíbrio que o tornava tão popular. Muita gente jogava Chenghai 3C imba — de “imbalanced”, ou desequilibrado — por causa daquele exagero.
+
+Ao mesmo tempo, cada jogador podia controlar vários heróis, o que compensava parte desse desequilíbrio e tornava o mapa extremamente divertido.
+
+Chen Mo decidiu lançar apenas *quatro mapas*, deixando que os jogadores criassem os demais.
+
+A nova versão não demorou a ficar pronta. Foram menos de duas semanas.
+
+A campanha de Warcraft já tinha muitos mapas, e os três haviam participado de sua produção. Por isso, criar aqueles novos mapas não foi difícil. Todos conheciam bem o editor. A maior parte do tempo foi gasta ajustando o equilíbrio das habilidades e a dificuldade das fases.
+
+Chen Mo fez questão de destacar que as habilidades dos heróis nos mapas de RPG deveriam ser completamente diferentes das usadas no modo de confronto. Precisavam combinar com os personagens e, ao mesmo tempo, apresentar ideias novas.
+
+Isso exigiu bastante reflexão dos três, mas também estimulou sua imaginação e tornou o trabalho gratificante.
+
+Qian Kun, em especial, ficou praticamente responsável por todo o Chenghai 3C. Chen Mo ficou muito satisfeito. O resultado se aproximava bastante da qualidade do mapa de sua vida anterior.
+
+Chen Mo fez uma última conferência nos *quatro mapas*.
+
+— Certo, ficou bom.
+
+— Isso! Terminamos! — comemorou Su Jinyu.
+
+— Mas pareceu bem fácil — comentou Zheng Hongxi.
+
+Qian Kun perguntou:
+
+— Gerente, essa atualização parece meio sem graça. Tudo bem que os mapas são divertidos, mas será que os jogadores vão gostar? Acho que não chegam nem perto do conteúdo do jogo principal.
+
+— Não se preocupe. Hongxi, prepare as notas da atualização. Depois, podemos publicar — orientou Chen Mo.
+
+As notas ficaram prontas depressa. Su Jinyu publicou a atualização junto com o texto explicativo.
+
+O pacote era pequeno. Tinha apenas uma cena cinematográfica nova, melhorias em alguns recursos básicos e os *quatro mapas* de RPG.
+
+Como a produção das cenas demorava, elas só poderiam ser adicionadas uma de cada vez. Sem a cena cinematográfica, o pacote teria menos de um megabyte. Dava até pena.
+
+Talvez muita pena fosse uma descrição melhor.
+
+É claro que Chen Mo poderia aumentar a atualização com novas missões de campanha. Mas os jogadores estavam concentrados no modo de confronto e não davam tanta atenção a mais missões. Por isso, decidiu não fazer aquilo.
+
+Ele não queria cobrar pela atualização e também não pretendia cobrar pelos mapas futuros.
+
+Com tão pouco conteúdo, não pegaria bem vendê-lo como DLC.
+
+Outra possibilidade seria cobrar por mapa. Quando um jogador criasse um mapa bom, os demais poderiam pagar um ou dois yuans para acessá-lo. O dinheiro seria dividido entre Chen Mo e o criador.
+
+Mas ele também descartou essa ideia.
+
+O motivo era simples. Cobrar desde o começo impediria que os mapas ganhassem popularidade. Só que começar a cobrar depois também não faria sentido. Por que algo gratuito passaria a custar dinheiro justamente quando ficasse popular?
+
+Assim, embora a cobrança pudesse beneficiar os criadores, os jogadores teriam menos vontade de experimentar os mapas. Isso contrariava completamente o propósito dos RPGs de Warcraft.
+
+Chen Mo não estava fazendo aqueles mapas em nome do desenvolvimento saudável da indústria nem de algum ideal parecido. Queria aumentar ainda mais as vendas do jogo.
+
+Mapas de RPG eram um ótimo motivo para um grupo de amigos passar a noite jogando. Sua intenção era atrair quem não gostava de estratégia em tempo real. Os amigos que já jogavam Warcraft convenceriam essas pessoas a comprar o jogo para participar dos mapas de RPG.
+
+Além disso, os mapas prolongariam a vida de Warcraft. O jogo continuaria crescendo e se expandindo, preparando o terreno para futuros títulos de PC.
+
+Depois de alguns preparativos simples, Warcraft finalmente recebeu a nova atualização!
+
+O lançamento foi discreto, anunciado apenas nas notas da atualização.
+
+Muitos jogadores perceberam a nova versão ao entrar no jogo.
+
+— Hã? Versão nova? Chen Mo é eficiente mesmo!
+
+— Pois é. Warcraft já tava ótimo e sem problemas de balanceamento. Precisava atualizar?
+
+— Que bondade! Nossa, esse é o Chen Mo que eu conhecia? Tô tão agradecido que vou chorar!
+
+— Por que ele ficou tão bonzinho de repente?
+
+— Mas o que veio na atualização?
+
+Muitos começaram a reclamar assim que leram as notas.
+
+— Meu Deus, que é isso? Uma cena cinematográfica, uns ajustes nas configurações e alguns mapas novos?
+
+— Tá de brincadeira?
+
+— Isso é uma atualização? Chen Mo, será que a gente entende essa palavra de maneiras diferentes?
+
+— Pelo menos é de graça...
+
+— E ele ainda teria coragem de cobrar por uma coisa dessas? Aí já seria demais!
+
+— Acabei de ver a cena nova. Tá ótima!
+
+— Então a única coisa boa dessa atualização é a cena cinematográfica?
+
+— A Thunderbolt Entertainment vai mudar de nome pra Thunderbolt Filmes?
+
+— Vocês fazem jogos ou filmes?!

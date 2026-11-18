@@ -6005,3 +6005,223 @@ No 117, as 24 torres da mina e as 22 do centro são conjuntos distintos. No 118,
 Validação concluída com testes do leitor, igualdade dos 120 TXT ao conteúdo publicado, títulos, itálicos, navegação e retomada em DOM simulado. Sintaxe de chapters.js e git diff --check aprovados. Dezenove backups conferidos por SHA-256. Os 110 capítulos anteriores são idênticos à versão local anterior. Conferência visual no navegador pendente.
 
 Leitor local até 120, sem TXT pendente nesta obra. Próximo envio 121. Backup em backups/agd-publicar-revisar-111-120-20261117T202050835Z/. Para reverter a integração, restaurar seletivamente leitor, testes, tabela e registros dessa cópia, conciliando edições posteriores. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 121 traduzido — A última esperança dos orcs — 18/11/2026
+
+Anexo 514b63b4-e5d5-48f7-980e-b2837b405564, sem número ou título no corpo. Numeração 121 pela sequência após o 120, título descritivo provisório e data editorial removida. Traduzido integralmente. Chen Mo vence sucessivos adversários com raça aleatória na Fates. Vídeos de Zou Zhuo revelam que Silent é tagarela fora do jogo. Kaiser não participa porque tem aula. Silent chega a 4.012 pontos e encontra Goph, principal jogador de orcs. A partida de elfos noturnos contra orcs começa e continua sem resultado.
+
+Mantido Ancient of War conforme capítulos anteriores. Novos termos: Crypt Fiend → Demônio das Criptas; Frost Armor/Ice Armor → Armadura Gélida; Death Coil → Espiral da Morte; Lich preservado; Shadow Hunter → Caçador das Sombras; Mountain King → Rei da Montanha; Siege Engine → Tanque de Cerco; Spirit Walker → Caminhante Espiritual; Mana Burn → Queimar Mana. Farming significa ganhar experiência contra criaturas neutras neste contexto, distinto de mineração de recursos. Ragnaroc/Ragarok padronizados como Ragnarok. Frase He would lose that easily corrigida contextualmente para Ele não vai perder tão fácil, em itálico, conforme a expectativa favorável a Goph expressa imediatamente antes. Nenhum placar ou resultado inventado. Final completo, sem complemento narrativo.
+
+TXT 121 gerado em UTF-8. Leitor até 120. Capítulo 121 aguarda revisão de publicação e integração offline. Próximo envio 122. Backup dos quatro registros conferido por SHA-256 em backups/agd-capitulo-121-20261118T105825199567Z/. Reversão seletiva: restaurar registros do backup conciliando mudanças posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 122 traduzido — A vitória dos ciclones — 18/11/2026
+
+Anexo 0412fdda-0a90-4117-ad42-6f082d01573a, sem número ou título no corpo. Número 122 pela sequência e título descritivo provisório. Data editorial removida. Partida do 121 concluída: Silent vence Goph e chega ao topo sem derrotas. Não há nova pontuação exata na fonte. Exércitos de cinquenta de população não significam cinquenta unidades; essa distinção foi preservada.
+
+Druid of the Talon → Druida das Garras, unidade de forma de corvo; a troca isolada Druid of the Claw no anexo foi padronizada para a mesma unidade, marcada na primeira ocorrência. Ancient of Wind preservado como nome da construção. Beastmaster → Mestre das Feras; Quillbeast → Fera de Espinhos; Goblin Tinker → Engenhoqueiro Goblin; Pocket Factory → Fábrica de Bolso; Cyclone → Ciclone; Wind Walk → Andar dos Ventos; Faerie Fire → Fogo das Fadas; Spirit Link → Elo Espiritual; Disenchant → Desencantar; Tauren Chieftain → Chefe Tauren; Shock Wave → Onda de Choque; Faerie Dragon → Dragão das Fadas; Mana Flare → Clarão de Mana; Grunt → Bruto. Manter a distinção entre nível dos heróis e estágios tecnológicos da base.
+
+Marcadas em itálico as leituras contextuais: investimento para avançar a base (fonte diz level the Archers, mas em seguida conclui avanço ao terceiro estágio); dois Ancient of Wind na fala que diz no Ancient of Wind, contrariando a construção explícita de dois; normalização de Druid of the Claw para a unidade de corvos; ataques e criaturas invocadas pelos heróis na derrota dos Saqueadores, sem tratar Fogo das Fadas como ataque direto ou atribuir invocação específica a cada herói. A lista de unidades aéreas da piada final foi preservada como fala da fonte, inclusive Estátuas de Obsidiana. Sem corte ou complemento narrativo. TXT integral conferido em UTF-8, marcações equilibradas e tabela JSON válida.
+
+Leitor permanece até 120. TXT 121–122 aguardam revisão e integração por publique. Próximo envio 123. Backup dos quatro registros conferido por SHA-256 em backups/agd-capitulo-122-20261118T110013173789Z/. Para reverter, restaurar seletivamente esses registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 123 traduzido — O legado de Silent — 18/11/2026
+
+Anexo 7281d4bd-8926-4c20-9644-610e6cb6d8e0, sem número ou título no corpo. Numeração sequencial e título descritivo provisório. Data editorial removida. Silent deixa de jogar após vencer Goph; a identidade de Chen Mo permanece desconhecida do público. Zou Zhuo tem somente o contato dentro do jogo. Replays ampliam as estratégias e a visibilidade de Warcraft. Na Meteorite Technology, Chen Mo revisa a localização em inglês das cenas de Arthas. Publicação internacional ainda não confirmada como concluída. Mais de quatro mil pontos mantém a ordem anterior sem inventar um novo valor; duzentos pontos são estimativa de um participante do fórum.
+
+Mine rush preservado em inglês e itálico, conforme pendência do 113. Sixth grade interpretado como exame de inglês de nível seis, em itálico, pois a passagem avalia a proficiência do designer adulto, não sua escolaridade primária. Falas traduzidas por Chen Mo apresentadas em português ao leitor, com indicação narrativa de que a localização discutida é em inglês. Conteúdo das falas preservado conforme o anexo, sem substituir por citações externas do jogo. Forms normalizado para fóruns e CHen Mo para Chen Mo. Sem corte narrativo ou complemento de final.
+
+TXT integral gerado e conferido em UTF-8, com marcações equilibradas e tabela JSON válida. Leitor permanece até 120. TXT 121–123 pendentes de revisão e integração por publique. Próximo envio 124. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-123-20261118T110129482416Z/. Reversão seletiva: restaurar esses registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 124 traduzido — O segredo de Silent — 18/11/2026
+
+Anexo 4c01e11e-b4f9-4eb9-94ac-b1afacea7400, sem número ou título no corpo. Numeração sequencial e título descritivo provisório. Data editorial removida. Preparação do lançamento internacional simultâneo em vários idiomas, inclusive coreano antecipado da segunda leva. Chen Mo revisa apenas o inglês, não domina alemão. O lançamento ainda está sendo preparado. Goph e Digwa ultrapassam Silent após a ausência dele; três jogadores na faixa dos quatro mil, coerente com o ranking anterior, sem pontuações inventadas.
+
+Su Jinyu já sabia a identidade porque conseguiu a conta; Qian Kun e Zheng Hongxi descobrem agora. Não atribuir a descoberta ao público. Nota [1] da tradução inglesa preservada sobre a homofonia de silencioso e Chen Mo. Peixinho Dourado e Cidade Mágica mantidos conforme continuidade. Fantasy Gaming Platform, Legend of the Sword, Warring Three Kingdoms e Heavenly Ring preservados. Gaming workshops traduzido descritivamente como grupos que trabalham dentro dos jogos, sem presumir conteúdo específico das atividades. PvP/GvG explicitados como combate entre jogadores/guildas.
+
+Why did you tell us earlier corrigido contextualmente para Por que você não contou antes, em itálico, sustentado pela resposta Vocês nunca perguntaram. Lapsos hit/hid e now/know normalizados conforme contexto. Chen Mo vai como convidado para comentar um torneio, não como competidor. Fim de semana e saída à tarde preservados sem inventar dia exato. Sem corte narrativo ou complemento de final.
+
+TXT integral conferido em UTF-8, marcação equilibrada e tabela JSON válida. Leitor permanece até 120. TXT 121–124 aguardam revisão e integração por publique. Próximo envio 125. Backup dos quatro registros conferido por SHA-256 em backups/agd-capitulo-124-20261118T110254678519Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 125 traduzido — A estreia de Chen Mo nos comentários — 18/11/2026
+
+Anexo e6530050-28d1-4735-9081-65e172f14755, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Chen Mo chega de trem à Cidade Mágica, vai ao hotel e estreia na transmissão da Copa Fantasy com Zhang Yang. Organizador Fantasy Gaming Platform e presidente Ding Xing mantidos. Oito jogadores convidados, incluindo Goph, Nightwind e Digwa. Partidas ainda não começaram neste capítulo. Identidade de Silent não revelada ao público.
+
+Fonte descreve oito participantes, mas duplica top eight/quarterfinals e atribui quarterfinals ao segundo dia. Grade interpretada em itálico como quartas no primeiro dia; semifinais, terceiro lugar e final no segundo; melhor de três e eliminação direta preservadas. Sem chave inferior ou repescagem. Premiações de 500 mil/200 mil/10 mil yuans e cachê de 50 mil preservados: diferença entre segundo e terceiro, por si só, não comprova erro. Público de cerca de 200 mil antes do início é observação; 700–800 mil é previsão de Zhang Yang, não audiência confirmada.
+
+Trecho sobre Tabletop direcionar jogadores para Fantasy contraria a perda de usuários e a história do 92. Traduzido como atrair parte dos usuários da Fantasy, em itálico, conforme contexto acumulado. Referência ao fotógrafo do mesmo sobrenome preservada sem acrescentar identidade externa. Tratamentos senhor Chen/senhor Chen Mo/Designer Chen mantidos para preservar a brincadeira. Lapso Chen solto e sto removidos. Sem corte ou complemento narrativo.
+
+TXT integral conferido em UTF-8, três marcações de interpretação equilibradas e tabela JSON válida. Leitor permanece até 120. TXT 121–125 aguardam revisão e integração por publique. Próximo envio 126. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-125-20261118T110419915611Z/. Reversão seletiva: restaurar registros conciliando mudanças posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 126 traduzido — Comentários que preveem o futuro — 18/11/2026
+
+Anexo 6646b9bd-ef45-4614-a053-bdb26e3430d1, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Chen Mo e Zhang Yang continuam as brincadeiras antes da primeira partida da Copa Fantasy. A conta deliberada dez mais 999 igual a 1.009 foi mantida, assim como o ditado invertido e o exagero nove milhões de vezes na piada das mãos. Não são estatísticas ou erros a corrigir. Identidade de Silent continua sem revelação explícita ao público.
+
+Primeiro jogo mostrado: mortos-vivos derrotam orcs. Participantes não nomeados, não identificar como Goph ou outro por suposição. Não afirmar conclusão do confronto melhor de três. Acampamentos 331 e 533 preservados; nota [1] da tradução inglesa mantém a hipótese dos níveis das unidades. Bônus de seis de Agilidade e dois itens preservados, sem inventar atributos dos itens. Circles interpretado como dois anéis em itálico, sem definir item específico. Gloves of Haste → Luvas da Aceleração; Blades of Attack → Lâminas de Ataque. Nota [2] da tradução inglesa preservada. Demônio das Criptas, Armadura Gélida e Espiral da Morte mantidos.
+
+Redação truncada is lacking a bit afraid of fighting interpretada como faltou um pouco de agressividade, em itálico. Would have felt nice after watching their player lose corrigido para já não estavam satisfeitos com a derrota, em itálico, pois o contexto declara fãs insatisfeitos e críticas como sal na ferida. Debate distingue execução/controle das unidades e estratégia. Fonte completa, sem complemento de final.
+
+TXT integral conferido em UTF-8, três marcações equilibradas e tabela JSON válida. Leitor permanece até 120. TXT 121–126 aguardam revisão e integração por publique. Próximo envio 127. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-126-20261118T110558929561Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 127 traduzido — O desafio ao campeão — 18/11/2026
+
+Anexo 57740a75-bd38-444e-b444-86c8609aabb5, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Discussões sobre a análise de execução continuam após o 126. Funcionário oferece cancelar a exibição, mas Chen Mo recusa. No segundo dia, Goph supera Digwa e conquista a Copa Fantasy, com prêmio de 500 mil yuans. Ao final, Chen Mo pede que Goph use as duas mãos na exibição, dispensando a restrição inicial de somente mouse. Partida de exibição ainda não começou; identidade de Silent permanece sem revelação ao público.
+
+Quarter finals no segundo dia interpretado como semifinais, em itálico, seguindo a grade de oito participantes já conferida no 125. Não acrescentar oitavas nem duplicar quartas. Segunda e terceira partidas no início mantidas sem inferir placar, jogadores ou encerramento específico de uma melhor de três. Captain Hindsight/Captain Obvious adaptados à mesma expressão engenheiro de obra pronta, pois ambos são usados como provocação ao comentarista que aponta erros depois dos acontecimentos. Fridge review preservado como analogia de avaliar uma geladeira sem precisar gelar coisas. Mais de quatro mil pontos de Goph mantido como referência aproximada de espectador. Sem corte ou complemento narrativo.
+
+TXT integral conferido em UTF-8, uma interpretação em itálico equilibrada e tabela JSON válida. Leitor permanece até 120. TXT 121–127 aguardam revisão e integração por publique. Próximo envio 128. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-127-20261118T110731287441Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 128 traduzido — A verdadeira identidade de Silent — 18/11/2026
+
+Anexo 7759ce3e-09b9-4cdd-b6f4-1bf92a87ffa5, sem número ou título no corpo. Numeração sequencial e título descritivo provisório. Data editorial removida; créditos de tradução/edição Exodus Tales e nota [1] sobre Jack Ma preservados e identificados como da tradução inglesa. Revelação pública: Chen Mo entra como Silent, com 4.196 pontos. Esse valor não contraria os 4.012 anteriores à primeira vitória contra Goph no 121; o 122 não informou o valor após vencer. Não inventar nova partida ranqueada entre o afastamento e o torneio.
+
+Exibição de elfos noturnos contra orcs, Ciclones em massa. Goph joga sem a limitação de uma mão dispensada no 127, tenta adaptar com Chefe Tauren como segundo herói e perde após trinta minutos. Isso não retira seu título de campeão da Copa Fantasy. Câmeras extras preparadas em cerca de dez minutos; audiência supera a final sem contagem exata informada. Quatrocentos APM é observação do chat, não medição nova independente. Identidade antes secreta agora conhecida do público, equipe e Goph.
+
+Monstro Supremo dos Tentáculos mantido do 115. I am a videogame normalizado para sou um designer de videogames por contexto inequívoco. As falas sobre habilidade mediana, dinheiro, moradia e transporte pertencem à mensagem irônica de Chen Mo e foram preservadas sem tratar como nova auditoria financeira. Nota sobre Jack Ma mantida como atribuição da tradução inglesa, sem verificação externa ou acréscimo de citação. Proposta de jogo parecido com I Am MT para PC ainda é pergunta, não novo projeto anunciado como concluído. Fonte completa, sem complemento ou interpretação incerta adicional.
+
+TXT integral conferido em UTF-8, sem marcações de dúvida necessárias neste capítulo, e tabela JSON válida. Leitor permanece até 120. TXT 121–128 aguardam revisão e integração por publique. Próximo envio 129. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-128-20261118T110856184389Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 129 traduzido — Warcraft rumo ao mundo — 18/11/2026
+
+Anexo 02a74a98-a670-4e31-996d-819e143ab100, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Reações à postagem irônica do 128 preservadas. Chen Mo concede dois dias de folga a Su Jinyu, Zheng Hongxi e Qian Kun, agora efetivos com salário de dez mil yuans mensais. Bônus dos jogos desenvolvidos pelos assistentes distinto de grandes projetos conduzidos por Chen Mo, como Warcraft.
+
+Oito por cento do lucro de Lifeline dividido entre Su Jinyu e Zheng Hongxi, não oito por cento para cada um. Cerca de 300 mil de lucro implica 24 mil no total, aproximadamente 12 mil para cada um se repartido igualmente. Mantida a expressão aproximada na casa dos dez mil, com para cada um dos dois em itálico como leitura contextual da fonte. Não substituir lucro por receita ou importar cifras de períodos anteriores. Igualdade exata da divisão não foi afirmada no texto narrativo. Bônus de fim de ano é possibilidade, não pagamento já efetuado.
+
+Warcraft está prestes a estrear internacionalmente, com publicidade multilíngue e teste grátis. Nenhuma venda internacional ou resultado de lançamento informado ainda. Perfeitamente equilibrado preservado como promessa do anúncio, não conclusão independente. Preocupação da Meteorite com retorno da divulgação não altera o contrato de 70/30 após custos. Discussões sobre servidores e campeonatos são expectativas dos jogadores, sem confirmar torneio mundial. 2.400 pontos referem-se a um participante da conversa, não à conta Silent. Fonte completa, sem corte ou complemento.
+
+TXT integral conferido em UTF-8, uma marcação contextual equilibrada e tabela JSON válida. Leitor permanece até 120. TXT 121–129 aguardam revisão e integração por publique. Próximo envio 130. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-129-20261118T111017811828Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 130 traduzido — A estreia internacional de Warcraft — 18/11/2026
+
+Anexo 931c0294-04c7-41bc-83d9-966585cd193f, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Abertura mostra expectativas nos Estados Unidos, Europa e Coreia antes do lançamento; jogador coreano já usa versão chinesa. Em seguida o lançamento internacional acontece. Preço da versão em inglês: 29 dólares, mais baixo que Legion Conquest e descrito como dobro da versão chinesa. Preservar comparação da fonte, sem usar cotação atual real para o mundo ficcional. Primeiro capítulo gratuito, restante pago. Free to play na fala inicial interpretado como teste gratuito, em itálico, pois o mesmo anexo explicita a cobrança pelo jogo completo e o 129 anuncia teste grátis.
+
+Reação favorável inicial, sem números de vendas internacionais ainda. Juízos sobre qualidade e preconceitos de mercado preservados como falas e perspectiva narrativa. Cinemática apresenta Illidan, asas e chifres, perseguição, visão cega e nagas emergindo. Falas traduzidas a partir do texto enviado, sem substituir por citações externas de Warcraft. Money countries normalizado muitos países; hundred water interpretado sob a água pela ação da câmera; frase corrompida sobre naga com tridente reorganizada mantendo avanço, grito e iluminação do rosto, sem adicionar fala ou identidade. Nenhum título de expansão presumido. Cena de cerca de três minutos conforme fonte. Sem corte ou complemento narrativo.
+
+TXT integral conferido em UTF-8, uma leitura contextual em itálico equilibrada e tabela JSON válida. Leitor permanece até 120. TXT 121–130 aguardam revisão e integração por publique. Próximo envio 131. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-130-20261118T111136178584Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Revisão e publicação offline 121–130 — 18/11/2026
+
+Comando PUBLIQUE executado no escopo permanente autorizado. Dez capítulos revisados com os anexos enviados e a continuidade acumulada e integrados integralmente ao leitor local. Sequência: sucessivas vitórias de Silent e duelo com Goph (121–122); repercussão e localização internacional (123–124); Copa Fantasy, comentários e críticas (125–127); revelação da identidade e vitória na exibição (128); folga da equipe e divulgação (129); lançamento internacional e reação à cinemática de Illidan (130). Não há lacuna nem final interrompido neste lote. Não foi necessário acrescentar fechamento narrativo ou aplicar nova revisão aos TXT preparados.
+
+Conferência contextual: 4.012 pontos antes do primeiro duelo com Goph e 4.196 revelados na exibição não conflitam, pois o resultado numérico da primeira vitória não fora informado. Goph e Digwa superam Silent durante sua ausência antes da Copa. A exibição não altera o título de Goph, vencedor de Digwa na final. A identidade de Silent só se torna pública no 128. Goph usa as duas mãos após pedido explícito do 127. Seu fracasso em trinta minutos não é confundido com o confronto ranqueado anterior.
+
+No 122, distinguir população de quantidade de unidades, desenvolvimento da base de nível dos heróis e a unidade que se transforma em corvo da ocorrência isolada Druid of the Claw. Mantidas as interpretações em itálico de avanço tecnológico, dois Ancient of Wind e ataques/invocações. Nomes de habilidades e unidades harmonizados com o lote. A piada final conserva a lista da fonte. Mine rush no 123 e exame de inglês de nível seis permanecem marcados, sem transformar hipóteses em fatos confirmados pelo original chinês.
+
+No 125, oito participantes implicam quartas, semifinais e final. A fonte duplica etapas e menciona quartas no segundo dia; a leitura de quartas no primeiro e semifinais no segundo segue em itálico no 125 e no 127. Preservados os prêmios de 500 mil/200 mil/10 mil e o cachê de 50 mil, sem presumir erro pela diferença entre valores. Cerca de 200 mil espectadores iniciais e projeção de 700–800 mil foram distinguidos; o 128 afirma superar a final sem quantificar. A conta dez mais 999 igual a 1.009 e nove milhões de vezes melhor no 126 são piadas deliberadas, preservadas.
+
+No 129, salário de dez mil é distinto de bônus. Oito por cento de cerca de 300 mil de lucro soma cerca de 24 mil para dividir entre Su Jinyu e Zheng Hongxi. Na casa dos dez mil para cada um é compatível com aproximadamente 12 mil se dividido igualmente; a tradução não declara regra exata de divisão. Contrato da Meteorite e receita/lucro não foram confundidos. No 130, teste gratuito corresponde ao primeiro capítulo, não ao jogo completo de 29 dólares. Lançamento ocorre após preparativos e divulgação dos capítulos anteriores. Preço descrito como dobro da versão chinesa preservado sem usar câmbio real externo. Ainda não há contagem de vendas internacionais.
+
+Validação: node --check historias/almighty-game-designer/chapters.js e node tests/reader.test.cjs aprovados. Testes comparam integralmente os 130 TXT aos capítulos do leitor, títulos, marcações, índice, limites, navegação e retomada em DOM simulado, mantendo progresso/preferências isolados entre obras e verificações do Clube. Os 120 capítulos anteriores são idênticos ao backup. Os dez TXT do lote permanecem idênticos às versões revisadas antes da integração. Dezenove arquivos de backup conferidos por SHA-256. Conferência visual nova no navegador não executada. A aplicação e os capítulos de outras obras não foram alterados.
+
+Leitor local até 130, sem TXT pendente nesta obra. Próximo envio 131. Backup: backups/agd-publicar-revisar-121-130-20261118T113143304835Z/. Reversão: restaurar seletivamente conteúdo do leitor, testes, tabela e registros desse backup, conciliando eventuais edições posteriores. TXT originais também estão copiados no backup. Commit, push e implantação remota permanecem manuais, não executados.
+
+
+## Almighty Game Designer — capítulo 131 traduzido — Warcraft conquista os jogadores do mundo — 18/11/2026
+
+Anexo 5d5f04cc-d33d-450e-9a69-4c1381089318, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Continuação do lançamento do 130. Avaliações em torno de nove em vários países, elogios de jogadores e crítica britânica à trajetória de Arthas. Illadin normalizado Illidan; price normalizado príncipe; Arthas, Uther, Stratholme, Northrend, Frostmourne e Lordaeron preservados. Poções de Reprodução de Memórias mantidas conforme continuidade, sem inventar quantidade usada. Comparação com Blizzard/Diablo/Warcraft II/StarCraft é referência à vida anterior, não a empresas concorrentes daquele mundo.
+
+Vendas acima de cem mil em três dias, previsão de setecentas mil no mês e confirmação de setecentas mil no encerramento preservadas como fases temporais distintas. Fonte primeiro usa worldwide na projeção e depois international no resultado; manter contexto do lançamento externo sem somar vendas domésticas nem inventar totais adicionais. Cerca de sessenta milhões líquidos atribuídos a Chen Mo, não receita bruta mundial. Moeda ausente no último parágrafo inferida como yuans e marcada em itálico: 700 mil vezes 29 dólares são 20,3 milhões de dólares brutos, logo sessenta milhões não seria uma receita líquida plausível em dólares. Não usar câmbio real atual ou inventar taxas e custos. Contrato prévio de setenta por cento após custos preservado sem recalcular líquido exato.
+
+Notas e opiniões elogiosas mantidas como avaliações e narrativa, sem verificação externa do Warcraft real. Dois mil pontos descritos como início de aprendizado; quatro mil em fala coreana sobre ranking, sem alterar pontuação de Silent. Fonte completa, sem complemento narrativo.
+
+TXT integral conferido em UTF-8, uma interpretação monetária equilibrada e tabela JSON válida. Leitor permanece até 130. TXT 131 aguarda revisão e integração por publique. Próximo envio 132. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-131-20261118T113830965770Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 132 traduzido — Uma loja pequena demais — 18/11/2026
+
+Anexo 23304a4d-ff4d-42f8-b438-5d1e2d6c66da, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Sucesso internacional repercute na China. Três jogadores acima de quatro mil citados no diálogo, sem novos nomes/placares. Loja lotada por fãs de Chen Mo/Silent; Zou Zhuo frequenta e almeja 3.500 pontos. Dezoito computadores e dez poltronas, dois computadores reservados para Qian Kun e Zheng Hongxi, coerentes com estrutura anterior. Zhuo Yao recebe excedente na Fates; distinguir de Zou Zhuo. Wen Lingwei e Jia Peng perdem espaço habitual. Mudança de loja considerada e adiada, não compra ou locação efetuada.
+
+Chen Mo passa a mostrar pontuação nos comentários do fórum. Faixas 1.500, 3.500, 3.700, 1.200 e dois mil referem-se a participantes/exemplos, não atualização de ranking de Silent. Discussões de estratégia e história mantidas conforme fonte. Che Mo normalizado Chen Mo e Sight normalizado suspiro/conclusão. Na comparação com a vida anterior, versão 1.24e, WCG 2012, Ted, Moon, lyn e fly, placares 2–0 e 2–1 e dez anos preservados como relato narrativo da fonte, sem checagem histórica externa ou substituição por resultados de outras fontes. O coreano inicialmente não nomeado permanece assim nessa frase; lyn citado no parágrafo seguinte conforme o anexo. Não reconstruir chave do torneio além do que foi fornecido. Ajustes de balanceamento são intenção futura, não atualização aplicada na narrativa.
+
+Fonte completa, sem corte ou complemento narrativo. TXT integral conferido em UTF-8, sem interpretação incerta adicional necessária, e tabela JSON válida. Leitor permanece até 130. TXT 131–132 aguardam revisão e integração por publique. Próximo envio 133. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-132-20261118T113951736128Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 133 traduzido — Novas possibilidades para Warcraft — 18/11/2026
+
+Anexo 0a634ff4-b63f-435c-806f-d0e4b64b9aaf, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Concorrentes não conseguem copiar Warcraft; identidade de Silent aproxima público e designer. Chen Mo prevê limite de crescimento para RTS e prepara atualização e bases de outro jogo, ainda sem novo título. Não confundir avaliação pessoal do auge do gênero com perda de popularidade já confirmada neste ponto.
+
+Planejamento de todas as cinematográficas antes dos cortes estimado em quarenta milhões de yuans, não despesa já paga. Trata-se do novo conjunto planejado, sem substituir estimativas anteriores de cenas ou atribuir esse valor a uma única abertura. Campanha/confronto predominam; editor já existe e precisa de simplificação e tutorial. Personalização de atalhos e mapas de exemplo são parte da atualização em desenvolvimento, não lançamento concluído. Referência à Blizzard pertence à vida anterior. Fonte permite um ou dois anos de interesse do jogador comum e menciona iniciantes de mil pontos, sem alterar ranking de Silent.
+
+World editor → editor de mundos; rebind keys → redefinir teclas. Protect Athena → Proteja Atena; Escape Pyramid → Fuga da Pirâmide; Chenghai 3c → Chenghai 3C; Tower Defence → Defesa de Torres. Títulos traduzidos a partir do anexo, sem deduzir versões, regras ou nomes oficiais externos. Su Jinyu/Peixinho Dourado faz tutorial, Qian Kun faz mapas, Zheng Hongxi/Hongxi ajuda no design e diálogos. Cen Mo normalizado Chen Mo. Final Who knows preservado como Vai saber, sem inventar reação ou anúncio seguinte. Fonte completa, sem complemento narrativo.
+
+TXT integral conferido em UTF-8, sem interpretação incerta adicional necessária, e tabela JSON válida. Leitor permanece até 130. TXT 131–133 aguardam revisão e integração por publique. Próximo envio 134. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-133-20261118T114102671732Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 134 traduzido — A primeira atualização dos mapas de RPG — 18/11/2026
+
+Anexo 8765eca1-526a-40be-92be-96fb81e57071, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Equipe produz atualização em menos de duas semanas e a publica gratuitamente: uma cinemática, melhorias básicas e três mapas conforme a fonte. Sem vídeo, pacote teria menos de um MB. Cenas futuras serão incorporadas gradualmente. Não declarar que todo o orçamento estimado de quarenta milhões do 133 foi gasto ou que todas as cenas foram concluídas.
+
+A fonte descreve quatro modelos nomeados (Proteja Atena, Defesa de Torres, Fuga da Pirâmide, Chenghai 3C), mas repete três mapas como quantidade de lançamento/conferência/pacote. Mantidos os quatro modelos e a contagem três, com primeira ocorrência em itálico por ambiguidade. É possível que três dos quatro tenham sido selecionados; o anexo não identifica qual ficou de fora. Não inventar exclusão, não aumentar para quatro e não eliminar descrição. Qian Kun produz Chenghai 3C, Su Jinyu publica e Hongxi escreve notas. RPG raps normalizado mapas; match notes normalizado notas da atualização. A referência às diferenças dos heróis foi explicitada como habilidades pelo contexto dos mapas e do final do 133.
+
+DotA citado como evolução da vida anterior; Chen Mo quer evitar dar a terceiros inspiração específica para esse jogo. Não substituir por lançamento de DotA nem inferir criação já realizada. Cobrança de um ou dois yuans por mapa é possibilidade descartada, não política em vigor. A gratuidade busca atrair novos compradores de Warcraft e prolongar sua vida. Dez modos de Fuga da Pirâmide preservados. Fonte completa, sem corte ou complemento narrativo.
+
+TXT integral conferido em UTF-8, uma ambiguidade de contagem marcada e tabela JSON válida. Leitor permanece até 130. TXT 131–134 aguardam revisão e integração por publique. Próximo envio 135. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-134-20261118T114218514650Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 135 traduzido — Compre um jogo, leve mais quatro — 18/11/2026
+
+Anexo b57ed708-ea29-4983-a4fe-9ac470d117f1, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Jogadores experimentam nominalmente Proteja Atena, Defesa de Torres, Fuga da Pirâmide e Chenghai 3C; parágrafos posteriores e fórum repetem quatro mapas. Isso resolve a dúvida do 134 a favor de quatro lançados. Primeira contagem three maps deste anexo corrigida para quatro em itálico. Na próxima revisão por publique, harmonizar as ocorrências de três mapas no 134 para quatro em itálico, com backup; o TXT 134 ainda não foi alterado neste envio. Não confundir três membros da equipe com contagem de mapas.
+
+Afirmação geral de controle de uma única unidade foi interpretada como exigência muito menor de controlar muitas unidades ao mesmo tempo, em itálico, pois Defesa de Torres explicitamente usa múltiplas torres e Chenghai 3C permite vários heróis no 134. A fala de jogador só preciso controlar um herói foi preservada como experiência do participante, não regra que impede múltiplos heróis. Omnislash → Corte Múltiplo, sem atribuir nome oficial ou importar detalhes externos. Livros de atributos, crítico e pontos para atributos pertencem aos mapas de RPG, não à pulseira de Chen Mo.
+
+Nova cena com cerca de três minutos; mapas somados em torno de um MB compatíveis com menos de um MB sem vídeo mencionado no 134 como aproximações, sem inventar medição exata. Fórum fala dois jogos diferentes como reação pessoal, não contagem total do pacote. Conteúdo baixado gratuitamente por donos de Warcraft; não tornar o jogo base gratuito. Tutorial do editor é gancho final completo. Sem corte ou complemento narrativo.
+
+TXT integral conferido em UTF-8, duas interpretações marcadas e equilibradas, tabela JSON válida. Leitor permanece até 130. TXT 131–135 aguardam revisão e integração por publique. Próximo envio 136. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-135-20261118T114350722397Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Almighty Game Designer — capítulo 136 traduzido — Um aviso no motor de jogos — 18/11/2026
+
+Anexo 26da60e2-f02f-4746-9649-bb9f396c8950, sem número ou título no corpo. Numeração sequencial e título descritivo provisório; data editorial removida. Créditos de tradução/edição Exodus Tales preservados. Tutorial incentiva criadores; quatro mapas confirmados novamente. Manter pendência de harmonização da contagem do 134 na revisão por publique. Menos de um por cento dos interessados conseguiriam criar mapas é estimativa narrativa, não contagem exata. Vendas crescem sem novo valor informado.
+
+Distinguir editor de mundos de Warcraft (acessível ao jogador) do editor profissional/motor Illusion (com permissões de designer). Modder contratado é boato em diálogo, não identificar como funcionário específico além do que a fonte confirma. Chen Mo deixa desenvolvimento ativo de Warcraft de lado e quer descansar; não encerra suporte ou empresa nem abandona jogos móveis. Declínio de RTS é perspectiva do protagonista, não queda atual demonstrada. Próximo jogo ainda indefinido.
+
+Lin Mao faz um mapa/jogo dentro de Warcraft e pede divulgação. Combina jantar para a mesma noite, ainda não realizado. Zhao Zihao estaria no exterior por assuntos pessoais; não inventar destino, causa ou viagem confirmada por ele. Após rotina matinal Chen Mo abre o Illusion e encontra comunicado, cujo conteúdo/objetivo ainda não é revelado. Discussão sobre apoio governamental pertence à narrativa ficcional. Texto corrompido wasn��t recuperado como não era pelo contexto, sem conservar caracteres de substituição. By the game normalizado aliás. Fonte completa, sem complemento narrativo ou interpretação incerta adicional necessária.
+
+TXT integral conferido em UTF-8 e tabela JSON válida. Leitor permanece até 130. TXT 131–136 aguardam revisão e integração por publique. Próximo envio 137. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-136-20261118T114507424199Z/. Reversão seletiva: restaurar registros conciliando edições posteriores e retirar somente o novo TXT. Commit e push manuais.
+
+
+## Capítulo 137 — Um concurso de jogos sobre a cultura chinesa
+
+Anexo 0a62d135-57b8-4152-a451-387185aabf7c. Número pela sequência e título descritivo provisório. Data editorial removida. Seções do comunicado recompostas a partir da numeração HTML da fonte. Comitê de Jogos e Realidade Virtual, ligado ao Ministério da Cultura, financia-se com os 20% retidos pela loja oficial. Concurso de três meses para jogos sobre cultura chinesa, com um primeiro lugar, três segundos, cinco terceiros e menções honrosas. Recomendação dos premiados por um mês. Chen Mo ainda não escolheu o jogo. A vantagem de meses das grandes empresas é relato de Lin Mao. Paddywhack interpretado como tendão grelhado e marcado em itálico. Final completo.
+
+TXT 137 conferido em UTF-8. Leitor até 130, capítulos 131–137 pendentes de publicação offline. Próximo envio 138. Backup dos quatro registros verificado por SHA-256 em backups/agd-capitulo-137-20261118T085254615091/. Para reverter, restaurar os registros desse backup considerando edições posteriores e retirar o TXT 137.
+
+
+## Capítulo 138 — O desafio de criar um jogo wuxia
+
+Anexo 2fb10ba8-8ec8-430e-93e3-a2950975f209. Número pela sequência, título descritivo e créditos de Exodus Tales preservados. A fala sobre criar um jogo de celular de xianxia foi atribuída a Lin Mao em itálico, conforme a resposta de Chen Mo e a sequência do diálogo. Quatro trocas de wuxia por xianxia foram sinalizadas em itálico nos trechos sobre adaptação dos RPGs ocidentais, voos sobre espadas e feitiços. Legend of the Sword segue como xianxia. A fonte mantém a chamada [1] sem o texto da nota. Preservado o prazo de três meses e a vantagem aproximada de um ou dois meses citada por Chen Mo. O jogo wuxia segue sem título e ainda está em planejamento.
+
+TXT conferido em UTF-8. Leitor até 130, capítulos 131–138 aguardam publicação offline. Próximo envio 139. Backup dos quatro registros conferido por SHA-256 em backups/agd-capitulo-138-20261118T085422969679/. Reversão seletiva mediante restauração desses registros respeitando edições posteriores e retirada do TXT 138.
+
+
+## Capítulo 139 — O projeto de Wulin Legend
+
+Anexo f442ec8d-92e6-4e50-9a50-d6631260bdcb. Número pela sequência e título descritivo. Data editorial removida. Wulin Legend é o nome escolhido por Chen Mo. Heroes of Jin Yong e Tale of Wuxia pertencem à sua lembrança da vida anterior. Preservados os catorze livros, os dez mestres finais em cada caminho moral e as datas relatadas pela fonte. Em janeiro de 2016 já somava é leitura cumulativa de uma frase ambígua sobre as quatrocentas mil cópias, marcada em itálico. Chess traduzido genericamente como jogos de tabuleiro no contexto cultural, sem atribuir variante específica. Mantidos Peixinho Dourado e Poções de Reprodução de Memórias. Final completo.
+
+TXT 139 conferido em UTF-8. Leitor até 130. Capítulos 131–139 aguardam publicação offline. Próximo envio 140. Backup dos quatro registros conferido por SHA-256 em backups/agd-capitulo-139-20261118T085554013995/. Para reverter, restaurar seletivamente esses registros considerando edições posteriores e retirar o TXT 139.
+
+
+## Capítulo 140 — As muitas possibilidades de Wulin Legend
+
+Anexo 18e7b096-7aa9-44ec-9856-67ef650b5bdd. Numeração sequencial, título descritivo e data editorial removida. Normalizado Tale of Wuxia e o lapso Chen Who para Chen Mo. Preservados mais de 180 personagens, as rotas e os dois sistemas de combate previstos. Chen Mo esboça personagens e supervisiona a arte, Su Jinyu finaliza as ilustrações e cuida dos sistemas sociais, Zheng Hongxi desenvolve a narrativa e Qian Kun cuida do combate. Wen Lingwei ajuda com as cores. Departamento Oriental, andarilho, itens obtidos na caça e a orientação sobre a estrutura das fases são leituras contextuais em itálico. Final completo.
+
+TXT 140 conferido em UTF-8. Leitor até 130. Capítulos 131–140 aguardam publicação offline. Próximo envio 141. Backup dos quatro registros conferido por SHA-256 em backups/agd-capitulo-140-20261118T085731591661/. Para reverter, restaurar seletivamente esses registros considerando edições posteriores e retirar o TXT 140.
+
+
+## Revisão e publicação offline 131–140 — 18/11/2026
+
+Lote revisado e integrado por comando do usuário. Os capítulos 135 e 136 confirmam o lançamento dos quatro mapas. Foram corrigidas as três menções à contagem no 134, marcadas em itálico. Os demais TXT do lote foram integrados conforme preparados. Revisão de continuidade abrangeu a progressão das vendas internacionais e a moeda inferida no 131, a distribuição de tarefas, o concurso de três meses, a distinção entre wuxia e xianxia e o início do desenvolvimento de Wulin Legend. O capítulo 138 mantém a chamada [1] sem o texto da nota na fonte. Nenhum final do lote exigiu complemento.
+
+O teste de sintaxe e os testes do leitor passaram. A suíte conferiu os 140 textos, a navegação e a retomada em ambiente simulado. Os primeiros 130 capítulos foram comparados com a versão anterior e preservados. A revisão visual no navegador não foi executada. Não restam TXT pendentes nesta obra. Próximo envio 141. Commit e push manuais.
+
+Backup local com 19 arquivos verificados por SHA-256 em backups/agd-publicar-revisar-131-140-20261118T120338781425Z/. Para reverter, restaurar seletivamente os arquivos do backup, conciliando edições posteriores.

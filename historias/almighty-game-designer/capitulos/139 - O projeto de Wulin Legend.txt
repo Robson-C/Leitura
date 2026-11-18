@@ -1,0 +1,107 @@
+Capítulo 139 — O projeto de Wulin Legend
+
+Chen Mo escreveu o título do novo documento:
+
+Conceito de design de Wulin Legend.
+
+Na sua vida anterior, havia muitos clássicos do gênero wuxia. Wulin Legend talvez não fosse o melhor, mas era o mais criativo. Era bem diferente dos jogos wuxia que seguiam o modelo dos RPGs ocidentais.
+
+Wulin Legend não tinha feito um sucesso gigantesco, ao contrário de seu antecessor, Heroes of Jin Yong.
+
+Em Heroes of Jin Yong, o protagonista era transportado para um mundo que reunia catorze romances de Jin Yong. Ali, convivia com os personagens das obras, coletava itens, aprendia técnicas marciais e recrutava espadachins. Para voltar ao seu mundo, precisava completar as catorze linhas de missões principais e reunir os catorze livros sagrados.
+
+O jogo causou espanto quando foi lançado. Os jogadores podiam praticar as técnicas dos romances, recrutar guerreiros como Duan Yu e Yang Guo para lutar ao seu lado e até cumprir missões ligadas às obras originais.
+
+Heroes of Jin Yong também tinha um sistema de moralidade. A pontuação subia ou descia de acordo com as escolhas do jogador.
+
+Quando reunia os catorze livros sagrados e estava prestes a deixar aquele mundo, o jogador era atacado por dez mestres malignos se tivesse agido com bondade. Se tivesse seguido o caminho do mal, enfrentava dez mestres virtuosos.
+
+Era preciso derrotar os dez mestres para terminar o jogo, o que dava ao jogador uma enorme sensação de satisfação.
+
+Os romances de Jin Yong não existiam naquele mundo, e Heroes of Jin Yong não tinha a mesma riqueza de conteúdo de Wulin Legend. A arte também já não atendia às expectativas dos jogadores de hoje.
+
+Depois de avaliar as opções, Chen Mo concluiu que Wulin Legend se encaixava melhor no que buscava.
+
+Wulin Legend aproveitava pouco dos romances de Jin Yong. Embora fosse um sucessor de Heroes of Jin Yong, suas facções, seus personagens e seus estilos de artes marciais haviam sido praticamente todos criados do zero. Isso tornava o jogo mais fácil de entender para as pessoas daquele mundo.
+
+Quanto ao visual, embora fosse um jogo antigo, Wulin Legend havia ganhado uma nova versão em 2015, com o nome Tale of Wuxia. As ilustrações e os modelos dos personagens haviam sido refeitos. Com a habilidade artística que Chen Mo já tinha, aquilo deveria atender às exigências dos jogadores.
+
+Chen Mo achava que Wulin Legend era um nome mais adequado ao conteúdo do seu jogo do que Tale of Wuxia.
+
+Acima de tudo, a jogabilidade e a história atendiam muito bem ao que ele precisava. As inovações na forma de jogar distinguiam o título dos demais jogos wuxia.
+
+Havia também uma história por trás daquela nova versão.
+
+Wulin Legend fora lançado em 2001. Embora bem recebido, não se tornara um clássico como Chinese Paladin ou Xuan-Yuan Sword.
+
+Além de atrair um público pequeno, o jogo era difícil, tinha um combate desequilibrado e uma história incompleta. Tudo isso contribuiu para que não vingasse.
+
+Esses problemas vinham das limitações de orçamento.
+
+Num mercado assolado pela pirataria, a Heluo Studio acabou se desfazendo. O novo estúdio, Oriental Calculations, também não conseguiu produzir nada de destaque e desapareceu como fogos de artifício no céu noturno.
+
+Em 2006, alguém perguntou no fórum de Wulin Legend:
+
+— A Oriental Calculations ainda existe?
+
+Os jogadores responderam:
+
+— Faz tempo que não ouvimos falar deles. Seria uma pena se tivessem se desfeito.
+
+Em 2009, a publicação recebeu uma resposta de Xu Changlong, fundador da Heluo Studio e produtor de Wulin Legend.
+
+“A Oriental Calculations encerrou todas as atividades há três anos, mas todo mundo da equipe continua na indústria de videogames. Os principais membros também estão trabalhando numa empresa de jogos. Enquanto estivermos por aqui, ainda existe a chance de fazermos jogos melhores.”
+
+Xu Changlong ficou surpreso.
+
+Com o passar do tempo, ele e muitos outros profissionais da indústria haviam deixado de criar jogos para um jogador e se voltado para os jogos online. Faziam coisas que não queriam fazer e se perguntavam que futuro teriam.
+
+Até que encontrou aquela publicação no fórum de Wulin Legend e viu quanta gente ainda discutia o jogo.
+
+Ele não imaginava que, em 2009, tantas pessoas ainda conversassem e recordassem com carinho um jogo de 2001.
+
+Foi esse apoio dos fãs que motivou Xu Changlong a refazer Wulin Legend. Em 2015, lançou Tale of Wuxia, que *em janeiro de 2016 já somava* respeitáveis quatrocentas mil cópias vendidas.
+
+Assim como fizera com Warcraft, Chen Mo preparou um esboço com a visão geral do jogo antes de dividir o trabalho entre Su Jinyu e os demais.
+
+Desta vez, não precisava melhorar seus atributos. Depois de fazer um jogo como Warcraft, desenvolver Wulin Legend seria fácil.
+
+Só precisava relembrar partes mais complexas da ambientação e da história, então recriar o conteúdo com a maior fidelidade possível.
+
+O esboço ficou pronto rapidamente.
+
+O jogo se dividia em dois tipos de atividade: exploração e treinamento.
+
+Já a trajetória do protagonista tinha três etapas: entrar no mundo das artes marciais e explorá-lo, aprender com os mestres e, por fim, voltar a explorar esse mundo para salvá-lo.
+
+Wulin Legend fora tão bem avaliado justamente pela forma como combinava exploração e treinamento.
+
+Para recriar todos os detalhes, Chen Mo ainda precisava das Poções de Reprodução de Memórias. O processo seria praticamente o mesmo de antes. Ele registraria os pontos mais importantes das mecânicas básicas, enquanto os três assistentes cuidariam da história, dos valores do jogo e da arte.
+
+Com o esboço pronto, Chen Mo reuniu Su Jinyu, Zheng Hongxi e Qian Kun.
+
+— Eu pretendia descansar mais, mas os planos mudaram. Este é o documento conceitual do próximo jogo. Deem uma olhada — disse, distribuindo as cópias aos três.
+
+Qian Kun ficou decepcionado.
+
+— Nem é um caça-níqueis...
+
+Zheng Hongxi pareceu interessado.
+
+— Hum? Pelo que vejo, a história é bem rica. E é wuxia, com estilo chinês.
+
+Su Jinyu não entendeu.
+
+— Gerente, você não disse que era difícil fazer um jogo wuxia? Tem tanta coisa nova aqui... Não é arriscado?
+
+— Não se preocupem com isso. Primeiro, familiarizem-se com o jogo. Vou preparar a arte conceitual dos personagens e dos lugares. Peixinho Dourado, desta vez você vai cuidar de toda a arte.
+
+— Hongxi, sua tarefa principal é a história, que segue o estilo wuxia. Ela envolve muitos elementos culturais, como pintura, livros, jogos de tabuleiro e música. Pesquise esses assuntos. O conteúdo precisa se encaixar no jogo, sem ficar superficial nem aprofundado demais.
+
+— Qian Kun, você fica com o sistema de combate e o balanceamento, como antes. Desta vez, o equilíbrio não é tão importante quanto em Warcraft. Algumas habilidades precisam ser especialmente fortes e difíceis de obter. Depois eu explico melhor.
+
+— Por enquanto, é isso. Leiam o documento com atenção, pensem em como o jogo deve ficar e façam os preparativos.
+
+Assim que receberam suas tarefas, os três começaram a trabalhar.
+
+Chen Mo, por sua vez, usou as Poções de Reprodução de Memórias para recordar cenas importantes e detalhes da ambientação do jogo.

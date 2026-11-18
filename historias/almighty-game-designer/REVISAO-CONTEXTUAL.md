@@ -242,3 +242,29 @@ No 117, as 24 torres da mina e as 22 do centro são conjuntos distintos. No 118,
 Validação concluída com testes do leitor, igualdade dos 120 TXT ao conteúdo publicado, títulos, itálicos, navegação e retomada em DOM simulado. Sintaxe de chapters.js e git diff --check aprovados. Dezenove backups conferidos por SHA-256. Os 110 capítulos anteriores são idênticos à versão local anterior. Conferência visual no navegador pendente.
 
 Leitor local até 120, sem TXT pendente nesta obra. Próximo envio 121. Backup em backups/agd-publicar-revisar-111-120-20261117T202050835Z/. Para reverter a integração, restaurar seletivamente leitor, testes, tabela e registros dessa cópia, conciliando edições posteriores. Commit e push manuais.
+
+
+## Revisão e publicação offline 121–130 — 18/11/2026
+
+Comando PUBLIQUE executado no escopo permanente autorizado. Dez capítulos revisados com os anexos enviados e a continuidade acumulada e integrados integralmente ao leitor local. Sequência: sucessivas vitórias de Silent e duelo com Goph (121–122); repercussão e localização internacional (123–124); Copa Fantasy, comentários e críticas (125–127); revelação da identidade e vitória na exibição (128); folga da equipe e divulgação (129); lançamento internacional e reação à cinemática de Illidan (130). Não há lacuna nem final interrompido neste lote. Não foi necessário acrescentar fechamento narrativo ou aplicar nova revisão aos TXT preparados.
+
+Conferência contextual: 4.012 pontos antes do primeiro duelo com Goph e 4.196 revelados na exibição não conflitam, pois o resultado numérico da primeira vitória não fora informado. Goph e Digwa superam Silent durante sua ausência antes da Copa. A exibição não altera o título de Goph, vencedor de Digwa na final. A identidade de Silent só se torna pública no 128. Goph usa as duas mãos após pedido explícito do 127. Seu fracasso em trinta minutos não é confundido com o confronto ranqueado anterior.
+
+No 122, distinguir população de quantidade de unidades, desenvolvimento da base de nível dos heróis e a unidade que se transforma em corvo da ocorrência isolada Druid of the Claw. Mantidas as interpretações em itálico de avanço tecnológico, dois Ancient of Wind e ataques/invocações. Nomes de habilidades e unidades harmonizados com o lote. A piada final conserva a lista da fonte. Mine rush no 123 e exame de inglês de nível seis permanecem marcados, sem transformar hipóteses em fatos confirmados pelo original chinês.
+
+No 125, oito participantes implicam quartas, semifinais e final. A fonte duplica etapas e menciona quartas no segundo dia; a leitura de quartas no primeiro e semifinais no segundo segue em itálico no 125 e no 127. Preservados os prêmios de 500 mil/200 mil/10 mil e o cachê de 50 mil, sem presumir erro pela diferença entre valores. Cerca de 200 mil espectadores iniciais e projeção de 700–800 mil foram distinguidos; o 128 afirma superar a final sem quantificar. A conta dez mais 999 igual a 1.009 e nove milhões de vezes melhor no 126 são piadas deliberadas, preservadas.
+
+No 129, salário de dez mil é distinto de bônus. Oito por cento de cerca de 300 mil de lucro soma cerca de 24 mil para dividir entre Su Jinyu e Zheng Hongxi. Na casa dos dez mil para cada um é compatível com aproximadamente 12 mil se dividido igualmente; a tradução não declara regra exata de divisão. Contrato da Meteorite e receita/lucro não foram confundidos. No 130, teste gratuito corresponde ao primeiro capítulo, não ao jogo completo de 29 dólares. Lançamento ocorre após preparativos e divulgação dos capítulos anteriores. Preço descrito como dobro da versão chinesa preservado sem usar câmbio real externo. Ainda não há contagem de vendas internacionais.
+
+Validação: node --check historias/almighty-game-designer/chapters.js e node tests/reader.test.cjs aprovados. Testes comparam integralmente os 130 TXT aos capítulos do leitor, títulos, marcações, índice, limites, navegação e retomada em DOM simulado, mantendo progresso/preferências isolados entre obras e verificações do Clube. Os 120 capítulos anteriores são idênticos ao backup. Os dez TXT do lote permanecem idênticos às versões revisadas antes da integração. Dezenove arquivos de backup conferidos por SHA-256. Conferência visual nova no navegador não executada. A aplicação e os capítulos de outras obras não foram alterados.
+
+Leitor local até 130, sem TXT pendente nesta obra. Próximo envio 131. Backup: backups/agd-publicar-revisar-121-130-20261118T113143304835Z/. Reversão: restaurar seletivamente conteúdo do leitor, testes, tabela e registros desse backup, conciliando eventuais edições posteriores. TXT originais também estão copiados no backup. Commit, push e implantação remota permanecem manuais, não executados.
+
+
+## Revisão e publicação offline 131–140 — 18/11/2026
+
+Lote revisado e integrado por comando do usuário. Os capítulos 135 e 136 confirmam o lançamento dos quatro mapas. Foram corrigidas as três menções à contagem no 134, marcadas em itálico. Os demais TXT do lote foram integrados conforme preparados. Revisão de continuidade abrangeu a progressão das vendas internacionais e a moeda inferida no 131, a distribuição de tarefas, o concurso de três meses, a distinção entre wuxia e xianxia e o início do desenvolvimento de Wulin Legend. O capítulo 138 mantém a chamada [1] sem o texto da nota na fonte. Nenhum final do lote exigiu complemento.
+
+O teste de sintaxe e os testes do leitor passaram. A suíte conferiu os 140 textos, a navegação e a retomada em ambiente simulado. Os primeiros 130 capítulos foram comparados com a versão anterior e preservados. A revisão visual no navegador não foi executada. Não restam TXT pendentes nesta obra. Próximo envio 141. Commit e push manuais.
+
+Backup local com 19 arquivos verificados por SHA-256 em backups/agd-publicar-revisar-131-140-20261118T120338781425Z/. Para reverter, restaurar seletivamente os arquivos do backup, conciliando edições posteriores.
