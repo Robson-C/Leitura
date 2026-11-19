@@ -1,0 +1,87 @@
+Capítulo 185 — O próximo jogo será Diablo
+
+— Nossa, você trabalha demais, gerente! Acabou de voltar das férias! Mas me conta: que tipo de jogo você pretende fazer? — perguntou Zou Zhuo.
+
+Chen Mo sorriu.
+
+— Calma lá. Primeiro preciso pesquisar um pouco e ver se é viável.
+
+Zou Zhuo assentiu.
+
+— Certo! Se é um jogo novo do gerente, com certeza vai ser bom!
+
+...
+
+Chen Mo fez uma pesquisa rápida sobre RPGs para um jogador, tanto para PC quanto para realidade virtual.
+
+Basicamente, os MMORPGs dominavam o gênero, dentro e fora da China. Havia várias vantagens nesse formato, e a principal era que a interação entre os jogadores prolongava a vida útil do jogo e, consequentemente, o período em que ele continuava dando lucro.
+
+Ainda existiam RPGs tradicionais, mas eles recebiam muito menos atenção do que antes. Naturalmente, também havia menos títulos de alta qualidade.
+
+Essa era uma das grandes armadilhas em que aquele mundo havia caído: dar importância excessiva aos MMORPGs provocara uma série de efeitos em cadeia.
+
+A maioria desses jogos usava uma perspectiva em primeira pessoa e dava grande destaque ao visual.
+
+Isso acontecia porque se considerava que a visão em primeira pessoa aumentava a imersão. Combinada com gráficos de alta qualidade, ela incentivava os jogadores a passar mais tempo naquele mundo.
+
+No entanto, isso criava um problema: com um campo de visão menor, a quantidade de informações disponível ao jogador ficava muito limitada, dificultando o combate contra grandes grupos de inimigos.
+
+Além disso, na maioria dos MMORPGs, os jogadores lutavam em grupo. Já havia muitas pessoas na tela; se também fossem acrescentados muitos monstros, tudo ficaria confuso, sobrecarregando os jogadores de informações.
+
+Na realidade virtual, a situação era bem melhor. Porém, como a maioria dos jogos de VR era adaptada de versões para PC, ainda acabava, em maior ou menor grau, influenciada por elas.
+
+Somado a outros fatores, isso resultara na escassez de jogos do tipo hack and slash naquele mundo, focados em enfrentar e eliminar grandes quantidades de inimigos.
+
+Esse também era um dos motivos da popularidade dos mapas de RPG de Warcraft. Os jogadores gostavam da sensação de serem poderosos, de derrubar vários inimigos com um único golpe, mas não sabiam identificar exatamente o que queriam. Assim, esse desejo nunca chegava aos ouvidos dos desenvolvedores.
+
+É claro que, mesmo que percebessem essa demanda, os desenvolvedores talvez não conseguissem atendê-la. Embora um hack and slash pudesse parecer simples de fazer, havia muitos detalhes técnicos envolvidos. Se o projeto não fosse bem executado, os jogadores logo o abandonariam.
+
+Por coincidência, Chen Mo tinha em mente um excelente hack and slash. Poderia usá-lo como uma etapa de transição para entrar no gênero de RPGs e, de quebra, preencher uma lacuna naquele mundo.
+
+Na recepção, Chen Mo ligou o notebook e começou a escrever o documento de conceito de Diablo.
+
+Desenvolver Diablo seria mais difícil para ele do que criar Warcraft. O jogo precisaria ter uma qualidade comparável à de Diablo 3, o que exigiria muito mais recursos do que Warcraft.
+
+A maior parte dos mapas de Warcraft podia ser produzida no editor de mapas. O mesmo não valia para Diablo: seus mapas eram gerados dinamicamente e precisavam manter um alto padrão de qualidade. Esse seria um grande desafio para Chen Mo.
+
+Diablo seria uma boa obra de transição. Chen Mo nunca havia criado um RPG, e se lançar diretamente em um MMORPG seria arriscado.
+
+Além disso, mesmo em seu mundo anterior, Diablo tinha uma temática e uma jogabilidade muito próprias. Havia muitos jogos inspirados nele, mas nenhum conseguira superar o original.
+
+Continuava sendo um dos maiores clássicos do hack and slash.
+
+Por fim, faltava escolher qual versão recriar.
+
+Diablo 1 era antigo demais e tinha uma jogabilidade simples.
+
+Diablo 2 era um clássico atemporal e havia aberto caminho para os jogos daquele estilo. Além disso, sua atmosfera e sua jogabilidade eram as que melhor representavam a essência de Diablo.
+
+Ainda assim, Diablo 2 também já era bastante antigo. Embora muitos de seus conceitos continuassem excelentes, o sistema de combate, a interface e o visual não haviam envelhecido tão bem.
+
+Diablo 3 também fizera muito sucesso, mas os fãs da série sentiam que ele nunca alcançara o nível de Diablo 2. Apesar dos belos gráficos, faltava algo daquilo que os jogadores procuravam em um Diablo.
+
+Com suas habilidades atuais, Chen Mo não teria problemas para produzir Diablo 2 ou Diablo 3. A qualidade técnica de seu jogo poderia chegar ao nível de Diablo 3; portanto, o que precisava decidir era a atmosfera e a jogabilidade que adotaria.
+
+Chen Mo decidiu usar Diablo 3 como base, aproveitando a construção do mundo, a história e a direção de arte. Ao mesmo tempo, faria ajustes na jogabilidade e no visual para aproximá-los de Diablo 2.
+
+Um dos motivos pelos quais os fãs mais antigos não gostavam de Diablo 3 estava justamente na direção de arte e na jogabilidade.
+
+Diablo 2 usava celas escuras e úmidas, monstros estranhos, rastros de sangue e membros decepados para construir uma atmosfera assustadora. O campo de visão limitado também obrigava os jogadores a avançar com cautela. Somados à música e aos efeitos sonoros, esses elementos os mantinham constantemente em alerta.
+
+Diablo 3, por sua vez, abrira mão de parte desse estilo visual. Talvez na tentativa de deixar o jogo mais bonito, acabara perdendo aquela atmosfera sombria, misteriosa e assustadora.
+
+Ao mesmo tempo, Diablo 3 era muito mais fácil. A maioria dos jogadores conseguia passar pelas fases sem grande dificuldade, o que tornava a vitória contra os chefes menos gratificante.
+
+Chen Mo queria criar um jogo que preservasse ao máximo a essência de Diablo. Reproduzir aquela atmosfera daria mais significado à matança de monstros e, por consequência, prolongaria a vida útil do jogo.
+
+É claro que ainda havia alguns obstáculos pela frente.
+
+O maior deles seria conseguir a aprovação na análise regulatória.
+
+Em seu mundo anterior, Diablo teria dificuldades para passar por esse processo, e Diablo 3 levara bastante tempo até ser aprovado.
+
+No entanto, aquele mundo paralelo era mais tolerante com sangue e temas violentos, desde que houvesse restrições de idade. Além disso, Chen Mo fazia parte do Comitê, o que certamente ajudaria na avaliação do jogo.
+
+Provavelmente, o processo seria mais fácil se ele apresentasse o conceito ao Comitê com antecedência, antes da análise da versão final.
+
+O próximo passo era elaborar um esboço geral do projeto e planejar os diversos aspectos do jogo.

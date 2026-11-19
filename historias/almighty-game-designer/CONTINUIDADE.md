@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 18/11/2026: leitor offline até 160. Nenhum TXT pendente nesta obra. Próximo envio 161; próxima revisão a partir do 161.
+Estado em 19/11/2026: leitor offline até 190. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 191.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -1824,3 +1824,293 @@ No 157, nove pessoas são da equipe original na vida anterior, não novas contra
 Leitor local até 160, sem TXT pendente em Almighty Game Designer. Próximo envio 161; próxima revisão a partir do 161. Clube da Longevidade, aplicação, chaves de progresso e preferências preservados. Commit, push e implantação remota não executados. Backup prévio com dezenove arquivos: backups/agd-publicar-revisar-151-160-20261118-220658/, SHA256.json e ALTERACOES.diff. Reversão seletiva restaura arquivos do backup conciliando mudanças posteriores; dez TXT também preservados antes da revisão. Validação registrada após execução abaixo.
 
 Validação concluída: node --check para app.js, chapters.js das duas obras, books.js e catalog.js; node tests/reader.test.cjs; git diff --check aprovados. Suíte compara integralmente os 160 TXT aos capítulos publicados e confere títulos, marcações, limites, navegação e retomada em DOM simulado. Os 150 objetos anteriores preservados; dezenove backups íntegros por SHA256; sete arquivos protegidos (Clube e aplicação) idênticos. Revisão visual nova no navegador não executada. Avisos de conversão LF/CRLF do Git são de configuração local e não são falhas de validação.
+
+
+## Capítulo 161 — Onmyoji desafia as regras de Qiu Bin — 19/11/2026
+
+Anexo f383ab5d-ee4e-4c2a-9c65-618d5e607819. Numeração sequencial e título descritivo provisório; data editorial removida. Primeiras partidas de Onmyoji, interface limpa, câmera 3D, invocação por símbolo e história de Inugami/pardal. Aba de personagens, correio e bate-papo no alto mantidos. Raposa branca mascarada não nomeada na fonte, sem adivinhar identidade. Relação entre espécies descrita sem pressupor romance. Yuki Onna SR inicial parece garantida segundo jogador; distinguir de garantia aleatória SR/SSR removida no 159. Despertar e Almas como sistemas de desenvolvimento, quatro onmyojis distintos dos shikigamis.
+
+Qiu Bin observa ruptura dos três princípios de sua palestra. Cinco ou seis horas no primeiro dia, orçamento de dezenas de milhões e potencial domínio de mercado são observações/estimativas e opiniões, sem receita nova confirmada. Onmyoji sem IP interpretado no contexto como ausência de franquia amplamente conhecida, conforme 154 e 156, preservando folclore e referências existentes. Lapso most games normalizado maioria dos jogadores. Demais nomes mantidos, incluindo Abe no Seimei, Yuki Onna, Inugami e Shuten Douji. Final completo.
+
+TXT 161 conferido em UTF-8 e tabela JSON válida. Leitor até 160. TXT 161 aguarda revisão e integração por publique. Próximo envio 162. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-161-20261119T105618422606Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 161.
+
+
+## Capítulo 162 — As dicas nada úteis de Chen Mo — 19/11/2026
+
+Anexo e513bebf-8134-4ec0-a24f-a5b75571b451. Numeração sequencial, título descritivo provisório e data editorial removida. Loja tomada por Onmyoji, Aoandon SSR de Zheng Hongxi, tentativa de compra por 300 yuans recusada; Wen recarrega 300. Remuneração de Wen por desenho é 5 mil. Game Pass com documento/telefone limita contas de invocações iniciais; menção ao problema do lançamento original lida na comparação com vida anterior. Nota 8,8 é escala geral da loja, cinco/uma estrelas são avaliações individuais.
+
+Bugger team traduzido provisoriamente equipe dos Encrenqueiros, em itálico, com nota de referência à guilda I Am MT preservada. Bot reviews repetido na fonte interpretado como avaliações artificiais entre críticas negativas, em itálico. Quinze verbetes do guia humorístico preservados. SSR inexistente, desenho/esquisitice influenciar sorte e os demais exageros pertencem ao humor da postagem, não regras reais novas. Watcher traduzido Observador e Face como Cara, ambos em itálico pela ausência de definição contextual segura. Goryou mantido sem expandir. Novos rótulos de interface provisórios: Parada dos Demônios, Pergaminhos dos Shikigamis, Cartas de Reino, Invasão de Reino, Passe de Talismãs e Invocação por Voz. Final completo.
+
+TXT 162 conferido em UTF-8, quatro marcações equilibradas e tabela JSON válida. Leitor até 160. TXT 161–162 aguardam revisão e integração por publique. Próximo envio 163. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-162-20261119T105743544227Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 162.
+
+
+## Capítulo 163 — Os jogadores migram para Onmyoji — 19/11/2026
+
+Anexo 33099b2d-9977-4213-9ebc-bec10c8272b7. Numeração sequencial, título descritivo provisório e data editorial removida. Reação ao guia do 162, migração de comunidades e queda dos concorrentes. Valores de duzentos já gastos e trezentos planejados pertencem a jogador anônimo. Cinco SSR são ostentação de outro participante; fala sobre gastar mais não é garantia do sistema. Raridade versus força e utilidade dos R/SR preservadas. Ubume, Shouzu, Kyuuketsu Hime e Ootengu mantidos. Mirror Lady traduzido provisoriamente Dama do Espelho, em itálico, sem substituir por nome japonês não fornecido. Cara mantém incerteza do 162. Best sellers traduzido lista dos mais rentáveis, pois discussão é receita. Correções de most/post e caracteres corrompidos sem acrescentar narrativa. Ainda não há retenção, receita ou número de ativos exatos de Onmyoji; superar Demon Slayers 2 permanece expectativa. Final completo.
+
+TXT 163 conferido em UTF-8, duas marcações equilibradas e tabela JSON válida. Leitor até 160. TXT 161–163 aguardam revisão e integração por publique. Próximo envio 164. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-163-20261119T105851894347Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 163.
+
+
+## Capítulo 164 — O primeiro mês de Onmyoji — 19/11/2026
+
+Anexo 131b8b84-448d-411f-aedf-613200195a1f. Número sequencial, título descritivo provisório e data editorial removida. Ativos diários acima de 2 milhões no dia 19, 3,9 milhões no dia 28 e acima de 4 milhões ao final do mês. Resumo posterior arredonda pico para quatro milhões. Projeção de dez milhões em noventa dias explicitada como ativos diários em itálico conforme frase seguinte. Receita 370 milhões, retenção D2 47%, média 221,3 interpretada por jogador pagante em itálico pelo contexto de gastos e uso semelhante no 158. Não inferir taxa ou número de pagantes usando DAU. Receita mensal não equivale a DAU multiplicado pela média por usuário.
+
+Fonte traz estimativas anteriores superiores a um bilhão e comparação com vida anterior de seis/catorze bilhões. Preservadas como aparecem, em itálico por possível erro de escala da tradução inglesa; não converter a cem milhões/seiscentos milhões/1,4 bilhão sem evidência textual suficiente. Não confundir esses números incertos com a receita efetivamente confirmada de 370 milhões. Comparação order of magnitude com 65 milhões corrigida para quase seis vezes, em itálico: 370/65 aproximadamente 5,69. 14,1 bilhões são visualizações do assunto, 270 mil são avaliações da loja. Mais de 200 milhões recebidos e custo dez e tantos milhões são falas/especulação de designers, não resultado líquido auditado. Menor que uma chance em dez mil é reclamação de jogador, não mudança da chance SSR 1% do 158. Ausência de garantia aleatória compatível com 159 e com Yuki Onna inicial no 161. Final completo.
+
+TXT 164 conferido em UTF-8, sete marcações equilibradas e tabela JSON válida. Leitor até 160. TXT 161–164 aguardam revisão e integração por publique. Próximo envio 165. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-164-20261119T110006879101Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 164.
+
+
+## Capítulo 165 — Chen Mo ensina a invocar SSR — 19/11/2026
+
+Anexo 6f4485cc-3403-4039-ac2b-1b5fded3da48. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Anuncia amanhã às 20h, sala 10013 Moyu, e narrativa avança à transmissão nesse horário. Mais de 50 mil compartilhamentos. Três cosplayers e apresentadora, cinco poltronas com Chen Mo. Celular novo, conta com documento/telefone de funcionário compatível com 162; criação aleatória de olhos fechados preservada sem inventar identidade. Alegação de impossibilidade de manipulação pertence à fala dele. Gokuraku Jodo mantido.
+
+Recarga de 30 mil yuans, apresentadora gastou cerca de 800. Yuki Onna inicial garantida, seguida de R Sanbi no Kitsune/Kodokushi/Hotarugusa. Ao final de uma hora, mais uma Yuki Onna e Youko SR, nenhum SSR. Não inferir quantidade total de invocações ou probabilidades modificadas. Métodos supersticiosos e SSR inexistente são humor, não novas regras do sistema. Fechamento de aspas recuperado no último comentário completo, sem complemento narrativo necessário.
+
+TXT 165 conferido em UTF-8 e tabela JSON válida. Leitor até 160. TXT 161–165 aguardam revisão e integração por publique. Próximo envio 166. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-165-20261119T110121815944Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 165.
+
+
+## Capítulo 166 — Han Lu volta a entrevistar Chen Mo — 19/11/2026
+
+Anexo be16a84e-f4e1-4c49-b491-5c92fe91ce0c. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Memes da transmissão diminuem hostilidade. Conclusão de probabilidades iguais pertence aos jogadores, não verificação técnica independente. Han Lu do Tianji.com retorna; slogans da primeira entrevista harmonizados com capítulo 81. Estátua Kagura 1,5 m e miniaturas Ootengu/Shuten Douji/Ibaraki Douji/Aoandon. Pedidos por sorte e relatos de SSR preservados sem afirmar causalidade real. Venda de miniaturas sem valor informado. Receita superior a 300 milhões em fala compatível com 370 milhões do 164. Pergunta final completa, ainda sem resposta de Chen Mo. Nenhum complemento narrativo.
+
+TXT 166 conferido em UTF-8 e tabela JSON válida. Leitor até 160. TXT 161–166 aguardam revisão e integração por publique. Próximo envio 167. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-166-20261119T110240806929Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 166.
+
+
+## Capítulo 167 — Dezoito meses de salário como bônus — 19/11/2026
+
+Anexo d786f1aa-c582-495f-a45c-019cff5e1c21. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Entrevista continua: discurso criar felicidade com dedicação, equilíbrio do jogo, bônus equivalente a dezoito salários confirmado como trimestral. Não converter para total monetário sem informação adicional. Contratações planejadas, sem prazo definido. Dar jade tratado como perda é argumento irônico de Chen Mo, sem classificá-lo como despesa real ou lucro dos jogadores. Cem/duzentos jades por dia são exemplo hipotético, não nova promessa de recompensa diária fixa.
+
+Pensamento de Han Lu com duzentos milhões de receita contradiz faturamento bruto de 370 milhões no 164 e a menção superior a 300 milhões no 166. Interpretado como mais de duzentos milhões para Chen Mo, em itálico, seguindo valor recebido especulado no 164. Não alterar o faturamento confirmado nem afirmar cálculo auditado. Mudança do modelo de Warcraft é brincadeira interrompida por Han Lu, sem alteração efetiva. Fala final de domínio de mercado é declaração de confiança, não aquisição ou monopólio legal confirmado. Aspas/diálogos regularizados e final completo.
+
+TXT 167 conferido em UTF-8, uma interpretação monetária equilibrada e tabela JSON válida. Leitor até 160. TXT 161–167 aguardam revisão e integração por publique. Próximo envio 168. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-167-20261119T110350773038Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 167.
+
+
+## Capítulo 168 — Dinheiro para dar o próximo passo — 19/11/2026
+
+Anexo fd2198f5-af10-40af-9c33-0f8caa6c6b2a. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Entrevista duas horas, publicação três dias depois. Retomada criar felicidade com dedicação e bônus trimestral. Tale of Wuxia no comentário normalizado Wulin Legend em itálico, nome escolhido no 139; ocorrência posterior também harmonizada. Warcraft 5,7 milhões de cópias e 630 milhões recebidos por Chen Mo; não tomar preço chinês como preço universal devido versões estrangeiras. Onmyoji 260 milhões interpretados como parcela recebida, em itálico, compatível com 370 milhões brutos e 70% aproximados = 259 milhões. Não reduzir faturamento do 164. Projeção 500–600 milhões para mês seguinte permanece expectativa, não resultado.
+
+Custos Warcraft mais de 80 milhões, Onmyoji cerca de 20 milhões, caixa perto de 700 milhões após publicidade não quantificada. Não inventar custos para fechar conta exata. AAA de PC perto de 40 milhões de dólares e adaptação VR 200 milhões preservados. Multiplicador geral de dez vezes para desenvolvimento VR marcado em itálico pela relação de cinco vezes entre os exemplos; produção e adaptação podem ter bases diferentes, não substituir números por hipótese. Ampliação de equipe e instalações ainda planejada. Final completo.
+
+TXT 168 conferido em UTF-8, três marcações equilibradas e tabela JSON válida. Leitor até 160. TXT 161–168 aguardam revisão e integração por publique. Próximo envio 169. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-168-20261119T110507104794Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 168.
+
+
+## Capítulo 169 — O convite do Comitê de Jogos — 19/11/2026
+
+Anexo b95451fb-dfc7-45b8-a27c-ca64c8fc7873. Numeração sequencial, título descritivo provisório e data editorial removida. Chen Mo planeja cerca de vinte pessoas, com especialistas/apoio podendo ampliar total; contratações ainda não efetuadas. Não melhorou atributos desde Warcraft. Balanceamento numérico mantém função de Qian Kun distinta do roteirista e assistente. Qiao Hua, responsável pela área cultural, convida para membro honorário e informa promoção a classe A. Chen Mo consulta Lin Mao (classe C) e Qiu Hengyang (membro honorário), decide aceitar, sem confirmação de retorno da ligação nesse capítulo. Qiu Heng Yan padronizado Qiu Hengyang, distinto de Qiu Bin. hengyang.com preservado como nome fornecido. Vantagens de análise/divulgação/recursos são explicação de Qiu no mundo ficcional. Final completo antes da exibição dos dados no editor.
+
+TXT 169 conferido em UTF-8 e tabela JSON válida. Leitor até 160. TXT 161–169 aguardam revisão e integração por publique. Próximo envio 170. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-169-20261119T110620606766Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 169.
+
+
+## Capítulo 170 — O segundo nível do sistema — 19/11/2026
+
+Anexo f00d99e6-64d8-4b1a-a886-b6381b07907e. Numeração sequencial, título descritivo provisório, data editorial removida e créditos Exodus Tales/nota [1] preservados. Avaliação externa Illusion classe A: 80/73/77/88/83/64 e recursos 3GB/360GB. Distinguir dos atributos da pulseira. Pulseira repete valores 80/84/40/41/36 do 101 e déficit 219 do 111, apesar de rodadas adicionais naquele capítulo. Valores e déficit preservados em itálico por aparente inconsistência da fonte, sem inventar progresso intermediário. 219 é soma das diferenças até cem. 73 rodadas de dez = 730 tentativas; 30% úteis implicam 219, custo bruto 7,3 milhões aproximado por sete milhões antes de créditos recuperados. Não transformar 73 rodadas em 73 tentativas.
+
+Completa nível um e avança ao segundo. Sim/Confirmar é piada deliberada. Antigo giro 100 mil créditos = 10 mil yuans. Novo giro 100 diamantes vezes mil yuans = 100 mil yuans, dez vezes mais caro. Primeiro livro é Design de Narrativa nível dois. Design agora Balanceamento Numérico/Narrativa/Conhecimentos Profissionais; Apresentação Arte/Música/Cenas Cinematográficas; Equipamentos Consumíveis/Melhorias Permanentes. Terceiro nível é hipótese de Chen Mo. Nenhum novo MMORPG/VR iniciado. Final completo.
+
+TXT 170 conferido em UTF-8, seis marcações equilibradas e tabela JSON válida. Leitor até 160. TXT 161–170 aguardam revisão e integração por publique. Próximo envio 171. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-170-20261119T110739770493Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 170.
+
+
+## Revisão e publicação offline 161–170 — 19/11/2026
+
+Comando publique executado. Dez capítulos revisados e integrados integralmente. Continuidade conferida desde as primeiras partidas de Onmyoji até os resultados mensais, reclamações sobre SSR, transmissão de Chen Mo, entrevista de Han Lu, planejamento de expansão, convite do Comitê e segundo nível da pulseira. Títulos descritivos provisórios. Não houve final cortado que exigisse complemento. Os TXT preparados foram preservados na integração.
+
+Conferência numérica: 370 milhões de receita mensal e 260 milhões como parcela recebida, em itálico no 168, são compatíveis com a participação próxima de setenta por cento; 221,3 interpretado como média por pagante permanece em itálico no 164, sem inferir retenção ou pagantes a partir do pico de quatro milhões de ativos diários. Receita de 65 milhões do rival é superada em aproximadamente 5,69 vezes, leitura corrigida no 164 para quase seis vezes. As estimativas em bilhões e os seis/catorze bilhões da comparação com a vida anterior permanecem como na fonte, em itálico, por falta de evidência para escolher outra escala. Não foram confundidas com os 14,1 bilhões de visualizações no Weibo.
+
+No 165, recarga de trinta mil yuans não informa total de invocações. Yuki Onna inicial garantida é distinta dos resultados aleatórios sem garantia SR/SSR do 159. Duas SR adicionais e nenhum SSR na transmissão são preservados. Superstições de desenho, fala e estátua não alteram as probabilidades do jogo. Rótulos ambíguos Observador/Cara, Dama do Espelho e Encrenqueiros continuam marcados. Bônus de dezoito salários é trimestral. Dinheiro dado em jade é argumento irônico da entrevista, não despesa ou lucro auditado. Quatro personagens da equipe não foram confundidos com o plano de vinte contratações e especialistas adicionais.
+
+No 170, avaliação externa do Illusion e valores da pulseira são separados. A fonte repete 80/84/40/41/36 e déficit 219 apesar das rodadas do 111; inconsistência permanece marcada, sem inventar atributos substitutos. 73 rodadas de dez são 730 tentativas, cerca de 7,3 milhões brutos na tabela antiga, apresentados pela fonte como cerca de sete milhões. Novo preço: cem diamantes vezes mil yuans = cem mil yuans por tentativa, dez vezes o custo antigo de dez mil. Preço de cem mil créditos do nível um não foi confundido com cem mil yuans. Primeiro livro do nível dois é Design de Narrativa. Grau S e eventual terceiro nível da pulseira permanecem objetivos/hipóteses futuros.
+
+Validação concluída: node --check historias/almighty-game-designer/chapters.js, node tests/reader.test.cjs e git diff --check aprovados. Suíte comparou integralmente os 170 TXT aos capítulos publicados, títulos, marcações, índice, limites, navegação e retomada em DOM simulado. Os primeiros 160 objetos de capítulo e os dez novos TXT são idênticos às versões anteriores à integração. Dezenove arquivos de backup conferidos por SHA-256 e sete arquivos de aplicação/Clube conferidos por hash. Conferência visual nova no navegador não executada.
+
+Leitor até 170, sem TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 171. Backup local em backups/agd-publicar-revisar-161-170-20261119T110840806032Z/. Reversão seletiva restaura arquivos desse backup conciliando mudanças posteriores. Commit, push e implantação remota permanecem manuais.
+
+
+## Capítulo 171 — Contratações e um convite para a YouPlay — 19/11/2026
+
+Anexo 612792ed-9989-4ed6-923a-a17cd98a4d67. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Chen Mo adia novos sorteios e planeja quinze a vinte contratações com salários 30% acima da média, bônus à parte. Equipe filtra candidatos, prazo previsto um/dois meses. Aluga cafeteria vizinha e adapta como escritório, sem mudar a loja principal. Qiao Hua liga sobre YouPlay do mês seguinte em janeiro na Cidade Mágica. Cronologia ficcional independente da data real do chat; sem inventar ano. Aceitação do cargo honorário ocorreu dias antes segundo o texto, avançando a decisão do 169. Qian Hua normalizado Qiao Hua. Tales of Wuxia harmonizado Wulin Legend.
+
+Mean with their money em reação positiva aos salários interpretado são generosos mesmo, marcado em itálico. Requisitos cinco anos relacionados à arte e dois trabalhando com arte são redundantes na fonte; preservados com segunda parte em itálico sem inventar exigência de gestão. Próxima revisão pode esclarecer caso outro capítulo forneça detalhes. Candidatos promissores podem ter requisitos flexibilizados conforme ordem de Chen Mo. Arte/música/terceirização e operação Onmyoji como novas responsabilidades, não novas pessoas já contratadas. Final completo.
+
+TXT 171 conferido em UTF-8, duas marcações equilibradas e tabela JSON válida. Leitor até 170. TXT 171 aguarda revisão e integração por publique. Próximo envio 172. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-171-20261119T115620048023Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 171.
+
+
+## Capítulo 172 — Os preparativos para a YouPlay — 19/11/2026
+
+Anexo 65e2836b-e9a1-443e-93be-711139190aa0. Número sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. YouPlay New World Expo/Cidade Mágica, três áreas N/W/E, catorze pavilhões, grandes N1–N3. Thunderbolt N2, mesmo pavilhão da Emperor, duas áreas Warcraft/Onmyoji. Emperor Dynasty Emperor e Onmyojim normalizados. Falta um mês no início, um mês passa depois, evento em dias. Equipe encerra seleção, admite contratados após Ano-Novo Chinês. Cafeteria pronta para escritório. Chen Mo convida todos com passagens/ingressos custeados.
+
+Fonte diz impossível fazer jogo móvel e em seguida cria casual sozinho; primeira afirmação interpretada jogo móvel de maior porte e marcada em itálico para conciliar a escala do projeto. Novo quebra-cabeça ainda sem título informado. Produção de fases é foco, não mudança de atributos da pulseira. Final completo.
+
+TXT 172 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 170. TXT 171–172 aguardam revisão e integração por publique. Próximo envio 173. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-172-20261119T115729299128Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 172.
+
+
+## Capítulo 173 — O estande da Thunderbolt — 19/11/2026
+
+Anexo e7bf8c40-239c-41b6-93ba-23d2c40d6d74. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Grupo na entrada 3, atravessa N5 rumo a N2 e vê Zen antes da Emperor/Thunderbolt. Participação de novos funcionários não antecipa necessariamente data de início contratual após Ano-Novo. Wen lost a little bit of humanity interpretado perdeu fé na humanidade; Of course not isolado interpretado ninguém concordou; descrição da estátua como pós-banquete/embriaguez preservada sem identificar deusa externa. Três trechos em itálico. Winged World e Moon Lord’s Prophecy mantidos como títulos novos fornecidos, não substituir por suposições. Emperor Dynasty Entertainment normalizado na ocorrência corrompida. Estande lotado compara público, não dimensão física ao das grandes empresas. Warcraft/Onmyoji, Arthas e cosplays conferidos. Novo quebra-cabeça ainda não mostrado. Final completo.
+
+TXT 173 conferido em UTF-8, três marcações equilibradas e tabela JSON válida. Leitor até 170. TXT 171–173 aguardam revisão e integração por publique. Próximo envio 174. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-173-20261119T115841826223Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 173.
+
+
+## Capítulo 174 — A disputa pela atenção na feira — 19/11/2026
+
+Anexo f3b0584c-76d8-4c37-9a9b-ff564f730b88. Numeração sequencial, título descritivo provisório e data editorial removida. Contas de teste Onmyoji com todos SSR; não alteram chance das contas normais. Disputa de público: dança Emperor, Gokuraku Jodo Thunderbolt, torneio Moon Lord’s Prophecy com conta-premiação, autógrafos Goph/Digwa/Nightwind/Kaiser, demonstração VR Journey of the Marksman. Contas podem valer dezenas de milhares segundo narrativa, sem valor exato. Quase vinte minutos de autógrafos; Goph recusa nova partida, coerente com derrotas anteriores. Emperor Dynasty Emperor normalizado. Demonstração do novo quebra-cabeça ainda não mostrada. Final completo.
+
+TXT 174 conferido em UTF-8 e tabela JSON válida. Leitor até 170. TXT 171–174 aguardam revisão e integração por publique. Próximo envio 175. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-174-20261119T115955360265Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 174.
+
+
+## Capítulo 175 — Anipop chega à feira — 19/11/2026
+
+Anexo f69a82a0-3211-4eef-a288-9eea5ae00992. Numeração sequencial, título descritivo provisório e data editorial removida. Chen Mo apresenta Anipop, quebra-cabeça casual match-three, 120 MB e download grátis via QR. Atrai público nas filas da Emperor sem alegar que tenha título VR. História da semente/trepadeira/casa do prefeito e resgate pelos animais preservada. Limite de movimentos, sem cronômetro, progressão e três estrelas conferidos.
+
+Tiring for the sounds interpretado ouvidos; quatro/cinco different animals interpretado animais do mesmo tipo pois regra exige correspondência; two different animals together interpretado combinação de efeitos especiais conforme contexto da bomba. Três interpretações em itálico. Não acrescentar mecânicas ou monetização externas ao anexo. Reações iniciais favoráveis sem número de downloads. Final completo.
+
+TXT 175 conferido em UTF-8, três marcações equilibradas e tabela JSON válida. Leitor até 170. TXT 171–175 aguardam revisão e integração por publique. Próximo envio 176. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-175-20261119T120104078033Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 175.
+
+
+## Capítulo 176 — Um jogo de celular contra a realidade virtual — 19/11/2026
+
+Anexo 37a6ab07-8b97-4ce3-8cdb-1bc3a1b99935. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Histórico Anipop da vida anterior: dez milhões ativos em cinco meses, depois cinquenta milhões; mais de 1.200 fases/cinco categorias e trinta e seis versões dos modelos. Não atribuir esses resultados à estreia na feira nem garantir 1.200 fases na versão feita em um mês. Recurso de enviar/solicitar power-ups traduzido itens de ajuda; fala out of powers segue leitura com itálico por possível referência a energia. Lista de obstáculos preservada sem nomes oficiais externos. Duas semanas preso é depoimento anedótico e não invalida dificuldade usual de progresso diário.
+
+Jogadores adiam testes da Emperor para concluir fases. Cabines vazias é provocação de Chen Mo, contraposta pela fila citada pelo funcionário; não tomar como contagem independente. Saury, cosplayer/dançarina, troca contato e não aceita emprego ou salário definido. Troca de pronomes do inglês normalizada para personagens da cena. Under age of then corrigido para dez anos, Anipo para Anipop. Final completo.
+
+TXT 176 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 170. TXT 171–176 aguardam revisão e integração por publique. Próximo envio 177. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-176-20261119T120218495896Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 176.
+
+
+## Capítulo 177 — O convite para a premiação anual — 19/11/2026
+
+Anexo 55aa1e90-2e9b-4fe2-a0df-a5682ad5522f. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. YouPlay durou três dias. Anipop lançado nas duas plataformas após a feira: 460 mil downloads no dia um, mais de 3,5 milhões em quinze dias e 1,5 milhão de ativos diários. Distinguir histórico de cinquenta milhões da vida anterior do 176. To Magic City no retorno das contratações interpretado da Cidade Mágica e marcado em itálico, conforme volta à sede e parágrafo seguinte. Seleção quase concluída; início após Ano-Novo. Jogos próprios dos assistentes permitidos como exercício, ainda sem títulos.
+
+Premiação Comitê anual geralmente meados de janeiro, evento de dois dias com entrega na noite do segundo. Tempo da narrativa independente da data editorial. Formalização do cargo honorário ocorrerá na cerimônia; convite aceito antes. Dois anos de carreira mantidos. Chen Mo cogita prêmios estreante/mobile sem resultado anunciado. Final completo.
+
+TXT 177 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 170. TXT 171–177 aguardam revisão e integração por publique. Próximo envio 178. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-177-20261119T120327881228Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 177.
+
+
+## Capítulo 178 — Palestras e um reencontro inesperado — 19/11/2026
+
+Anexo c9ae9426-4083-4e59-8d03-f389adcea3de. Numeração sequencial, título descritivo provisório e data editorial removida. Qiu Hengyang classe A após quatro/cinco anos entre B e A, distinto de Qiu Bin. Um ano referido à promoção B–A de Chen Mo compatível com dois anos totais na indústria. Warcraft iniciado outubro do ano anterior e duração superior a meio ano preservados sem adivinhar ano absoluto. Mais de dez palestras por dia e média duas horas com sessões simultâneas, Ran He classe S da Zen apresenta Heavy Assault por quase duas horas. FPS hard to get into contextualizado dificuldade de desenvolver conforme tema da palestra.
+
+Após palestra e almoço, Saury revela-se designer por explicação de Qiu, melhor que os dois; não inventar classe, nome pessoal ou jogo dela antes da próxima fonte. Ligação à dança da feira continua válida. Formalização de membro pendente da cerimônia, não negar aceitação anterior. Final completo.
+
+TXT 178 conferido em UTF-8 e tabela JSON válida. Leitor até 170. TXT 171–178 aguardam revisão e integração por publique. Próximo envio 179. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-178-20261119T120435724222Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 178.
+
+
+## Capítulo 179 — A verdadeira identidade de Saury — 19/11/2026
+
+Anexo 5a150ce3-aa39-4b3b-bca4-0e5eaf030b8e. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Saury é nome artístico de Qiu Jiang, classe S da Emperor, criadora de Moon Lord’s Prophecy, vinte e oito anos. Distinta de Qiu Hengyang e Qiu Bin. Comparação inicial de classe B é provocação dela, corrigida imediatamente por Qiu Hengyang para A. Ascensão de Chen a S em dois anos é expectativa pessoal. Fantasy IP contextualizado fantasia chinesa em duas ocorrências marcadas, pois contrasta com xianxia e cita romances chineses; sem substituir por rótulo externo específico. Palestra de Qiu Bin cancelada por motivos pessoais, aviso de dois dias antes não recebido pela equipe; não inventar motivo real. Final completo.
+
+TXT 179 conferido em UTF-8, duas marcações equilibradas e tabela JSON válida. Leitor até 170. TXT 171–179 aguardam revisão e integração por publique. Próximo envio 180. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-179-20261119T120544016132Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 179.
+
+
+## Capítulo 180 — Chen Mo assume a palestra de Qiu Bin — 19/11/2026
+
+Anexo b1949d2e-e266-4405-9d1b-bfc3d75b20aa. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Qiu Jiang chama Chen Mo ao palco para substituir Qiu Bin, cujo cancelamento é explicado pela derrota comercial e falha de comunicação. Chen usa slides existentes, altera palestrante e apresenta quatro tópicos, começando por valor das cartas e chegando à fragmentação. Quatro tópicos não contradizem três princípios da palestra anterior: primeiro adiciona fundamento do valor.
+
+Two million em resposta imediata a duzentos milhões corrigido para duzentos milhões, em itálico, pelo eco inequívoco do diálogo. Valores ditos pelo público não substituem receita confirmada de 370 milhões nem parcela de 260 milhões. Três meses no topo são previsão de espectador. Última frase completa sobre título alterado, aspas fechadas sem inventar continuação da apresentação. Final completo.
+
+TXT 180 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 170. TXT 171–180 aguardam revisão e integração por publique. Próximo envio 181. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-180-20261119T120657455069Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 180.
+
+
+## Revisão e publicação offline 171–180 — 19/11/2026
+
+Dez capítulos revisados e integrados por comando publique. Sequência conferida: anúncio de contratações, aluguel de cafeteria para escritório, preparativos YouPlay, disputa de público com Emperor, estreia Anipop, retorno e premiação anual, encontro com Qiu Hengyang e Qiu Jiang, cancelamento da palestra de Qiu Bin e apresentação improvisada de Chen Mo. Títulos descritivos provisórios, textos preparados integrados integralmente. Nenhum final cortado exigiu complemento.
+
+Conferência contextual: quinze/vinte contratações planejadas, salário 30% acima da média e início após Ano-Novo. Presença de novos funcionários na feira não prova mudança da data contratual. Feira dura três dias, Anipop tem 120 MB, 460 mil downloads no primeiro dia e mais de 3,5 milhões em quinze dias, com 1,5 milhão de ativos diários. Dez/cinquenta milhões e 1.200 fases pertencem ao histórico da vida anterior do 176, não aos resultados da estreia. Limite de movimentos distinto de cronômetro, efeitos especiais e combinações preservados com as interpretações marcadas. Saury é Qiu Jiang, classe S, 28 anos, criadora de Moon Lord’s Prophecy; distinta de Qiu Hengyang e Qiu Bin. Moon Lord’s Prophecy, Journey of the Marksman, Winged World e Heavy Assault são títulos distintos. Chen Mo e Qiu Hengyang classe A, ascensão B–A em um ano não contradiz dois anos totais de carreira. Janeiro do evento pertence à narrativa, sem ano absoluto inventado.
+
+Palestra de Qiu Bin cancelada, falha de comunicação esclarecida no 180. Chen Mo usa slides com quatro tópicos; primeiro trata valor das cartas, os demais retomam os três princípios anteriores. Correção de dois para duzentos milhões no eco do diálogo do 180 mantida em itálico; fala do público não substitui dados confirmados de receita. Incertezas de requisitos de arte, expressões do 173 e fantasia chinesa no 179 permanecem marcadas, sem criar fatos novos.
+
+Validação: node --check historias/almighty-game-designer/chapters.js, node tests/reader.test.cjs e git diff --check aprovados. Suíte confere integralmente 180 TXT, títulos, marcações, catálogo, navegação, limites e retomada em DOM simulado. Primeiros 170 objetos de capítulo preservados, dez novos TXT idênticos ao backup, dezenove arquivos de backup íntegros por SHA-256 e sete arquivos da aplicação/Clube preservados por hash. Revisão visual nova no navegador não executada.
+
+Leitor até 180, sem TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 181. Backup local: backups/agd-publicar-revisar-171-180-20261119T121106346207Z/. Reversão seletiva mediante restauração dos arquivos do backup conciliando alterações posteriores. Commit, push e implantação remota permanecem manuais.
+
+
+## Capítulo 181 — As lições de Chen Mo e o início da premiação — 19/11/2026
+
+Anexo c4e1bc45-3d59-469c-9cf2-f9ee8e589de2. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Chen Mo questiona fragmentação, custos baixos e dependência de IP nos slides; não contradiz a explicação inicial de valor das cartas. Replayable contextualizado sessões mais longas em itálico, pelo contraste explícito com fragmentação e as cinco/seis horas citadas no 161, sem reduzir a questão a rejogabilidade. Palestra de duas horas encerrada, contatos trocados e Qiu Bin reage à publicação online. Segundo dia tem palestras e premiação começa à noite; nenhum vencedor anunciado. Aviso do funcionário é condicional. Declínio do gênero é prognóstico de Chen Mo. Final completo.
+
+TXT 181 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 180. TXT 181 aguarda revisão e integração por publique. Próximo envio 182. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-181-20261119T144941643926Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 181.
+
+
+## Capítulo 182 — O reconhecimento do Comitê — 19/11/2026
+
+Anexo ba1fdee9-1ffc-4829-a4b1-c8167e956155. Numeração sequencial, título descritivo provisório e data editorial removida. Qiu Hengyang apresenta responsáveis Zhang (loja) e Liu (Illusion), sem presumir que o primeiro seja Zhang Zhongxiang, presidente nomeado depois. Qiao Hua cerca de quarenta anos. Yan Zhang/Qin Xiao classe S da Emperor junto de Qiu Jiang; Ran He da Zen. Discurso dez minutos. Dez membros honorários anuais, lista de nomes é parcial; não inventar os demais ou nome do criador de Sword of Dreams. Chen Mo recebe certificado e posa para foto, sem discurso. Primeiro prêmio Melhor Som para Dream Journey, Zhou Haibin, contemplando música e efeitos conforme explicação e discurso. Dreams Journey normalizado Dream Journey. Li Feng quase oito anos de carreira é distinto do prazo de Chen. Final completo.
+
+TXT 182 conferido em UTF-8 e tabela JSON válida. Leitor até 180. TXT 181–182 aguardam revisão e integração por publique. Próximo envio 183. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-182-20261119T145059252496Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 182.
+
+
+## Capítulo 183 — Dois prêmios para Chen Mo — 19/11/2026
+
+Anexo 3f092565-1d17-4c07-b7e7-0b643672310e. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Premiados: Arte Ascension/Zen, Estratégia Warcraft/Chen Mo, VR Moon Lord’s Prophecy/Qiu Jiang, PC Songs of Demeter/Zen, Celular Onmyoji/Chen Mo, Jogo do Ano Wolf Soul/Qin Xiao/Emperor. Outros prêmios sem vencedor nomeado permanecem assim. Melhor Arte e Melhor Visual mantidos distintos como na fonte. Senhor Zhang da loja distinto de presidente Zhang Zhongxiang. Home/Zhang Yuanchao e Evening Valley Rain/Lin Yuan preservados.
+
+Tale of the Sword citado como sucesso predecessor MMORPG interpretado Legend of the Sword em itálico, pelo contexto de grande título Zen já estabelecido, diferentemente do projeto recente do concurso. Líderes just basing it on profitability seguido de valor artístico interpretado não consideram só rentabilidade em itálico, coerente com 149. Receita acima de trezentos milhões compatível com 370 milhões. Discurso de Estratégia é autoelogio humorístico e o de Celular reconhece limitações. Cerimônia encerrada, dois prêmios para Chen Mo além da formalização honorária do 182. Final completo.
+
+TXT 183 conferido em UTF-8, duas marcações equilibradas e tabela JSON válida. Leitor até 180. TXT 181–183 aguardam revisão e integração por publique. Próximo envio 184. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-183-20261119T145212101228Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 183.
+
+
+## Capítulo 184 — Uma ideia depois do feriado — 19/11/2026
+
+Anexo b39d9b1f-1624-4605-97d8-69c6633b03fb. Numeração sequencial, título descritivo provisório, créditos Exodus Tales preservados e data editorial removida. Sexto dia do primeiro mês lunar pelo contexto pós-Ano-Novo, sem data gregoriana inventada. Chen Mo reabre após uma semana. Zou Zhuo perde três partidas em uma hora com mortos-vivos contra três raças. Depois jogam Holy Land com dois desconhecidos: fonte other two players ajustada outros três jogadores em itálico para incluir Zou Zhuo, mantido ao longo da partida. Classes Cavaleiro Sagrado/Bruxa/Ladino/Arqueiro. Rouge normalizado Ladino.
+
+Holy Land é mapa de fã baseado em romance, direitos ausentes segundo Zou Zhuo; adaptação VR oficial pequena mencionada sem empresa nomeada. Warcraft comparado a MMORPG no aspecto de esforço do combate, não reclassificado como MMORPG. Multiplicador VR dez vezes reiterado pelo narrador, ainda como regra aproximada do mundo ficcional. Completar mapa leva outra hora. Próximo jogo quase decidido, título não informado. Aspas corrompidas recuperadas. Final completo.
+
+TXT 184 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 180. TXT 181–184 aguardam revisão e integração por publique. Próximo envio 185. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-184-20261119T145321581705Z/. Reversão seletiva por restauração desses registros considerando edições posteriores e retirada do TXT 184.
+
+## Capítulo 185 — O próximo jogo será Diablo — 19/11/2026
+
+Anexo 523bcb97-1a9b-4dd1-afe6-24fc5f9b673c. Numeração sequencial e título descritivo provisório. Data editorial removida; fonte sem créditos adicionais. Pesquisa de Chen Mo sobre predominância dos MMORPGs, perspectiva em primeira pessoa e escassez de hack and slash, entendida como descrição do mundo ficcional. Diablo escolhido como transição para RPG, sem transformar Warcraft em MMORPG. Traditional game em ocorrência isolada contextualizado obra de transição pela justificativa imediatamente seguinte. Diablo 3 como base técnica, mundo e história, com atmosfera e ajustes de jogabilidade inspirados em Diablo 2. Distinção entre dificuldade de produzir mapas dinâmicos e capacidade técnica atual preservada. Aprovação regulatória é obstáculo previsto, não aprovação obtida; vínculo honorário com Comitê mencionado pelo narrador. Final completo, sem acréscimo narrativo ou incerteza interpretativa pendente.
+
+TXT 185 conferido em UTF-8, integralidade dos blocos narrativos verificada contra a fonte e tabela JSON válida. Leitor até 180; TXT 181–185 pendentes de revisão e integração por publique. Próximo envio 186. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-185-20261119T145614298969Z/. Reversão seletiva por restauração dos registros conciliando edições posteriores e retirada do TXT 185. Aplicação e leitor não alterados; commit e push manuais.
+
+## Capítulo 186 — O projeto de Diablo e a nova equipe — 19/11/2026
+
+Anexo 0bdd102e-4504-4f00-b598-c2f371e68a6c. Numeração sequencial, título descritivo provisório, data editorial removida; fonte sem créditos adicionais. Três pilares: narrativa/missões, mapas/fases, combate/monstros. Quatro ajustes de Diablo 3 inspirados em Diablo 2: atributos/dano dos chefes, campo de visão, apresentação visual, ritmo emocional. Cult interpretado macabro em itálico, sem inventar culto na trama. Nomes de locais traduzidos descritivamente (não afirmados como localização oficial); Den of Devil entendido Covil do Mal, Blood Ravens normalizado Blood Raven, Andariel preservada. Percurso resumido da fonte mantido sem acrescentar regiões ou corrigir a ordem com base no jogo real. Nerfs de builds preferidas preservados, sem inverter proposição do narrador. Consulta a Qiao Hua não equivale a aprovação regulatória obtida.
+
+Oitavo dia do primeiro mês lunar coerente com retorno no sexto dia do 184; novos contratados começam após Ano-Novo conforme 171. Su Jinyu voltou um dia antes, Chen chega às onze. Sala comporta vinte pessoas, sem presumir vinte contratações efetivas. Escritório é cafeteria reformada perto da loja, não substitui loja. Salários acima da média sem novo percentual inventado; dois anos de realizações de Chen preservados. Final completo, sem complemento narrativo.
+
+TXT 186 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 180; TXT 181–186 pendentes de revisão e integração por publique. Próximo envio 187. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-186-20261119T145734032831Z/. Reversão seletiva por restauração dos registros conciliando edições posteriores e retirada do TXT 186. Aplicação e leitor não alterados; commit e push manuais.
+
+## Capítulo 187 — As primeiras dúvidas sobre Diablo — 19/11/2026
+
+Anexo 4cf0b431-c781-4097-a179-3d556355ec93. Numeração sequencial, título descritivo provisório, data editorial removida; créditos e nota da tradução inglesa Exodus Tales preservados e identificados. Nota sobre nome chinês reproduzida como afirmação da tradução inglesa, sem apresentá-la como pesquisa independente. Cult mantido como macabro em itálico conforme 186. Meio ano de produção de Warcraft e dois anos de carreira mantidos em seus contextos. Novos contratados já assinaram confidencialidade e não concorrência. Documento de conceito inclui recursos multijogador, compatíveis com foco em aventura para um jogador; não remover item nem inventar modo específico.
+
+Sete responsáveis: Su Jinyu projeto; Zheng Hongxi narrativa; Qian Kun números, balanceamento e fases; Zhou Hanyu arte/gráficos; Fu Guangnan som/música; Zhao Yunting divulgação/operação; Lin Xiao salários, bônus e auxílios, assistente administrativa sem participação habitual no desenvolvimento. Zhou Hanyu e Fu Guangnan na casa dos trinta; Zhao Yunting cerca de três anos de setor e três projetos bem-sucedidos. Não confundir sete responsáveis com total de contratados nem capacidade de vinte da sala. Objeções à estética de Diablo e resposta centrada na coerência e qualidade preservadas; dúvidas de Zhou não desaparecem ao compreender a proposta. Final completo com compromisso de Fu Guangnan, sem complemento narrativo.
+
+TXT 187 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 180; TXT 181–187 pendentes de revisão e integração por publique. Próximo envio 188. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-187-20261119T145846630442Z/. Reversão seletiva por restauração dos registros conciliando edições posteriores e retirada do TXT 187. Aplicação e leitor não alterados; commit e push manuais.
+
+## Capítulo 188 — Os sistemas e a dificuldade de Diablo — 19/11/2026
+
+Anexo 2923be9d-15c8-4b6e-8a17-c10ba987a188. Numeração sequencial, título descritivo provisório, data editorial removida; fonte sem créditos adicionais. Zhao Yunting opera Onmyoji e promoverá novos títulos. Chen relata consulta ao Comitê: classificação 18+ prevista e avaliação não deve ser obstáculo; fala confiante não equivale a aprovação final já emitida. Comentário de Su Jinyu é brincadeira, não regra do Comitê. Exemplos sombrios e de tortura preservados como referências para ficção. Poções de Reprodução de Memórias mantidas. História/jogabilidade Diablo 3, atmosfera e elementos de Diablo 2.
+
+Fonte truncada gramaticalmente em from an unknown hitting Tristram Cathedral interpretada queda de um objeto misterioso em itálico, sem especificar identidade. Leroic normalizado Leoric. Nomes de cenários traduzidos descritivamente sem afirmar localização oficial. Atos e confrontos preservados. Duas habilidades primárias, quatro secundárias, três passivas mantidas, sem alterar números com base no jogo real. Diagnóstico de monotonia por rankings atribuído à argumentação do narrador. Equipment ceiling interpretado dependência de equipamentos específicos em itálico pelo exemplo imediato; fitness entendido reflexos em itálico, sem sugerir preparo físico do jogador. Aumento de obtenção de itens/aleatoriedade/variedade e ausência planejada de comércio entre jogadores preservados. Foco individual não exclui recursos multijogador citados no 187. Campanha na dificuldade padrão, redução após mortes repetidas, sem magnitude inventada. Final completo, sem complemento narrativo.
+
+TXT 188 conferido em UTF-8, três marcações equilibradas e tabela JSON válida. Leitor até 180; TXT 181–188 pendentes de revisão e integração por publique. Próximo envio 189. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-188-20261119T145959580142Z/. Reversão seletiva por restauração dos registros conciliando edições posteriores e retirada do TXT 188. Aplicação e leitor não alterados; commit e push manuais.
+
+## Capítulo 189 — Um desenvolvimento sem retrabalho — 19/11/2026
+
+Anexo b9e44707-3c9f-4f4e-974b-00d371d626d6. Numeração sequencial, título descritivo provisório, data editorial removida; créditos Exodus Tales preservados e identificados. Quinto eixo do projeto: recursos online mantidos, Fendas de Desafio (Challenge Rift na fonte), temporadas competitivas, rankings e dificuldades adicionais previstos para atualizações posteriores. Não substituir o nome do modo por outro do jogo real nem antecipar implantação. Ausência inicial de rankings compatível com diagnóstico do 188. Fortificação com campo de visão amplo é cenário específico, não cancela visão restrita nas áreas escuras do 186. Leroic normalizado Leoric. Chen fornece conceitos visuais e melodias/instrumentação, responsáveis refinam e acompanham terceirização. Oito anos de experiência de Zhou Hanyu e Fu Guangnan não confundidos com dois anos de Chen.
+
+Heavenly Ring 3 é filme estrangeiro; jogo Heavenly Ring fracassou na China após entrada dois anos antes. Bilheteria acima de um bilhão de dólares preservada como fala de fórum e unidade da fonte, sem converter para yuans ou atribuir a Chen Mo. Filme impulsiona mapa Holy Land, fanfic jogável de romance em Warcraft conforme 184. Milhares de simultâneos sem valor exato inventado. World of Warcraft citado como referência do narrador para abrir mercado, não como produto já lançado nesse mundo. Afirmação final compara alcance de gêneros, sem reclassificar Warcraft como RPG. Fonte tem caracteres corrompidos em it's, recuperados pelo contexto. Final completo, sem complemento narrativo ou interpretação incerta pendente.
+
+TXT 189 conferido em UTF-8 e tabela JSON válida. Leitor até 180; TXT 181–189 pendentes de revisão e integração por publique. Próximo envio 190. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-189-20261119T150115318327Z/. Reversão seletiva por restauração dos registros conciliando edições posteriores e retirada do TXT 189. Aplicação e leitor não alterados; commit e push manuais.
+
+## Capítulo 190 — O anúncio de Diablo e as previsões do setor — 19/11/2026
+
+Anexo 894b3cc0-abb2-40dc-bb53-4f59f695a434. Numeração sequencial, título descritivo provisório, data editorial removida; créditos Exodus Tales preservados e identificados. Pedidos de apoio oficial a Holy Land não equivalem a apoio concedido. Primeira publicação anuncia RPG de fantasia ocidental para um jogador com Catedral de Tristram; segunda revela Diablo, imagem terceira pessoa em ângulo de 45 graus, bárbaro com dois machados contra esqueletos/demônios. Objeto no céu continua não identificado. Especulação de ligação com Warcraft negada apenas pelos comentaristas, sem criar vínculo canônico.
+
+Trecho corrompido too much first in making interpretado risco demais em itálico pelo contexto explícito de transição segura. Webio/We normalizados Weibo. Juízos sobre ganhos, pouca popularidade, derrota ou incapacidade de Chen são opiniões dos profissionais e jogadores, não resultados confirmados. Fala lucro pequeno/talvez apenas custos preservada como estimativa hesitante, sem forçar conta inexistente. Antiguidade e esgotamento de RPGs terceira pessoa permanecem percepção daquele mercado ficcional. Legion Conquest preservado como rival de Warcraft. Final completo, sem complemento narrativo.
+
+TXT 190 conferido em UTF-8, uma marcação equilibrada e tabela JSON válida. Leitor até 180; TXT 181–190 pendentes de revisão e integração por publique. Próximo envio 191. Backup de quatro registros conferido por SHA-256 em backups/agd-capitulo-190-20261119T150231580130Z/. Reversão seletiva por restauração dos registros conciliando edições posteriores e retirada do TXT 190. Aplicação e leitor não alterados; commit e push manuais.
+
+## Revisão e publicação offline 181–190 — 19/11/2026
+
+Comando publique executado. Dez capítulos revisados e integrados integralmente, da conclusão da palestra de Chen Mo à premiação, retorno do Ano-Novo, experiência com Holy Land, projeto e anúncio de Diablo. Títulos descritivos provisórios, créditos e nota da tradução inglesa preservados, datas editoriais removidas. Nenhum final cortado exigiu complemento.
+
+Revisão aplicada: no 183, restaurado Tale of the Sword como título explicitamente citado na fonte, distinto de Legend of the Sword; retirada a substituição hipotética feita na tradução inicial. Esta revisão prevalece sobre a interpretação registrada na nota histórica do 183. No 184, restaurado outros dois jogadores como na fonte, sem a inferência de que a frase precisaria contar Zou Zhuo; a composição do grupo não é ampliada. Esta revisão prevalece sobre a contagem inferida da nota histórica do 184. No 186, loja de experiências harmonizada com o termo já usado na obra. Demais sete TXT preservados integralmente. Continuam em itálico as interpretações de sessões mais longas no 181, não considerar só rentabilidade no 183, macabro no 186/187, objeto misterioso/dependência de equipamentos/reflexos no 188 e risco demais no 190.
+
+Conferência contextual e numérica: dez membros honorários anuais não exigem lista nominal completa; Zhang da loja distinto do presidente Zhang Zhongxiang. Melhor Som para Dream Journey/Zhou Haibin, Arte para Ascension/Zen, Estratégia para Warcraft/Chen Mo, VR para Moon Lord’s Prophecy/Qiu Jiang, PC para Songs of Demeter/Zen, Celular para Onmyoji/Chen Mo e Jogo do Ano para Wolf Soul/Qin Xiao/Emperor. Chen recebe dois prêmios além do certificado honorário, sem inventar discurso na entrega do certificado. Receita acima de trezentos milhões compatível com os 370 milhões já estabelecidos, sem confundir receita com parcela recebida. Dois anos de carreira de Chen distintos de quase oito anos de Li Feng e oito anos dos novos especialistas.
+
+Retorno no sexto dia lunar e início dos contratados no oitavo coerentes com contratação após Ano-Novo. Sala para vinte não estabelece total de contratados; sete são responsáveis pelas áreas. Su Jinyu projeto, Zheng Hongxi narrativa, Qian Kun números/balanceamento/fases, Zhou Hanyu arte, Fu Guangnan som, Zhao Yunting operação/divulgação, Lin Xiao remuneração/administração. Zhao tem cerca de três anos e três projetos. Escritório é cafeteria reformada perto da loja. Holy Land permanece mapa de fã sem direitos segundo Zou Zhuo, distinto de adaptação VR oficial. Comparação VR dez vezes PC preservada como generalização do narrador, sem recalcular projetos anteriores com ela.
+
+Diablo usa história/base técnica de Diablo 3 e inspiração visual/atmosfera/equipamentos de Diablo 2. Habilidades duas primárias/quatro secundárias/três passivas mantidas como fonte. Foco individual compatível com recursos online; comércio entre jogadores não planejado. Fendas de Desafio, temporadas, rankings e dificuldades adicionais são futuras atualizações, sem confundir lançamento com plano. Campanha na dificuldade padrão e alívio após mortes repetidas preservados. Visão ampla na fortaleza é escolha local, não contradiz visão limitada nas masmorras. Consulta ao Comitê e previsão 18+ não equivalem a aprovação final já obtida. Juízos sobre equilíbrio, repetição e popularidade são argumentos do narrador/personagens. Bilheteria de Heavenly Ring 3 acima de um bilhão de dólares é fala de fórum na unidade da fonte, sem conversão para yuans. Filme impulsiona mapa Holy Land. Warcraft continua RTS; World of Warcraft é referência comparativa, sem lançamento inventado. Reação do setor ao anúncio de Diablo é previsão, sem resultados de vendas. Câmera a 45 graus e bárbaro com dois machados preservados.
+
+Validação concluída: node --check historias/almighty-game-designer/chapters.js, node tests/reader.test.cjs e git diff --check aprovados. Suíte confere integralmente 190 TXT com o leitor, títulos, marcações, catálogo, limites, navegação móvel e retomada em DOM simulado, preservando isolamento de progresso. Primeiros 180 objetos de capítulo preservados; sete dos dez novos TXT idênticos ao backup e somente 183/184/186 alterados conforme revisão acima. Dezenove arquivos de backup íntegros por SHA-256 e sete arquivos protegidos de aplicação/Clube idênticos. Revisão visual nova no navegador não executada.
+
+Leitor local até 190, sem TXT pendente em Almighty Game Designer. Próximo envio e próxima revisão a partir do 191. Backup local: backups/agd-publicar-revisar-181-190-20261119T150410904439Z/, manifest.json e protected.json. Reversão seletiva restaura os arquivos do backup conciliando alterações posteriores; capítulos e preferências de outras obras fora do escopo preservados. Commit, push e implantação remota permanecem manuais e não foram executados.

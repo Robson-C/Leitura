@@ -1,0 +1,105 @@
+Capítulo 186 — O projeto de Diablo e a nova equipe
+
+O projeto de Diablo podia ser dividido em três grandes categorias.
+
+História e linhas de missões: construir os fundamentos da narrativa e planejar cada sequência de missões, permitindo que os jogadores acompanhassem a história do jogo de forma fluida.
+
+Mapas e fases: criar os cenários de acordo com a história. Cada ato se passaria em um ambiente diferente, com modelos e texturas próprios.
+
+Além disso, um dos maiores atrativos de Diablo eram os mapas gerados dinamicamente. Os cenários explorados pelos jogadores eram montados de forma aleatória. Elementos como entradas de masmorras e altares mudavam de posição a cada nova geração, tornando a exploração um dos grandes prazeres da série.
+
+Sistema de combate e monstros: definir as habilidades disponíveis aos jogadores e as características de cada monstro, enriquecendo as possibilidades de combate.
+
+Depois de concluir essas três partes, o restante poderia ser aprimorado aos poucos.
+
+Além disso, Chen Mo queria fazer algumas alterações na direção de arte e na jogabilidade de Diablo 3.
+
+Ele daria destaque a um visual *macabro*, sombrio, assustador, sinistro e sangrento. Queria que os jogadores sentissem opressão e apreensão enquanto jogavam.
+
+Também pretendia provocar uma sensação semelhante de medo por meio da jogabilidade.
+
+Primeiro, reduzir os atributos dos jogadores e aumentar o dano dos chefes. Isso dificultaria a conclusão das fases e faria os jogadores se sentirem mais ameaçados diante de grandes grupos de inimigos e dos próprios chefes.
+
+O pior aspecto de Diablo 3 era a progressão de poder dos personagens nas etapas avançadas. Chegava um ponto em que desviar dos ataques dos chefes já não fazia diferença, porque o dano recebido era pequeno demais.
+
+Os verdadeiros problemas vinham dos monstros de elite. Porém, vencê-los dependia mais do equipamento, especialmente das resistências, do que de movimentação ou habilidade. Isso deixava o jogo menos tenso do que deveria.
+
+Por isso, Chen Mo considerava seriamente reduzir o crescimento dos atributos para preservar a tensão durante as partidas.
+
+Segundo, aproveitar o projeto do campo de visão de Diablo 2. O campo de visão dos jogadores poderia ser menor, permitindo que fossem atacados por inimigos que ainda não conseguiam enxergar. Isso seria especialmente importante em cavernas escuras e masmorras.
+
+Terceiro, aproveitar outras soluções de Diablo 2.
+
+A tela de seleção de personagens era um exemplo. Em Diablo 2, ela se passava em um povoado escuro. Os personagens ficavam envoltos em sombras e só se revelavam depois de serem selecionados.
+
+Já em Diablo 3, a seleção acontecia sob a luz da lua, o que mudava bastante a atmosfera.
+
+Chen Mo queria ajustar todas essas telas e funcionalidades que destoavam do clima de Diablo 2.
+
+Quarto, aproximar o ritmo da narrativa e das emoções dos jogadores daquele de Diablo 2.
+
+Diablo 2 era magistral na maneira de conduzir e manipular as emoções dos jogadores. No primeiro ato, por exemplo, eles passavam por um ciclo de segurança, perigo, nervosismo, apreensão, opressão, alívio e relaxamento.
+
+A sequência do primeiro ato era mais ou menos assim:
+
+Povoado (segurança), Covil do Mal (perigo), eliminação de todos os inimigos e ampliação do campo de visão (segurança).
+
+Planícies Gélidas (segurança), Blood Raven (nervosismo), Cemitério das Irmãs (perigo extremo).
+
+Campo Pedregoso (segurança), Passagem Subterrânea (perigo), Bosque Sombrio (nervosismo), Prisão (apreensão).
+
+Claustro Interno (breve respiro), Catacumbas (opressão extrema), derrota de Andariel (alívio e relaxamento).
+
+As emoções dos jogadores oscilavam conforme avançavam. Em certos momentos, podiam relaxar; em outros, ficavam extremamente tensos, mergulhando cada vez mais no jogo.
+
+Diablo 3, porém, não trabalhava tão bem esse aspecto. Pelo visto, as emoções dos jogadores não haviam recebido tanta atenção no projeto das fases.
+
+Chen Mo planejava fazer pequenos ajustes na sequência dos cenários de Diablo 3 para corrigir isso, permitindo que os ambientes conduzissem melhor as emoções dos jogadores.
+
+Além disso, pretendia seguir o estilo de balanceamento da Blizzard, enfraquecendo as builds pelas quais os jogadores demonstrassem preferência. Assim, daria certa ordem ao caos por meio desses ajustes, em vez de alterar diretamente os fundamentos do jogo para chegar ao resultado desejado.
+
+Depois de definir o conceito geral de Diablo, Chen Mo foi ao Comitê de Jogos conversar com Qiao Hua. Queria garantir, antes da retomada do trabalho, que o projeto não enfrentaria grandes dificuldades no processo de avaliação.
+
+...
+
+No oitavo dia do primeiro mês lunar, os novos funcionários começaram oficialmente a trabalhar.
+
+O novo escritório já estava praticamente pronto. Computadores, mesas digitalizadoras e outros materiais de trabalho haviam chegado. Também havia máquinas de café, geladeiras, micro-ondas e lanches à disposição.
+
+Su Jinyu voltara ao trabalho um dia antes dos demais para cuidar da chegada dos novos colegas.
+
+Chen Mo retornou à loja de experiências às onze da manhã.
+
+— Gerente, os novos funcionários já chegaram. Quer ir dar as boas-vindas? — perguntou Su Jinyu.
+
+Chen Mo assentiu.
+
+— Vamos lá.
+
+O novo escritório ocupava um ponto comercial perto da loja de experiências. Antes, funcionava ali uma cafeteria, mas algumas pequenas reformas haviam bastado para adaptá-lo.
+
+Todos se levantaram ao ver Chen Mo.
+
+— Vamos para a sala de reuniões. Vou explicar rapidamente o que espero de vocês — disse ele.
+
+Uma parte do escritório havia sido separada para formar uma área de reuniões com espaço para vinte pessoas. Depois que todos se acomodaram, Chen Mo se sentou ao centro, com seus assistentes ao lado.
+
+Ele estava bastante satisfeito com as contratações.
+
+A maioria tinha uma boa experiência profissional. Como a decisão final de contratação passara por Chen Mo, todos eram bastante competentes.
+
+Chen Mo olhou ao redor e falou em tom sério:
+
+— Sou bastante direto, então vou pular as formalidades. Também não vou me alongar sobre a remuneração, porque isso já foi discutido na contratação. Resumindo: vocês vão receber acima da média do setor.
+
+— Só espero uma coisa: que cumpram as tarefas que eu passar. Não sei como eram as empresas em que vocês trabalhavam, mas aqui eu acompanho cada detalhe do jogo. Não quero receber respostas vagas.
+
+— Independentemente da situação, mesmo que não entendam a intenção por trás de uma decisão minha, espero que executem o que foi pedido. Quando o jogo for lançado, vão entender o motivo.
+
+— Em contrapartida, desde que façam o trabalho de vocês, garanto uma remuneração que outras empresas não oferecem. Não precisam se preocupar com dinheiro. Esta não é uma empresa que economiza à custa dos funcionários.
+
+Os novos contratados pareciam animados com a perspectiva.
+
+A grande maioria era mais velha que Chen Mo, mas ninguém ousava questioná-lo. O que ele havia conquistado nos últimos dois anos superava a experiência de muitos deles.
+
+Além disso, considerando a rentabilidade de seus jogos e sua reputação, ninguém se atrevia a subestimar o chefe só porque ele era jovem.

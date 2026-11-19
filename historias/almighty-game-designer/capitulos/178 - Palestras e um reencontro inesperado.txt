@@ -1,0 +1,141 @@
+Capítulo 178 — Palestras e um reencontro inesperado
+
+Assim que entrou, Chen Mo ouviu alguém chamá-lo.
+
+Era Qiu Hengyang. Aproximou-se para cumprimentá-lo.
+
+— Você também veio?
+
+Qiu Hengyang assentiu.
+
+— Sim. Ia avisar, mas acabamos nos encontrando. Vi as notícias dos últimos dias. Você conseguiu mesmo criar uma grande repercussão com um jogo de celular.
+
+Chen Mo riu.
+
+— Que grande repercussão? Achei que seria bom dar aos jogadores alguma coisa pra mexer enquanto esperavam. Feiras costumam ser meio monótonas. Aliás, é minha primeira vez aqui. Se puder me apresentar ao pessoal, agradeço.
+
+— Claro. Venha comigo.
+
+Os dois seguiram conversando.
+
+— Ouvi dizer que seu jogo novo foi bem. Agora também é classe A? — perguntou Chen Mo.
+
+Qiu Hengyang assentiu.
+
+— Sim, mas levei quatro ou cinco anos pra passar da B pra A. Você conseguiu em um. E que ano, hein? Quantos jogos fez? Warcraft, Wulin Legend, Onmyoji, Anipop... Pouca gente na indústria conseguiria fazer quatro jogos assim.
+
+Chen Mo tentou se explicar.
+
+— Comecei Warcraft em outubro do ano anterior e levei mais de meio ano. Não coloca ele nessa conta. E, entre esses títulos, só Warcraft foi um projeto maior. Os outros foram quase trabalhos paralelos.
+
+Qiu Hengyang riu.
+
+— De qualquer forma, você é rápido. E o principal é que os jogos foram muito bem recebidos.
+
+Enquanto caminhavam pelo local, ele explicou:
+
+— Hoje e amanhã, durante o dia, vamos ter encontros entre profissionais e palestras. A maior parte das apresentações é organizada pelo Comitê.
+
+— Você vai palestrar?
+
+Qiu Hengyang balançou a cabeça.
+
+— Eu? Ainda falta muita experiência. Normalmente, convidam designers de classe S, com alguns jogos de realidade virtual no currículo.
+
+— Claro, também pode ser sobre jogos que viraram clássicos. Pelos seus resultados no mercado móvel, você poderia apresentar alguma coisa. Mas acho que não organizaram uma palestra sua porque ainda não foi formalizado como membro do Comitê e eles não conhecem você tão bem.
+
+— Nem quero muito fazer isso — disse Chen Mo.
+
+Qiu Hengyang riu.
+
+— Não é ruim. Sozinho, você só consegue ter tantas ideias. É conversando com os outros que encontra novas inspirações.
+
+— Qual palestra quer assistir?
+
+Chen Mo viu que havia várias. Mais de dez por dia, com duração média de duas horas. Algumas aconteciam ao mesmo tempo, então era preciso escolher.
+
+Quem não quisesse assistir podia participar dos encontros. Os próprios designers organizavam as conversas, e cada um escolhia grupos com interesses parecidos.
+
+Chen Mo pensou um pouco.
+
+— Acho que vou assistir a uma apresentação.
+
+Não queria ficar discutindo com outros designers nos encontros. Melhor ouvir uma palestra.
+
+Naquele horário, havia três opções: “Uso da iluminação e dos cenários no design de fases”, “Conceitos de design e troca de experiências em jogos casuais” e “Como criar um jogo de tiro em primeira pessoa de alta qualidade em realidade virtual”.
+
+— Quer ir à de jogos casuais? — perguntou Qiu Hengyang.
+
+Chen Mo ficou sem palavras.
+
+— Pra quê? Se quiser saber alguma coisa, é só perguntar pra mim.
+
+O outro riu.
+
+— Verdade. Com você do lado, seria quase uma afronta ouvir outra pessoa falar de jogos casuais. Afinal, fez Plants vs Zombies e Anipop, os líderes das listas do gênero.
+
+— Que tal a de tiro em realidade virtual?
+
+Qiu Hengyang assentiu.
+
+— Pode ser. Ainda não temos condições de fazer esses jogos, mas um dia vamos chegar lá. É bom aprender desde já.
+
+A sala tinha bastante gente, em sua maioria designers de classe B ou superior. Todos estavam bem-vestidos e sentados de maneira composta.
+
+As primeiras filas já estavam ocupadas. Os dois ficaram mais ao fundo.
+
+O palestrante era Ran He, designer de classe S da Zen Entertainment. Seu Heavy Assault estava entre os melhores jogos chineses de tiro em primeira pessoa em realidade virtual e era muito bem avaliado na indústria.
+
+— Fico feliz por compartilhar aqui algumas coisas que aprendi durante o desenvolvimento de Heavy Assault.
+
+— Acho que ainda estamos um pouco atrás do Ocidente no design de jogos de tiro em realidade virtual. Por isso, escolhi trocar experiências e espero que todos aproveitem alguma coisa.
+
+— Para começar, é um gênero difícil de desenvolver. Em realidade virtual, a dificuldade é ainda maior. Precisamos recriar um ambiente de guerra convincente. Se essa ambientação não funcionar, o jogo parece artificial e perde o interesse. Diante dos títulos estrangeiros, os jogos chineses de tiro não têm vantagem competitiva.
+
+— Vou abordar a criação de um jogo de realidade virtual de qualidade a partir de três pontos: ambiente, armas e jogabilidade.
+
+— Primeiro, o ambiente. Precisamos escolher um lugar adequado à história e à forma de jogar. Isso influencia diretamente o funcionamento do jogo e a experiência do público...
+
+Ran He falava com clareza e fluência. Era fácil acompanhar. Chen Mo, porém, percebeu que ele não revelava os aspectos mais importantes do próprio design.
+
+Assim, os ouvintes aprendiam alguma coisa, mas não podiam copiar o núcleo de seu sucesso e usá-lo para competir com ele.
+
+A apresentação durou quase duas horas, terminando com perguntas do público. Todos aplaudiram.
+
+Enquanto batia palmas, Qiu Hengyang perguntou:
+
+— E então? Aprendeu alguma coisa?
+
+— Sim, mais ou menos. Com certeza foi melhor que assistir à de jogos casuais.
+
+Qiu Hengyang riu.
+
+— Tá na hora do almoço. Vamos comer.
+
+Havia um bufê para os designers participantes. Os dois se serviram e escolheram uma mesa perto da janela.
+
+Assim que Chen Mo se sentou, alguém o chamou.
+
+— Chen Mo?
+
+Ele ergueu os olhos e encontrou Saury.
+
+Tinham se conhecido na feira da Cidade Mágica. Como voltavam a se encontrar na premiação?
+
+Sem cerimônia, ela se sentou ao lado dos dois.
+
+— Esse evento não é só para designers de videogames? — perguntou Chen Mo.
+
+Saury assentiu.
+
+— Sim.
+
+— Então como entrou? Não vai ter apresentação de canto e dança na cerimônia, né?
+
+Ela abafou uma risada.
+
+— Pff, não.
+
+Qiu Hengyang olhou para ele e depois para Saury.
+
+— Chen Mo, você não confundiu as coisas? Ela é designer de videogames. E é melhor que nós dois.

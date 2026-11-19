@@ -1,0 +1,114 @@
+Capítulo 189 — Um desenvolvimento sem retrabalho
+
+Tradução inglesa: Exodus Tales
+Edição da tradução inglesa: Exodus Tales
+
+Quinto, quanto aos recursos online e ao conteúdo adicional: manter as funcionalidades online de Diablo 3, mas deixar as Fendas de Desafio e os rankings para depois.
+
+O sistema de Fendas de Desafio de Diablo 3 era uma excelente ideia, mas também uma faca de dois gumes.
+
+Quando os jogadores queriam apenas eliminar grandes quantidades de inimigos, naturalmente procuravam as áreas da campanha com maior concentração de monstros. A Blizzard lançara as Fendas de Desafio para facilitar isso, sem obrigá-los a repetir a história o tempo todo.
+
+Era uma ótima notícia para quem gostava da sensação de massacrar monstros, pois economizava tempo. Porém, até certo ponto, isso também prejudicava a vida útil do jogo, tornando a experiência extremamente repetitiva.
+
+Chen Mo planejava lançar as Fendas de Desafio em uma atualização posterior à estreia. Àquela altura, os jogadores que continuassem seriam fãs fiéis que já estariam cansados da campanha e apreciariam um modo desse tipo.
+
+Temporadas competitivas, rankings e dificuldades mais altas também seriam acrescentados em atualizações, como formas de prolongar a vida útil do jogo.
+
+...
+
+Com o plano geral definido, as diferentes frentes do desenvolvimento avançavam sem problemas.
+
+Uma vez estabelecida a base da história, a produção artística pôde começar. Chen Mo entregou artes conceituais de algumas áreas importantes para que Zhou Hanyu entendesse melhor a atmosfera pretendida.
+
+Depois, explicou os pontos essenciais daqueles cenários.
+
+— O lugar de Leoric precisa parecer antigo e assustador. O chão pode ter uma aparência áspera e desgastada. Pense também em colocar teias de aranha nos cantos das paredes. Use uma paleta de cores mais frias para transmitir uma sensação de morte.
+
+— Lembre-se: nada de deixar tudo vistoso demais. Diminua a iluminação também. Isso destoaria da proposta, e o cenário perderia o impacto sobre os jogadores.
+
+— A fortaleza deve ficar aqui. Neste trecho, os jogadores terão um campo de visão amplo. As muralhas precisam dar a impressão de que já resistiram a muitas batalhas, então acrescente danos. Você pode até colocar animações de partes da fortaleza desmoronando quando os jogadores passarem. Os monstros também vão atacar de diferentes direções. O jogador precisa sentir que pode ser cercado a qualquer momento.
+
+Chen Mo explicou cada cenário em detalhes para garantir que Zhou Hanyu conseguisse reproduzir o resultado desejado.
+
+Enquanto ouvia, Zhou Hanyu assentia.
+
+— Certo. Sem problema. Entendi.
+
+Ele estava impressionado. Embora fosse o responsável pela arte, quase não precisava quebrar a cabeça: Chen Mo já havia pensado na maior parte das questões e até desenhado pessoalmente as artes conceituais!
+
+E talvez desenhasse ainda melhor que ele!
+
+Nas empresas anteriores, Zhou Hanyu analisava uma arte conceitual e produzia algumas versões para os designers escolherem a melhor. Só então desenvolvia o restante do visual aos poucos.
+
+Ali, nada disso era necessário. Chen Mo especificava a direção de arte desejada e ainda desenhava os conceitos dos monstros e dos cenários. Bastava refiná-los, encaminhar a produção para uma empresa terceirizada e acompanhar a qualidade das entregas.
+
+O mesmo acontecia com Fu Guangnan. Chen Mo lhe passara algumas melodias de música de fundo, todas com um estilo bem definido. Especificara até quais instrumentos deveriam ser usados, em quais cenas cada música tocaria e que emoções deveria transmitir. Tudo nos mínimos detalhes.
+
+Isso poupava muito tempo. Quase não era preciso discutir ou ficar ponderando alternativas: bastava executar.
+
+Os outros funcionários também estavam surpresos. Nunca haviam participado do desenvolvimento de um jogo que transcorresse com tanta facilidade.
+
+Sem reuniões intermináveis.
+
+Sem refazer o trabalho.
+
+Sem discussões.
+
+Apenas execução.
+
+Dava para criar jogos desse jeito?
+
+Zhou Hanyu e Fu Guangnan sentiam que estavam participando de algo completamente novo. Em oito anos no setor, era a primeira vez que viviam uma experiência assim!
+
+...
+
+Depois do Ano-Novo Chinês, muitos jogadores pareciam meio sem rumo nos fóruns.
+
+“Que tédio. Alguém recomenda um jogo?”
+
+“Nada. Também estou entediado.”
+
+“O Ano-Novo acabou de passar. A maioria das empresas deve ter acabado de voltar ao trabalho. Mesmo que tenham começado algum jogo no ano passado, provavelmente vamos ter que esperar até março.”
+
+“Poxa, já cansei desses jogos todos. Hoje em dia demora demais para desenvolver um jogo.”
+
+“Aliás, vocês viram Heavenly Ring 3, o filme que saiu no Ano-Novo?”
+
+“É mais fácil perguntar quem não viu. É uma superprodução!”
+
+“Pois é. A bilheteria já passou de um bilhão de dólares e ainda deve subir. Quem gosta desse tipo de filme provavelmente já assistiu, né?”
+
+“O estranho é que o filme faz um sucesso enorme na China, mas o jogo foi um fracasso completo. Heavenly Ring entrou no mercado chinês há dois anos e pouco depois já tinha dado GG.”
+
+“Deve ser por causa da jogabilidade. O gosto do pessoal lá fora é diferente do nosso.”
+
+“Gosto muito dessa temática. Pena que não tem nenhum jogo bom.”
+
+“Para quem comentou acima, recomendo Warcraft.”
+
+“Mas é um RTS. Não consigo jogar esse tipo de coisa.”
+
+“Warcraft tem mapas que não são de estratégia em tempo real. Dá uma olhada em Holy Land.”
+
+“Holy Land? Não é outro romance de fantasia ocidental?”
+
+“É. Tem um mapa de RPG em Warcraft que é basicamente uma criação de fã. Experimenta. Eu gosto bastante.”
+
+“Beleza, vou tentar.”
+
+Ninguém esperava que um filme estrangeiro como Heavenly Ring 3 trouxesse uma nova onda de popularidade para Holy Land, o mapa de RPG de Warcraft.
+
+A quantidade de guias nos fóruns aumentara visivelmente, e milhares de pessoas jogavam ao mesmo tempo todos os dias.
+
+Era natural. Naquele mundo paralelo, os jogos de fantasia ocidental estavam em uma situação delicada.
+
+Havia grandes produções estrangeiras do gênero, mas a maioria não combinava com o gosto dos jogadores chineses. Sem algo como World of Warcraft para abrir caminho, era difícil conquistar o mercado da China.
+
+Por outro lado, os desenvolvedores chineses conheciam as preferências do público local, mas tinham dificuldade para produzir jogos de fantasia ocidental que preservassem a essência desse estilo. E os jogadores não aceitavam qualquer coisa.
+
+Por isso, os desenvolvedores acabavam se concentrando em xianxia e na fantasia de inspiração chinesa, sem demonstrar interesse pela fantasia ocidental.
+
+Como resultado, os jogadores chineses tinham dificuldade para encontrar jogos de fantasia ocidental que lhes agradassem. Esse também era um dos motivos pelos quais Warcraft conquistara tanta popularidade tão depressa.
+
+No entanto, por ser um RTS, Warcraft não conseguia atrair um público tão amplo quanto os RPGs.

@@ -8,7 +8,7 @@ Não inventar explicações, números, nomes ausentes ou acontecimentos para enc
 
 Quando o usuário enviar um trecho cortado, presumir que a continuação não está disponível. Na revisão acionada por “publique”, completar a frase interrompida com a menor intervenção que preserve a coerência com o capítulo e a sequência. Marcar somente o trecho acrescentado em itálico no TXT e no leitor e registrar o corte e o complemento na tabela. Considerar o capítulo completo para publicação. Consultar o usuário apenas quando o contexto não permitir um fechamento coerente.
 
-Último lote revisado e integrado em Almighty Game Designer: 151–160. Leitor local até 160. Próximo envio e próxima revisão a partir do 161.
+Último lote revisado e integrado em Almighty Game Designer: 181–190. Leitor local até 190. Próximo envio e próxima revisão a partir do 191.
 
 
 ## Esclarecimento vigente do usuário — 21/10/2026

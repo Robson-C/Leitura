@@ -1,0 +1,81 @@
+Capítulo 188 — Os sistemas e a dificuldade de Diablo
+
+Zhao Yunting disse:
+
+— Gerente, tenho uma pergunta.
+
+Ela era responsável pela operação e pela divulgação dos jogos. Naquele momento, cuidava das atividades diárias de Onmyoji, mas naturalmente também ficaria encarregada de promover os novos títulos quando fossem lançados.
+
+Chen Mo assentiu.
+
+— Pode perguntar.
+
+— Não estou preocupada com a qualidade do jogo. Minha principal preocupação é a quantidade de sangue e violência: cadáveres nas prisões, poças de sangue e até um necromante. Será que o projeto vai passar pela avaliação do Comitê?
+
+— Já conversei com o Comitê de Jogos. O jogo terá classificação para maiores de dezoito anos, então a avaliação não deve ser um problema. Vocês não precisam ficar pisando em ovos por causa de elementos que poderiam dificultar a aprovação. Não é necessário reduzir a quantidade de cadáveres, sangue ou membros decepados. Caprichem e não deixem que isso prejudique a atmosfera do jogo — garantiu Chen Mo.
+
+Su Jinyu exclamou:
+
+— Incrível! Um membro honorário do Comitê pode fazer o que quiser!
+
+Chen Mo riu.
+
+— Menos conversa e mais trabalho. Muito bem, agora que todos entenderam o projeto, podemos começar. Hongxi, daqui a pouco vou mandar um resumo da história. Já vá se preparando.
+
+— A narrativa vai ter uma identidade própria, bem ao estilo de Diablo. Os jogadores precisam sentir constantemente a desesperança daquele mundo. Pesquise a Idade das Trevas, a Peste Negra, as execuções na fogueira, a purificação das almas, a exposição de corpos em forcas e as donzelas de ferro... Tudo isso pode ser aproveitado no jogo, principalmente o que tiver relação com o inferno.
+
+Zheng Hongxi enxugou o suor da testa.
+
+— Certo. Vou fazer o possível...
+
+...
+
+Depois de examinarem o documento de projeto, todos começaram a trabalhar nas diferentes partes de Diablo, sem perder tempo.
+
+Enquanto os demais pesquisavam e assimilavam o conceito, Chen Mo também não ficou parado. Usou Poções de Reprodução de Memórias para anotar os detalhes do projeto de Diablo.
+
+A dificuldade estava em aproveitar elementos de dois jogos diferentes: a história e a jogabilidade básica de Diablo 3, combinadas à direção de arte, à atmosfera, aos ambientes e aos pontos fortes de Diablo 2. Ele precisava se lembrar dos dois e pensar em como uni-los.
+
+Primeiro, a história seguiria Diablo 3.
+
+Começaria com *a queda de um objeto misterioso* sobre a Catedral de Tristram e seguiria até a derrota do Rei Esqueleto Leoric no primeiro ato. No segundo, viria o confronto com o Senhor das Mentiras. No terceiro, a incursão pela Fortaleza do Bastião e pelo Coração do Pecado levaria à derrota de Azmodan. Por fim, os jogadores chegariam aos Altos Céus para enfrentar Diablo.
+
+A história de Diablo 3 era excelente e não ficava atrás da de Diablo 2. Porém, por causa da direção de arte e da forma como era apresentada, acabava parecendo menos marcante. O problema não estava na história em si, mas nas técnicas narrativas e no estilo geral.
+
+A variedade de cenários de Diablo 3 também era muito bem trabalhada. Campos da Miséria, deserto, planícies nevadas, inferno e céu: todos tinham sido bem executados e até serviram de referência diversas vezes para desenvolvedores chineses de RPGs de ação.
+
+Além da trama principal, os jogadores poderiam conhecer melhor aquele mundo por meio de anotações, cartas e relatos dos NPCs.
+
+Segundo, as classes e o sistema de combate teriam como base Diablo 3, com alguns ajustes de balanceamento.
+
+Os jogadores poderiam escolher duas habilidades primárias, quatro secundárias e três passivas. A estrutura das habilidades e dos controles era familiar e muito melhor que a de Diablo 2.
+
+Além disso, não seria preciso reaprender habilidades nem visitar locais específicos para trocá-las. Isso facilitaria a vida dos iniciantes e ampliaria o público potencial.
+
+Embora os fãs criticassem o sistema de habilidades de Diablo 3 por ser limitado, com poucas estratégias realmente viáveis, ele oferecia, na verdade, muitas possibilidades. A monotonia surgira com a introdução dos rankings: os jogadores se esforçavam para descobrir a estratégia mais eficiente, e os demais passavam a copiá-la.
+
+Assim, a aparente falta de variedade era consequência do sistema de classificação.
+
+Muita gente considerava o sistema de habilidades de Diablo 2 melhor. Porém, se ele também tivesse uma classificação competitiva, os jogadores buscariam a mesma otimização extrema, e o resultado acabaria sendo igual ao de Diablo 3.
+
+Bastava existir uma meta concreta a alcançar para que esses jogos de hack and slash se tornassem extremamente repetitivos. Os jogadores deixavam de explorar as possibilidades do jogo para seguir as estratégias e builds mais eficientes.
+
+Chen Mo queria fazer algumas mudanças nos sistemas de habilidades e equipamentos para reduzir essa monotonia.
+
+Terceiro, o sistema de equipamentos teria como base Diablo 2.
+
+Embora Diablo 3 também tivesse atributos aleatórios nos itens, o sistema não funcionava tão bem por causa da *dependência de equipamentos específicos*. Por exemplo, determinada classe precisava conseguir certos itens para que uma build funcionasse, tornando os demais equipamentos inúteis.
+
+Para corrigir isso, Chen Mo planejava aumentar as chances de obter equipamentos, ampliar a aleatoriedade dos atributos e oferecer uma variedade maior de itens.
+
+É claro que isso poderia dificultar o balanceamento. Com classes fortes, habilidades poderosas e equipamentos excelentes, quem saberia do que os jogadores seriam capazes diante de tantos elementos aleatórios?
+
+Afinal, o foco era a experiência para um jogador. Como Chen Mo não pretendia incluir um sistema de comércio entre jogadores, essa aleatoriedade não causaria tantos problemas ao jogo.
+
+Quarto, a dificuldade.
+
+Chen Mo queria aumentá-la um pouco, e os jogadores teriam de concluir a campanha na dificuldade padrão.
+
+Isso seria um desafio para os iniciantes, pois derrotar os chefes exigiria *reflexos* e habilidade. Somados à direção de arte e ao campo de visão, esses elementos fariam os jogadores avançarem com dificuldade: um único passo em falso poderia matá-los.
+
+A dificuldade diminuiria um pouco depois de várias mortes. Ainda assim, em condições normais, ninguém conseguiria atravessar a história inteira sem encontrar obstáculos.
