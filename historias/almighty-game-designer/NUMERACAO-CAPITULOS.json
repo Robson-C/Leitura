@@ -907,7 +907,67 @@
       "chapter": 150,
       "title": "O primeiro lugar de Wulin Legend",
       "file": "capitulos/150 - O primeiro lugar de Wulin Legend.txt"
+    },
+    {
+      "source": 151,
+      "chapter": 151,
+      "title": "A hora de voltar aos jogos para celular",
+      "file": "capitulos/151 - A hora de voltar aos jogos para celular.txt"
+    },
+    {
+      "source": 152,
+      "chapter": 152,
+      "title": "A escolha de Onmyoji",
+      "file": "capitulos/152 - A escolha de Onmyoji.txt"
+    },
+    {
+      "source": 153,
+      "chapter": 153,
+      "title": "Sem limite para a qualidade de Onmyoji",
+      "file": "capitulos/153 - Sem limite para a qualidade de Onmyoji.txt"
+    },
+    {
+      "source": 154,
+      "chapter": 154,
+      "title": "O conteúdo é a força de Onmyoji",
+      "file": "capitulos/154 - O conteúdo é a força de Onmyoji.txt"
+    },
+    {
+      "source": 155,
+      "chapter": 155,
+      "title": "As três regras de Qiu Bin",
+      "file": "capitulos/155 - As três regras de Qiu Bin.txt"
+    },
+    {
+      "source": 156,
+      "chapter": 156,
+      "title": "O temor de enfrentar Chen Mo outra vez",
+      "file": "capitulos/156 - O temor de enfrentar Chen Mo outra vez.txt"
+    },
+    {
+      "source": 157,
+      "chapter": 157,
+      "title": "A corrida pelo lançamento de Demon Slayers 2",
+      "file": "capitulos/157 - A corrida pelo lançamento de Demon Slayers 2.txt"
+    },
+    {
+      "source": 158,
+      "chapter": 158,
+      "title": "Sem garantia nos sorteios de Onmyoji",
+      "file": "capitulos/158 - Sem garantia nos sorteios de Onmyoji.txt"
+    },
+    {
+      "source": 159,
+      "chapter": 159,
+      "title": "A divulgação de Onmyoji com Gokuraku Jodo",
+      "file": "capitulos/159 - A divulgação de Onmyoji com Gokuraku Jodo.txt"
+    },
+    {
+      "source": 160,
+      "chapter": 160,
+      "title": "O lançamento de Onmyoji",
+      "file": "capitulos/160 - O lançamento de Onmyoji.txt"
     }
   ],
-  "notes": "Leitor local com capítulos 1–150. Lote 141–150 revisado e integrado. Próximo envio 151. Commit e push manuais."
+  "notes": "Leitor local com capítulos 1–160 revisados e integrados. Sem TXT pendente nesta obra. Próximo envio 161. Capítulos 151–160 receberam títulos descritivos provisórios porque os anexos não informavam títulos ou números. Datas editoriais removidas. Commit e push manuais."
 }

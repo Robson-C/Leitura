@@ -1,0 +1,99 @@
+Capítulo 158 — Sem garantia nos sorteios de Onmyoji
+
+Demon Slayers 2 finalmente foi lançado em meio à enorme campanha publicitária!
+
+A Emperor Dynasty fizera tudo o que podia para divulgá-lo. O jogo ocupava o destaque da página inicial de sua plataforma, e até o autor da obra original participara da promoção.
+
+Os anúncios estavam por toda parte, dentro e fora da internet. A empresa entendia melhor que ninguém que não havia motivo para economizar. Cada jogador representava receita, e o investimento seria recuperado facilmente.
+
+Os profissionais imaginavam que Chen Mo, sempre tentando aproveitar cada situação, provocaria alguma confusão. Porém, ele permaneceu em silêncio. Nem uma postagem no Weibo.
+
+Muitos fãs interessados no espetáculo ficaram decepcionados.
+
+Conforme a popularidade crescia, os números foram divulgados.
+
+No primeiro mês, Demon Slayers 2 teve dois milhões e novecentos e vinte mil jogadores, doze por cento de pagantes e uma receita média de 187,3 yuans *por jogador pagante*. O faturamento mensal foi de sessenta e cinco milhões de yuans.
+
+O resultado chocou todo o setor móvel.
+
+Os desenvolvedores de jogos de cartas já compreendiam bem indicadores como usuários ativos e gasto médio. Só pelos números, conseguiam avaliar o desempenho.
+
+Muitos não esperavam tanto da continuação. A propriedade intelectual de Demon Slayers já havia sido bastante explorada, e não faltavam casos de sequências que rendiam menos que os antecessores.
+
+A maioria nem precisava consultar as avaliações para saber: o jogo era um enorme sucesso.
+
+Se a divulgação continuasse, os sessenta e cinco milhões do primeiro mês ainda poderiam aumentar.
+
+Qiu Bin não exagerara ao considerar possível chegar a oitenta milhões mensais. Se mantivesse sua posição, sem concorrentes por dois meses, provavelmente alcançaria aquele número.
+
+Para os outros designers, havia notícias boas e ruins.
+
+A ruim era que perderiam parte do público. Só lhes restava torcer para não serem afetados ou sofrerem uma queda na receita.
+
+A boa era que o resultado comprovava o espaço para melhorias. Se Demon Slayers 2 podia faturar sessenta e cinco milhões, outros também poderiam.
+
+— Sessenta e cinco milhões no primeiro mês. Parece que vai dominar o ranking de novo.
+
+— Por quanto tempo? Três meses? Meio ano?
+
+— Pelo menos três meses, acho. Joguei um pouco e fiquei impressionado. A qualidade supera bastante os concorrentes, e a arte é incrível. A compreensão de Qiu Bin sobre o gênero chega a assustar.
+
+— Suspiro... Parece que vamos ganhar menos por um tempo.
+
+— É normal. Antes, as pessoas ainda duvidavam que fosse possível repetir I Am MT e hesitavam em investir. A qualidade dos jogos não era tão alta. Agora que ficou claro que outros também lucram, algumas empresas vão tentar monopolizar o mercado. Certamente, aparecerão mais títulos desse nível.
+
+— Pois é. Ganhamos tanto dinheiro quase sem esforço por um ano. O público também se cansou. Está na hora de fazer algo novo.
+
+— Quem for produzir outro deveria jogar mais Demon Slayers 2 e aprender com o combate e o estilo visual.
+
+— Pelo menos, já juntamos dinheiro. Vamos reinvestir em arte e música. Não podemos deixar toda a glória para eles! Temos que recuperar o que é nosso!
+
+— Nem fomos os mais prejudicados. Pior para quem insiste em outros gêneros. Deve estar sufocado por tantos jogos de cartas.
+
+— Os tempos mudaram. Achavam que jogos para celular se resumiam a títulos casuais. Agora, perceberam quanto dinheiro podem render.
+
+— Chega de conversa. Preciso voltar ao trabalho e tentar conquistar minha parte.
+
+O lançamento provocou uma tempestade no setor.
+
+Para os jogadores, talvez fosse apenas mais um título. Os designers, porém, enxergavam outro recado.
+
+Depois de cerca de um ano de testes, a Emperor Dynasty finalmente decidira dominar aquele mercado.
+
+Era previsível que investisse ainda mais após o sucesso. Produziria novos títulos, com bons gráficos e a força de sua distribuição, cobrindo diferentes temas e tomando o setor inteiro.
+
+Diante daquela intenção, os demais eram obrigados a acompanhar a mudança e elevar a qualidade.
+
+Em pouco tempo, o mercado antes pacífico entrara numa corrida pelo topo.
+
+Chen Mo assistia à disputa sem sentir pressão.
+
+Onmyoji estava praticamente concluído. Faltavam apenas algumas ilustrações e pequenos ajustes no balanceamento, resolvíveis em uma ou duas semanas.
+
+Qian Kun enviou uma planilha.
+
+— Mandei as probabilidades de invocação dos shikigamis. Se não houver problema, ficam como definitivas.
+
+Chen Mo examinou os dados.
+
+Qian Kun os havia organizado e incluído até mecanismos de pseudoaleatoriedade.
+
+Shikigamis SSR, como Ootengu, Shuten Douji e Arakawa no Aruji, tinham cerca de 0,1% de chance cada. Os SR, como Yuki Onna e Inugami, ficavam perto de 1%. Já os SR vinculados a eventos, como Umibouzu e Kuro Mujou, tinham cerca de 0,1%. Outros, de raridade R, como Sanbi no Kitsune, chegavam a aproximadamente 3,5%.
+
+No total, a chance era de um por cento para SSR, vinte e quatro por cento para SR e setenta e cinco por cento para R.
+
+Chen Mo definira o método de invocação e as probabilidades gerais. Qian Kun apenas distribuíra as chances entre os personagens, de acordo com a raridade, para atingir aqueles totais.
+
+Além disso, acrescentara garantias: depois de dez tentativas seguidas sem um SR, o jogador receberia um. O mesmo aconteceria com um SSR após cem tentativas sem obtê-lo.
+
+Chen Mo assentiu.
+
+— Está praticamente pronto. Mas retire a pseudoaleatoriedade.
+
+Qian Kun se espantou.
+
+— Hã? Retirar? Tem certeza?
+
+Chen Mo assentiu.
+
+— Sim.

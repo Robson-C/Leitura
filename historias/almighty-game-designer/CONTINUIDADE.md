@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 18/11/2026: leitor offline até 150. Nenhum TXT pendente nesta obra. Próximo envio 151.
+Estado em 18/11/2026: leitor offline até 160. Nenhum TXT pendente nesta obra. Próximo envio 161; próxima revisão a partir do 161.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -1696,3 +1696,131 @@ Incertezas mantidas em itálico: rótulos de atributos do 143, energia interna c
 Validação concluída: node --check historias/almighty-game-designer/chapters.js, node tests/reader.test.cjs e git diff --check passaram. Suíte comparou os 150 TXT aos capítulos, títulos, marcações, navegação, limites e retomada em DOM simulado. Os 140 objetos de capítulos anteriores e os dez TXT preparados foram preservados. Conferência visual nova no navegador não executada.
 
 Leitor até 150, nenhum TXT pendente nesta obra. Próximo envio 151. Backup de 19 arquivos reconferido por SHA-256 em backups/agd-publicar-revisar-141-150-20261118T154439711788Z/. Para reverter, restaurar seletivamente os arquivos do backup conciliando mudanças posteriores. Commit, push e implantação remota permanecem manuais.
+
+
+## Capítulo 151 — A hora de voltar aos jogos para celular — 18/11/2026
+
+Anexo9c94b0a3-9eab-4f64-8f70-fc6cfefe867e semnúmero/título; sequência151/títulodescritivoprovisório/dataeditorialremovida. ApósvitóriaWulin150, WencontinuajogaIAmMT/QianJiaquestionamcópias, Chenanunciaretornomercadomóvelsemdefinirnovojogo. DemonSlayersEmperor~40milhõesreceitamensal/update~2semanas/líderranking, IAmMT~3milhõesreceitamensal/fãsfiéis. Quatroprimeirosmobilecartas/ quase metade ranking são cartas, afirmações distintas. Modelos2Dconformeinglês,nãomudarpara3Dporhipótese.
+
+Trêsinconsistênciasdafontemarcadasitálico/preservadas: maisde1mêsdesdeIAmMTemboradesenvolvimentoWarcraftconsumaboapartedeano+Wulin;5milhõesmenos70–80%distribuiçãonãoresulta700–800mil; comparação55milhõesIAmMT/200milhõesJuniorThreeKingdom/3milhõesSoulHuntersnãoescalonacomargumentoúltimo. Nãoinventar1ano/300milhões/custosocultosnemcorrigirnúmerossemcontextofuturo. Definirlucrovsreceitaemfala40milhões e rendamensalcomomesmafonte semassegurarvalor líquido. Designersconversamsemnomes, sematribuirQiuBinoutro. ExpansãogêneroeraesperadapeloChenparaoportunidade, não aconteceuagoralançamentodeoutrojogo. Frasefinalfonte behind his harvest interpretadacomeçarcolheita,pelosentidoimediato. Lapsolayer→later/mobiledobrado/eachmoneyrecuperadoscontexto.
+
+TXT151integralUTF-8/tabela/continuidade/handoff atualizados; leitor1–150preservado; pendente151; próximo152. Revisar151emdiantenopróximopublique. Backup4registrosSHA256: backups/agd-capitulo-151-20261118-202537/. ReversãoseletivarestauraregistrosconsiderandoediçõesposterioreseretiraapenasTXT151. Semcommit/push.
+
+Validação151: UTF-8,cabeçalho/final, sequência1–151, integralidade/contexto/nomes/receitas40e3milhões/prazos/3marcaçõesitálicas/dataremovida conferidos;4backupsSHA256íntegros; leitor150preservado.
+
+
+## Capítulo 152 — A escolha de Onmyoji — 18/11/2026
+
+Anexoa24c320b-558d-4047-b635-96e859976b8c semnúmero/título; sequência152/títulodescritivoprovisório/dataeditorialremovida. ExplicagênerocartaschinêsdistintoHearthstoneMagicTheGathering; núcleoobter/evoluir/combatepermanececommodelos2D/3D. Fórum14comentáriosmostrasaturação/IP/sucessorexpectativa, espectadoresaindadesconhecemretornoChen. FonteAGORArepeteUMANOdesdeIAmMT, esclareceintenção cronologia151maisdeummêscomoimprecisão; não alterou151nestaentrega, conferirharmonizaçãonopróximopubliquecombackup.
+
+Chenpesquisafóruns/percebemercadoavançadopelo hardware; datascomparativasIAmMTjan2013/SoulHuntersjul2014/Onmyojijun2016preservadascomofonte,nãochecagemhistóricaexterna. Modelos3Dcomentáriofórumvs2Dnarraçãosãoreferênciasdistintas,nãoequipararoureescrever3Dglobalmente. Lapsodafonte This was just a constraint...butalso interpretadonãoapenasideiasmastambémtecnologiapelosentidoenumeração.
+
+NOVOPROJETOCONFIRMADOOnmyoji, esboçaAbenoSeimeicabelosacinzentados/leque/abreDocconceito. SoulHuntersnãoescolhidoporartemenor/mecânicascopiáveis e DotAaindanãoexistente; mapasWarcraftjáexistemmasnãosãoDotA. FGOadiadoporprecisartodaIPSérieFate, nãodesenvolveparalelo. VantagemOnmyoji2anoséprevisãodeChen,nãogarantiafuturajádemonstrada. LemaCriarfelicidadecomdedicaçãoretomado81/80. Finalcompleto, semcomplementoeditorial.
+
+TXT152integralUTF-8/tabela/continuidade/handoff atualizados; leitor1–150preservado; pendentes151–152; próximo153. Revisar151emdiantenopróximopublique. Backup4registrosSHA256: backups/agd-capitulo-152-20261118-202654/. ReversãoseletivarestauraregistrosconsiderandoediçõesposterioreseretiraapenasTXT152. Semcommit/push.
+
+Validação152: UTF-8,cabeçalho/final, sequência1–152, integralidade/contexto/nomes/14comentários/datascomparativas/OnmyojiSeimei/2anosprojeção/dataremovida conferidos;4backupsSHA256íntegros; leitor150preservado.
+
+
+## Capítulo 153 — Sem limite para a qualidade de Onmyoji — 18/11/2026
+
+Anexo06dd61b4-0f36-47b0-b5b8-f17e372d78b2 semnúmero/título; sequência153/títulodescritivoprovisório/dataeditorialremovida. DocconceitoOnmyoji6categorias:shikigamis/onmyojis,missões,combate,social(caçadas/correio/chat),Almase loja,outros(invocação/códice). Souls→Almas nomeprovisóriodescritivoparaequipamentos/sistemafonte,nãopretenderlocalizaçãooficialnemrenomearcomoatributoalmahumana. Shikigami/onmyoji termosmantidos; gametítuloOnmyoji diferenciafunçãoonmyoji, AbenoSeimeigrafiapadronizada152.
+
+Honest traduzido sincero com primeiramarcaçãoitálica parajogodepalavrasmonetização vs históriacomovente (interpretaçãocontextual); Zheng confirmahistóriarealmentesincera, ing lês doesn seem recuperadodescriçãocoerente como does seem, sem torná-lodiscordanteinexplicável. GrupoaceitapremissaIAmMTmelhorado3D, QinKunanimadocaçaníqueis (nãoconfundirQiancomoutro). ChenconfirmaIPconstruídapeloprópriojogo/SEM animaçãopromocional.
+
+Orçamentosemtetoqualidade/ilustraçõesaté20milyuans/vozesfamosasJapão/música, Sucontrataráterceirizadas. ReferênciaIAmMT2milimageéaproximaçãoWen55=2000vs2200terceirizada, mantida; Warcraft30epoucosmilhõescinemáticascompatível108orçamentoconjunt o, nãosubstituirpor40milhões133queeracomplementaçãoplanej ada. Desenvolvimentodezenasmilhõesépossibilidade,nãodespesajáefetivada. NãoperdeWarcraftlucroéconfiançaChen,nãovendaresultado. Finalcompleto/brincadeiraWen, semcomplementoeditorial.
+
+TXT153integralUTF-8/tabela/continuidade/handoff atualizados; leitor1–150preservado; pendentes151–153; próximo154. Revisar151emdiantenopróximopublique. Backup4registrosSHA256: backups/agd-capitulo-153-20261118-202819/. ReversãoseletivarestauraregistrosconsiderandoediçõesposterioreseretiraapenasTXT153. Semcommit/push.
+
+Validação153: UTF-8,cabeçalho/final, sequência1–153, integralidade/contexto/nomes/6categorias/20mililustração/30milhõescinemáticas/itálico/dataremovida conferidos;4backupsSHA256íntegros; leitor150preservado.
+
+
+## Capítulos 154–155 traduzidos — 18/11/2026
+
+Anexos901cfdc8-bcc4-47e0-b917-c2245f895814 e fb44eee6-4ee2-4ecd-a42b-cabd7a132466, nestaordem; sequência154–155/títulosdescritivosprovisórios/datas editoriaisremovidas.154 O conteúdo é a força de Onmyoji: tarefas3assistentes, Zhengpesquisatemajaponês, ChenusaPoçãoMemóriaesboços/funções/habilidades/70shikigamisiniciais vsquase100posteriorvidaantiga. BakuYumemakura/romanceOnmyojibasenarrativanãorecriadoliteralmente, folcloreHeian/KonjakuMonogatarishū(grafiacapturaMonogatarishtnormalizada). AbeSeimei/Kagura/Hiromasa/YaoBikuni/Ootengu/Shuten/Gyourou/ArakawanoAruji/IbarakiDouji, nomesinglesesoriginaissemimporlocalizaçõesexternas. GyourouArakawa semvírgularecompostocomolista,papelcoletivoclaro. YukiOnnaNevasca/SanbinoKitsuneMulherDesprezada/ShouzuCircuitoÁgua traduçãodescritiva,nãoafirmaroficial. Almasconforme153, duplicatasevoluemhabilidades. SummonersWarreferência,nãonovojogoproduzido.
+
+154passaàEmperor: QiuBinlíderDemonSlayers45milhõesmensais (151aprox40, evolução/arredondamentonãoconflita), palestradesignersB/C.3fatoresintroduzidosfragmentaçãotempo/baixocusto/IPforte;155continuaexplica. Lapso honestmyQiuBin→conduzidaporQiuBinpeloevento,Pptentendidocomoslides.
+
+155 As três regras de Qiu Bin: sessõeslongasprimeirosdias/curtasapóssemanaevitartédio, custoenxuto/atualizaçõesrápidas3meses, IPforteretornosemperdaséalegaçãoQiu/opiniãonomundoficcionalnãoorientaçãofinanceira. Palestra>1h/públicopercebepontovir ada, QiunegaalteraçõesgrandesexcetoChenpioneiro. Ironiadramática: acreditamfoibomsairPCenquantoOnmyojiestáemprodução. DemonSlayers2retaprodução/divulgaçãopronta, operaçõespropõeslogannº1China/jogodetodopovo/Linaparenteapoio, Qiuaceitafinal, nãoháanúncioefetivonemanovonúmerovendas. QinBinlapso→QiuBin. Memb rohonoráriodoanopossíveléelogiohipotético,nãoprêmiojáconcedido. Ambosfinaiscompletos,nãonecessitamcomplementoeditorial.
+
+TXT154–155integraisUTF-8/tabela/continuidade/handoff atualizados; leitor1–150preservado; pendentes151–155; próximo156. Revisar151emdiantenopróximopublique. Backup4registrosSHA256: backups/agd-capitulos-154-155-20261118-203013/. ReversãoseletivarestauraregistrosconsiderandoediçõesposterioreseretiraapenasTXT154–155. Semcommit/push.
+
+Validação154–155: UTF-8,cabeçalhos/finais, sequência1–155, integralidade/contexto/nomes/70shikigamis/45milhões/3regras/palestra1h/campanhaaindaplanejada/datasremovidas conferidos;4backupsSHA256íntegros; leitor150preservado.
+
+
+## Capítulo 156 — O temor de enfrentar Chen Mo outra vez — 18/11/2026
+
+Anexo89851811-7c1f-4e1a-b89e-3e55fb3d0894 semnúmero/título; sequência156/títulodescritivoprovisório/dataeditorialremovida. Qin/Qui/QiuBinpadronizadoQiuBin. DemonSlayers2quaseprontomasadiadoparapreservarrenda40milhões+original,155pedeaumentarcampanhacompatívelsemdataestreia. Combatevistalateral2D/personagensatiramobjetosnãomovem, inferiorSoulHunterscomparaçãoChen/narrador,nãoconhecimentoQiuoutromundo. Qiuotimistaprevê80milhõesmensais; fonte It could never make more than contradiz sequência immediately incrediblebutconfident, interpretado Poderiaatéultrapassar80milhões/marcaçãoitálicacontextual, nãoalterarnúmero.
+
+Assistentesemnomeobtémilustraçõesvazadasporartistaempresaartes/mais30desenhos, nãoinventarnomeempresaouartist a, númeronãoneg a70shikigamisplanejados154. Qiudeduzmobilecartas/buscaIP/nãolocalizaobraPOPULAR; distintoOnmyojiromancevidaanterior154, nãoassertar inexistênciadefolclore. Ordenaacelerarmodos/testescomjogadores/retirardispensávelsemcomprometerqualidade. AINDAsemresultadobeta/lançamentoanúncioespecífico. UniversoAzerothpadronizadoWorldofAzeroth comoanteriores. Frasefinalíntegra/perplexidadeQiupelaestratégiaChen.
+
+TXT156integralUTF-8/tabela/continuidade/handoff atualizados; leitor1–150preservado; pendentes151–156; próximo157. Revisar151emdiantenopróximopublique. Backup4registrosSHA256: backups/agd-capitulo-156-20261118-203134/. ReversãoseletivarestauraregistrosconsiderandoediçõesposterioreseretiraapenasTXT156. Semcommit/push.
+
+Validação156: UTF-8,cabeçalho/final, sequência1–156, integralidade/contexto/nomes/40milhões/80milhõesprojeção/30+artes/itálico/dataremovida conferidos;4backupsSHA256íntegros; leitor150preservado.
+
+
+## Capítulo 157 — A corrida pelo lançamento de Demon Slayers 2 — 18/11/2026
+
+Anexo43b6fd51-8c85-4f26-a29a-d063aa8793d3 semnúmero/título; sequência157/títulodescritivoprovisório/dataeditorialremovida. NotíciasOnmyojivazamindústria, empresasconvivempacíficasporIPssegmentadas/similaridade, veemretornoChenameaça. QiuinformaLin, ordempromoveracelerarDemonSlayers2;5manchetespreservadas/opiniõesimprensa,nãolançamentojáocorrido. DemonSlayersaproximaIPmassivaapenas,nãocumprequalidade+alcancepara monopolizar.
+
+Onmyojimantémritmo: Hongxi/Qianexperientes, Sucontrolevisualpesado, Chenesboço/história/balanceamento/Superaceleradorreferidoenquantoauxíliopossívelnãoquantidadeuso. Equipeorigem9incluiprogramadoresafirmaçãovidaanterior,nãocontagemfuncionáriosChen. Warcraftmaistrabalho/motivaçãoalta, Onmyojimenospaixãomaissensaçãocansaço, nãocontradição. Chenplanejacontratarmuitosdepois,nãovagasjáabertas.
+
+AnúnciodepreciaIAmMT, equipeirritada, Chenplanejaestrear1,5mêsapósrival (prazoRELATIVOsemdataabsoluta), confiançaengolirconcorrenteséprevisão,nãoresultado. Su There is nothing good to come from following managers footsteps fraseambíguavertidacomocópiaaçõesgerente/marcadaitálico, nãoreinterpretadaelogioequipesemmarca. Semcut/complementoeditorial, finalcompleto.
+
+TXT157integralUTF-8/tabela/continuidade/handoff atualizados; leitor1–150preservado; pendentes151–157; próximo158. Revisar151emdiantenopróximopublique. Backup4registrosSHA256: backups/agd-capitulo-157-20261118-203259/. ReversãoseletivarestauraregistrosconsiderandoediçõesposterioreseretiraapenasTXT157. Semcommit/push.
+
+Validação157: UTF-8,cabeçalho/final, sequência1–157, integralidade/contexto/nomes/5manchetes/9pessoasequipeoriginal/1,5mêsrelativo/itálico/dataremovida conferidos;4backupsSHA256íntegros; leitor150preservado.
+
+
+## Capítulo 158 — Sem garantia nos sorteios de Onmyoji — 18/11/2026
+
+Anexo58026e8d-d76d-43ad-bf5c-07d028cd15b1 semnúmero/título; sequência158/títulodescritivoprovisório/dataeditorialremovida. DemonSlayers2LANÇADO/próprioplataformahome/autorobraapoia/anúncios, ChenSILÊNCIO. Primeiro mês2,92milhõesjogadores/12%pagantes/187,3média/65milhõesreceita. Inglêsaverageperuser interpretado porjogadorPAGANTE emitálico porque2,92milhões×12%×187,3≈65,63milhõescompatívelarredondamento65; porusuáriototalseria546,916milhões. Não muda números. Esclarece156otimismo80milhõesmensaisexplícito,nãosuposiçãodenegação151.
+
+11falasdesignersreagem/sucessorqualidadepressionamercado, expectativa80milhõesem2mesessemrivalnãoresultadoatingido. Onmyojipraticamentepronto/faltamartesbalanceamento1–2semanas, coerenteprazo1,5mêsapósrival157; semdataabsolutainventada. QianplanilhaprobabilidadesindividuaisSSR0,1cada/SR1cada/eventosSR0,1/R3,5,totalSSR1%/SR24%/R75%. Não inferirquantidadeSSRpelasomatotal, rosterparcialapenasexemplo. ShutenDoujiagoraampliagrafiaShuten154semrenomearoutropersonagem; UmibouzuKuroMujouInugamiYukiOnnaetcconformeinglês.
+
+PseudorandomdescritoexplicitamentecomogarantiaSRapós10fracassos/SSR100, preservadotermo+técnicadescrita, não alegargeradorPRNGmatemático. ChenmandaREMOVERgarantia, Qianpergunta/confirmaSimfinal; justificaçãoaindanãoexplicada. NenhumlançamentoOnmyojianunciado, nenhum novoefeitoitens. Finalcompleto.
+
+TXT158integralUTF-8/tabela/continuidade/handoff atualizados; leitor1–150preservado; pendentes151–158; próximo159. Revisar151emdiantenopróximopublique. Backup4registrosSHA256: backups/agd-capitulo-158-20261118-203422/. ReversãoseletivarestauraregistrosconsiderandoediçõesposterioreseretiraapenasTXT158. Semcommit/push.
+
+Validação158: UTF-8,cabeçalho/final, sequência1–158, integralidade/contexto/nomes/65milhões/2,92milhões/12%/187,3/probabilidades1+24+75=100%/10e100tentativas/itálico/dataremovida conferidos;4backupsSHA256íntegros; leitor150preservado.
+
+
+## Capítulo 159 — A divulgação de Onmyoji com Gokuraku Jodo — 18/11/2026
+
+Anexo77f5009e-33cc-489f-9395-86e5d28d3179 semnúmero/título; sequência159/títulodescritivoprovisório/dataeditorialremovida. Explica158: pseudoaleatoriedade=garantiasSR/SSR,nãogeradoralgorítmicoger al. SemSSR100tentativas→compensaçãojade,valoresexatosdelegadosQian; recebívelváriasvezes/maiorquevidaanterior, nãoSSRgarantido. Segunda melhoria conclusãoautomáticamasmorrajáconcluídapoupafarm; nenhumconsumotempo/resursovaloradicionado. Whales→jogadoresgastammilhares, nãoanimal.
+
+SuimagensHongxi/Chencampanhafocadaartistas/ACG+N(animaçãoquadrinhosjogosnovels)/cosplayers, semanúnciosplataformasvídeo(estratégianovacontrastaIAmMTsemcontradição). Guoenvia3ªversãoclipemúsica/vozfemininanãonomeada,nãocontratarZhouYifengouastroanteriorporhipótese. GokurakuJodoéMÚSICA-TEMAOnmyoji anúnciopúblicoWeibo, >1milhãoseguidoresChen; nãoaindalançamentojogo. ModelosHotarugusa/Kagura/Aoandon(grafiaKauguracorrigidapelo154); cenários/animações/edição, reação11comentários. LetraTODAt raduzidaapartirdotrechoenviado, preservarepetiçãodeversoCante2vezes, semsubstituirporletraoriginalexternaouinventarcompositor.
+
+Comentáriosclipes2Dmantidosemboramodelos3D: possívelacepçãoACG/chamadosvídeos2D,nãoinventarcorreçãosemoriginal. PlanilhajámodificadaQian, preço/nívelgarantiaSSRnãoalterados. Finalcompleto, semcomplementoeditorial.
+
+TXT159integralUTF-8/tabela/continuidade/handoff atualizados; leitor1–150preservado; pendentes151–159; próximo160. Revisar151emdiantenopróximopublique. Backup4registrosSHA256: backups/agd-capitulo-159-20261118-203544/. ReversãoseletivarestauraregistrosconsiderandoediçõesposterioreseretiraapenasTXT159. Semcommit/push.
+
+Validação159: UTF-8,cabeçalho/final, sequência1–159, integralidade/contexto/nomes/100tentativasjade/duasmelhorias/3ªversãoclipe/letraintegral/repetição/11comentários/dataremovida conferidos;4backupsSHA256íntegros; leitor150preservado.
+
+
+## Capítulo 160 — O lançamento de Onmyoji — 18/11/2026
+
+Fonte: anexo 64a3f1c4-664f-4589-9566-b08aa459ad97, sem número ou título. Sequência 160, título descritivo provisório, data editorial removida. Tradução integral; nota do tradutor inglês preservada como nota dessa versão, sem apresentar sua hipótese de dubladora como confirmação nossa.
+
+Gokuraku Jodo viraliza em poucos dias: covers, coreografias, ilustrações e pequenas histórias dos fãs. MikuMikuDance preservado. Vídeo promocional de dubladores: Kugimiya, Kazuhiko Inoue, Taro Kubo e Aki Toyosaki conforme fonte; não substituir nomes especulativamente. O nome Aki é hipótese expressa na nota [1]. Sketches entendido como pequenas histórias, devido às interações narrativas descritas; não confundir com os esboços de ilustração do capítulo anterior.
+
+Onmyoji AGORA lançado na Plataforma de Jogos Thunderbolt e na loja oficial. Publicidade orgânica alcança resultado comparável à campanha de Demon Slayers 2 com menor gasto, sem receita ou contagem de downloads informada. Tamanho mais de 1 GB; diálogo arredonda para 1 GB, comparado a 480 MB de Demon Slayers 2. Nenhuma confirmação de cutscenes excessivas: apenas hipótese dos jogadores. Abertura japonesa e quatro personagens Abe no Seimei, Kagura, Hiromasa, Yao Bikuni. Final completo e nota original preservados; sem complemento editorial.
+
+TXT 160 salvo em UTF-8; tabela, continuidade e passagem de trabalho atualizadas. Pendentes 151–160; próximo 161; leitor 1–150 preservado. Backup prévio de quatro registros com SHA256: backups/agd-capitulo-160-20261118-204008/. Reversão seletiva restaura registros considerando edições posteriores e retira apenas TXT 160. Sem commit ou push.
+
+Validação 160: cabeçalho, final, UTF-8, remoção da data, nove comentários sobre dublagem e dez sobre download, quatro personagens e nota [1] conferidos; sequência 1–160 sem lacuna, dez pendentes, leitor 150 preservado, quatro backups SHA256 íntegros.
+
+
+## Revisão e publicação offline 151–160 — 18/11/2026
+
+Comando publique: dez capítulos revisados contra as fontes enviadas e integrados integralmente ao leitor. Continuidade coerente: retorno aos jogos de cartas móveis, escolha e produção de Onmyoji, palestra de Qiu Bin, vazamento das artes, antecipação de Demon Slayers 2, receita inicial do rival, ajuste das invocações, divulgação musical e lançamento de Onmyoji nas duas plataformas no 160. Sem reordenação, renumeração ou complemento narrativo. Títulos do lote são descritivos provisórios porque os anexos não traziam títulos/números.
+
+Ajustes: 151, mais de um mês passa a cerca de um ano, em itálico, pois 152 e 155 explicitam um ano e o desenvolvimento de Warcraft seguido de Wulin Legend também exige esse intervalo. 153, resposta afirmativa de Zheng Hongxi sobre a sinceridade da história agora marcada em itálico: o inglês traz does n/doesn seem, ambíguo; o contexto da brincadeira apoia a leitura positiva, sem original para confirmá-la. 154, caracterização de cada onmyoji passa a cada shikigami na explicação das habilidades; os exemplos Yuki Onna, Sanbi no Kitsune e Shouzu são shikigamis, distintos dos quatro onmyojis nomeados. 159, correção ortográfica de animações fluídas para fluidas.
+
+Conferência: 151 mantém dúvidas numéricas em itálico, sem inventar custos para explicar cinco milhões menos 70–80% versus setecentos–oitocentos mil, nem transformar três milhões de Soul Hunters em trezentos milhões por hipótese. Demon Slayers 40/45 milhões são estimativas em momentos diferentes. Expectativa positiva de 80 milhões no 156, em itálico, é confirmada explicitamente no 158; não confundir previsão com receita obtida. 158 preserva 2,92 milhões de jogadores, 12% de pagantes, 187,3 yuans por jogador pagante (interpretação em itálico) e 65 milhões de receita: produto aproximado 65,63 milhões, compatível com valores arredondados. Probabilidades totais de invocação 1%/24%/75%, sem inferir roster completo pelas chances individuais. Garantias SR/SSR propostas no 158 são retiradas no 159; compensação em jade após cem fracassos não garante SSR e pode ser recebida várias vezes. Nenhum número de jade inventado.
+
+No 157, nove pessoas são da equipe original na vida anterior, não novas contratações de Chen Mo. Lançamento um mês e meio após o concorrente é compatível com primeiro mês e mais uma ou duas semanas de conclusão no 158. Divulgação orgânica no 159–160 não contradiz a recusa de comprar anúncios nas plataformas. Onmyoji não se apoia numa franquia já popular na China; uso do romance e do folclore na recriação não implica existir uma franquia influente no mundo paralelo. Vídeo 2D referido pelos comentários do 159 permanece na acepção ambígua da fonte; não substituir modelos 3D nem inventar outro clipe. Letra enviada integral, repetição e comentários preservados. Nota [1] no 160 identifica expressamente a hipótese de dubladora do tradutor inglês; nenhum nome externo adivinhado. Tamanho superior a 1 GB, arredondado no diálogo para 1 GB, distingue-se dos 480 MB do rival. Nenhum final cortado exigiu complemento.
+
+Leitor local até 160, sem TXT pendente em Almighty Game Designer. Próximo envio 161; próxima revisão a partir do 161. Clube da Longevidade, aplicação, chaves de progresso e preferências preservados. Commit, push e implantação remota não executados. Backup prévio com dezenove arquivos: backups/agd-publicar-revisar-151-160-20261118-220658/, SHA256.json e ALTERACOES.diff. Reversão seletiva restaura arquivos do backup conciliando mudanças posteriores; dez TXT também preservados antes da revisão. Validação registrada após execução abaixo.
+
+Validação concluída: node --check para app.js, chapters.js das duas obras, books.js e catalog.js; node tests/reader.test.cjs; git diff --check aprovados. Suíte compara integralmente os 160 TXT aos capítulos publicados e confere títulos, marcações, limites, navegação e retomada em DOM simulado. Os 150 objetos anteriores preservados; dezenove backups íntegros por SHA256; sete arquivos protegidos (Clube e aplicação) idênticos. Revisão visual nova no navegador não executada. Avisos de conversão LF/CRLF do Git são de configuração local e não são falhas de validação.
