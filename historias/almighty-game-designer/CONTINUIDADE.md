@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 20/11/2026: leitor offline até 230. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 231.
+Estado em 20/11/2026: leitor offline até 230. TXT 231–240 pendentes de revisão e publicação. Próximo envio 241; próxima revisão a partir do 231.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -2625,3 +2625,117 @@ Thousand Hells nomeado no229, projeto próprioYan: seis classes/SeisReinos/ofens
 Leitor local até230; nenhum TXT pendente em Almighty Game Designer. Próximo envio/revisão231. Aplicação/Clube/progresso/preferências preservados. Backup prévio19arquivos SHA256: backups/agd-publicar-revisar-221-230-20261120T131058272565Z/; ALTERACOES.diff. Reversão seletiva restaura conteúdo/registros/testes conciliando edições posteriores. Commit, push e implantação remota não executados. Validação efetiva registrada abaixo após execução.
 
 Validação concluída: node --check app.js, chapters.js das duas obras, books.js e catalog.js; node tests/reader.test.cjs; git diff --check aprovados. Suíte compara integralmente os230TXT ao leitor, títulos/marcações, catálogo, limites, navegação e retomada em DOM simulado, com isolamento entre obras. Primeiros220objetos preservados, dezTXTnovos idênticos ao backup. Dezenove backups SHA256 íntegros, sete arquivos protegidos do Clube/aplicação idênticos. Conferência visual nova no navegador não executada.
+
+
+## Capítulo 231 — Minecraft ganha uma versão em realidade virtual — 20/11/2026
+
+Anexo 7b787e90-450b-4c0c-be4e-a89a998b0e8a. Sequência231, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. PósAnoNovoChinês inicia etapa2/portVR. Capacete de coleta/cápsula/Illusion traduzem intenções em ações no universo ficcional. Primeiro protótipo funciona mas tem visual grosseiro e ausência de respostas sensoriais; não é produto lançado. Movimentos fluidos mantidos conforme fonte, embora percepção corporal inicial falhe. Comparação óculosVR vida anterior distinta da tecnologia avançada desse mundo.
+
+Correções planejadas/implementadas: oscilação da visão, tato/retorno de passos/ferramentas, audição/olfato e visual, sem inventar paladar. Good em lista dirt/stone/glass/good/leaves normalizado madeira pelo contexto. Chizel normalizado Cinzel. Divisão64subblocos AGORA implementada também na geração, antes plano do230. Leggo modela personagens/armas/animais, arredondados ainda estilizados; não abandono do mundo em blocos. Proporção corpo:cabeça3:1 preservada sem inverter por conhecimento externo. Roupas combináveis e expressões alegria/tristeza/raiva acrescentadas.
+
+Animals for walking/jumping/damage recuperado animações, lapso claro. Etapa2 leva mais de dois meses narrativos após feriado, sem data absoluta inventada. VersãoVR aceitável/conversão concluída, mas conteúdo e modos adicionais ainda próximos objetivos; nenhum lançamento comercial/receita anunciado. Não terminar tarefa no primeiro protótipo ruim nem declarar lançamento final. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–231 conferidos; leitor230 preservado. TXT231 pendente; próximo232. Quatro backups íntegros por SHA256 em backups/agd-capitulo-231-20261120T150759456989Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT231. Commit e push manuais.
+
+
+## Capítulo 232 — Os quatro mundos de Minecraft — 20/11/2026
+
+Anexo40e223f8-ca62-4b10-9ced-90b984080279. Sequência232, título descritivo provisório; data editorial removida. Tradução integral, nota inglesa[1] tapas meditação/autodisciplina preservada. Quatro modos MeuMundo(individual, trocadilho Minecraft chinês conforme225), MundoDosOutros(local), MundoDeTodos(online), MundoDeChenMo(observador). Individual tem Sobrevivência/Aventura/Criativo, pode abrir via convites/matching. Anfitrião expulsa/silencia/reverte medidas. Não atribuir edição livre ao modo observador.
+
+Servidores10milpessoas, fonte10milkmdeárea interpretado10milkm² em itálico: diverge100milkm²do228, preservar diferença/pendência, não reduzir ou ampliar silenciosamente. Galáxia planejada, mapas iniciais iguais/evolução por comunidade, clãs/comércio/conflito/destruição. Não confundir permissão no jogo ficcional com ação externa ou regras de outros servidores reais. Plantas de construções vendidas permanentemente e requerem recursos para reproduzir, usuários podem vender próprias; sem preço específico ou transação atual. Stormwind/FortalezaBastião/estações/elevadores exemplos de modelos, sem afirmar todos prontos.
+
+Árvore até naves/combustível/controle/propulsão/reforços, customização só visual, alquimia/respiração espacial e desbloqueios graduais são plano da versão diferenciada. Não dicas reais de construção física. Etapa final agendada ainda não concluída, nenhum lançamentoMinecraft.
+
+ThousandHells AGORA primeirobeta. Chen compra chave (não ferramenta nossa/compra real), escolheHumanosmasculino/arco/adaga; LinXueCéusfeminina/armasflutuantes. Comparação conteúdo maior do concorrente justifica início teste mais cedo, não resultado comercial. Cidade escura/templos/pobres/práticas religiosas preservados. Portão doInferno próximo destino, combate ainda não começou. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, dois asteriscos equilibrados, cabeçalho/final e sequência1–232 conferidos; leitor230 preservado. TXT231–232 pendentes; próximo233. Quatro backups íntegros por SHA256 em backups/agd-capitulo-232-20261120T150925970618Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT232. Commit e push manuais.
+
+
+## Capítulo 233 — Chen Mo avalia Thousand Hells — 20/11/2026
+
+Anexo f6e37d23-9ea1-4232-8e16-a8fe78095cdb. Sequência233, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Tutorial resgate/ferreiro/comerciante desbloqueados, portão carregamento, hordas. Volley e Shadow Walk mantêm inglês sem localização confirmada. ChenHumanosarco/LinCéusmagia, ambos distância, efeitos/cheiros/tato da tecnologia ficcional, não descrição de hardware real. Fragmentos de monstro moeda/convertíveis/fabricação, sem valor especificado.
+
+Quase1hora primeiroandar completo/minichefe, sol retorna e entrada2surge; personagensnível7, três habilidades iniciais+duas=cinco. Classes20opções/seteleváveis, comparação sistemaidênticoDiablo é hipótese de Chen sobre modularidade, não alteração retroativa da quantidade de habilidades de Diablo. Ausência de divisão forte/fraca é ideia de escolhas viáveis, não garantia absoluta de equilíbrio. Não jogar andares seguintes nem concluir beta inteiro por inferência.
+
+Chen promete chamar Lin para teste de seuVR quase pronto, não divulga nome a ela ainda. Confiança70%→100% dele é bravata/juízo pessoal, não resultado de vendas ou derrota de Yan. Esmagar rival é metáfora comercial, não violência real. Lin sai/pararia jogo, não conta apagada. Avaliação final respeita maturidade do concorrente apesar da confiança, sem contradição. Tale of the Sword preservado título explicitamente na fonte, não trocar por Legend of the Sword por hipótese, conforme regra de revisão anterior183. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–233 conferidos; leitor230 preservado. TXT231–233 pendentes; próximo234. Quatro backups íntegros por SHA256 em backups/agd-capitulo-233-20261120T151050952444Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT233. Commit e push manuais.
+
+
+## Capítulo 234 — Minecraft está pronto para os testes — 20/11/2026
+
+Anexo acd5467f-9cf3-4121-92e3-f23bc1ab1893. Sequência234, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Yan reduz repulsa/ataques traseiros/velocidade monstros para adaptarPC→VR, mantém núcleo de itens. Escala menor e recursos reutilizados/procedural explicam custo relativo menor entre VR, não jogo barato em termos absolutos. Perspectiva sobre público limitado/lucro/dobrar investimento é análise narrativa de Chen, não resultado comercial ou pesquisa externa.
+
+Minecraft completo uma semana após início betaThousandHells, não após lançamento final. Quatro modos/comércio construções/árvore concluídos; testes/polimento/preparação ainda não lançamento. Zhao recrutará modders criativos dePVZ/Warcraft/DS, baixarVRemcasa; fonte ausência de cápsulas loja entendida uso público, compatível com equipamento privado Chen já usou no231. VersãoPC existe internamente mas não será disponibilizada agora. Não apagar protótipo ou permissão de uso privado.
+
+Lin Xiao deve organizar evento em hotelcincoestrelas, Chen prepara slides. Instrução aos personagens não é autorização para nós enviar convites ou reservar hotel real. Campanha rival já em andamento sem número de vendas. Manchete anjos/demônios preserva wording da imprensa, sem trocar cosmologia budista do jogo. Fonte there were any noticeable flaws recuperada negativa não havia defeitos perceptíveis em itálico pelo elogio imediatamente antes/depois. É opinião de maioria testadora, não perfeição técnica garantida. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, dois asteriscos equilibrados, cabeçalho/final e sequência1–234 conferidos; leitor230 preservado. TXT231–234 pendentes; próximo235. Quatro backups íntegros por SHA256 em backups/agd-capitulo-234-20261120T151214212805Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT234. Commit e push manuais.
+
+
+## Capítulo 235 — A primeira apresentação oficial da Thunderbolt — 20/11/2026
+
+Anexo fe2b7f0e-242d-4e73-a5f5-cc9cbcb01923. Sequência235, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Rumores de6/7meses versus rival1ano são estimativas em discussão de jornalistas, não cronograma auditado a ajustar; referência a novembro Reaper preservada, sem ano absoluto. Julho/agosto são datas possíveis, não anúncio oficial de lançamento de Minecraft. Warcraft entradaPC/classeB retomada como narrativa do autor, sem apagar projetos anteriores multiplataforma.
+
+Evento REALIZADO na história em hotel5estrelasCapitalImperial, convidadosinclusiveCidadeMágica/equipeprofissional/gravação. Não transmissão ao vivo, não repetir como live. Primeira apresentação oficial não nega entrevistas/palestras anteriores; eles comparam anúncios formais a Weibo. TítuloThunderbolt e slidesgenéricos não revelam Minecraft aos jornalistas ainda. Chen agradece/brinca com Han Lu, jornalista feminina confirmada166, s Han Lu recuperado senhorita pelo contexto. Artigos de entrevistas viraram piada, não acusações reais de jornalista ou novo texto publicado.
+
+Comentário de partidasWarcraft remete à experiência anterior, não stream nova. Bater em rival linguagem metafórica de competição. Chen pede esquecer rumores para recuperar surpresa, sem divulgar conteúdo técnico ainda. Final completo, sem corte ou complemento editorial. Sem preço/data/vendasMinecraftconfirmados, sem ThousandHellsfinal lançado.
+
+TXT UTF-8, cabeçalho/final e sequência1–235 conferidos; leitor230 preservado. TXT231–235 pendentes; próximo236. Quatro backups íntegros por SHA256 em backups/agd-capitulo-235-20261120T151344699001Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT235. Commit e push manuais.
+
+
+## Capítulo 236 — Minecraft é revelado ao público — 20/11/2026
+
+Anexo 949765cd-0c0c-40ff-98db-ace1a2fbecd4. Sequência236, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Chen brinca com plataforma já vazada, apresenta vídeo1minuto e revela MinecraftVR. Sol/cores/blocos/escorregador/asas/floresta/vale/barco/baleias/TNT/telhado/cidade/logotipo preservados. Icones EstádioNacionalPequim/CentroAquáticoNacionalPequim/TorreGrouAmarelo traduzidos sem imagens externas; casa de ópera posterior não identificada como Sydney sem nome fornecido.
+
+Liberdade/construção/voadora/vidro/labirinto/sobrevivência/local/online explicados. Online10milpessoas/10milkm² agora unidade explicitamente quadrada, confirma interpretação232 mas diverge100milkm²do228; manter pendência para revisão, sem alterar capítulo anterior fora deste envio. Árvore/comércio anunciados, sem lista nova de preços. Materiais da cinemática não significam cada feature funcional vendida neste momento, apesar do protótipo completo nos234.
+
+Reação decepcionada pela aparência infantil e custoVR são perspectiva dos jornalistas, não ausência real de apelo criativo nem posição nossa. UniversoAzeroth mantido como história publicada por Chen, expectativasMMORPG diferentes do jogo anunciado. RPG como gênero amplo descrito pela fonte não troca classificação sandbox. ThunderboltFilmes apelido distinto nome empresa. Última mensagem jornalista frase completa, pontuação/aspas regularizadas sem complemento. Sem anúncio de data/preço/vendas ainda, evento segue. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–236 conferidos; leitor230 preservado. TXT231–236 pendentes; próximo237. Quatro backups íntegros por SHA256 em backups/agd-capitulo-236-20261120T151508051907Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT236. Commit e push manuais.
+
+
+## Capítulo 237 — Elogios demais para Thousand Hells — 20/11/2026
+
+Anexo74f91085-7377-4091-85cb-2f04e8f3f1ca. Sequência237, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Q&Ameiahora, todasidades/adultos/públicomundial; cápsulatoda comMinecraft é ambição, não instalação real ou quantidade vendida. Minecraft não MMORPG e dispensaDLCfuturo conforme ideia de Chen, não restringir mods. WorldofWarcraft citado como tema de perguntas, sem anúncio de jogo lançado ou promessa nova.
+
+HanLu questiona cópia e concorrência, Chen evita juízo de plágio e admite data intencional para comparar vendas/ganhos. Expectativa de fracasso é pensamento dos jornalistas, não resultado. Fonte atribui última pergunta sobre avaliação ao próprioChen, que responde em seguida: corrigido jornalista genérico em itálico, sem identificar Han ou outro nome sem base. Restante sequência íntegra.
+
+Mão direita na pulseira esquerda/dezsegundos→elogios públicos exagerados preservados. Alusão a MaldiçãoMauAgouro do222 provável, mas fonte não descreve consumo explícito nem efeito: não declarar maldição já ativada, falha certa do rival ou mecânica nova. AnoThousandHells/vendasgarantidas são palavras dele, não previsão nossa. EmperorDynastyEmperor normalizadoEmperorDynasty. Encerramento doevento efetivo, pergunta final sugereagouro sem resposta ainda. Sem data/preço comercial novo. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, dois asteriscos equilibrados, cabeçalho/final e sequência1–237 conferidos; leitor230 preservado. TXT231–237 pendentes; próximo238. Quatro backups íntegros por SHA256 em backups/agd-capitulo-237-20261120T151631867134Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT237. Commit e push manuais.
+
+
+## Capítulo 238 — A Cidade Proibida em Minecraft — 20/11/2026
+
+Anexo2ebb6627-ce26-4617-add8-06d861ca3c06. Sequência238, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Notícias da conferência/reação de preço/criação. EarthOnline399USD, VR1000–2000yuans/MMORPG500 são preços citados na narrativa, não pesquisa real. Minecraft1000 ou200yuans, custo máximo20milhões são hipóteses dos usuários, não preço/custo confirmado. ChavesbetaThousandHells>2000yuans revenda versus preço inicial, sem compra nossa ou fixar preço oficial ausente.
+
+Mídia compara campanhas: vídeos detalhados rival/baixa expectativaMinecraft, sem resultado de vendas. Título A Life of Fighting Is but a Dream preserva nome confirmado148. AnimaçãoIAmMT/ArthasWarcraft/GokurakuJodoOnmyoji referências anteriores, não novos conteúdos produzidos. Falta de empenho na divulgação é percepção do público antes da postagem, não incapacidade de Chen.
+
+Weibo meiodia Minecraft:CidadeProibida/todasimagensnojogo é anúncio efetivo da história. Vídeo começa a ser visto mas detalhes ainda não narrados; passeio interno é expectativa/pergunta, não teste concluído ou autorização de construir patrimônio real. Nada confirma compra de plantas, preço ou data. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–238 conferidos; leitor230 preservado. TXT231–238 pendentes; próximo239. Quatro backups íntegros por SHA256 em backups/agd-capitulo-238-20261120T151817221227Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT238. Commit e push manuais.
+
+
+## Capítulo 239 — Da Cidade Proibida ao Antigo Palácio de Verão — 20/11/2026
+
+Anexo43310fb9-a9e4-4de2-8fe0-36599bca1850. Sequência239, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. VídeoCidadeProibida:PortãoMeridiano/Jinshui/Taihe/leãopedra/escadajadebranco/dragão/telhas/placa/lanternas/pavilhões/interiores/SalãoHarmoniaSuprema/painelnovedragões/trono. Materiais conforme fonte, sem substituir jade por mármore externo. Timelapse prova processo de blocos, comentários reverência/lambertela/paródia palácio real cópia mantidos. Cemmilanos comentário exagerado, não prazo de produção.
+
+Algoritmos/notícias/mídia tradicional espalham cultura além gamers, diferente canalACGmúsicaGokuraku. Uma semana assuntoalta, novo vídeo após duas semanas, sem inventar quantidade de views/custos. Comparação superarThousandHells é potencial de repercussão, não vendas apuradas.
+
+Segundo vídeoYuanmingyuan identificado AntigoPaláciodeVerão, não confundir com outro palácio de verão: referência repetida OldSummerPalace esclarece. Trecho VictorHugo/Butler integral traduzido do texto fornecido (domínio público/origem histórica), sem buscar tradução publicada nem inserir partes ausentes. Título na citação PalácioVerão preserva fala, contexto deixa antigo explícito. Programaeducativo/custo/descrição de ruínas são argumentação da fonte, não avaliação arqueológica nova nossa. Personagem encontra portal nas ruínas e entra, destino ainda não descrito. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–239 conferidos; leitor230 preservado. TXT231–239 pendentes; próximo240. Quatro backups íntegros por SHA256 em backups/agd-capitulo-239-20261120T151944867520Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT239. Commit e push manuais.
+
+
+## Capítulo 240 — Os segredos das grandes construções — 20/11/2026
+
+Anexo a404a442-9557-484d-9e19-e40d47565a61. Sequência240, título descritivo provisório; data editorial removida. Tradução integral, nota inglesa[1] sobre traduções incertas dos locais preservada explicitamente como nota daquela versão. Todos19nomes enumerados: pinyin mantido, nomes ingleses traduzidos descritivamente, sem substituir por monumentos reais corrigidos externamente. Fonte mistura PalácioPurezaCelestial/HarmoniaSuprema no parque: não inventar explicação histórica ou afirmar precisão museológica. Vídeo mostra jardim restaurado/dia-noite/amanhecer e retorno às ruínas como sonho, sem viagem temporal real na trama da novel.
+
+Comitê decide reservar divulgação lojaoficial/Illusion, mais que especulação dos designers finais. Noticiário dedica minutos fora pico, sem nome emissora. Repercussão supera/ameaça rival em atenção, não vendas. Data/preço ainda pedidos pelo público, nenhum novo anúncio.
+
+Chen usa AjustadordeEficiência AGORA, sem especificar multiplicador ou duração exatos. Trabalha12–13horasdiaPC, não dizer consumível cobre todo período nem quantos restam. FerramentasWorldEdit implementadas pelo desenvolvedor, programas/edição agilizam, compatíveis com timelapse não garantindo montagem manual individual. Muitas obras feitas ao longo do desenvolvimento, não só em duas semanas. MundoDeChenMo descrito para depois do lançamento: manter como plano dessa versão, não declarar modo já disponibilizado publicamente. Outros modos/conteúdos do232 já planejados, possível evolução de cronograma não especificada.
+
+Elogios da equipe são normais aqui, não efeitoMaldiçãoMauAgouro: somente possíveluso na coletiva anterior, sem novo acionamento descrito. Quase só Chen consegue escala monumental é avaliação do narrador, não incapacidade técnica permanente dos jogadores. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–240 conferidos; leitor230 preservado. TXT231–240 pendentes; próximo241. Quatro backups íntegros por SHA256 em backups/agd-capitulo-240-20261120T152117340833Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT240. Commit e push manuais.

@@ -1387,7 +1387,77 @@
       "chapter": 230,
       "title": "A primeira versão de Minecraft para PC",
       "file": "capitulos/230 - A primeira versão de Minecraft para PC.txt"
+    },
+    {
+      "source": 231,
+      "chapter": 231,
+      "title": "Minecraft ganha uma versão em realidade virtual",
+      "file": "capitulos/231 - Minecraft ganha uma versão em realidade virtual.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 232,
+      "chapter": 232,
+      "title": "Os quatro mundos de Minecraft",
+      "file": "capitulos/232 - Os quatro mundos de Minecraft.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 233,
+      "chapter": 233,
+      "title": "Chen Mo avalia Thousand Hells",
+      "file": "capitulos/233 - Chen Mo avalia Thousand Hells.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 234,
+      "chapter": 234,
+      "title": "Minecraft está pronto para os testes",
+      "file": "capitulos/234 - Minecraft está pronto para os testes.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 235,
+      "chapter": 235,
+      "title": "A primeira apresentação oficial da Thunderbolt",
+      "file": "capitulos/235 - A primeira apresentação oficial da Thunderbolt.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 236,
+      "chapter": 236,
+      "title": "Minecraft é revelado ao público",
+      "file": "capitulos/236 - Minecraft é revelado ao público.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 237,
+      "chapter": 237,
+      "title": "Elogios demais para Thousand Hells",
+      "file": "capitulos/237 - Elogios demais para Thousand Hells.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 238,
+      "chapter": 238,
+      "title": "A Cidade Proibida em Minecraft",
+      "file": "capitulos/238 - A Cidade Proibida em Minecraft.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 239,
+      "chapter": 239,
+      "title": "Da Cidade Proibida ao Antigo Palácio de Verão",
+      "file": "capitulos/239 - Da Cidade Proibida ao Antigo Palácio de Verão.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 240,
+      "chapter": 240,
+      "title": "Os segredos das grandes construções",
+      "file": "capitulos/240 - Os segredos das grandes construções.txt",
+      "offlinePending": true
     }
   ],
-  "notes": "Leitor local com capítulos 1–230 revisados e integrados. Sem TXT pendente nesta obra. Próximo envio 231. Títulos 221–230 descritivos provisórios: anexos sem título/número. Datas editoriais removidas. Commit e push manuais."
+  "notes": "Leitor local até 230; TXT 231–240 pendentes de revisão e integração por publique. Próximo 241. Anexos sem número/título: títulos descritivos provisórios e datas editoriais removidas. Commit e push manuais."
 }

@@ -1,0 +1,103 @@
+Capítulo 231 — Minecraft ganha uma versão em realidade virtual
+
+O desenvolvimento de Minecraft continuou depois do Ano-Novo Chinês.
+
+Ao fim da primeira etapa, ainda havia uma boa distância até o produto final. Recriar Minecraft já era um feito, mas Chen Mo queria mais: levá-lo à realidade virtual.
+
+O passo seguinte era a adaptação para VR.
+
+No segundo andar da loja de experiências.
+
+Chen Mo tirou o capacete especial de coleta de consciência e alongou o pescoço.
+
+A coleta estava concluída. Agora, as intenções de andar, pular, atacar, colocar blocos, usar objetos e fabricar itens podiam ser traduzidas em ações na realidade virtual.
+
+Inseriu os dados no Editor de Jogos Illusion e vinculou as intenções aos movimentos correspondentes.
+
+A conversão das regras de PC para VR também avançava no editor.
+
+Adaptar um jogo 3D de computador era relativamente rápido. É claro que um título enorme, com muitos recursos, exigiria mais tempo.
+
+Por sorte, Minecraft tinha regras simples e poucos recursos em comparação. O processo avançou depressa.
+
+Chen Mo instalou a versão de VR na cápsula para experimentar.
+
+Logo, sua consciência entrou no mundo virtual.
+
+Um novo cenário foi gerado conforme as regras, e ele se sentiu inteiramente dentro daquele mundo.
+
+O resultado, porém, só podia ser descrito como terrível.
+
+Primeiro, os gráficos eram horríveis.
+
+Com o campo de visão ampliado, os detalhes grosseiros ficavam impossíveis de ignorar.
+
+As arestas do visual pixelado eram extremamente evidentes.
+
+Ao olhar para baixo, via um personagem feio e quadradão, com pernas parecidas com carne enlatada e sem dedos.
+
+Árvores, rios, montanhas e animais também estavam longe do que imaginara.
+
+No PC, aquele visual era aceitável. Em VR, a visão mais ampla aumentava todos os defeitos. Quase parecia outro jogo.
+
+Os movimentos eram fluidos, mas o retorno sensorial do ambiente deixava muito a desejar.
+
+Na realidade virtual, não se usava teclado e mouse, e sim a consciência. Embora Chen Mo tivesse coletado as intenções de todos os comandos, percebeu durante o teste que aquilo estava longe de bastar.
+
+A diferença era especialmente grande diante de um jogo maduro como Earth Online.
+
+Ao andar, por exemplo, parecia estar num monociclo. Sem a oscilação do corpo, o movimento era estranho. Também dava a impressão de flutuar, em vez de pisar no chão.
+
+Não havia sensação ao segurar ferramentas. Pular, minerar ou colocar blocos parecia uma ação feita por outra pessoa.
+
+No conjunto, a primeira versão lembrava os óculos de realidade virtual de sua vida anterior. Fora a mudança de perspectiva, quase nada era diferente.
+
+Era tão ruim que parecia um insulto fazer a cápsula rodar aquilo.
+
+Os problemas vinham da falta de experiência de Chen Mo. Por sorte, pareciam solucionáveis com tempo e dedicação.
+
+Aperfeiçoar os movimentos e acrescentar oscilação à visão.
+
+Incluir respostas táteis variadas.
+
+Preparar recursos de qualidade para outros sentidos, como olfato e audição.
+
+E melhorar todos os aspectos dos gráficos.
+
+Embora o estilo continuasse pixelado, Zhou Hanyu refinou muitos pontos conforme as orientações.
+
+Blocos básicos, como terra, pedra, vidro, madeira e folhas, receberam padrões mais texturizados e bordas suavizadas.
+
+As mudanças superavam a qualidade visual de muitos mods da vida anterior de Chen Mo.
+
+Além disso, ele acrescentou o modo Cinzel. Os blocos básicos podiam ser divididos em sessenta e quatro partes menores, permitindo trabalhos detalhados e construções mais próximas da realidade.
+
+O recurso também foi usado na geração do terreno, suavizando as arestas para integrar melhor o mundo.
+
+Personagens, animais e armas passaram a parecer peças de Leggo, mantendo o estilo fofo e ganhando detalhes.
+
+Nos personagens, por exemplo, a proporção de três para um entre corpo e cabeça foi preservada. Cabeça, braços e pernas, porém, deixaram de ser cubos e ganharam formas arredondadas, como os personagens da Disney em Leggo. Assim, combinavam melhor com o mundo e tinham modelos mais detalhados.
+
+Para atender ao multijogador, Chen Mo também acrescentou modelos diferentes.
+
+Inspirados nos bonecos de Leggo, tinham roupas variadas: terno e gravata, caubói, traje casual, bombeiro, piloto de corrida, pirata…
+
+O jogador poderia combinar livremente blusas, calças, chapéus e sapatos.
+
+As roupas não exigiam tanto trabalho. Afinal, eram versões estilizadas e fofas, sem o detalhamento de grandes produções que representavam cada fio de cabelo.
+
+Chen Mo também criou expressões faciais básicas: felicidade, tristeza e raiva. Os jogadores poderiam usá-las livremente.
+
+A segunda etapa levou bastante tempo: mais de dois meses.
+
+Ao fim, havia uma versão aceitável de realidade virtual.
+
+O visual ainda era pixelado, mas já não parecia grosseiro ou desagradável.
+
+Os personagens continuavam simples e fofos, com animações variadas para andar, pular e receber dano. A visão oscilava levemente, acompanhando as vibrações sentidas pelo corpo, como na vida real.
+
+As respostas sensoriais também estavam mais completas. Andar, saltar, atacar e colocar blocos pareciam ações muito mais reais.
+
+Ao minerar, o jogador sentia as mãos segurando o cabo de madeira da picareta e as vibrações atravessando os braços até o corpo.
+
+Minecraft fora adaptado com sucesso do PC para VR. Agora vinha a etapa mais importante: ampliar o conteúdo e acrescentar novos modos.
