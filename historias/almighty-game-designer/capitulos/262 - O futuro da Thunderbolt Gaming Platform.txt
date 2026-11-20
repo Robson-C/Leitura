@@ -1,0 +1,101 @@
+Capítulo 262 — O futuro da Thunderbolt Gaming Platform
+
+Chen Mo começou a apresentar os pontos principais de The Stanley Parable e ICEY.
+
+Com o nível de habilidade que a equipe havia alcançado, nenhum dos dois seria muito difícil de produzir. Além disso, ambos tinham excelentes avaliações e eram ideais para preencher aquele intervalo entre projetos maiores.
+
+The Stanley Parable era um clássico dos metajogos. Toda a experiência acontecia em primeira pessoa. Bastava preparar os diferentes finais e as falas que o jogador encontraria. Com um roteiro à altura, o restante do trabalho seria criar os cenários.
+
+Já ICEY era um metajogo de ação. As partes mais complexas de sua ação envolviam os diferentes movimentos e o design dos monstros. Tudo servia para criar uma ótima experiência de combate, permitindo eliminar os inimigos com fluidez.
+
+Além disso, o principal atrativo de ICEY era a história. Assim como The Stanley Parable, ele continha muitos elementos de metalinguagem.
+
+Os dois eram fáceis de desenvolver e não exigiam cenários complexos. Embora tivessem várias ramificações narrativas, produzi-los não seria tão difícil, desde que a história fosse boa.
+
+Na vida anterior de Chen Mo, ambos haviam conquistado enorme popularidade justamente por serem metajogos.
+
+Um metajogo podia ser entendido como um jogo sobre jogos. Recursos desse tipo apareciam com frequência em séries e romances, mas os jogos que os utilizavam eram relativamente raros.
+
+Em termos simples, normalmente o jogador observava o jogo de uma perspectiva externa, enquanto os personagens jamais sabiam de sua existência. Nos metajogos, porém, a quarta parede era constantemente rompida: os personagens sabiam que o jogador existia e conversavam com ele.
+
+A ideia era mais ou menos esta: você jogava e observava cada movimento dos personagens como uma espécie de ser superior. De repente, um deles se virava, encarava você friamente e dizia:
+
+“Pare de me dar ordens.”
+
+Quando a quebra da quarta parede chegava a certo ponto, aquilo passava a ser considerado um metajogo.
+
+Os melhores títulos desse tipo surpreendiam os jogadores e podiam até fazê-los sentir que o jogo é que estava brincando com eles.
+
+***
+
+Os dois jogos não tinham tanto conteúdo, e a jogabilidade era relativamente direta. Depois de uma explicação simples de Chen Mo, todos compreenderam mais ou menos a proposta.
+
+Dessa vez, houve poucas perguntas. Embora a ideia de jogos assim fosse surpreendente, todos acharam o conceito bastante interessante.
+
+Além disso, as vendas não importavam tanto, pois eram projetos menores. Depois de criar sucessos para dispositivos móveis, PC e realidade virtual, Chen Mo tinha recursos suficientes para experimentar os jogos que quisesse.
+
+Os dois seriam desenvolvidos em paralelo. Qian Kun ficaria responsável por ICEY; Su Jinyu supervisionaria The Stanley Parable; e Zheng Hongxi cuidaria da história de ambos.
+
+Chen Mo, por sua vez, tinha assuntos maiores para resolver.
+
+***
+
+Em seu escritório, ele se recostou na cadeira, pensativo.
+
+A tela exibia várias estatísticas da Thunderbolt Gaming Platform.
+
+Até aquele momento, a plataforma tinha doze jogos.
+
+Para dispositivos móveis: Flappy Bird, Plants vs Zombies, I Am MT, Thunderbolt Tabletop, Lifeline, Onmyoji e Anipop.
+
+Para PC: Warcraft, Wulin Legend, Diablo e Don't Starve.
+
+Para realidade virtual: Minecraft.
+
+Alguns também estavam disponíveis em mais de uma plataforma.
+
+Cada jogo tivera um nível diferente de dificuldade de desenvolvimento e exigira um investimento próprio. No conjunto, porém, todos haviam sido bem-sucedidos.
+
+Os jogadores também começavam a associar o nome de Chen Mo à qualidade garantida, uma reputação que normalmente só grandes desenvolvedoras estrangeiras conquistavam.
+
+Ele supervisionara todos aqueles projetos para assegurar que superassem a qualidade dos originais de sua vida anterior.
+
+Na verdade, a quantidade de jogos não era tão importante para uma plataforma. A Blizzard.net de sua vida anterior, por exemplo, tinha apenas seis, mas isso não a impedia de ser uma das plataformas mais bem-sucedidas da China.
+
+O ponto principal continuava sendo a qualidade dos jogos.
+
+Porém, Chen Mo não criara sua plataforma apenas para reunir os próprios títulos, como a Blizzard.
+
+Queria que a Thunderbolt Gaming Platform se tornasse uma plataforma abrangente de distribuição, como a *Steam*.
+
+Com base nas experiências de sua vida anterior, dava enorme importância à distribuição de jogos.
+
+Para os desenvolvedores, é claro que a qualidade era essencial. Com jogos bons, seus nomes seriam conhecidos, e não precisariam se preocupar com a falta de jogadores ou dinheiro.
+
+Mas as funções de uma plataforma de distribuição iam muito além do que o público imaginava. Muitos desenvolvedores precisavam se curvar às distribuidoras e eram obrigados a alterar diversos aspectos de jogos já concluídos. Havia até casos de projetos que acabavam enterrados por não encontrar uma boa distribuidora.
+
+O poder de uma distribuidora vinha de sua base de usuários, ou seja, dos jogadores.
+
+Com um milhão de jogadores, ela poderia ganhar dinheiro com tranquilidade.
+
+Com dez milhões, até um jogo péssimo poderia render dinheiro com a divulgação da plataforma.
+
+Com cem milhões, não estaria tão longe de monopolizar a indústria inteira.
+
+Além disso, muitos jogos que se tornavam fenômenos não dependiam apenas da própria qualidade. A força das distribuidoras não podia ser ignorada. Na indústria, quem reunia mais jogadores e construía a maior rede de distribuição detinha mais poder.
+
+Até ali, a trajetória de Chen Mo fora tranquila. Mesmo assim, ele não queria ficar limitado por nenhuma plataforma no futuro.
+
+Por isso, desde o começo, decidira não depender de uma única plataforma. Mesmo que isso lhe custasse jogadores, insistira em criar a sua e até fizera jogos para ampliar o público da Thunderbolt Gaming Platform.
+
+Naquele momento, ela se parecia com a Blizzard.net de sua vida anterior: uma plataforma que reunia jogos e oferecia funções básicas. Ainda assim, já estava indo muito bem.
+
+A Thunderbolt Gaming Platform tinha uma base de 5,4 *milhões* de usuários ativos de longo prazo e cerca de 1,7 milhão de usuários ativos por dia. Era uma diferença da noite para o dia em relação ao começo.
+
+A maior parte desses jogadores vinha de Thunderbolt Tabletop, Onmyoji e Anipop. O público de Warcraft permanecia estável, enquanto o de Minecraft continuava crescendo.
+
+Isso significava que a Thunderbolt Gaming Platform já era uma das plataformas mais influentes da China.
+
+Fora a loja oficial de aplicativos, as maiores eram a Emperor Dynasty Gaming Platform, a Fantasy Gaming Platform e a Thunderbolt Gaming Platform, nessa ordem. A Zen Entertainment vinha logo atrás.
+
+Porém, havia diferenças entre as quatro empresas. A Emperor Dynasty Entertainment se concentrava tanto no desenvolvimento quanto na plataforma. A Fantasy Gaming Platform focava basicamente apenas na plataforma. Já a Zen Entertainment priorizava a criação de jogos e dava pouca atenção à construção de sua própria plataforma.

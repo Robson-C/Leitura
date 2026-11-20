@@ -1567,7 +1567,97 @@
       "chapter": 260,
       "title": "Novos jogadores e a volta de Nini",
       "file": "capitulos/260 - Novos jogadores e a volta de Nini.txt"
+    },
+    {
+      "source": 261,
+      "chapter": 261,
+      "title": "Os próximos jogos da Thunderbolt",
+      "file": "capitulos/261 - Os próximos jogos da Thunderbolt.txt"
+    },
+    {
+      "source": 262,
+      "chapter": 262,
+      "title": "O futuro da Thunderbolt Gaming Platform",
+      "file": "capitulos/262 - O futuro da Thunderbolt Gaming Platform.txt"
+    },
+    {
+      "source": 263,
+      "chapter": 263,
+      "title": "A plataforma abre as portas aos desenvolvedores",
+      "file": "capitulos/263 - A plataforma abre as portas aos desenvolvedores.txt"
+    },
+    {
+      "source": 264,
+      "chapter": 264,
+      "title": "A reação das distribuidoras",
+      "file": "capitulos/264 - A reação das distribuidoras.txt"
+    },
+    {
+      "source": 265,
+      "chapter": 265,
+      "title": "Chen Mo quebra o silêncio",
+      "file": "capitulos/265 - Chen Mo quebra o silêncio.txt"
+    },
+    {
+      "source": 266,
+      "chapter": 266,
+      "title": "Vinte e quatro horas de respostas",
+      "file": "capitulos/266 - Vinte e quatro horas de respostas.txt"
+    },
+    {
+      "source": 267,
+      "chapter": 267,
+      "title": "A promessa de Chen Mo e o reencontro dos amigos",
+      "file": "capitulos/267 - A promessa de Chen Mo e o reencontro dos amigos.txt"
+    },
+    {
+      "source": 268,
+      "chapter": 268,
+      "title": "COG, o confronto entre deuses",
+      "file": "capitulos/268 - COG, o confronto entre deuses.txt"
+    },
+    {
+      "source": 269,
+      "chapter": 269,
+      "title": "Uma recusa e a nova biblioteca de jogos",
+      "file": "capitulos/269 - Uma recusa e a nova biblioteca de jogos.txt"
+    },
+    {
+      "source": 270,
+      "chapter": 270,
+      "title": "Os primeiros resultados da nova plataforma",
+      "file": "capitulos/270 - Os primeiros resultados da nova plataforma.txt"
+    },
+    {
+      "source": 271,
+      "chapter": 271,
+      "title": "Um jogo para Zhao Lei",
+      "file": "capitulos/271 - Um jogo para Zhao Lei.txt"
+    },
+    {
+      "source": 272,
+      "chapter": 272,
+      "title": "O primeiro final de The Stanley Parable",
+      "file": "capitulos/272 - O primeiro final de The Stanley Parable.txt"
+    },
+    {
+      "source": 273,
+      "chapter": 273,
+      "title": "Desafiando o narrador",
+      "file": "capitulos/273 - Desafiando o narrador.txt"
+    },
+    {
+      "source": 274,
+      "chapter": 274,
+      "title": "As parábolas por trás de Stanley",
+      "file": "capitulos/274 - As parábolas por trás de Stanley.txt"
+    },
+    {
+      "source": 275,
+      "chapter": 275,
+      "title": "Dois sucessos e uma negociação entre rivais",
+      "file": "capitulos/275 - Dois sucessos e uma negociação entre rivais.txt"
     }
   ],
-  "notes": "Leitor local até 260; nenhum TXT pendente em Almighty Game Designer. Próximo envio/revisão 261. Lote 231–260 revisado contextualmente. Títulos descritivos provisórios nos anexos sem título; datas editoriais removidas. Commit e push manuais."
+  "notes": "Leitor local até 275; nenhum TXT pendente em Almighty Game Designer. Próximo envio/revisão 276. Lote 261–275 revisado contextualmente. Títulos descritivos provisórios e datas editoriais removidas. Commit e push manuais."
 }
