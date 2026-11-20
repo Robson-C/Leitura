@@ -1,0 +1,103 @@
+Capítulo 286 — Primeiros testes em Summoner’s Rift
+
+Embora todos falassem com cuidado, Chen Mo entendia a preocupação deles.
+
+Originalmente, a distribuição de jogos na China era dominada por duas grandes plataformas: Emperor Dynasty e Fantasy. As menores conseguiam sobreviver nas brechas entre elas.
+
+As distribuidoras ocupavam a posição dominante e tinham maior poder de negociação. Os designers independentes ficavam em desvantagem. Havia certa exploração, mas a situação ainda estava sob controle.
+
+Porém, a Thunderbolt de Chen Mo quebrara as regras do setor, praticamente declarando guerra a todas as distribuidoras do país.
+
+Isso aceleraria a concentração dos canais de distribuição.
+
+A parceria entre Emperor Dynasty e Fantasy era um sinal claro. As duas se sentiam ameaçadas e aproveitaram para reunir canais e recursos, tentando consolidar sua posição de força.
+
+Embora o movimento tivesse a Thunderbolt como alvo, os designers também seriam afetados.
+
+Se a plataforma de Chen Mo desmoronasse ou cedesse, o país ficaria diante de uma aliança de distribuidoras. Seria como unir as duas gigantes, dando a elas um poder sem precedentes.
+
+Quanto poder de negociação restaria aos designers?
+
+A vida deles provavelmente ficaria ainda mais difícil.
+
+É claro que existia a possibilidade de a Thunderbolt unificar a distribuição nacional, mas ela era minúscula e, naquele momento, inviável.
+
+Todos se sentiam ameaçados. Porém, a guerra das distribuidoras era como uma batalha entre deuses: não tinham como se envolver. Era por isso que tentavam se aproximar de Chen Mo.
+
+Afinal, comparado às distribuidoras que olhavam os outros de cima, ele era mais confiável.
+
+Thunderbolt Entertainment — Chen Mo: “Não pensem demais nisso. O futuro dos designers independentes só vai melhorar. Essa situação em que os canais de distribuição mandam em tudo não é saudável. Vai mudar mais cedo ou mais tarde.”
+
+“Quando criei a Thunderbolt Gaming Platform, não queria ficar nas mãos dos outros. Afinal, todos sabem como é irritante uma distribuidora interferir sem parar no desenvolvimento.”
+
+“Então, não se preocupem. Concentrem-se em fazer seus jogos independentes. Emperor Dynasty e Fantasy não vão conseguir arrumar problema.”
+
+[Dono do grupo] Heavenly Three Kingdoms — Zhang Xiaokong: “Certo, mestre. Ouvindo isso, ficamos mais tranquilos.”
+
+Zhu Fanglin: “Demais! 666!”
+
+Protoss Wings — Li Feng: “Incrível!”
+
+Uma onda de “666” tomou conta do grupo. Embora ainda não conhecessem Chen Mo tão bem, gostaram de sua atitude. Pelo menos naquele momento, estavam do mesmo lado, enfrentando as distribuidoras que monopolizavam o mercado nacional.
+
+Protoss Wings — Li Feng: “Aliás, você soube, Chen Mo? Emperor Dynasty e Fantasy estão discutindo internamente a criação de um jogo dominante para provar a força do novo canal.”
+
+Thunderbolt Entertainment — Chen Mo: “Não muito.”
+
+Nightmare Tapir — Lin Hailing: “Li Feng, você é mesmo nosso informante. Até isso sabe? Conte os detalhes!”
+
+Protoss Wings — Li Feng: “Ah, afinal, sou um designer fracassado que gosta de juntar fofocas da indústria quando não tem o que fazer.”
+
+“Ouvi na Emperor Dynasty que vão produzir jogos e fazer uma disputa interna. No fim, escolherão um ou dois para divulgar em todos os canais, tentando criar um verdadeiro fenômeno nacional.”
+
+[Administrador] Hengyou Networks — Qiu Hengyang: “Querem se exibir. Mostrar para nós o poder de uma divulgação em todos os canais.”
+
+[Dono do grupo] Heavenly Three Kingdoms — Zhang Xiaokong: “Não é só isso. Pensem: se conseguirem criar esse jogo, certamente atrairão uma parcela maior dos jogadores. Um lado perde e o outro cresce. Esse grande canal ficaria assustador.”
+
+Zhu Fanglin: “Estou curioso. Que tipo de jogo pretendem fazer?”
+
+Protoss Wings — Li Feng: “Não sei. Vão manter uma informação dessas em segredo. A menos que decidam divulgá-la de propósito, será difícil descobrir os detalhes.”
+
+[Administrador] Hengyou Networks — Qiu Hengyang: “Na verdade, os gêneros muito populares não são tantos. Em número de jogadores, ainda são os MMORPGs e os FPS.”
+
+[Dono do grupo] Heavenly Three Kingdoms — Zhang Xiaokong: “Sim, certamente vão fazer um RPG.”
+
+“Ouvi dizer que a Emperor Dynasty está interessada em distribuir COG. Não sei se é verdade.”
+
+[Dono do grupo] Heavenly Three Kingdoms — Zhang Xiaokong: “Provavelmente é só uma iniciativa paralela. COG ainda é um nicho pequeno. Antes de o jogo completo sair, ninguém pode ter certeza do que vai acontecer. Acho que é apenas uma aposta da Emperor Dynasty, como comprar um bilhete de loteria.”
+
+O grupo começou a discutir que jogo as duas empresas fariam. Aos poucos, a conversa se desviou para a possibilidade de superar os MMORPGs.
+
+Chen Mo ficou em silêncio.
+
+No escritório, Qian Kun testava o protótipo novo.
+
+Summoner’s Rift mostrava apenas uma pequena parte da base do lado azul. Os recursos visuais eram reaproveitados de Warcraft e Diablo. Embora tivessem alta qualidade, a mistura de estilos era tão caótica que o resultado parecia estranho.
+
+Qian Kun clicou com o botão direito num espaço vazio, e um Bárbaro caminhou até o ponto indicado.
+
+Na verdade, aquele era Garen, o Poder de Demacia. Como seu modelo ainda não existia, estavam usando um Bárbaro como substituto.
+
+Pelo editor, Qian Kun colocou um herói inimigo diante dele: Teemo.
+
+É claro que aquele também não era o modelo definitivo. O personagem usava a aparência do Rei da Montanha, de Warcraft.
+
+Com cem mil pontos de vida e programado para ficar parado, o “Teemo” servia de alvo. Qian Kun apertou Q, W, E e R para testar a sequência de dano e observar os efeitos.
+
+Um ícone de silêncio apareceu. O efeito visual da enorme espada da habilidade suprema ainda não estava implementado, mas já havia uma sensação de impacto.
+
+Os valores de dano e as mecânicas das habilidades funcionavam sem problemas.
+
+Qian Kun olhou para Chen Mo.
+
+— Gerente, está tudo certo. O protótipo parece mais estável agora. Vou testar alguns campeões mais complexos.
+
+Chen Mo assentiu.
+
+— Certo. O principal é deixar impecáveis as regras de interação dos diferentes efeitos de estado. Também precisamos aperfeiçoar as trajetórias e os efeitos das habilidades, os movimentos dos campeões e os demais detalhes.
+
+— Não se preocupe — respondeu Qian Kun. — Warcraft e Diablo têm mecanismos de combate semelhantes. Desta vez, só está mais complexo. Não será um problema.
+
+Chen Mo deu um tapinha em seu ombro e foi conferir o trabalho de arte.
+
+Tinha muita confiança nele. Embora Qian Kun vivesse pensando em maneiras de fazer os jogadores gastarem com compras dentro do jogo, era muito experiente em números, fases e sistemas de combate. Além disso, trabalhava com cuidado e raramente cometia erros.

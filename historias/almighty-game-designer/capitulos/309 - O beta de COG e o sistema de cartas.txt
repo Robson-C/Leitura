@@ -1,0 +1,83 @@
+Capítulo 309 — O beta de COG e o sistema de cartas
+
+Diante da insistência desesperada da Emperor Dynasty Entertainment, a data dos testes de COG foi antecipada outra vez, para treze de fevereiro, antes do Ano-Novo Chinês.
+
+O responsável da GA afirmou que aquela já era uma decisão bastante arriscada, pois a versão atual de COG ainda não estava pronta como deveria. Pelo menos aos olhos do designer, Clive Raman, antecipar o beta fechado era uma decisão muito estúpida.
+
+Qual era a vantagem de começar os testes uma semana antes?
+
+Clive Raman e a GA queriam muito rejeitar a proposta da Emperor Dynasty. Para eles, não fazia diferença que o jogo competitivo de uma empresa chinesa fosse lançado uma ou duas semanas antes do seu.
+
+COG mirava o mercado mundial. Quanto a League of Legends, lançado por aquela empresa chinesa, no máximo faria algum barulho naquele pedacinho de território chamado China.
+
+Porém, a Emperor Dynasty estava muito determinada, e a GA não podia simplesmente ignorar o enorme mercado chinês. No fim, acabaram antecipando a data.
+
+A escolha daquela data um tanto incômoda, treze de fevereiro, tinha um motivo: Chen Mo já havia anunciado eventos especiais para o Dia dos Namorados, em catorze de fevereiro, e para a semana seguinte.
+
+Isso incluía skins limitadas da data, ícones de perfil limitados para casais e missões especiais para jogar em dupla.
+
+Era evidente que a Emperor Dynasty não queria bater de frente com League of Legends num momento tão importante. Afinal, o evento do Dia dos Namorados já estava preparado. Para os jogadores, ele acontecia apenas uma vez por ano. COG, por outro lado, poderia ser experimentado alguns dias depois sem problema.
+
+Se os testes começassem em catorze de fevereiro, os resultados provavelmente seriam bastante prejudicados pela concorrência.
+
+A intuição aguçada de Lin Chaoxu lhe dizia que Chen Mo viera preparado. Se não encontrasse uma solução, a situação ficaria muito ruim.
+
+Tudo dependeria da reação dos jogadores depois que COG fosse disponibilizado.
+
+Em treze de fevereiro, COG, Confronto entre Deuses, iniciou seu beta fechado. A Emperor Dynasty o divulgou por diversos canais e chegou a usar parte dos recursos de distribuição da Fantasy Gaming Platform.
+
+Embora o sucesso de COG ainda fosse incerto, o bom andamento da divulgação de League of Legends havia aumentado a confiança de Lin Chaoxu naquele novo modelo de jogo. Por isso, investira muitos recursos de marketing mesmo se tratando de uma versão de testes.
+
+Apesar de muitos jogadores originais de COG serem fãs de carteirinha de Chen Mo, ainda assim preferiram experimentar.
+
+Além disso, com a divulgação da Emperor Dynasty, chegaram muitos outros jogadores. Uma grande parte deles já havia jogado League of Legends.
+
+Afinal, entre os jogos lançados antes do Ano-Novo, aqueles dois eram os mais interessantes e comentados. Mesmo quem quisesse dificilmente conseguiria ignorá-los.
+
+A versão beta de COG mantinha a jogabilidade central, os sistemas e as habilidades dos heróis do mapa de Warcraft. Não havia muitas mudanças.
+
+Na opinião de Clive Raman, alguns elementos do design original já estavam muito bem resolvidos, principalmente para o público mais dedicado. A direção de arte e o modelo de controles de COG eram justamente alguns dos motivos pelos quais esses jogadores gostavam do jogo. Alterá-los precipitadamente significaria abrir mão desse público, o que não valia a pena.
+
+As principais diferenças entre o beta fechado e o mapa original estavam na apresentação e nos recursos complementares.
+
+Como COG não obtivera os direitos de uso dos heróis, todos os modelos precisaram ser refeitos. Os nomes também receberam ajustes para evitar riscos jurídicos.
+
+Afinal, a GA era uma grande empresa e não queria ficar vulnerável a cobranças.
+
+Por exemplo, o Cavaleiro da Morte passou a se chamar Cavaleiro das Trevas; a Patrulheira Sombria virou Patrulheira das Sombras; e o Guardião da Floresta, Profeta Élfico.
+
+Também havia classes como Paladino, que receberam apenas novos modelos, mantendo o nome. Paladino era uma classe clássica da fantasia ocidental, e seu nome não era protegido por direitos autorais.
+
+Para os veteranos de COG, essas mudanças podiam parecer imitações, mas isso não era importante. Clive Raman acreditava que o jogo não ficaria restrito a quem já havia jogado Warcraft. O público principal não acharia os modelos deslocados.
+
+Afinal, como empresa ocidental, a GA tinha bastante domínio da arte de fantasia ocidental. Os cenários e os modelos dos heróis eram muito convincentes, então a sensação de imitação não era tão forte.
+
+Havia pequenos ajustes nos elementos do mapa e nas habilidades dos heróis, mas nenhuma mudança de grande porte.
+
+Além disso, havia alguns sistemas complementares e o modelo de monetização.
+
+Assim como League of Legends, COG tinha sistema de amigos, formação de partidas e loja. Na monetização, também oferecia todos os heróis gratuitamente e cobrava pelas skins. Porém, dois pontos o diferenciavam de League of Legends: a coleção de cartas e a abertura de baús.
+
+COG criara um sistema de cartas que funcionava como uma camada extra de aprimoramento de habilidades. Cada herói podia equipar um conjunto de quatro cartas, uma para fortalecer cada uma de suas quatro habilidades.
+
+Por exemplo, a Flecha Sombria da antiga Patrulheira Sombria causava dano adicional e invocava pequenos esqueletos ao dar o último golpe. Havia três cartas diferentes para essa habilidade: aumentar o dano, aumentar a vida dos esqueletos ou aumentar sua duração. O jogador podia escolher uma delas para colocar no conjunto.
+
+A ideia de Clive Raman era que o sistema aumentasse a variedade do jogo, permitindo que cada jogador escolhesse seu conjunto favorito. É claro que também servia para aumentar a receita.
+
+A GA não aprovava um modelo que dependesse apenas da venda de skins. Afinal, seria arriscado demais. Não havia controle sobre a decisão dos jogadores de comprar ou não, e isso não garantia a receita do jogo.
+
+A menos que COG se tornasse um sucesso mundial. Mas, aos olhos da GA, contar com isso era um tanto irrealista.
+
+A sugestão da empresa era cobrar um valor inicial para jogar ou acrescentar um sistema pago ligado aos atributos. Depois de pensar bastante, Clive Raman escolheu a segunda opção. Achava que a cobrança inicial afastaria mais jogadores.
+
+Quanto à forma de obter cartas e skins, era bem típica do mercado ocidental: abrir baús.
+
+Diferentemente dos baús de League of Legends, em COG tudo era obtido por meio deles. Não havia compra direta.
+
+Os jogadores ganhavam ouro jogando e conseguiam uma moeda paga ao recarregar créditos. As duas moedas abriam baús diferentes. Os baús de ouro davam cartas e fragmentos de cartas; os baús da moeda paga davam skins e cartas.
+
+É claro que a velocidade de obtenção de ouro era rigorosamente controlada, e a quantidade necessária para abrir baús aumentava a cada semana. No começo, seria impossível conseguir todos os conjuntos de cartas apenas com os baús de ouro. Quem quisesse montar um conjunto mais completo precisaria gastar dinheiro.
+
+Além disso, o que saía depois da recarga dependia da sorte. Era perfeitamente possível receber uma carta de um herói com o qual a pessoa nem sequer sabia jogar.
+
+Porém, a abertura de baús era bastante popular nos mercados europeu e americano. Já havia experiências bem-sucedidas com esse modelo, então nem a GA nem Clive Raman viam problema nisso.

@@ -1,0 +1,105 @@
+Capítulo 280 — A escolha de League of Legends
+
+Embora muitos jogadores gostassem de COG, Chen Mo sabia que sua jogabilidade era cheia de falhas. Ainda estava longe de ser um MOBA à altura.
+
+Aos olhos do público comum, aquele mapa era interessante e diferente de tudo o que havia no mercado.
+
+Os heróis tinham funções distintas e podiam cooperar de perto.
+
+Cada pessoa precisava controlar apenas um deles, tornando a experiência mais acessível aos iniciantes.
+
+O ritmo era relativamente rápido, com partidas de, no máximo, quarenta minutos.
+
+O jogo equilibrava cooperação em equipe e protagonismo individual.
+
+É claro que os jogadores ainda não percebiam o enorme potencial por trás daquilo. Só sentiam, de maneira vaga, que era muito divertido.
+
+Para Chen Mo, porém, a situação era diferente.
+
+Depois de conhecer DOTA e LoL na vida anterior — dois MOBAs extremamente desenvolvidos, mas com características completamente distintas —, ele via o COG atual como uma peneira, cheia de buracos.
+
+O design dos heróis não definia bem suas funções, e o balanceamento era péssimo.
+
+A disposição do mapa não fazia sentido. A selva era estreita e comprida, facilitando demais as emboscadas nas rotas.
+
+Faltavam incentivos positivos. Não havia recompensas ou efeitos sonoros especiais para abates ou eliminações múltiplas.
+
+O esforço necessário para aprender era muito alto.
+
+Os equipamentos eram um conjunto desconexo, sem formar um sistema coerente.
+
+Os controles ainda se pareciam com os de um RTS e eram pouco amigáveis para jogadores com menor habilidade mecânica.
+
+O efeito de bola de neve era excessivo, e havia poucas oportunidades de virar a partida.
+
+O público estava se divertindo naquele momento apenas porque jogos como COG tinham acabado de surgir. Todos eram iniciantes. Ficavam felizes ao vencer, mas não se frustravam tanto quando perdiam.
+
+Num ambiente em que novatos enfrentavam outros novatos, a diversão de COG se ampliava enormemente, fazendo tudo parecer ótimo.
+
+Mas o que aconteceria quando os jogadores melhorassem, entendessem o jogo mais a fundo e desenvolvessem novas estratégias?
+
+Eles precisariam de uma régua para medir sua habilidade. Assim surgiria o sistema de classificação. O que aconteceria quando todos passassem a jogar para vencer e uma multidão de pessoas habilidosas, com profundo conhecimento do jogo, se reunisse nas partidas ranqueadas?
+
+As falhas de COG seriam ampliadas ao extremo.
+
+“A taxa de vitória da Patrulheira Sombria está alta demais. Ela é forte demais. Vamos enfraquecer o Mago de Sangue!”
+
+Talvez reclamassem da quantidade de monstros na selva, do tamanho reduzido daquela área, do cansaço causado pelos controles ou do pouco espaço no inventário…
+
+Cada pequeno detalhe mal resolvido se tornaria uma rachadura na barragem, até provocar o colapso do jogo.
+
+Também era por isso que Chen Mo não trouxera os MOBAs desde o início.
+
+O balanceamento numérico era importante demais. Podia-se até dizer que determinava a vida de um jogo desse gênero. Se lançasse um MOBA imperfeito, seria o mesmo que entregar um conceito avançado aos outros designers. No fim, as concorrentes criariam uma versão melhor, e Chen Mo perderia todo o dinheiro investido.
+
+Era algo que ele não podia aceitar.
+
+Naquele estágio, porém, finalmente tinha capacidade para trazer os MOBAs àquele mundo.
+
+O plano de desenvolvimento já estava definido. Mas, com tantos acontecimentos se acumulando, a produção se tornava ainda mais urgente.
+
+Depois da união entre Emperor Dynasty e Fantasy, quase todas as distribuidoras do país haviam se aliado para enfrentar a Thunderbolt.
+
+No exterior, já existiam jogos com elementos de MOBA, e a parceria com a GA estava formada. Chen Mo acreditava que, em breve, lançariam uma versão mais completa.
+
+Para ele, era necessário criar um jogo capaz de dominar o mercado chinês inteiro. Só assim poderia romper a rede de distribuição montada pelas rivais e manter em suas mãos aquela árvore de dinheiro chamada MOBA.
+
+Na vida anterior, DOTA e LoL eram os dois jogos mais populares do gênero e haviam praticamente explorado suas possibilidades ao extremo. Porém, seguiram caminhos completamente diferentes.
+
+DOTA levara o balanceamento ao limite. Quase todos os heróis tinham situações em que podiam ser aproveitados, havia inúmeras táticas e seu caráter competitivo era de altíssimo nível.
+
+Porém, devido à dificuldade de aprendizado, ao estilo e a fatores históricos, ele não conseguira conquistar o mercado de MOBAs em grande escala, apesar de ter surgido primeiro.
+
+LoL seguira outro caminho.
+
+Mudando o estilo visual, simplificando os controles e tornando as funções mais definidas, reduzira bastante a dificuldade do gênero. Isso permitira alcançar muita gente que antes não jogava DOTA. Somado a diversos fatores objetivos, o resultado fora a conquista do mercado de MOBAs, tornando-o o jogo mais popular do mundo.
+
+Porém, isso também trouxera problemas, como estratégias mais rígidas, balanceamento inferior e um teto de habilidade mecânica relativamente menor.
+
+A cada atualização de LoL, alguns campeões se tornavam populares, enquanto outros eram deixados de lado. Embora fosse possível descobrir novos usos para certos personagens, muitos permaneciam no banco e não apareciam nas partidas de alto nível nem nas competições profissionais.
+
+Nesse caso, seria possível combinar as vantagens dos dois e criar um MOBA perfeito?
+
+Era praticamente impossível.
+
+Evidentemente, os dois jogos enxergavam os pontos fortes e fracos um do outro e tentavam fazer ajustes à sua maneira. Porém, já haviam escolhido caminhos inteiramente diferentes.
+
+Para simplificar os controles e ampliar o público, era necessário reduzir o teto de exigência mecânica e até sacrificar parte do equilíbrio. Não dava para ter tudo ao mesmo tempo.
+
+Ambos eram MOBAs desenvolvidos ao extremo de suas propostas. DOTA se parecia com o go: muitas variações, mas um aprendizado difícil e um público relativamente menor. LoL lembrava o xadrez chinês: regras claras, muitos jogadores, porém estratégias mais fixas.
+
+Para Chen Mo, DOTA era excelente. Mas ele precisava ampliar sua comunidade o máximo possível e disputar o público com as distribuidoras locais que haviam se unido. Precisava de um jogo capaz de sacudir o mercado e consolidar sua base de jogadores.
+
+Ao mesmo tempo, queria usá-lo para dominar ao máximo o mercado de MOBAs e derrotar qualquer título que tentasse imitá-lo ou alcançá-lo.
+
+No conjunto, LoL se adequava melhor às suas necessidades naquele momento.
+
+É claro que havia outro motivo importante: Chen Mo não sabia jogar DOTA na vida anterior.
+
+Mesmo usando Poções de Reprodução de Memórias para recordar algumas habilidades dos heróis, ainda seria difícil recriá-lo com perfeição.
+
+Quanto a League of Legends, certamente não o copiaria sem alterações. Afinal, já era muito bom em balanceamento numérico.
+
+Na vida anterior, o jogo havia mudado e melhorado constantemente ao longo dos anos. Por isso, Chen Mo não ficaria preso a conceitos de design claramente ultrapassados.
+
+Enquanto a Emperor Dynasty e a Fantasy trabalhavam juntas para demonstrar sua força de divulgação, ele também planejava lhes ensinar uma lição com o jogo mais popular.

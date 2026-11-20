@@ -8,7 +8,7 @@ Não inventar explicações, números, nomes ausentes ou acontecimentos para enc
 
 Quando o usuário enviar um trecho cortado, presumir que a continuação não está disponível. Na revisão acionada por “publique”, completar a frase interrompida com a menor intervenção que preserve a coerência com o capítulo e a sequência. Marcar somente o trecho acrescentado em itálico no TXT e no leitor e registrar o corte e o complemento na tabela. Considerar o capítulo completo para publicação. Consultar o usuário apenas quando o contexto não permitir um fechamento coerente.
 
-Último lote revisado e integrado em Almighty Game Designer: 261–275. Leitor local até 275. Próximo envio e próxima revisão a partir do 276.
+Último lote revisado e integrado em Almighty Game Designer: 276–315. Leitor local até 315. Próximo envio e próxima revisão a partir do 316.
 
 
 ## Esclarecimento vigente do usuário — 21/10/2026
@@ -283,3 +283,8 @@ Porcomandopublique, revisados dezTXT21–30comcontextoacumulado e integrados int
 ## Critério de coerência das contagens — 17/11/2026
 
 Na revisão de coerência, considerar o período, a métrica e a escala de cada contagem. Variações plausíveis entre um dia, um fim de semana ou momentos de apuração podem ser aceitas. Destacar diferenças de escala que contrariem o contexto narrativo, avaliando o evento descrito. O usuário considerou compatíveis os 1,5 milhão no domingo e os 2,2 milhões ao fim da semana nos capítulos 91–92. Essa dúvida está encerrada. O exemplo de 150 mil durante a final foi apresentado como hipótese de uma discrepância relevante, sem criar um limite numérico obrigatório para outras situações.
+
+
+## Coerência numérica — autorização de 20/11/2026
+
+Ao revisar para publicar, conferir também escalas monetárias, totais, percentuais, quantidades e unidades contra o contexto acumulado. O usuário autorizou corrigir incoerências numéricas demonstráveis sem nova confirmação por ocorrência. Aplicar a menor correção sustentada pelos dados, preservar a narrativa e registrar o raciocínio; correções inferidas permanecem em itálico no TXT e no leitor. Não multiplicar valores arbitrariamente nem apresentar como confirmado um orçamento que a fonte não informa. Quando os dados não distinguirem alternativas, manter a incerteza registrada. Exemplo autorizado: capítulo 256, total de três milhões incompatível com imóvel de cerca de 290 milhões → mais de trezentos milhões, não três bilhões. A preferência atual autoriza esse saneamento contextual e prevalece sobre a regra anterior de não corrigir nenhum número ausente da fonte.

@@ -1,0 +1,101 @@
+Capítulo 295 — Recompensas, talentos e a primeira equipe
+
+O ouro poderia ser usado para comprar ícones, *molduras de perfil*, skins de sentinela, algumas skins de campeões e *variações de cor*.
+
+É claro que permitir a compra de parte das skins com ouro equivalia a oferecer um desconto. Isso precisava ser controlado com rigor para não destruir a economia do jogo.
+
+Só um pequeno conjunto de skins de qualidade mediana ficaria disponível. A lista mudaria toda semana, e seria necessário alcançar o nível máximo de proficiência, Grão-Mestre, com o campeão correspondente. Além disso, o preço em ouro seria muito alto.
+
+Quanto às variações de cor, bastava mudar a coloração, algo relativamente simples. Por isso, Chen Mo já as incluíra na primeira versão.
+
+Depois de obter uma skin, o jogador poderia gastar certa quantidade de pontos e ouro para comprar uma dessas versões coloridas.
+
+Também seria possível usar ouro para abrir baús.
+
+É claro que isso não entrava em conflito com a compra direta. Todas as skins, ícones e sentinelas tinham preço definido. Quem quisesse podia comprá-los sem depender de sorte.
+
+Porém, ao abrir um baú com ouro, qualquer item poderia aparecer: de um ícone sem valor a uma skin rara.
+
+Chen Mo havia calculado as probabilidades. No conjunto, abrir baús saía mais vantajoso que comprar diretamente, mas o prêmio específico dependia da sorte.
+
+Para a maioria, a menos que tivesse muita sorte, ainda seria necessário usar pontos para comprar as skins mais preciosas e raras, além de certos ícones, *molduras* e sentinelas fora de circulação.
+
+O ouro também serviria para trocar de campeão no modo de batalhas caóticas, com um custo que aumentava a cada troca.
+
+As recompensas de Jia Peng se dividiam em duas partes: a de iniciante e a da temporada.
+
+A primeira seria entregue a todos que concluíssem o tutorial. Incluía Garen Cavaleiro da Morte, 4.500 pontos, dez mil de ouro e a sentinela Yeti.
+
+Já o prêmio da primeira temporada era Vayne Caçadora de Dragões.
+
+Era uma oferta generosa. Uma skin épica custava 6.900 pontos. Isso significava que Chen Mo dera pelo menos duzentos yuans em recompensas aos novos jogadores. Além disso, Garen Cavaleiro da Morte parecia uma colaboração com Warcraft, o que o tornava ainda mais atraente.
+
+É claro que, diante da profundidade do mercado de League of Legends, duzentos yuans não eram nada.
+
+Os demais visitantes também receberam os prêmios. Todos admiravam a skin de Garen, animados para entrar numa partida.
+
+— Dei uma olhada — disse Jia Peng. — Depois do tutorial, ainda precisamos jogar mais algumas partidas para liberar o jogo de verdade.
+
+— Vamos formar uma equipe contra a IA.
+
+— Está bem — respondeu Chang Xiuya. — Nada de enfrentar jogadores. Tenho medo.
+
+Jia Peng ficou sem palavras.
+
+O trio entrou na fila de nível iniciante contra bots e logo encontrou uma partida.
+
+Naquele momento, League of Legends só podia ser jogado na loja de experiências, então o público era pequeno. Porém, o espaço agora era enorme, e a maioria das pessoas na área de PC estava testando o jogo. Reunir gente para enfrentar alguns bots não era um problema.
+
+Na seleção, Jia Peng começou a examinar os campeões.
+
+Havia filtros para “Todos”, “Topo”, “Meio”, “Selva”, “Atirador” e “Suporte”. Bastava clicar para encontrar os personagens de cada posição.
+
+A versão tinha apenas 25 campeões, cinco por função. Não eram tantos, mas, como nunca tinham jogado com nenhum, os três passaram bastante tempo tentando escolher.
+
+Jia Peng queria ver a skin de Cavaleiro da Morte. Porém, os outros dois companheiros logo confirmaram Garen e Vayne, deixando-o sem palavras.
+
+Sem alternativa, escolheu Master Yi, o Espadachim Wuju. O personagem lembrava o Mestre das Lâminas de Warcraft e parecia muito forte.
+
+Wen Lingwei e Chang Xiuya escolheram Annie e Lulu por um motivo simples: eram fofas.
+
+Chang Xiuya inicialmente queria Teemo. Porém, como a equipe já tinha Garen no topo, preferiu Lulu, a Fada Feiticeira, na lista de suportes.
+
+No tutorial, Chen Mo explicara especificamente as cinco funções e incentivara o público a montar as equipes com base nelas.
+
+Era apenas uma orientação, é claro. Cada um podia escolher o campeão que quisesse, até formar uma equipe com cinco atiradores.
+
+Ainda assim, aquela distribuição clara funcionava muito bem como guia. Pelo menos aqueles cinco desconhecidos, que não entendiam nada do jogo, tinham montado uma composição completa. Era praticamente um milagre.
+
+Como ainda havia algum tempo antes da confirmação final, Jia Peng examinou as outras informações da tela.
+
+Ali, podia escolher a skin, os talentos e os feitiços de invocador.
+
+Por enquanto, Chen Mo usara a árvore de talentos da S3, sem opções como Trovoada ou Aperto dos Mortos-Vivos. O objetivo era reduzir o esforço inicial de aprendizado e deixar sistemas novos para versões futuras.
+
+Os talentos da S3 eram simples. A maioria aumentava atributos, e a divisão entre ataque, defesa e utilidade era clara. Com um pouco de atenção, dava para entender onde distribuir os pontos.
+
+A conta de Jia Peng só tinha a primeira linha liberada.
+
+Eram seis linhas ao todo, com o talento final na sexta. Uma nova linha seria desbloqueada a cada dois níveis, até a liberação completa no nível dez.
+
+Quanto aos feitiços, Fantasma, Curar e Golpear estavam disponíveis desde o começo. No nível três, viriam Barreira e Exaustão; no cinco, Teleporte e Purificar; no sete, Incendiar; e, no nove, Flash.
+
+Ou seja, depois do nível dez, não haveria mais diferença de poder de combate fornecida pela conta.
+
+Jia Peng conferiu tudo. Ainda tinha pouco para ajustar, mas, como escolhera um caçador, colocou Golpear entre os feitiços.
+
+Também aproveitou para ver as skins de Master Yi.
+
+Como os demais campeões, ele tinha três. A melhor era marcada como épica e se chamava Espadachim Despreocupado. Seu modelo era bem diferente do original: um espadachim chinês, com roupas antigas e uma espada longa.
+
+Os olhos de Jia Peng brilharam. A vontade de comprar tomou conta dele.
+
+Era uma skin original de Chen Mo. Ele não gostava tanto das antigas de Master Yi. Só Project Origin e Astral Executioner lhe pareciam melhores; as outras eram praticamente descartáveis.
+
+Por isso, decidira criar uma nova aparência inspirada nos espadachins chineses e chamá-la de Espadachim Despreocupado.
+
+Ela era muito mais bonita que a skin padrão. Antes que Jia Peng terminasse de lutar contra a própria vontade de comprar, a partida começou.
+
+“Vou jogar um pouco. Se gostar do campeão, penso em comprar uma skin…”
+
+Foi o que decidiu.

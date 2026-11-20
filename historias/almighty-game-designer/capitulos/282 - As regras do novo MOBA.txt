@@ -1,0 +1,109 @@
+Capítulo 282 — As regras do novo MOBA
+
+O documento de design de League of Legends que Chen Mo preparava podia ser dividido em quatro partes.
+
+A primeira tratava da diversão central e das regras básicas.
+
+A segunda, do mapa e das mecânicas de jogo.
+
+A terceira, dos campeões.
+
+A quarta, das configurações relacionadas aos invocadores e dos demais elementos.
+
+Na verdade, criar um MOBA era relativamente simples. As partidas aconteciam num único mapa, ao contrário dos RPGs e jogos de aventura, que exigiam muitas fases.
+
+Porém, as mecânicas e o balanceamento eram muito complexos. Desde o surgimento do gênero até sua popularização, as regras haviam sido aperfeiçoadas constantemente, até transformá-lo no tipo de jogo de PC mais popular do mundo.
+
+O plano de Chen Mo era o seguinte.
+
+Haveria quatro modos: contra a inteligência artificial, partidas normais, ranqueadas e batalhas caóticas.
+
+Os jogadores precisariam concluir o tutorial e chegar ao nível três treinando contra a IA antes de entrar nas partidas normais.
+
+Para as ranqueadas, seria necessário ter pelo menos quatro campeões com o nível de proficiência exigido.
+
+Também haveria sistemas de amigos e loja. Pelo primeiro, seria possível assistir às partidas de outras pessoas. Na loja, os jogadores comprariam skins e outros serviços adicionais.
+
+Nas configurações do invocador, poderiam consultar histórico de partidas, classificação, lista de campeões, talentos, feitiços de invocador, equipamentos e outros conteúdos.
+
+Os elos seguiriam o modelo clássico, do Bronze ao Desafiante.
+
+Cada campeão teria um nível de proficiência. Só seria possível usá-lo nas ranqueadas depois de alcançar determinado patamar.
+
+No plano atual, haveria seis níveis: Aprendiz, Iniciante, *Proficiente*, Especialista, Mestre e Grão-Mestre.
+
+Ao jogar nos diferentes modos, o usuário aumentaria a proficiência do campeão utilizado. Ela funcionaria como uma restrição de acesso.
+
+Só campeões no nível Iniciante poderiam ser usados nas partidas normais. Para as ranqueadas, seria preciso chegar a *Proficiente*. Já os níveis Especialista, Mestre e Grão-Mestre…
+
+Serviriam apenas para se exibir.
+
+Os feitiços de invocador seriam os mais comuns: Fantasma, Curar, Barreira, Exaustão, Teleporte, Flash, Purificar, Incendiar e Golpear. No modo de batalhas caóticas, também haveria Marca, a bola de neve, e Clareza.
+
+Os equipamentos eram mais complicados e seriam estudados aos poucos durante o desenvolvimento. Ainda assim, alguns clássicos estariam presentes, como o Chapéu, o Cajado de Gelo e a Ampulheta. Ele também podia considerar trazer de volta o antigo *Fogo do Submundo*, que havia sido removido.
+
+O mapa continuaria sendo o clássico Summoner’s Rift, mas usaria as mecânicas da S6, incluindo frutos explosivos, frutos de revelação, dragões elementais e outros elementos.
+
+Essas novidades tornariam o mapa mais variado e acrescentariam situações imprevisíveis, acelerando as partidas enquanto os jogadores disputavam os recursos do cenário.
+
+Ao mesmo tempo, Chen Mo pensava em reduzir um pouco a influência das sentinelas. Isso incluía aumentar seu preço, diminuir sua duração, *elevar a recompensa por destruí-las* e acrescentar itens semelhantes à Névoa da Trapaça.
+
+Devido às estratégias mais fixas e à importância da visão em League of Legends, o controle excessivo do mapa tornava as partidas de alto nível e as competições profissionais muito monótonas. Em certa medida, o jogo perdia sua espontaneidade, e estratégias pouco convencionais quase não tinham chance de vencer.
+
+Chen Mo queria mais táticas novas e mais reviravoltas, e não uma equipe construindo uma longa dinastia apenas com treinamento mecânico.
+
+O mais importante era que ele não seguiria a ordem original de lançamento dos campeões. Ajustaria a sequência conforme suas necessidades.
+
+Planejava começar com cerca de 25 personagens e acrescentar um novo a cada duas semanas. Isso manteria a sensação de novidade e permitiria um aprendizado gradual, sem deixar os jogadores completamente perdidos diante de campeões demais.
+
+Depois de concluir o documento, Chen Mo reuniu a equipe.
+
+Com uma breve apresentação de League of Legends, a maioria entendeu a proposta.
+
+Afinal, com Chenghai3C e COG como protótipos de referência, todos conseguiam imaginar mais ou menos como o jogo ficaria pronto. Só tinham dúvidas sobre sua popularidade e rentabilidade.
+
+Qian Kun perguntou:
+
+— Hum, gerente, o jogo é completamente gratuito e não vende poder de combate. Até os campeões são de graça. Só as skins conseguem sustentar a receita?
+
+Os outros tinham a mesma dúvida.
+
+A maioria conhecia Chenghai3C e COG, mas ambos ainda eram mapas de Warcraft e não geravam receita.
+
+Transformá-los num jogo completo não era um problema apenas para a GA. Também preocupava os responsáveis pela produção na equipe de Chen Mo.
+
+Pela abordagem tradicional, o melhor seria cobrar pela compra do jogo e acrescentar serviços pagos, para *sustentá-lo por algum tempo*. Pelo menos, recuperariam os custos de produção com as vendas, como acontecera com Warcraft.
+
+Depender apenas de skins era arriscado. E se o público fosse pequeno e não as comprasse?
+
+Chen Mo explicou:
+
+— Sobre isso, vocês precisam entender o objetivo de League of Legends. É diferente de Warcraft. Warcraft foi feito para jogadores de RTS, um público pequeno. Por isso, precisamos ganhar dinheiro com as vendas.
+
+— League of Legends é diferente. É um jogo inteiramente novo, e seu público-alvo são todos os jogadores.
+
+Todos se espantaram.
+
+Todos os jogadores?
+
+Não era um pouco exagerado?
+
+Quer dizer que tanto quem gostava de RPG quanto de FPS passaria a gostar de League of Legends?
+
+Ninguém conseguia acreditar.
+
+É claro que, por respeito ao chefe e amor aos bônus, todos fizeram uma expressão de “sim, sim, você tem razão”.
+
+Chen Mo sorriu e não se importou.
+
+De fato, quando os MOBAs surgiram, poucos enxergaram seu potencial. Até bons designers de grandes empresas não compreendiam direito suas perspectivas.
+
+Caso contrário, IceFrog e Blizzard não teriam seguido caminhos separados.
+
+Chen Mo não queria falar demais sobre o futuro de League of Legends. Ainda não era a hora. Explicar muito pareceria só uma grande promessa acompanhada de discurso motivacional. Não havia necessidade.
+
+Só chefes sem dinheiro precisavam recorrer a isso. Ele podia conquistar a lealdade e o entusiasmo dos funcionários pagando bem.
+
+Chen Mo olhou para todos.
+
+— Se não há mais perguntas, vamos trabalhar. O prazo da primeira versão é de três meses. Precisamos concluí-la antes do Ano-Novo Chinês, com todos os 25 campeões prontos.

@@ -1,0 +1,113 @@
+Capítulo 278 — A força da Patrulheira Sombria
+
+O Deus da Floresta usava o modelo de Malfurion e tinha uma função relativamente clara: era um suporte muito forte em controle e cura.
+
+Esse design funcionava bem, porque aproveitava algumas habilidades de Warcraft e combinava com a aparência do herói.
+
+A Patrulheira Sombria, porém, era outra história.
+
+Suas habilidades eram Silêncio, Flecha Sombria, Talento do Arqueiro e Encantar.
+
+Silêncio, Flecha Sombria e Encantar eram iguais às de Warcraft. Já Drenar Vida fora substituída por Talento do Arqueiro, uma passiva que aumentava permanentemente o alcance e a chance de acerto crítico da Patrulheira.
+
+Evidentemente, o designer de COG, Clive Raman, percebera que Drenar Vida destoava um pouco da proposta da personagem. Por isso, trocara a habilidade por outra mais adequada a uma arqueira.
+
+Na opinião de Chen Mo, porém, a Patrulheira Sombria era poderosa demais naquele mapa.
+
+Primeiro, podia usar Flecha Sombria para invocar soldados esqueletos sem limite. No início da partida, isso permitia empurrar a rota sem parar e pressionar o adversário.
+
+Além disso, fosse uma escolha intencional ou um descuido do designer, matar aqueles esqueletos não rendia dinheiro ao inimigo, e a experiência concedida era mínima.
+
+Em outras palavras, só com aquela habilidade a Patrulheira podia conquistar uma vantagem absoluta na rota. Os soldados invocados atraíam os ataques e aguentavam o dano da torre, permitindo desgastar a vida do adversário sem parar.
+
+Ao mesmo tempo, Talento do Arqueiro aumentava permanentemente seu alcance e a chance de crítico. Isso antecipava o pico de força de uma heroína que, originalmente, deveria carregar a equipe no fim da partida.
+
+Ao chegar ao nível seis, ela podia liderar um grupo de esqueletos e atrair monstros neutros para invadir a selva inimiga. Mesmo sem conseguir eliminar o adversário, ainda roubaria recursos daquela área, acelerando bastante o próprio desenvolvimento.
+
+Assim, nas mãos de quem soubesse jogar, a Patrulheira poderia ampliar sua vantagem como uma bola de neve e ser forte no começo, no meio e no fim. Era claramente excessivo e contrariava sua função.
+
+Se já tinha grande capacidade de carregar a equipe no fim, não deveria exercer tanta pressão na fase de rotas.
+
+É claro que isso se devia, em grande parte, ao fato de Clive Raman ainda estar descobrindo as possibilidades daquele tipo de jogo e não conhecer todos esses detalhes.
+
+Os jogadores tampouco percebiam o problema no design. Só sentiam, de maneira vaga, que a Patrulheira Sombria era muito forte.
+
+Chen Mo enxergou o quanto ela era desbalanceada e a escolheu sem hesitar.
+
+Sua Patrulheira chegou à torre da rota central.
+
+O mapa de COG lembrava Chenghai3C, com três rotas ligando os lados opostos. A central era a mais curta; a superior e a inferior faziam trajetos mais longos.
+
+Porém, COG já tinha o conceito de selva, com muitos monstros neutros: de murlocs e tartarugas de nível baixo a dragões vermelhos e gigantes da montanha de nível alto.
+
+A distribuição das torres também era mais bem pensada. Havia três em cada rota, oferecendo alguma segurança aos heróis mais fortes no fim da partida, para que não fossem emboscados até perder a vontade de jogar.
+
+Nesse momento, um adversário escreveu no chat geral:
+
+“Uma imitação caprichada do deus S?”
+
+Pouco depois, um companheiro de Chen Mo respondeu:
+
+“Não parece uma imitação. É o deus S mesmo. As letras são exatamente iguais.”
+
+“Porra, o Chen Mo?”
+
+“Até o Chen Mo está jogando esse mapa?”
+
+“É ele mesmo! Não é uma cópia! Meu Deus!”
+
+Os três companheiros de equipe e os cinco adversários ficaram animados. Conferiram várias vezes até terem certeza de que a Patrulheira na rota central era realmente Chen Mo.
+
+Logo começaram a conversar pelo chat geral.
+
+“Já tirei uma captura de tela. Jogar com o deus S vai me render assunto para uma semana!”
+
+“É o Chen Mo mesmo. Queria perguntar quando vai lançar um mapa de RPG novo!”
+
+“Me adiciona como amigo, mestre!”
+
+Chen Mo ficou sem palavras. Realmente não conseguia passar despercebido.
+
+Não havia o que fazer. Mesmo tentando esconder, continuava sendo um homem que chamava atenção. Seu olhar melancólico, sua barba com bigode, suas habilidades extraordinárias e seu jeito travesso de se posicionar debaixo da torre o denunciavam por completo.
+
+Patrulheira Sombria — Todos: “Joguem direito. Se fizerem besteira, *vou banir suas contas*.”
+
+Todos ficaram sem palavras.
+
+Desistiram de ficar admirando Chen Mo e logo voltaram às suas posições.
+
+— Deus S, quer que eu acompanhe você para curar? — perguntou um companheiro.
+
+— Não, vou solo no meio.
+
+Embora os jogadores daquele mundo ainda não conhecessem a expressão, seu sentido literal permitia entender o que ele queria dizer.
+
+Como Chen Mo era o designer de Warcraft, todos contiveram a vontade de ensiná-lo a jogar. Queriam dizer que a Patrulheira Sombria normalmente ia para a rota inferior, acompanhada por um suporte.
+
+Seu adversário era o Mago de Sangue, o herói Kael’thas de Warcraft. É claro que suas habilidades eram completamente diferentes das do maluco Carl de DOTA.
+
+As habilidades do Mago de Sangue eram Tempestade de Chamas, Banir, Sacrifício de Sangue e Fênix de Fogo.
+
+Eram semelhantes às de Warcraft, mas a drenagem fora substituída por Sacrifício de Sangue. A passiva dessa habilidade aumentava permanentemente a vida máxima do herói. Quando ativada, permitia usar vida em vez de mana para lançar habilidades.
+
+Além disso, Fênix de Fogo primeiro causava dano em uma área e só depois invocava a criatura, num efeito um pouco semelhante ao de Fogo Infernal.
+
+A função do Mago de Sangue era causar muito dano em pouco tempo. A combinação de Banir, Tempestade de Chamas e Fênix de Fogo conseguia eliminar instantaneamente a maioria dos heróis frágeis. Embora as habilidades consumissem muita mana, em uma emergência ele podia usar a própria vida, compensando parcialmente o problema.
+
+O adversário jogava de forma bastante agressiva. Usou Tempestade de Chamas para queimar os soldados de Chen Mo e começou a empurrar a rota sem parar, tentando prendê-lo debaixo da torre.
+
+Chen Mo não se afobou. Esperou os soldados inimigos chegarem e usou Flecha Sombria para dar os últimos golpes. Logo, seis esqueletos se ergueram.
+
+Com sua velocidade de reação e habilidade mecânica, era impossível perder um soldado.
+
+Enquanto o Mago de Sangue ainda se impressionava com sua precisão na coleta de ouro, os seis esqueletos já começavam a empurrar a rota para a Patrulheira.
+
+Zou Zhuo estava na rota superior. Enquanto jogava, acompanhava Chen Mo com preocupação.
+
+— Gerente, consegue dar conta? O Mago de Sangue causa dano em área e parece levar vantagem contra a Patrulheira. Fica mais fácil depois de aprender Silêncio. Por que não segura um pouco até eu ir ajudar?
+
+Antes que terminasse de falar, surgiu a mensagem do sistema:
+
+“A Patrulheira Sombria matou o Mago de Sangue!”
+
+Zou Zhuo ficou sem palavras.

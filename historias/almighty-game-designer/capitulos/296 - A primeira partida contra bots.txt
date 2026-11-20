@@ -1,0 +1,117 @@
+Capítulo 296 — A primeira partida contra bots
+
+O jogo terminou de carregar.
+
+A equipe de Jia Peng tinha Garen, Master Yi, Annie, Vayne e Lulu.
+
+Do lado da IA, estavam Malphite, Twisted Fate, Master Yi, Miss Fortune e Soraka.
+
+Os bots eram escolhidos aleatoriamente entre os campeões disponíveis, um de cada posição.
+
+Porém, como um caçador exigiria uma inteligência artificial específica para a selva, Chen Mo não a desenvolvera. Por padrão, deixara os bots em *rotas com dois campeões*.
+
+Jia Peng olhou a tela e esfregou os olhos, sem acreditar.
+
+— Isso… Porra! Por que os bots têm skins?
+
+Dois adversários usavam aparências especiais: Master Yi Espadachim Despreocupado e Malphite Mecha.
+
+Além da skin de Yi, Jia Peng já estava de olho na de Malphite, o personagem de pedra, desde antes da partida. A vontade de comprar não parava de crescer.
+
+Na ilustração, ele era uma fera mecânica enorme, de aparência tecnológica e intimidadora.
+
+— Caramba, essa skin é muito bonita! Acho que não dá mais para chamar Malphite de campeão feio. Ser bonito ou feio depende do dinheiro do invocador.
+
+Chang Xiuya só prestava atenção nos personagens fofos.
+
+— Não tem Teemo do outro lado também. Que decepção…
+
+Em cada equipe de cinco bots, dois usariam skins. Tanto os campeões quanto as aparências seriam aleatórios. O motivo era simples: usar a IA como vitrine. Enquanto jogavam contra ela, os usuários conheceriam diferentes skins, estimulando a vontade de comprar.
+
+Por que não dar skins aos cinco?
+
+Jogadores sem dinheiro também tinham seu orgulho!
+
+Depois de entrar, Jia Peng comprou uma lâmina para a selva e poções de vida, seguindo a recomendação de equipamentos.
+
+Como já havia feito compras no tutorial, não teve dificuldade.
+
+O sistema lhe pareceu muito prático.
+
+Cada campeão tinha uma lista padrão dividida em cinco partes: itens iniciais, começo da partida, meio da partida e duas opções de conjuntos completos de seis itens.
+
+Ao clicar num ícone à esquerda, toda a receita de montagem aparecia à direita. Os componentes que já podia comprar eram exibidos normalmente. Os demais ficavam desativados, em cinza. Tudo ficava claro de relance.
+
+Ou seja, mesmo sem conhecer nada do sistema de equipamentos, o jogador podia simplesmente comprar os itens recomendados um por um.
+
+Também havia a aba Todos os Itens à direita, organizada nas categorias Iniciais, Utilitários, Defesa, Ataque, Magia e Movimento.
+
+Na vida anterior, muitas recomendações eram pouco adequadas, e os jogadores já haviam encontrado combinações melhores. Por isso, Chen Mo fizera ajustes, baseando suas listas nas partidas de alto nível e nas competições daquela época.
+
+As duas combinações completas levavam em conta as características de cada campeão, e o jogador escolhia livremente.
+
+Também era possível modificar as recomendações de cada personagem.
+
+Depois de comprar o item de selva, Jia Peng conduziu Master Yi para fora da base e seguiu até o acampamento do buff azul.
+
+O tutorial explicara que o caçador obtinha ouro principalmente na selva e deveria evitar matar os soldados das rotas. Era possível começar no azul ou no vermelho, conforme o trajeto planejado.
+
+Jia Peng preferiu o azul porque Master Yi tinha mana. Um efeito de regeneração parecia uma fonte de mana de Warcraft: certamente seria útil.
+
+Os outros campeões também seguiram para suas rotas.
+
+“Tropas, avancem!”
+
+Com o anúncio do sistema, os soldados dos dois lados começaram a surgir nas proximidades do Nexus e marcharam em direção à base adversária.
+
+Aos olhos de Jia Peng, eram bem feios. Tinham todos o mesmo estilo, sem a variedade de Warcraft.
+
+Porém, aquilo era intencional: os soldados não deveriam roubar a atenção do jogador.
+
+Jia Peng estava bastante relaxado.
+
+Era diferente de Warcraft. Nas partidas competitivas daquele jogo, ficava em alerta máximo. Até o canto do galo ao amanhecer podia deixá-lo nervoso.
+
+Não era só uma questão de ritmo, mas também de estilo e atmosfera.
+
+Warcraft tinha muitos efeitos sonoros, que mantinham a cabeça ocupada.
+
+Os trabalhadores construíam sem parar e avisavam quando terminavam.
+
+Uma tecnologia pesquisada gerava outro aviso.
+
+Unidades e heróis recém-produzidos também.
+
+O limite de população atingido disparava uma notificação.
+
+Qualquer unidade atacada chamava atenção.
+
+Até ao mandar o herói andar, ele respondia a cada clique no chão. Clicando sem parar, o jogador ouvia falas sem parar.
+
+Informações chegavam constantemente. Somadas ao estilo sombrio e realista e à música levemente tensa, faziam o jogador se concentrar e mergulhar na partida.
+
+É claro que havia uma vantagem: era mais fácil manter a atenção e a imersão.
+
+Mas também existia um problema. Aquela tensão cansava.
+
+League of Legends ajustara vários desses aspectos.
+
+A música era melodiosa e suave. Mesmo quando uma luta intensa entre equipes começava, não era substituída por uma trilha agitada. Sem prestar atenção, o jogador podia até esquecer que havia música.
+
+Os efeitos também eram menos numerosos, e as falas dos campeões apareciam com menor frequência.
+
+Ao mandar um personagem andar, ele só falava depois de alguns segundos. Havia várias respostas possíveis, mas não a repetição imediata e interminável de Warcraft.
+
+Com a luminosidade e a saturação altas, além do visual estilizado e fofo, isso mantinha o jogador num estado relativamente relaxado.
+
+(É claro que uma luta decisiva ou uma partida importante de promoção provocaria nervosismo naturalmente. Não era necessário usar imagem e som para intensificá-lo.)
+
+O acampamento azul surgiu. Diante de Master Yi, apareceu um enorme golem azul-escuro, coberto de inscrições.
+
+Jia Peng usou Ataque Alpha e começou a enfrentá-lo.
+
+Antes, havia examinado rapidamente as habilidades de Yi. Sua conclusão era que, embora parecesse mais fraco que o Mestre das Lâminas de Warcraft, tinha uma grande vantagem.
+
+Não havia aquela habilidade de *golpe crítico em salto*.
+
+Nenhuma das quatro habilidades de Master Yi dependia de sorte, o que melhorou bastante a impressão de Jia Peng sobre ele.

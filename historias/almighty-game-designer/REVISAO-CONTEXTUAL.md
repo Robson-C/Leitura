@@ -433,3 +433,36 @@ ZhaoLei trabalhador/jogador é distinto de ZhaoZihao amigo/ZhaoYunting operaçõ
 Leitor local até275; nenhum TXT pendente em Almighty Game Designer. Próximo envio/revisão276. Aplicação, Clube/progresso/preferências preservados. Backup prévio24arquivos SHA256: backups/agd-publicar-revisar-261-275-20261120T172357531552Z/; diferenças em ALTERACOES.diff. Reversão seletiva restaura arquivos do lote conciliando mudanças posteriores. Commit, push e implantação remota não executados. Validação concluída conforme registro abaixo.
 
 Validação concluída: node --check app.js, chapters.js das duas obras, books.js e catalog.js; node tests/reader.test.cjs; git diff --check aprovados. A suíte compara integralmente os275TXT ao leitor e verifica títulos/marcações, catálogo, limites, navegação e retomada em DOM simulado, preservando isolamento entre obras. Primeiros260objetos preservados,13TXTnovos idênticos ao backup e somente273/275 revistos conforme relatório. Vinte e quatro backups SHA256 íntegros; sete arquivos protegidos do Clube/aplicação idênticos. Convenções de quebra de linha dos TXT preservadas. Conferência visual nova no navegador não executada.
+
+
+## Revisão e publicação offline 276–315 — 20/11/2026
+
+Quarenta capítulos integrados integralmente em ordem, com fontes disponíveis nos anexos e conferência de continuidade, datas, valores, moedas, percentuais e placares. Sem fusão ou renumeração. Leitor de Almighty Game Designer passa de 275 para 315. Próximo envio/revisão316; nenhum TXT pendente nesta obra. A partida do 315 segue em curso por continuidade narrativa normal, não é corte da fonte. Commit/push/implantação remota manuais.
+
+Continuidade do lote:
+- 276–280: aliança Emperor/Fantasy, COG, partida da Patrulheira e decisão de desenvolver LoL.
+- 281–290: monetização e regras, elenco25, sorteios e grupo, produção/testes, recusa de licença e projetos da aliança.
+- 291–300: teste local, tutorial, recompensas, duas partidas de Jia contra bots e reação online.
+- 301–305: visita Jin, explicações e relatório; revelação do engano e lançamento LoL7/2.
+- 306–310: campanha lan houses, vídeoAlistar, números iniciais, betaCOG13/2 e eventos planejados14–22/2.
+- 311–315: LoLcresce/COGbaixa retenção; GeradorBoaSorte, porta emperrada, LiJingsi, missãoTryndamere e primeira morte/19azares.
+
+Ajustes registrados:
+1. Capítulo256 já publicado: mais de três milhões → mais de trezentos milhões de yuans, em itálico como inferência editorial autorizada. Fonte inglesa realmente diz three million. Área6400×46000=294400000, arredondada na fonte290milhões; total precisa ultrapassar compra. Oitenta cápsulas públicas e cápsulas dos principais criativos (257, não todos funcionários). Preço anterior90:50–200mil e prêmio80mil; 80públicas=4–16milhões conforme faixa, fora equipamentos/hologramas/reforma/taxas. Mais de300milhões é escala coerente; não estabelece orçamento exato. 3bilhões/30bilhões sem sustentação. Já no168 havia~700milhões disponíveis, outro motivo para não inventar gasto bilionário. Pedido atual autoriza ajuste automático de escala demonstrável; anotado em AGENTS.
+2. 284: Dream Journey — vice-responsável, ZhouHaibin → Dream Journey — ZhouHaibin; jogo/autor confirmados no285, removida falsa função.
+3. 296: restauradas duas explicações da fonte ausentes no TXT: iniciante pode comprar recomendações uma a uma e aba TodososItens com seis categorias. Restauradas indicação visual cinza e referência a melhores combinações dos jogadores/competições. Demais eventos preservados.
+
+Conferência numérica:
+- Sorteios284:50milhõesRMB=50mildiamantes;50lotes×990=49500diamantes,500prêmios; lista soma500. Valores arredondados do narrador não transformados em gasto exato50mildiamantes. Sem subtrair estoque não informado.
+- 288:1bilhãoUSD/herói×30=30bilhões, provocação na negociação, não orçamento nem compra realizada.
+- 293:37%BronzePrata/59%incluiOuro/5%Diamante+;14%Platina e~20%semclassificação continuam interpretação em itálico da fonte defeituosa. Não forçar total100%com números aproximados.
+- 294–295:4500pontos/10000ouro,6900pontosépica,45yuans interpretados em itálico onde inglês dizdollars; recompensa>=200yuans é avaliação conjunto, não só moeda4500. Árvoreseislinhas completa10; feitiços3/5/7/9, não confundir com nívelproficiênciacampeão.
+- 305–311:lançamentoLoL7/2; dados10/2sobreprimeirodia390milacessos/73%retençãoD1. BetaCOG13/2e330milacessos/43%retençãoD1; no14/2LoL>1milhãoativosdiários/330milsimultâneos. Métricas distintas. Plataforma17milhõesDAU, não todosjogadoresLoL. Eventos14–20/2; atualização16/2; bônus21–22/2 19–23h. Chance3%+0,5pp×4amigos=5%grupo completo, condição já explícita em itálico310. Pagamento60%preço para skin permanente, não desconto60%.
+- 311–315:dezGeradores originalmente, duas utilizações narradas;50%boa/ruim1dia, recarga semquantidade. Missão20min/30segrestantes; partida1h, cemazares contra campeões,0abates8mortes pessoal. Equipe2–8 não placarpessoal. Fullfúria35%+Statikk30%+Infinito20%=85%previsto; comStatikkapenas65%no315, preservados atributos ficcionais. PrimeiroóbitoChen/19azares, não missão concluída.
+
+Dúvidas mantidas, sem correção arbitrária: título Heavenly Justice ThreeKingdoms em276/290, nome músicaSunnyGlory287, QBlitzcemmil289 semunidade, frasegolpecríticoemsalto296, Yasuo299 como recuperação dafonte, pausa desconexão306, apelidomuscle-craser308 e frase senhor312. Malphite killed315 já interpretado recuo em itálico porcontradição imediata/reaparecimento eobjetivo0abates; não acrescentado abate. Crítico, recargas e mecânicas são da versãoficcional, sem ajustar com patches reais. IdentidadesCliveRaman/ChenMo/Silent, ZhaoYuntingfeminina, LiJingsinova e Fates/ZhuoYao preservadas. Afirmações jurídicas/econômicas/técnicas da narrativa não são pareceres próprios.
+
+Backup prévio50arquivos e sete hashes protegidos: backups/agd-publicar-revisar-276-315-20261120T232935244522Z/. CONFERENCIA-FONTES.json registra caminhos/tamanhos/finais dos40anexos; ALTERACOES.diff documenta diferenças. Primeiros275objetos preservados exceto corpo256 autorizado. Aplicação, Clube, progresso e preferências fora da alteração. Validações serão registradas ao concluir.
+
+
+Validação concluída: cinco verificações de sintaxe JavaScript (app, chapters das duas obras, books e catalog), node tests/reader.test.cjs e git diff --check aprovados. Suíte confere integralmente315TXT/títulos/marcações, catálogo, limites/navegação e retomada em DOM simulado e isolamento de progresso/preferências. Dos275objetos anteriores, somente256alterado conforme autorização; dos40TXTnovos,38preservados bytea byte e somente284/296revistos. Cinquenta backups SHA256 íntegros e sete arquivos protegidos idênticos (aplicação/Clube/catálogo). Sem commit,push,deploy ou alteração de dados pessoais do leitor. Não houve nova conferência visual no navegador.

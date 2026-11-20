@@ -1,0 +1,101 @@
+Capítulo 300 — As primeiras controvérsias
+
+Enquanto recolhiam as opiniões de quem experimentava League of Legends na loja, a equipe de desenvolvimento também não ficou parada.
+
+Zhao Yunting estava ocupada adquirindo servidores e procurando empresas de atendimento ao cliente. Os demais cuidavam dos detalhes do jogo e preparavam o material de divulgação, deixando tudo pronto para o primeiro lançamento de League of Legends.
+
+League of Legends era diferente dos jogos anteriores. No futuro, teria um número enorme de jogadores e, por isso, exigiria bastante dos servidores.
+
+Chen Mo já havia feito muitos jogos online, como I Am MT e Onmyoji. Todos usavam servidores virtuais na nuvem, e o atendimento era terceirizado para empresas especializadas.
+
+A tecnologia de servidores daquele mundo era muito madura, pois muitos jogos de realidade virtual transmitiam uma quantidade assustadora de dados. Se os servidores davam conta desses jogos de VR, também dariam conta de League of Legends.
+
+Mesmo assim, Chen Mo não se atreveu a descuidar. Orientou expressamente Zhao Yunting a não tentar economizar nos servidores nem no atendimento. Era preciso buscar o melhor nos dois casos.
+
+Tinham de garantir que a latência normal de League of Legends ficasse abaixo de dez milissegundos e que todas as dúvidas dos jogadores recebessem respostas rápidas e profissionais.
+
+O desenvolvimento de League of Legends podia ser considerado muito rápido — ou melhor, bastante apressado.
+
+Por um lado, aquele mundo tinha um editor de jogos tão poderoso que parecia uma trapaça, o que acelerava muito o desenvolvimento. Por outro, a versão inicial planejada por Chen Mo não era tão complexa e tinha apenas vinte e cinco campeões.
+
+Assim, antes mesmo de sair o protótipo da versão independente de COG, Chen Mo já havia concluído a primeira versão de League of Legends e a colocado na loja de experiência, pouco depois de ficarem prontos o MMORPG e o FPS da Emperor Dynasty e da Zen.
+
+Era preciso reconhecer que a máxima “a velocidade é a chave da vitória” também valia para a indústria dos jogos, principalmente nos momentos decisivos. O mesmo jogo, lançado um mês antes ou um mês depois, poderia ter um destino completamente diferente.
+
+Embora League of Legends tivesse qualidade de sobra, Chen Mo não queria dar aos adversários nenhuma oportunidade de virar o jogo.
+
+As informações sobre League of Legends logo começaram a circular na internet, divulgadas pelos jogadores da loja de experiência.
+
+Muitos haviam gravado vídeos das partidas e apresentado o jogo a outras pessoas.
+
+Assim que a notícia se espalhou, causou um enorme alvoroço. A maioria dos jogadores ficou pasma ao saber da novidade.
+
+Chen Mo havia mantido tudo muito bem em segredo. Nenhuma informação tinha vazado, e quase ninguém esperava que ele estivesse desenvolvendo um jogo daquele tipo.
+
+Os jogadores discutiam os vídeos que circulavam pela internet.
+
+“O novo jogo do Chen Mo já saiu? Rápido pra caralho! Vai ser outra produção pequena, tipo ICEY?”
+
+“Não dá para saber direito, mas, segundo o pessoal da loja, o Chen Mo parece dar muita importância a esse jogo. Não parece algo feito só por diversão. Deve ser o projeto principal da próxima fase dele.”
+
+“Por que isso está me lembrando um pouco COG?”
+
+“Parecido uma ova. A distribuição pelas rotas, o desenho do mapa, os campeões e até o estilo são completamente diferentes de COG. Onde está a semelhança?”
+
+“Ah, quis dizer que os dois são esse tipo de jogo competitivo de cinco contra cinco.”
+
+“Se for por isso, um dos primeiros jogos competitivos de cinco contra cinco foi o Chenghai 3C do próprio Chen Mo. Ele explicou que ‘Chenghai’ é uma homenagem a um amigo e que ‘3C’ significa ‘three corridors’, ou seja, três corredores, três rotas.”
+
+“Tá bom, me expressei mal. Então você está dizendo que o Chen Mo aperfeiçoou a jogabilidade de 3C e fez um jogo independente?”
+
+“Por que parece que é exatamente isso que o autor de COG está fazendo?”
+
+“Não tinha um monte de gente nos fóruns pedindo para o Chen Mo trabalhar com o autor de COG? E aí ele foi lá e fez um jogo parecido??”
+
+“Fiz umas contas. O desenvolvimento de League of Legends deve ter começado antes de COG ficar famoso. Em outras palavras...”
+
+“O Chen Mo já tinha isso planejado e por isso não ligou?”
+
+“Eu apoio o Chen Mo, que fez o jogo original, desenvolver uma versão própria. Afinal, o autor de COG é estrangeiro. Mas... que diabos é esse jogo? Cadê meu Arthas? Cadê minha Patrulheira Sombria?”
+
+“Pois é. Achei que seria parecido com Warcraft, mas esse estilo... É um jogo de desenho animado?”
+
+“Não quero saber! Quero o Arthas!!”
+
+“Além disso, pela demonstração, o jogo é bem simples, principalmente nos controles. Não tem *controle de grupos de unidades*, e as habilidades ficam fixas em QWERDF. Uma dúzia de teclas resolve tudo.”
+
+“O visual é leve demais. Não me empolga.”
+
+“Não acho que exija tanta técnica assim.”
+
+“Só tem um mapa? Mesmo sendo uma versão de testes, o Chen Mo não está exagerando? Até em Warcraft dá para trocar de mapa.”
+
+“Você aí de cima nunca jogou COG? Na verdade, COG também só tem um mapa. E o de League of Legends é muito mais complexo.”
+
+“A quantidade de campeões é razoável, vinte e cinco, mas tem uns aí que nem sei o que dizer. O Teemo, por exemplo: é um coelho ou um guaxinim? Um campeão tão infantil assim não é para criança de jardim de infância?”
+
+“Vocês todos têm tanta reclamação? Vi os vídeos e achei o jogo bom. Pelo menos é fácil começar, as regras são claras e conseguir abates parece bem satisfatório. No mínimo, está acima da média.”
+
+“Você não entende. A gente exige mais justamente porque é o Chen Mo. Ele já fez Warcraft e Diablo, então esse novo jogo obviamente ficou abaixo deles! Está na cara que foi feito às pressas!”
+
+“Vocês acham que ele fez esse jogo porque não aceitou o sucesso de COG?”
+
+“Não sei. Se ele não está satisfeito com COG, não deveria usar os heróis de Warcraft? Por que criar tantos campeões novos?”
+
+“Acho que o Chen Mo está fazendo besteira!”
+
+Logo, os jogadores estavam discutindo acaloradamente nos fóruns.
+
+Como a maioria dos fãs dos jogos para PC de Chen Mo vinha de Warcraft e Diablo, estava acostumada à direção de arte realista e sombria. Eles também dominavam bem os controles. Era natural estranharem o visual e os comandos de League of Legends.
+
+Aos olhos deles, aquilo não era uma mudança de estilo, mas um retrocesso técnico.
+
+É claro que também havia muitos jogadores que apoiavam League of Legends ou preferiam esperar para ver. Para eles, a mudança de estilo provavelmente era uma nova tentativa de Chen Mo.
+
+Independentemente de League of Legends dar certo ou não, apoiavam suas tentativas e mudanças.
+
+Alguns jogadores que gostavam de COG também tiveram uma suspeita preocupante.
+
+Chen Mo não havia divulgado nenhuma informação sobre uma parceria com o criador de COG. E seu novo jogo, League of Legends, era claramente um concorrente direto de COG. Então...
+
+Isso não significava que o criador de COG não conseguiria os direitos de uso dos heróis de Warcraft?

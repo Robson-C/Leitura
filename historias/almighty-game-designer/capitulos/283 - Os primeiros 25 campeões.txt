@@ -1,0 +1,89 @@
+Capítulo 283 — Os primeiros 25 campeões
+
+Na primeira versão de League of Legends, Chen Mo planejava incluir 25 campeões distribuídos entre cinco posições, com cinco personagens em cada uma. A dificuldade iria da mais baixa à mais alta.
+
+No começo de League of Legends, ainda não havia uma divisão clara entre topo, meio, selva, atirador e suporte. Atiradores chegavam a jogar no meio, e as composições e estratégias das partidas comuns eram bastante caóticas.
+
+Porém, durante a S2, algumas equipes europeias de ponta desenvolveram o estilo EU: um jogador no topo, um no meio, um na selva e uma dupla na rota inferior. A Riot aceitou o modelo, que se tornou a configuração oficialmente recomendada.
+
+Muita gente podia criticar sua rigidez, mas a vantagem era evidente. League of Legends passava a ter uma composição de referência. Com essa orientação, ficava mais fácil aprender, compreender a distribuição das funções e escolher uma equipe relativamente completa.
+
+Aquilo teve grande importância para a popularização do jogo. Pelo desenvolvimento posterior, também se mostrou a configuração mais adequada.
+
+Era como o trio clássico de guerreiro, mago e sacerdote nos RPGs. Embora um pouco rígido, o modelo oferecia uma estrutura simples de entender e lembrar.
+
+Por exemplo, quando um jogador perguntasse como usar certo campeão, bastaria dizer que ele era do meio para que tivesse alguma ideia de sua função. Já dizer que podia carregar a equipe, dar suporte, separar-se do grupo ou jogar de qualquer jeito provavelmente só o deixaria perdido.
+
+Por isso, Chen Mo apresentaria as posições desde a primeira versão, usando-as como a classificação principal dos campeões. Categorias tradicionais, como assassino e tanque, serviriam como informações complementares para explicar suas características.
+
+Os 25 campeões escolhidos eram os seguintes:
+
+Topo: Garen, Malphite, Teemo, Tryndamere e Jax.
+
+Meio: Annie, Kassadin, Karthus, Twisted Fate e Anivia.
+
+Selva: Nunu, Amumu, Master Yi, Shaco e Gragas.
+
+Atiradores: Miss Fortune, Ezreal, Ashe, Twitch e Vayne.
+
+Suportes: Soraka, Lulu, Alistar, Sona e Blitzcrank.
+
+Muitos desses personagens haviam passado por reformulações, até com grandes mudanças nas mecânicas. Gragas, por exemplo, originalmente era um campeão do meio, mas depois fora transformado em caçador.
+
+De modo geral, Chen Mo não pretendia recriar as versões antigas. O motivo era simples: elas entravam em conflito com a estrutura geral de LoL. Algumas eram pouco interessantes; outras, fortes demais. Nada disso ajudava no balanceamento ou na popularização.
+
+Na maioria dos casos, as reformulações de LoL tinham sido mais bem-sucedidas que as versões anteriores.
+
+A escolha daqueles 25 campeões fora bem pensada. Havia opções das mais fáceis às mais difíceis, e cada personagem tinha uma função própria.
+
+Alguns, como a maioria dos cinco caçadores escolhidos, dificilmente apareciam no cenário profissional por causa de suas mecânicas. Porém, eram fáceis de aprender. Os novatos precisavam de personagens como Nunu e Master Yi para se acostumar à selva. Por isso, Chen Mo os incluíra na primeira versão.
+
+Além disso, mesmo dentro de uma posição, buscara opções com funções diferentes. Na selva, por exemplo, Amumu dependia mais das lutas em equipe, enquanto Master Yi favorecia uma atuação individual.
+
+É claro que havia muitos outros campeões divertidos e capazes de jogadas espetaculares, mas ficariam para depois.
+
+Após o lançamento inicial, Chen Mo planejava uma nova versão a cada dois meses, com cinco campeões por atualização. Assim, os jogadores teriam dois meses para assimilar as novidades.
+
+Embora a estrutura geral de League of Legends estivesse definida, a equipe ainda tinha várias dúvidas sobre o documento de conceito.
+
+A principal era: por que usar uma propriedade intelectual inteiramente nova?
+
+Até aquele momento, tanto os principais responsáveis pela produção quanto os jogadores mais fiéis da Thunderbolt tinham o hábito de voltar sempre a Warcraft. Não importava o gênero do próximo jogo: todos queriam associá-lo àquele universo.
+
+A pergunta era bastante razoável. Já existiam heróis de Warcraft. Por que não aproveitá-los? Por que criar uma nova propriedade intelectual?
+
+Embora o grito “Demacia!” também fosse empolgante, não tinha o mesmo apelo de Azeroth.
+
+Chen Mo explicou assim:
+
+O jogo pretendia conquistar o público mais amplo possível. Por isso, precisava de um visual estilizado, cartunesco e luminoso, em contraste com o estilo mais realista e sombrio de Warcraft.
+
+Além disso, League of Legends se tornaria um universo novo e empolgante, assim como Diablo. Afinal, Diablo também não seguia a ambientação de Warcraft, seguia?
+
+Aquela conversa fiada, dita com toda a seriedade, conseguiu dissipar a maioria das dúvidas.
+
+Depois de Warcraft e Diablo, a equipe não teria problemas técnicos ou artísticos para criar League of Legends.
+
+Ao desenvolver Diablo, Chen Mo também pretendia treinar o pessoal. Com o sucesso daquele RPG em terceira pessoa, o passo natural era fazer League of Legends.
+
+Naquele momento, a maior dificuldade era o equilíbrio dos números. Porém, ele conseguiria resolvê-la com sua habilidade de *balanceamento numérico no segundo estágio* e com as lembranças recuperadas pelas Poções de Reprodução de Memórias.
+
+Afinal, o sistema numérico de League of Legends era relativamente claro: ataque, defesa, dano mágico, resistência mágica e outros atributos. As fórmulas não eram tão complicadas.
+
+Com exceção de Zhao Yunting e de um pequeno grupo encarregado da manutenção diária da Thunderbolt Gaming Platform, toda a equipe passou a se dedicar integralmente ao novo jogo.
+
+Enquanto isso, COG parecia ganhar popularidade a cada dia.
+
+Seu criador, Clive Raman, também revelava seu lado viciado em trabalho. Toda semana, fazia pequenos ajustes de balanceamento. De vez em quando, realizava mudanças maiores no terreno e nas mecânicas, tornando o mapa mais completo.
+
+Embora essas alterações não chegassem imediatamente à China, muitos jogadores entusiasmados se dedicavam a trazer as atualizações e traduzi-las para o chinês.
+
+Muitos jogadores chineses de Warcraft estavam viciados no mapa. Aos poucos, ele se tornou o mais popular do jogo, superando até o *modo ranqueado*.
+
+Nos fóruns, cada vez mais gente discutia COG. No começo, muitos reclamavam: um mapa de RPG não deveria ocupar tantas páginas. Porém, conforme a popularidade aumentava, todos se acostumaram.
+
+Já havia bastante gente deixando comentários ou mandando mensagens privadas a Chen Mo, pedindo que desse mais atenção ao mapa, reservasse recomendações especiais para ele ou abrisse um sistema de classificação.
+
+Alguns até esperavam que ele trabalhasse com o autor original para transformá-lo num jogo novo, semelhante a Warcraft.
+
+Chen Mo ignorou todas essas sugestões.

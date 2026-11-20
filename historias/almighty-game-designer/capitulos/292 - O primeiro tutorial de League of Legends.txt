@@ -1,0 +1,117 @@
+Capítulo 292 — O primeiro tutorial de League of Legends
+
+Logo, a atualização terminou, e um ícone com a letra L maiúscula apareceu na área de trabalho.
+
+Ele lembrava um pouco o de Diablo. Ambos usavam a inicial do nome do jogo. Era um visual simples, mas bem interessante.
+
+Jia Peng clicou duas vezes e abriu o jogo.
+
+A tela de login era relativamente simples e parecia inacabada. No canto superior esquerdo, o logotipo trazia o título em chinês e “LEAGUE OF LEGENDS” em letras douradas. À direita, ficava o formulário de acesso, que aceitava diretamente a conta Thunderbolt.
+
+Porém, a área principal continuava vazia. Havia apenas uma frase pequena:
+
+“Aqui deveria haver uma animação muito impressionante.”
+
+— Gerente, o que é isso? — perguntou Jia Peng.
+
+Chen Mo explicou:
+
+— Nem todos os recursos de arte chegaram. Por enquanto, vai assim mesmo. Mas os que aparecem durante as partidas estão praticamente completos, então isso não atrapalha.
+
+— Está bem.
+
+Jia Peng digitou seus dados e entrou.
+
+Wen Lingwei e Chang Xiuya olharam por um bom tempo, mas não conseguiram descobrir de que tipo de jogo se tratava. Também acessaram, desconfiadas.
+
+A interface principal tinha uma disposição simples. No alto à esquerda, estavam “Jogar”, “Início”, “Carreira” e “Coleção”. À direita, apareciam o avatar, a barra de moedas e a “Loja”.
+
+A coluna do lado direito era a lista de amigos. Ela importava automaticamente os contatos da conta Thunderbolt. Se duas pessoas já fossem amigas na plataforma, não precisariam se adicionar de novo.
+
+Na área central, um vídeo simples de demonstração se repetia.
+
+Cristais de invocação, torres, ondas de soldados, dragões elementais, campeões lutando e uma visão geral do campo de batalha…
+
+Wen Lingwei e Chang Xiuya ficaram um pouco impressionadas. Jia Peng, porém, entendeu a proposta assim que viu o mapa.
+
+— Gerente, esse jogo parece 3C e COG, não?
+
+Chen Mo assentiu.
+
+— Então… Acho melhor deixar para lá — hesitou Chang Xiuya. — Não me acostumo a jogar Warcraft. Não consigo lidar com um jogo tão difícil…
+
+— Não se preocupe. Há um tutorial bem detalhado, e é muito mais fácil que Warcraft. Vocês também conseguem jogar, sem problema.
+
+— Ah, é mesmo? Estou bem desconfiada, gerente…
+
+Ela ainda queria sair, mas, pela famosa lógica do “já que estou aqui”, decidiu experimentar.
+
+A interface de League of Legends se baseava no cliente mais recente. O antigo não era ruim, mas não tinha o mesmo apelo visual. Alguém como Chen Mo certamente escolheria a opção mais bonita.
+
+Ao clicar em “Jogar”, surgiam algumas opções: “Treinamento”, “Contra a IA”, “Contra jogadores” e “Partida personalizada”. Quando o usuário cumprisse os requisitos, “Treinamento” daria lugar a “Ranqueadas”.
+
+É claro que Chen Mo ainda não pretendia disponibilizar as partidas ranqueadas naquela versão.
+
+Como todos usavam contas novas, só o treinamento estava liberado. Precisavam concluir a introdução antes de acessar os outros modos.
+
+O plano era ter apenas um servidor. Assim, ninguém precisaria começar a subir de nível outra vez ao mudar de região de jogo. Todos que entrassem pela primeira vez seriam obrigados a passar pelo tutorial.
+
+Já quem criava contas novas para enfrentar jogadores fracos não entrava nessa consideração. Era uma prática que a equipe não incentivava e até proibia.
+
+O carregamento foi muito rápido, graças aos computadores potentes daquele mundo.
+
+A versão de Chen Mo superava os padrões da vida anterior em todos os aspectos, mas ainda era leve para aquelas máquinas. Estava longe dos jogos em primeira pessoa que faziam as placas de vídeo sofrerem.
+
+Ao entrar na partida, Jia Peng primeiro reparou na perspectiva.
+
+Era uma visão elevada em terceira pessoa, como em Warcraft e Diablo.
+
+No centro da tela, aparecia um campeão alto e imponente, vestindo armadura pesada e empunhando uma espada enorme, que chamava bastante atenção.
+
+No primeiro instante, Jia Peng estranhou.
+
+Warcraft e Diablo tinham um estilo sombrio e realista, de aparência séria. League of Legends era um pouco mais irreverente.
+
+Naquele campeão, por exemplo, as ombreiras, a espada e outros elementos fugiam das proporções normais. O exagero era intencional.
+
+Além disso, a luminosidade e a saturação de toda a imagem eram altas. O cenário parecia ainda mais claro e confortável que os de Diablo.
+
+Os Altos Céus também eram luminosos e esplêndidos, mas transmitiam uma sensação de irrealidade, sem aliviar a tensão. Pela ambientação, porém, faziam sentido: eram a morada dos anjos, um lugar sagrado que rejeitava os mortais.
+
+Já o mapa de League of Legends não passava uma sensação de perigo. Lembrava a fase do arco-íris de Diablo.
+
+Sem perceber, os jogadores relaxavam e ficavam menos tensos.
+
+Uma voz feminina suave começou a explicar o tutorial.
+
+“Bem-vindo ao campo de treinamento de League of Legends.”
+
+“Em League of Legends, você é um poderoso invocador, que controla diferentes campeões em batalha para alcançar a vitória.”
+
+“O objetivo final é atravessar as defesas inimigas e destruir o Nexus adversário.”
+
+“Seu campeão é Garen, o Poder de Demacia. Clique com o botão direito no ponto indicado do mapa para movê-lo.”
+
+Enquanto a voz explicava, a tela mostrava informações sobre o Nexus, as torres, os campeões e os demais elementos.
+
+Chen Mo havia alterado aquele tutorial.
+
+No original, a introdução acontecia no Abismo Uivante e orientava o jogador a comprar uma Cota de Espinhos para Ashe. Era bastante irritante.
+
+Por isso, ele transferira o treinamento para Summoner’s Rift e trocara a campeã por Garen. Assim, evitaria que os jogadores achassem que Ashe era uma personagem indicada para iniciantes.
+
+Jia Peng clicou no ponto marcado, e Garen caminhou até lá.
+
+Depois vieram instruções mais convencionais: entrar na névoa de guerra, aprender habilidades, atacar, usar as habilidades, destruir torres e voltar à base para comprar equipamentos.
+
+Mais adiante, apareciam orientações avançadas, como eliminar monstros, mover a câmera e consultar o minimapa.
+
+Pequenas dicas surgiam com frequência no canto inferior direito: dar o último golpe nos soldados, ficar perto das ondas para receber experiência e não absorver os ataques das torres sem pensar.
+
+Para Jia Peng, era moleza. Ele já jogara Warcraft, e aquilo não exigia nem um décimo do trabalho a que estava acostumado.
+
+Por fim, Garen ergueu a espada e destruiu o Nexus inimigo. Uma enorme mensagem de “VITÓRIA” apareceu no centro da tela, acompanhada de um anúncio empolgante. Jia Peng sentiu uma satisfação enorme.
+
+Virou-se e viu que Wen Lingwei e Chang Xiuya ainda lutavam. Nem sequer tinham destruído a torre.
+
+Além disso, as duas haviam jogado o tempo inteiro com a câmera travada no campeão.

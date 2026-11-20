@@ -1,0 +1,113 @@
+Capítulo 289 — O anúncio de COG e os testes de League of Legends
+
+No fim de novembro, os jogadores de COG perceberam um problema.
+
+Parecia que o mapa não seria mais atualizado.
+
+Seu autor era muito dedicado. A cada duas semanas, fazia pequenos ajustes de balanceamento. Ocasionalmente, também mudava bastante as mecânicas e a disposição do cenário, oferecendo novidades com frequência.
+
+Com a ajuda de muitos jogadores que faziam a tradução, o público chinês conseguia experimentar rapidamente as versões mais recentes.
+
+Porém, em algum momento, as atualizações pararam por completo. Não havia mudanças de mecânica, campeões novos nem sequer ajustes de balanceamento.
+
+Todos ficaram confusos. O que estava acontecendo? Aquilo não parecia o estilo de Clive Raman.
+
+Será que algum imprevisto o obrigara a abandonar o mapa?
+
+O assunto gerou muitas discussões.
+
+Logo, pressionado pelos jogadores estrangeiros, Clive publicou as últimas notícias de COG em sua rede social.
+
+Na verdade, não havia escondido nada de propósito. Provavelmente estivera tão ocupado que não atualizara o perfil.
+
+Na publicação, anunciou a parceria com a GA para transformar COG num jogo independente de Warcraft. A previsão era apresentá-lo ao público no início do ano seguinte.
+
+A notícia causou enorme repercussão no exterior e, naturalmente, também chegou à China.
+
+No fórum oficial de Warcraft, um tópico sobre COG recebeu mais de trezentas respostas em um dia e se tornou o mais comentado daquele período.
+
+“O criador disse que vai transformar COG num jogo independente? Está tentando se separar de Warcraft?”
+
+“Como vai fazer isso? Muitos heróis vieram de Warcraft. Pretende refazer todos?”
+
+“Ele está trabalhando com a GA! Uma empresa daquele tamanho vai ter dificuldade para fazer um mapinha desses?”
+
+“Pois é, finalmente encontrou alguém de peso para apoiá-lo. Pelo menos, com a GA, dinheiro e tecnologia não serão problema. Somando isso à criatividade do Raman, acho que COG está no caminho certo.”
+
+“COG é muito divertido. Acho até melhor que o modo competitivo de Warcraft.”
+
+“Também acho. Dá para dizer que já é um jogo novo. Embora parte da jogabilidade venha de Chenghai3C, o balanceamento e o mapa melhoraram muito. Já tem um estilo próprio.”
+
+“Tenho vários amigos que compraram Warcraft só por causa desse mapa. Nem olham para as partidas normais.”
+
+“Por que o Chen Mo não se manifesta? COG é um mapa de Warcraft. Os direitos não deveriam ser dele?”
+
+“Não sei. *O Chen Mo não comentou nada*. Fico pensando no que anda ocupado. Se a GA quiser manter a aparência anterior dos personagens, vai ter que comprar os direitos dele. Como nenhum dos lados falou, provavelmente não chegaram a um acordo.”
+
+“Se eu fosse o Chen Mo, não venderia. Dá raiva. Sem Warcraft, de onde sairia COG? No fim, o cara esqueceu suas origens e foi correr atrás da rica GA.”
+
+“Ah, deixa disso. De que adianta ficar com raiva? Eles têm uma equipe de arte própria. No pior dos casos, refazem tudo. Qual é o problema?”
+
+“Ei, alguém marcou o Chen Mo no Weibo.”
+
+“De que adianta marcar? Ele não pode fazer nada a respeito!”
+
+“Deixa para lá. De qualquer forma, vamos esperar o lançamento.”
+
+Nos dois dias anteriores, Chen Mo recebera pelo menos algumas centenas de mensagens privadas e comentários, todos perguntando sobre COG.
+
+Como ainda não revelara seus planos para League of Legends, ignorou todos.
+
+Não era o momento de anunciar o jogo, e fazer isso não lhe traria benefício algum.
+
+No escritório.
+
+O desenvolvimento de League of Legends entrara na segunda etapa. O mapa, o terreno, os diversos elementos do cenário e as mecânicas estavam concluídos. Os campeões também estavam pela metade, mas ainda havia detalhes da experiência para ajustar.
+
+Embora o jogo estivesse inacabado, já era possível iniciar partidas usando as ferramentas de administração. Jogar League of Legends nos intervalos se tornara uma moda na equipe.
+
+“Porra, seu traiçoeiro! Escondido no mato para me pegar de novo? Você é um cachorro? Isso não vai ficar assim!”
+
+“Rápido! Aquela torre está quase caindo. Alguém vai lá e dá um toque!”
+
+“Hahaha, três contra um e ainda morreram! Vocês não sabem jogar?”
+
+“Segurem eles. Vou levar a torre escondido!”
+
+Todos gritavam, empolgados com a partida. Por sorte, era intervalo. Se fosse horário de trabalho, talvez já tivessem sido postos para fora.
+
+Chen Mo sentiu como se tivesse voltado à lan house de sua vida anterior, cercado por crianças do ensino fundamental.
+
+É verdade que gritar daquele jeito ao se envolver demais parecia meio bobo. Mas também mostrava que o jogo era bom e proporcionava muita imersão.
+
+É claro que todos ainda estavam na fase de jogar de qualquer jeito. Praticamente não entendiam nada sobre ondas de soldados, torres ou composições de equipe.
+
+Felizmente, Chen Mo definira cinco posições e aumentara um pouco os atributos de todos os campeões depois de remover as runas. Por isso, as formações já eram relativamente organizadas, com gente até assumindo a selva.
+
+Ele também incentivava o pessoal a jogar mais para testar e corrigir tudo o que não fizesse sentido.
+
+Porém, a maioria das reclamações se concentrava no balanceamento dos campeões.
+
+— Gerente, para que serve o Teemo? Toda vez que escolho ele no topo, o pessoal me despreza! É só um mascote!
+
+— Pois é. Por que não transforma ele numa skin de sentinela?
+
+— Gerente, a Anivia não está fraca demais? As habilidades gastam muita mana, e esse Q não acerta ninguém. Ninguém quer jogar com ela.
+
+— A Miss Fortune não está forte demais? Tem alcance, domina a rota e ainda tem essa habilidade suprema com uma área enorme e alcance absurdo. Parece exagerada de qualquer jeito.
+
+— Gerente, dá para cortar o gancho do Blitzcrank pela metade…?
+
+A resposta de Chen Mo era simples:
+
+— Está tudo certo. Não há nada de errado com os atributos desses campeões. Vocês acham que são fracos porque são ruins.
+
+No começo, ninguém se convenceu. Mas, depois que ele terminou uma partida de Teemo com 22 abates, nenhuma morte e nove assistências, todos aceitaram.
+
+Qian Kun, em particular, ficou profundamente traumatizado depois de morrer nas explosões dos cogumelos.
+
+Também havia Zhao Yunting, que reclamara da força de Blitzcrank. Chen Mo escolheu Vayne, colocou a vida do robô em cem mil e *ajustou seu Q para cem mil*. Os dois estavam com todos os equipamentos.
+
+No fim, Blitzcrank não conseguiu acertar nem um gancho em Vayne.
+
+A partir dali, ninguém mais reclamou do balanceamento dos campeões.

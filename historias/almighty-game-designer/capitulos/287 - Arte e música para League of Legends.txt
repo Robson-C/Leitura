@@ -1,0 +1,111 @@
+Capítulo 287 — Arte e música para League of Legends
+
+Zhou Hanyu estava ocupado colorindo as artes conceituais dos campeões.
+
+Antes de começar o desenvolvimento de League of Legends, contratara mais algumas pessoas: um artista conceitual experiente, dois artistas de interface, três modeladores 3D e dois animadores. Basicamente, montara uma pequena equipe de arte.
+
+Na verdade, como acontecera em Warcraft e Diablo, o trabalho poderia ser terceirizado. Porém, isso aumentaria o esforço de comunicação e tornaria o processo mais lento.
+
+Chen Mo também considerara que League of Legends exigiria muitas artes e modelos de personagens, incluindo novos campeões e skins. Não seria bom depender tanto de terceiros. Por isso, queria começar formando uma equipe interna.
+
+Além disso, agora tinha muito mais dinheiro para desenvolvimento e não sentia pressão em sustentá-la.
+
+Naquele momento, a equipe fazia internamente uma pequena parte e terceirizava a maior. No futuro, com a expansão, o objetivo era inverter essa proporção.
+
+— Como está? Há alguma coisa nesses campeões que você não entendeu? — perguntou Chen Mo.
+
+— Não — respondeu Zhou Hanyu. — As descrições estão claras, e tudo está avançando bem. Mas tenho uma dúvida. Teemo, Annie, Nunu, Amumu, Lulu… Todos têm a palavra “fofo” nas observações especiais. Isso…
+
+Chen Mo assentiu.
+
+— Sim, todos são muito fofos. Principalmente o Teemo.
+
+— É, eu sei. Os esboços já mostram bem. Mas só teremos 25 campeões no começo, e cinco parecem mascotes. Será que nosso jogo é… para crianças?
+
+Chen Mo não conseguiu segurar o riso. Depois, respondeu seriamente:
+
+— Nosso jogo é para todas as idades. Mas os alunos do ensino fundamental serão um grupo importante do público.
+
+Zhou Hanyu coçou a cabeça, confuso.
+
+Alunos do ensino fundamental seriam uma parcela importante dos jogadores?
+
+Naquele momento, fora os jogos casuais de quebra-cabeça, praticamente nenhum título chinês tratava as crianças como um público essencial.
+
+O motivo era simples: em geral, jogavam mal, não tinham dinheiro e dispunham de pouco tempo.
+
+A maioria dos grandes jogos chineses tinha público entre quinze e quarenta e cinco anos. Essas pessoas gostavam de visuais realistas e impactantes. Talvez não rejeitassem totalmente o estilo cartunesco, mas ainda havia certa incompatibilidade.
+
+Na primeira lista, havia campeões fofos, como Teemo; bonitos, como Ezreal; feios, como Malphite; tradicionais, como Garen; e peculiares, como Blitzcrank. Isso preocupava Zhou Hanyu. Que mistura era aquela?
+
+O estilo luminoso, os personagens irreverentes e os controles simples ampliariam o público de League of Legends, mas será que não estavam exagerando?
+
+Era difícil imaginar personagens como Teemo e Annie em Warcraft.
+
+Amumu, por exemplo, era claramente uma múmia. Não seria melhor fazê-lo do tamanho de uma pessoa normal, coberto de ataduras e invocando escaravelhos?
+
+Por que precisava ser um baixinho cabeçudo?
+
+Além disso, chorava o tempo todo e atacava de um jeito que lembrava alguém se prostrando e batendo a testa no chão…
+
+Zhou Hanyu ainda tinha muitas perguntas, mas as respostas só viriam depois do lançamento.
+
+Chen Mo conferiu o andamento dos modelos.
+
+Como os esboços já estavam disponíveis, os modelos e as artes conceituais podiam avançar quase ao mesmo tempo. Dois já estavam prontos: Garen e Ashe. Porém, ainda ajustavam as animações, por isso não tinham substituído os modelos provisórios no jogo.
+
+Na vida anterior, Garen passara por uma reformulação visual. Chen Mo não perderia tempo seguindo o caminho antigo: começaria diretamente pelo modelo reformulado.
+
+Os gráficos, os movimentos e os detalhes tinham melhorado bastante. No conjunto, porém, o personagem mantinha o estilo de antes: pesado, firme e confiável.
+
+Quanto aos jogadores que o consideravam um sujeito traiçoeiro, escondido o dia inteiro no mato, esperando alguém passar para gritar “Demacia!” e sair girando uma espada enorme…
+
+Aquilo era culpa de quem jogava.
+
+Na tela, o modelo de Garen estava ereto, imóvel, com os braços inclinados quarenta e cinco graus para baixo e a espada ao lado.
+
+Olhando com atenção, era possível notar que suas proporções eram bem diferentes das de uma pessoa real.
+
+Os ombros eram especialmente largos, os braços grossos e as pernas robustas. O corpo parecia um toco baixo, quase quadrado.
+
+As pernas tinham praticamente o mesmo comprimento do tronco. Dava até a impressão de que, se ele se curvasse, conseguiria andar de quatro sem dificuldade.
+
+É claro que aquela proporção era rara entre pessoas normais, principalmente nas figuras heroicas.
+
+Hoje em dia, quem não tivesse duas pernas longas até ficaria com vergonha de se apresentar como protagonista.
+
+Mas havia uma razão para aquele modelo.
+
+League of Legends usava uma visão de cima. O jogador não observava o personagem de frente, e sim de um ângulo elevado.
+
+Nessa perspectiva, as proporções de Garen pareciam corretas. Ele ficava alto, imponente e equilibrado. As ombreiras enormes e a espada destacavam bem suas características.
+
+Se o modelo seguisse rigorosamente as proporções de um corpo real, ficaria feio daquele ângulo, e seria difícil distinguir os detalhes.
+
+Chen Mo enfatizara esse ponto. Com a experiência de Warcraft e Diablo, a equipe já era bastante habilidosa nesse tipo de modelagem.
+
+A arte não apresentava problemas, e o trabalho avançava bem.
+
+Ele foi até Fu Guangnan para perguntar sobre a música e os efeitos sonoros.
+
+— A maior parte dos efeitos foi terceirizada — explicou Fu Guangnan. — É a equipe de som mais profissional do país. Não deve haver problema.
+
+— A música de fundo também está indo bem. Gerente, essa composição é excelente. Acho que só precisamos acrescentar mais elementos, e com certeza vai virar uma trilha clássica.
+
+— Aliás, a primeira versão já está pronta. Escute.
+
+Fu Guangnan lhe entregou os fones.
+
+Chen Mo os colocou, e uma melodia familiar começou a tocar: *Sunny Glory*.
+
+A música era usada nas vitórias da LPL e conhecida como um hino de batalha. Seu nome em inglês deveria ser “Glory of the Summoner”, mas Chen Mo achava aquilo um pouco direto demais e escolhera chamá-la de “Glória do Invocador” em chinês.
+
+Ela seria a música de fundo da tela de entrada de League of Legends, já na primeira versão.
+
+Chen Mo ouviu. Embora o arranjo ainda tivesse poucos instrumentos e os detalhes não estivessem perfeitos, a essência da música já aparecia.
+
+Ele assentiu.
+
+— Sim, está bom. Acrescente mais dessa empolgação fervilhante. Quero que, quando alguém a ouça na rua, sinta vontade de gritar “Demacia!”.
+
+— Certo.
