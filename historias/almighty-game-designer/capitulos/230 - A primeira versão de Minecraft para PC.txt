@@ -1,0 +1,111 @@
+Capítulo 230 — A primeira versão de Minecraft para PC
+
+Chen Mo planejava mudanças grandes, mas provavelmente só as concretizaria na segunda ou na terceira etapa de lançamento.
+
+Uma delas era uma árvore tecnológica mais completa. Os jogadores poderiam posicionar blocos para construir objetos avançados, como carros e trens, e talvez recriar cidades modernas.
+
+Muita gente já fizera aquilo em sua vida anterior, é claro. Porém, grande parte das construções era estática, sem interação. Ele queria incorporar aquelas tecnologias ao núcleo do jogo.
+
+Isso ficaria para o futuro.
+
+Não demorou para a demonstração de Minecraft para PC ficar pronta.
+
+Para todos, com exceção de Chen Mo, o visual era horrível.
+
+Ele não se importou e começou a testar no notebook.
+
+Os demais observavam atrás dele, nervosos, temendo sua insatisfação.
+
+O menu era extremamente simples. Só havia Iniciar Jogo e Sair. Chen Mo clicou para começar, e o mundo começou a ser gerado.
+
+Logo, entrou na partida.
+
+A perspectiva era em primeira pessoa. Não havia indicadores de vida, fome ou inventário. Uma mão simples, à direita da tela, representava a do personagem.
+
+Na demonstração, era possível voar livremente. Chen Mo percorreu o mundo para conferir o terreno e os recursos.
+
+Oceanos, montanhas, rios, campos, árvores, animais…
+
+Tudo estava organizado, sem grandes problemas. O visual ainda era fraco: Zhou Hanyu colocara recursos provisórios em pouco tempo, quase iguais aos do jogo de sua vida anterior.
+
+No celular, seriam aceitáveis. Em realidade virtual, ficariam horríveis.
+
+Chen Mo aplainou o topo de uma montanha e começou a construir com pedregulho.
+
+Logo, uma casinha surgiu no alto.
+
+Ele deu uma volta para examiná-la melhor e entrou. Parecia bastante satisfeito.
+
+— Sim, está ótimo. É essa a sensação. Continuem nessa direção. Concentrem-se no primeiro objetivo. Eu preparo o restante.
+
+Todos voltaram aos lugares e retomaram o trabalho.
+
+Zhou Hanyu disse:
+
+— Gerente, queria conversar sobre alguns pontos do visual.
+
+Chen Mo assentiu.
+
+— Certo. Também queria falar com você. Vamos à sala de reuniões.
+
+Os dois foram até lá. Zhou Hanyu tirou algumas imagens impressas.
+
+— Estas são minhas ideias, mas ainda não escolhi uma.
+
+Foi mostrando as alternativas enquanto explicava.
+
+— Não há diferenças grandes de estilo, só nos detalhes. Afinal, é difícil colocar tantos detalhes num visual pixelado.
+
+Chen Mo examinou as imagens e escolheu a que mais gostou.
+
+— Esta. E tenho algumas orientações.
+
+— Primeiro: recursos especiais, como água e lava, além do céu, não precisam parecer blocos. Deixe-os tão realistas quanto possível.
+
+— Nos demais elementos, principalmente nas montanhas, o visual deve ser suave. Tente amenizar as arestas duras para deixar tudo mais dinâmico e agradável.
+
+— Também precisamos reforçar a sensação de volume. Use luz e sombra, por exemplo, nas frestas entre tábuas ou tijolos. Isso pode tornar o resultado mais convincente.
+
+— Acrescente detalhes às texturas para reduzir a aparência granulada.
+
+— Também pode usar cores mais contrastantes entre os blocos, facilitando a identificação.
+
+— O conjunto deve transmitir um mundo luminoso, de conto de fadas.
+
+— Para detalhes como os personagens, use Leggo como referência. Ferramentas especiais, como espadas e picaretas, não precisam ser pixeladas. Seria ótimo se parecessem peças de um conjunto de alta qualidade.
+
+— Os personagens devem ser mais fofos e detalhados. Quero acrescentar expressões faciais no futuro. Por isso, o rosto precisa ser nítido o suficiente para reconhecermos essas expressões.
+
+— E quero incluir um modo Cinzel, permitindo dividir um bloco de um metro de lado em sessenta e quatro blocos menores. Leve isso em conta também.
+
+Zhou Hanyu anotava tudo.
+
+Como de costume, Chen Mo explicava em detalhes para evitar mal-entendidos.
+
+— Certo, entendi.
+
+Zhou registrou os pontos importantes.
+
+— Já pode preparar os recursos visuais. Depois que a primeira versão estiver pronta, refinamos os detalhes na adaptação para VR. Há bastante tempo. Aproveite bem — disse Chen Mo.
+
+— Certo.
+
+O desenvolvimento avançava sem problemas. Também não era algo tão difícil: o original de sua vida anterior fora criado por uma única pessoa.
+
+Depois de estabelecer as regras e a estrutura do mundo, Chen Mo assumiu a construção dos elementos especiais que seriam inseridos na geração, como aldeias, minas abandonadas e templos.
+
+Pretendia acrescentar mais estruturas feitas à mão no futuro.
+
+Antes do Ano-Novo Chinês, a versão para PC já estava no nível do Minecraft original.
+
+Todos estavam satisfeitos com o resultado. Mesmo assim, ao lembrar que aquele seria o jogo de realidade virtual que enfrentaria Thousand Hells, muitos ainda se sentiam inseguros.
+
+Afinal, havia uma distância enorme entre seu visual e os gráficos de alta qualidade do concorrente.
+
+Para se concentrar em Minecraft, Chen Mo recusou todas as outras atividades antes do feriado.
+
+Apenas compareceu à cerimônia de premiação, sem participar muito. Nem Diablo nem Don't Starve receberam prêmios.
+
+Era compreensível. Os dois não combinavam com o gosto dos jurados. Diablo tinha fantasia ocidental, um tema extremamente sombrio e uma jogabilidade que eles não consideravam tão revolucionária. Don't Starve, por sua vez, era pequeno demais para uma premiação.
+
+Além disso, os jurados daquele mundo não tinham grandes expectativas em relação aos jogos sandbox. Para muitos, Don't Starve era apenas um título de nicho que vendera acima da média, sem chegar ao nível dos grandes.

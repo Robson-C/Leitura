@@ -1327,7 +1327,67 @@
       "chapter": 220,
       "title": "O marco de três bilhões de yuans",
       "file": "capitulos/220 - O marco de três bilhões de yuans.txt"
+    },
+    {
+      "source": 221,
+      "chapter": 221,
+      "title": "Descanso e novos sorteios",
+      "file": "capitulos/221 - Descanso e novos sorteios.txt"
+    },
+    {
+      "source": 222,
+      "chapter": 222,
+      "title": "Os prêmios do segundo estágio",
+      "file": "capitulos/222 - Os prêmios do segundo estágio.txt"
+    },
+    {
+      "source": 223,
+      "chapter": 223,
+      "title": "Blocos de montar para o próximo projeto",
+      "file": "capitulos/223 - Blocos de montar para o próximo projeto.txt"
+    },
+    {
+      "source": 224,
+      "chapter": 224,
+      "title": "Um cachorro feito de blocos",
+      "file": "capitulos/224 - Um cachorro feito de blocos.txt"
+    },
+    {
+      "source": 225,
+      "chapter": 225,
+      "title": "Minecraft, o primeiro projeto de realidade virtual",
+      "file": "capitulos/225 - Minecraft, o primeiro projeto de realidade virtual.txt"
+    },
+    {
+      "source": 226,
+      "chapter": 226,
+      "title": "Liberdade acima de tudo em Minecraft",
+      "file": "capitulos/226 - Liberdade acima de tudo em Minecraft.txt"
+    },
+    {
+      "source": 227,
+      "chapter": 227,
+      "title": "Os fundamentos dos jogos de realidade virtual",
+      "file": "capitulos/227 - Os fundamentos dos jogos de realidade virtual.txt"
+    },
+    {
+      "source": 228,
+      "chapter": 228,
+      "title": "As regras e a geração do mundo de Minecraft",
+      "file": "capitulos/228 - As regras e a geração do mundo de Minecraft.txt"
+    },
+    {
+      "source": 229,
+      "chapter": 229,
+      "title": "Thousand Hells e os limites de Minecraft",
+      "file": "capitulos/229 - Thousand Hells e os limites de Minecraft.txt"
+    },
+    {
+      "source": 230,
+      "chapter": 230,
+      "title": "A primeira versão de Minecraft para PC",
+      "file": "capitulos/230 - A primeira versão de Minecraft para PC.txt"
     }
   ],
-  "notes": "Leitor local com capítulos 1–220 revisados e integrados. Sem TXT pendente nesta obra. Próximo envio 221. Títulos 206–220 descritivos provisórios: anexos sem título/número. Datas editoriais removidas. Commit e push manuais."
+  "notes": "Leitor local com capítulos 1–230 revisados e integrados. Sem TXT pendente nesta obra. Próximo envio 231. Títulos 221–230 descritivos provisórios: anexos sem título/número. Datas editoriais removidas. Commit e push manuais."
 }

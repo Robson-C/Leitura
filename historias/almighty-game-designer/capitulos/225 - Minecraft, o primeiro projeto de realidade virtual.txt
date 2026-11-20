@@ -1,0 +1,101 @@
+Capítulo 225 — Minecraft, o primeiro projeto de realidade virtual
+
+Também havia vários motivos para a escassez de imitações.
+
+O primeiro era o volume de vendas. Um molde detalhado e de qualidade custava caro. Sem a garantia de vender milhões de unidades, a empresa certamente iria à falência. Os fabricantes de cópias não tinham como investir tanto, nem alcançar aquele volume.
+
+O segundo era a qualidade. A Leggo tinha mais de sete mil peças diferentes e doze linhas de produção. Cada molde custava de quarenta a duzentos mil euros.
+
+O erro nas peças não podia ultrapassar *um centésimo de centímetro*. Uma máquina testava os encaixes, e a quantidade de peças defeituosas ficava abaixo de doze em cada cem mil.
+
+A equipe de manutenção precisava verificar cerca de trezentos moldes por dia. Considerando o trabalho e o controle de qualidade, não havia como reduzir o preço.
+
+Outra vantagem central era a falta de limites para as criações. Podiam lançar um conjunto hoje e outro amanhã: aviões, barcos, tanques, carros, edifícios… Sempre havia novidades, dificultando a vida dos imitadores.
+
+Por isso, as fábricas de cópias ficavam numa situação ruim. Se baixassem o preço, não conseguiriam garantir a qualidade. Se oferecessem qualidade semelhante por quase o mesmo valor, por que o público escolheria a imitação?
+
+Assim, apesar de serem divertidos, os blocos ainda tinham poucos usuários. Existia uma lacuna no mercado para aquele tipo de diversão.
+
+Como Leggo não era tão difundido, também não haviam surgido jogos sandbox de construção naquele mundo.
+
+Chen Mo queria preencher esse espaço e mostrar que a diversão de criar não tinha limites.
+
+Depois de testar o terreno com Don't Starve, entendera melhor o que o público procurava. Havia muita gente interessada em sandbox, e os jogadores daquele mundo não eram menos criativos.
+
+Don't Starve passara de quatro milhões de cópias e não dava sinais de parar. Mods feitos pelo público surgiam por toda parte.
+
+De Plants vs Zombies a Warcraft e, agora, Don't Starve, os jogadores demonstravam sua criatividade repetidamente.
+
+Depois de refletir, Chen Mo achou que era o momento de lançar um sandbox com potencial ainda maior.
+
+Seria seu primeiro passo na realidade virtual. Parecia uma escolha segura e promissora.
+
+Mais importante, era uma oportunidade. Se o resultado fosse extraordinário, surgiriam comparações entre seu jogo e o projeto de VR da Emperor Dynasty. Isso geraria repercussão gratuita e ajudaria muito na divulgação.
+
+Com a decisão tomada, começou a escrever o documento de design de Minecraft.
+
+A escolha tinha apenas duas razões simples. Primeiro, era extremamente bem-sucedido, quase sinônimo de sandbox. Segundo, era relativamente fácil de produzir e a opção mais viável naquele momento.
+
+Mesmo assim, desenvolver para realidade virtual envolvia riscos.
+
+Era muito diferente de criar jogos para PC. Além das questões técnicas, os próprios conceitos de design mudavam, aumentando enormemente a incerteza.
+
+Tanto sua experiência da vida anterior quanto a adquirida no mundo paralelo se concentrava em celulares e computadores. Quase não havia trabalhado com VR.
+
+Alguns conhecimentos de jogos para consoles podiam ser aproveitados, mas as diferenças continuavam grandes.
+
+Além disso, quanto mais um jogo de realidade virtual se aproximava do mundo real, mais caro ficava. Era preciso cuidar de mais detalhes, e a quantidade de recursos necessários aumentava drasticamente.
+
+A vantagem de Minecraft era o visual pixelado, que exigia menos dos modelos, das animações e de outros recursos. Com as lembranças da vida anterior, Chen Mo conhecia muito bem seu conceito.
+
+O primeiro objetivo era recriar Minecraft por inteiro e adaptá-lo diretamente para VR. Os jogadores poderiam coletar e construir em realidade virtual, preservando a diversão central.
+
+O segundo era melhorá-lo, elevando os gráficos e os detalhes para combinar mais com o gosto daquele público.
+
+O terceiro era modificar a jogabilidade. Por diversos motivos, algumas ideias interessantes não haviam sido viáveis em sua vida anterior. Com a tecnologia mais avançada daquele mundo, seria possível realizá-las.
+
+O núcleo de Minecraft era simples: construir, de maneira muito parecida com os blocos. Outros modos, como Sobrevivência, eram complementos e podiam ser acrescentados depois.
+
+O documento ficou pronto depressa, numa única noite.
+
+No dia seguinte, ainda havia algumas pessoas na sala de reuniões da loja, enfrentando os conjuntos maiores.
+
+A catedral de Zheng Hongxi foi a antepenúltima a ficar pronta. Embora tivesse muitas peças, sua estrutura era relativamente simples. Bastava seguir o manual para evitar problemas maiores.
+
+O resultado ficou ótimo. A torre e as janelas, principalmente, pareciam as de uma catedral real.
+
+O centro esportivo de Zhou Hanyu foi o penúltimo. O estádio em si era complicado, mas os elementos ao redor eram mais fáceis de montar.
+
+A nave-mãe de Qian Kun ficou por último. Era enorme, com várias naves menores no interior, e exigiu muito trabalho.
+
+Depois de terminá-la, ele se recostou e suspirou, aliviado.
+
+— Meu Deus, um brinquedo desses dá trabalho demais!
+
+A sala parecia uma exposição de Leggo com temas variados: tiranossauro, castelo de neve, carro de corrida, trem, catedral e nave-mãe de ficção científica.
+
+E, é claro, o cachorro solteirão de Chen Mo.
+
+— Falando sério, tudo combina muito bem — comentou Zhou Hanyu. — Tem temas antigos e modernos, animais e robôs. Os designers da Leggo são talentosos nisso.
+
+Zheng Hongxi também não largava a catedral. Até tirou algumas fotos.
+
+Naquele momento, Chen Mo entrou.
+
+— Deixem eu ver… Nada mal. Então todos terminaram a tarefa.
+
+Qian Kun suspirou mais uma vez.
+
+— Ainda bem que não atrasei todo mundo. Obrigado pela ajuda no final.
+
+Su Jinyu perguntou:
+
+— Gerente, disse que mostraria o conceito do jogo novo quando terminássemos. Cadê o documento?
+
+Chen Mo riu.
+
+— Calma. Venham comigo. Vamos conversar no escritório.
+
+Nota do tradutor da versão em inglês:
+
+[1] O nome chinês de Minecraft significa literalmente “Meu Mundo”, criando um duplo sentido.

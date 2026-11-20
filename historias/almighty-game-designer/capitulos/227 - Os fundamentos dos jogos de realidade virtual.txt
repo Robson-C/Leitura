@@ -1,0 +1,101 @@
+Capítulo 227 — Os fundamentos dos jogos de realidade virtual
+
+Qual fora o tamanho do sucesso de Minecraft na vida anterior de Chen Mo?
+
+Em poucas palavras, era o jogo independente mais bem-sucedido em popularidade e resultados comerciais, sem concorrência. Com mais de cem milhões de cópias, era o segundo mais vendido do mundo, atrás apenas de Tetris.
+
+Considerando que surgira em 2009, quando já existiam muitos bons jogos para PC e consoles, alcançar aquilo era quase um milagre.
+
+Além disso, Minecraft podia ser adaptado — e fora — para computadores, consoles, tablets e celulares.
+
+Outros números demonstravam sua popularidade.
+
+Em 2014, a Microsoft comprara a Mojang, o estúdio responsável, por dois bilhões e meio de dólares.
+
+Minecraft acumulara mais de quatro bilhões e trezentos e dez milhões de visualizações no YouTube.
+
+Mais de dez milhões de jogadores haviam participado do beta, tornando-o o jogo mais popular nessa fase.
+
+O órgão cartográfico britânico Ordnance Survey recriara toda a ilha da Grã-Bretanha com vinte e dois bilhões de blocos.
+
+Que força misteriosa atraía tanta gente?
+
+Em termos simples, Minecraft reduzira drasticamente a dificuldade de criar objetos tridimensionais num computador.
+
+Muita gente já imaginara construir seu próprio espaço ou mundo. Na infância, podia fazer isso com castelos de areia, Lego ou papel machê. Depois de crescer, recorria aos jogos.
+
+Havia muitas maneiras de criar um mundo virtual no computador. Porém, os programas tradicionais de modelagem 3D exigiam bastante aprendizado, e nem todos tinham paciência para começar do zero.
+
+Minecraft permitia que a maioria das pessoas criasse um mundo tridimensional com facilidade.
+
+Bastava colocar um bloco.
+
+Não era preciso lidar com materiais, texturas, renderização, terreno, vegetação ou efeitos de partículas. Só escolher o bloco e posicioná-lo.
+
+Todos mediam um metro de comprimento, largura e altura. Isso ajudava a manter a noção de escala no mundo virtual e tornava as construções mais convincentes.
+
+Além de uma ferramenta de criação, porém, Minecraft também tinha muitas possibilidades de jogo.
+
+Para Chen Mo, levá-lo à realidade virtual seria um desafio importante e significativo.
+
+Depois de conhecer o documento, a equipe começou a trabalhar. Árvores tecnológicas, estilo visual e modos de jogo dariam bastante serviço.
+
+Afinal, não havia uma referência pronta. Como fazer um jogo parecido com Leggo? Que aparência teria? Como tratar os detalhes?
+
+Todos precisariam refletir bastante.
+
+Chen Mo voltou à sua sala no segundo andar da loja e começou a examinar as limitações para desenvolver jogos de VR.
+
+O Editor de Jogos Illusion oferecia suporte, mas o processo era muito diferente do usado em PC e celulares.
+
+Como designer de classe A e membro honorário do Comitê de Jogos, tinha permissões suficientes para começar.
+
+Já estudara o processo desde a promoção. Queria apenas revisá-lo.
+
+Também experimentara a realidade virtual em Earth Online. Simplificando, a tecnologia permitia transmitir a consciência do jogador à cápsula e receber respostas dela.
+
+A cápsula substituía teclado, mouse, monitor e outros dispositivos de entrada e saída. Era a ponte entre a consciência e o mundo virtual.
+
+Também conseguia interpretar as intenções do jogador.
+
+Se ele quisesse estender a mão e pegar um objeto, por exemplo, a cápsula reconheceria o comando e o transformaria numa ação dentro do jogo.
+
+Andar, escalar, pular e atirar funcionavam da mesma maneira.
+
+Em teoria, a tecnologia daquele mundo podia interpretar qualquer intenção. Cabia ao designer traduzi-la numa ação disponível.
+
+Num jogo de armas brancas, o jogador podia pensar em apertar um gatilho, mas o comando seria rejeitado, pois não deveria existir naquele contexto.
+
+O designer decidia quais ações seriam aceitas.
+
+Se o personagem fosse um soldado armado e o jogador quisesse colocar a arma aos pés, nada aconteceria caso aquela interação não tivesse sido prevista.
+
+Podia parecer estranho, mas era algo a que o público se acostumava. Como nos grandes jogos em que só era possível fazer o que a história permitia.
+
+Quanto mais ações o designer preparasse, maior seria a liberdade. O jogador teria mais opções, e a experiência pareceria mais real.
+
+Isso, porém, exigia mais do equipamento e tornava a partida mais cansativa.
+
+Era também por isso que jogos de estratégia em tempo real não eram comuns em VR.
+
+Não ofereciam vantagem visual.
+
+Exigiam muitos recursos.
+
+E sobrecarregavam o jogador, impedindo sessões longas.
+
+Num RTS de realidade virtual, seria preciso selecionar unidades e determinar suas ações constantemente, enquanto se pensava na estratégia. O esforço mental era grande.
+
+No PC, as mesmas tarefas existiam. Porém, teclado e mouse permitiam transformar boa parte dos movimentos em memória muscular, reduzindo a carga.
+
+Por isso, alguns jogos de VR simplificavam determinadas ações de propósito. Evitavam o cansaço causado pela repetição e permitiam jogar por mais tempo.
+
+Alguns, por exemplo, resumiam os ataques a socos, sem exigir que o jogador especificasse direção, ângulo ou força. Menos detalhes de comando significavam menos esforço.
+
+Além disso, a realidade virtual podia estimular os sentidos, incluindo visão, audição, olfato e tato.
+
+Os sinais visuais reproduziam o campo binocular humano de *124 graus*, com cerca de *25 graus de visão focal*, como na vida real.
+
+Sons e cheiros também eram transmitidos para simular as sensações correspondentes.
+
+O passo seguinte era examinar as diferenças nos conceitos de design para VR.

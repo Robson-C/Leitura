@@ -7108,3 +7108,138 @@ Nomes/itens: Tyreal mantém grafia dos anexos; Imperius/Conselho Angiris e ident
 Conferência de números: Don't Starve24mil no211 tem período inicial não especificado; não inventar dia um. Projeção2milhões primeiro mês segue em itálico, não resultado final; 4,35milhões China no220 é total posterior sem duração informada. Cinco milhões da vida anterior não são vendas locais. Diablo600mil semana/3milhões mês no214 são estimativas; 9,8milhões mundo no220 é resultado posterior, próximo da projeção10milhões. Reaper2,9milhões ainda domésticos: quase todos compraram é contexto da base chinesa, não todos os9,8milhões globais. Ganhos340m/1,23bi/61m/236m de Chen distinguem-se de receita bruta e de lucro após desenvolvimento. Caixa anterior700m/custoDiablo+DLCquase200m e rendas correntes não quantificadas coexistem com marco3bilhões anunciado; sem inventar diferença ou taxa única para fechar balanço. Sem ajuste de escala não comprovado.
 
 Leitor local até220; nenhum TXT pendente em Almighty Game Designer. Próximo envio/revisão221. Aplicação/Clube/progresso/preferências preservados. Backup prévio24arquivos SHA256: backups/agd-publicar-revisar-206-220-20261120T124122264618Z/; ALTERACOES.diff. Reversão seletiva restaura registros/conteúdo/testes/TXT conciliando edições posteriores. Commit, push e implantação remota não executados. Validação registrada abaixo após execução.
+
+Validação concluída: node --check app.js, chapters.js das duas obras, books.js e catalog.js; node tests/reader.test.cjs; git diff --check aprovados. A suíte compara integralmente os 220 TXT com o leitor e verifica títulos, marcações, catálogo, limites, navegação e retomada em DOM simulado, preservando isolamento de dados entre obras. Primeiros205objetos de capítulos preservados; treze TXT novos iguais ao backup, apenas213/217 revisados conforme relatório. Vinte e quatro backups íntegros por SHA256; sete arquivos protegidos do Clube/aplicação idênticos. Conferência visual nova no navegador não executada.
+
+
+## Capítulo 221 — Descanso e novos sorteios — 20/11/2026
+
+Anexo a5de455b-7ac4-4f42-b76d-b5ce7f9f9542. Sequência 221, título descritivo provisório; data editorial removida. Tradução integral, duas notas inglesas preservadas e identificadas; fragmento de endereço da nota1 mantido sem inventar domínio ou abrir link. Nota2 sobre registro habitacional apresentada como afirmação daquela versão, não informação legal verificada ou orientação nossa. Bola macho/fêmea preserva piada/citação, meninos/meninas corrigidos pelo próprio pensamento seguinte. Namorada/esposa/filhos/casa são devaneios, nenhuma relação ou compra confirmada.
+
+Chen descansa na varanda segundo andar, Su cobra conceito novo ainda sem nome; argumento de inspiração é desculpa, narrador confirma preguiça. Operação/manutenção/balanceamento com contratados, sem afirmar fim de suporte aos jogos. Desenvolvimento Diablo encerrado com DLC por ora; Don't Starve sem necessidade de frequência alta, compatível com atualizações pontuais. Promessa PC a Zhuo Yao em dois anos/quase três transcorridos mantida, sem assumir que Warcraft já cumpriu o projeto específico, nem forçar datas absolutas. Cinco anos esperados para chegar a VR eram projeção antiga, não prazo obrigatório.
+
+Mudança para agosto/setembro do ano seguinte, Lin Xiao pesquisa/relatório, espaço planejado para cinco/dez anos. Não comprar prédio/casa, não mover leitor ou arquivos. Sistema estágio2, giro100mil yuans, categorias confirmam170; orçamento inicial dez milhões equivale a100giros se usado integralmente, mas resultados/consumo efetivo ainda não apresentados. Não alterar saldo de três bilhões nem afirmar prêmios antes da próxima fonte. Grafia bracelet normalizada pulseira, classes Design/Apresentação/Equipamentos e termos da progressão mantidos. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência 1–221 conferidos; leitor 220 preservado. TXT 221 pendente; próximo 222. Quatro backups íntegros por SHA256 em backups/agd-capitulo-221-20261120T124331866835Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT 221. Commit e push manuais.
+
+
+## Capítulo 222 — Os prêmios do segundo estágio — 20/11/2026
+
+Anexo ecf48e90-9a49-4cec-91f3-31fa584a83e6. Sequência 222, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Conversão10milhões yuans→10mil diamantes, giro100, alavanca990 produz dez cópias do MESMO prêmio, não dez sorteios independentes. Dez rodadas×990=9900, sobram100, cem itens totais:10balanceamento2/10narrativa2/30arquitetura/30Photoshop/10ajustadores/10maldições. Economia por rodada10diamantes=10mil yuans. Não confundir recursos atuais com créditos do estágio1 nem afirmar uso dos100restantes.
+
+Conhecimentos consumidos, sem notas numéricas de atributos atualizadas. Arquitetura inclui composição/edifícios/desenhos, sem nova compra imobiliária. Photoshop mantém nome peculiar da fonte, função explicada refinamento visual/modelos/texturas, não renomear globalmente para categoria ainda não confirmada. MOBAs são plano/importância futura, não anúncio de novo título neste capítulo.
+
+Ajustador de Eficiência consumível: até10vezes, dobro1hora/10vezes12minutos, sem efeitos colaterais e uso consecutivo permitido. Nenhum usado ainda. Maldição do Mau Agouro consumível requer fala positiva pública, gera efeito oposto com gatilho/tempo/efeito aleatórios; não foi usada nem causa evento concreto agora. Pensamento de desejar saúde e morrer é receio ficcional, não intenção real de autoagressão. Guardados na pulseira.
+
+Su traz notícia de caixa grande/valiosa, desce com Chen; conteúdo ainda não revelado. Não inferir VR antes da próxima fonte. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–222 conferidos; leitor220 preservado. TXT221–222 pendentes; próximo223. Quatro backups íntegros por SHA256 em backups/agd-capitulo-222-20261120T124457214256Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT222. Commit e push manuais.
+
+
+## Capítulo 223 — Blocos de montar para o próximo projeto — 20/11/2026
+
+Anexo dd978678-09fe-4fdf-90b2-84c6ea4a3383. Sequência223, título descritivo provisório; data editorial removida. Tradução integral, nota inglesa[1] confirma Leggo intencional a explicar na próxima fonte: NÃO normalizar para LEGO. Su Jia normalizado Su Jinyu. Encomenda é blocos de montar, não equipamento VR. Chen reúne equipe/frequentadores e vincula exercício ao próximo jogo ainda sem nome.
+
+Modelos: Qian nave-mãe (Mothership), Zhou estádio, Zheng catedral; Jia esportivo preto, Zhao tiranossauro verde, Su castelo neve, Chang trem. Mothership preservado nave-mãe apesar de convés/aeronaves sugerirem porta-aviões, sem inventar tema espacial ou substituir tipo sem confirmação. Três caixas pequenas +uma grande restantes. Nave3999yuans, caixa pequena quase600, trem>700peças/dinossauroquase200. Frase corrompida A one person prototype at ninety three pieces preservada como protótipo individual93peças em itálico; não trocar por9300 ou declarar total do conjunto. Próxima fonte pode esclarecer.
+
+Detalhes móveis/carrinho/trilho/vagões/guindaste/escavadeira/helicóptero preservados, Qian monta duas aeronaves e ainda não a nave; Zheng termina catedral; Su precisa desmontar por peça esquecida. Wen diz brincar desde criança, riqueza é brincadeira dos amigos, não novo histórico financeiro confirmado. Caixa maior de Chen só blocos cores/tamanhos, sem manual/modelo, ainda não construção anunciada. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, dois asteriscos equilibrados, cabeçalho/final e sequência1–223 conferidos; leitor220 preservado. TXT221–223 pendentes; próximo224. Quatro backups íntegros por SHA256 em backups/agd-capitulo-223-20261120T124628498001Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT223. Commit e push manuais.
+
+
+## Capítulo 224 — Um cachorro feito de blocos — 20/11/2026
+
+Anexo 57f445c4-a1d1-4c06-aa87-3dae7284128d. Sequência224, título descritivo provisório; data editorial removida. Tradução integral, nota inglesa[1] cachorro solteirão preservada. Marca mundo paralelo Leggo confirmada como semelhante à Lego vida anterior; ocorrências finais Lego na fonte harmonizadas Leggo no mundo atual, sem alterar comparação explícita. Títulos Profissional Certificado/Mestre e menos de dez são dados da ficção/fala de Wen, não certificação ou pesquisa externa nossa.
+
+Chen monta cachorro creme/tamanho médio/coleira marrom/pata direita levantada, três patas na base e quarta erguida coerentes; meio tempo hora/observação mais meia hora aproximados. Potência artística/arquitetura/reflexos/velocidade mãos anteriores explica execução; não consumir Ajustador novo nem Maldição não usados. Valor milhares dólares e50mil yuans/hora são estimativas de Wen/Qian, não venda ou taxa real. Onmyoji sem fazer nada é provocação do chefe, não prova de ausência de operação/manutenção.
+
+Nave de Qian agora total2996peças e preço aproximado4mil (3999no223), mother shit na fonte recuperado Mothership/nave-mãe por referência direta. Isso esclarece total sem converter frase93peças do223 automaticamente: pode descrever submodelo e segue ambígua; revisar antes de publicar mantendo incerteza. Modelos baratos200, acesso limitado na China e popularidade exterior são contexto narrativo, não recomendação de compra. Exercício para compreender futuro jogo ainda sem nome, não anunciar Minecraft por inferência. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–224 conferidos; leitor220 preservado. TXT221–224 pendentes; próximo225. Quatro backups íntegros por SHA256 em backups/agd-capitulo-224-20261120T124756206852Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT224. Commit e push manuais.
+
+
+## Capítulo 225 — Minecraft, o primeiro projeto de realidade virtual — 20/11/2026
+
+Anexo 9e085085-871d-4595-8f4d-435f10259400. Sequência225, título descritivo provisório; data editorial removida. Tradução integral, nota inglesa[1] Meu Mundo preservada mesmo sem chamada correspondente no corpo recebido. Não inserir trocadilho ausente na narrativa. Leggo mantido marca paralela, Lego em comparação vida anterior. Dados de moldes/produção pertencem à ficção da fonte, não pesquisa industrial: >7000peças/12linhas/40–200mil euros molde/<12falhas100mil/300moldesdia. One hundred of a centimeter interpretado um centésimo de centímetro em itálico pela formulação de tolerância, não converter à especificação real de fabricante.
+
+Minecraft AGORA nomeado, primeiro projeto VR escolhido. Don't Starve>4milhões retoma4,35m do220, não resultado contraditório de escala. Núcleo construir/creatividade, testes via Don't Starve; primeiro objetivo recriação completa/adaptaçãoVR, segundo gráficos/detalhes, terceiro novas possibilidades tecnológicas de jogabilidade. Sobrevivência pode vir depois, sem declarar implementação pronta. Não inferir versão exatamente igual ao produto real ou ausência definitiva de sobrevivência. Comparações com Emperor planejadas para repercussão, sem mensagem/campanha externa enviada.
+
+Documento pronto em uma noite; reunião de apresentação ainda vai ocorrer. Cenas seguintes mostram término de modelos. Catedral antepenúltima/estádio penúltimo/nave última são ordem relativa, não necessariamente contradição com catedral concluída cedo enquanto outros lutam no223. Nave agora explicitamente de ficção científica, confirma Mothership como nave-mãe, não porta-aviões naval. Não corrigir número93do223 por inferência sem original. Todos vão ao escritório após terminar, sem nome de jogo ainda dito ao grupo. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, dois asteriscos equilibrados, cabeçalho/final e sequência1–225 conferidos; leitor220 preservado. TXT221–225 pendentes; próximo226. Quatro backups íntegros por SHA256 em backups/agd-capitulo-225-20261120T124920279863Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT225. Commit e push manuais.
+
+
+## Capítulo 226 — Liberdade acima de tudo em Minecraft — 20/11/2026
+
+Anexo 2e9cba3d-9939-4503-bd90-280ff397c20f. Sequência226, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Minecraft apresentado à equipe em menos10minutos, três eixos regras/apresentação/modos adicionais. Regras de sobrevivência e modos futuros descritos como conceito, não estágio pronto. Packaging aqui visual, não embalagem comercial. Numerics balanceamento numérico conforme categoria já estabelecida, não ausência total de números no jogo.
+
+Dúvidas de equipe/confiança não cega, Chen aprecia pensamento independente. Comparação Don't Starve sem história/tutorial/complexidade é retórica de Chen, não remoção literal da cinemática/Maxwell/mods oficiais já descritos. Vendas >4milhões retomam4,35m, sem novo resultado. Pixels como meio de liberdade/acessibilidade de construção, não anúncio de personagem2D em VR. Folga de cinco dedos é crítica do modelo proposto, não amputação narrativa.
+
+Dimensões Leggo7,8×7,8×9,6mm, produto584,064mm³≈0,584cm³. Fonte menos1cm em volume interpretado menos1centímetro cúbico em itálico, unidades coerentes, sem alterar medidas nem conferir especificações industriais reais. Não confundir com tolerância0,01cm do225. Chen apresenta argumento de utilidade/manuseio como ficção. Su/Qian aceitam, Zhou ainda tem dúvidas mas promete visual pixelado de alta qualidade, mantendo objetivo de melhorar gráficos do225. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, dois asteriscos equilibrados, cabeçalho/final e sequência1–226 conferidos; leitor220 preservado. TXT221–226 pendentes; próximo227. Quatro backups íntegros por SHA256 em backups/agd-capitulo-226-20261120T125041506464Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT226. Commit e push manuais.
+
+
+## Capítulo 227 — Os fundamentos dos jogos de realidade virtual — 20/11/2026
+
+Anexo 440f3e5b-084e-4197-aff9-376e91ccf9ad. Sequência227, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Estatísticas Minecraft pertencem à vida anterior do narrador:2009/segundo mais vendido>100milhões/Tetris/compraMojang2014US$2,5bi/YouTube4,31bi/beta>10m/Ordnance22bi blocos. Não atualizar por estatísticas atuais nem atribuir ao Minecraft de Chen ainda em produção. British Isle vertido ilha da Grã-Bretanha, sem ampliar para todas as ilhas sem fonte.
+
+Blocos1×1×1m, criação simplificada em vez de modelagem técnica. Legos real na referência de infância distinto Leggo mundo paralelo. Equipe começa estudo de árvores tecnológicas/visual/modos; Chen revisa Illusion. Designer classeA/membro honorário, sem promoçãoS ou novo título anunciado. Earth Online experiência de VR já vivida; conhecimento técnico lido anteriormente não equivale a ter desenvolvido VR antes.
+
+Cápsula lê intenções/transmite sensações na tecnologia FICCIONAL desse mundo, não descrição de hardware real atual. Ações limitadas pelo que designer implementa; rejeitar gatilho em arma branca é exemplo de entrada inexistente. Mais liberdade aumenta recursos/carga mental, RTS teclado/memória muscular contrapõe VR. Simplificação de ataques ilustra redução de comando, sem generalizar a todo VR.
+
+Fonte traz 124 bifocal/25 focus sem unidade. Interpretados campo binocular124graus/25grausvisãofocal em itálico; manter números sem substituir por dados fisiológicos externos, sem apresentar verificação científica nossa. Visão/audição/olfato/tato enumerados, sem inventar paladar ou técnica elétrica. Última frase anuncia análise dos conceitos na continuação, é completa, sem corte ou complemento editorial.
+
+TXT UTF-8, quatro asteriscos equilibrados, cabeçalho/final e sequência1–227 conferidos; leitor220 preservado. TXT221–227 pendentes; próximo228. Quatro backups íntegros por SHA256 em backups/agd-capitulo-227-20261120T125202988151Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT227. Commit e push manuais.
+
+
+## Capítulo 228 — As regras e a geração do mundo de Minecraft — 20/11/2026
+
+Anexo cd663016-b7ef-4fd4-abef-11c18e4b0ba6. Sequência228, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. CampoPC75–90/VR124 interpretado graus pelo contexto visual e capítulo227. Fisiologia/VR/custo10vezes são premissas da fonte/ficção, não dados atuais pesquisados. PUBG referência comparativa do narrador, sem anúncio de jogo existente no mundo paralelo. Três passos adaptarPC→VR: recursos visuais, controles pelo editor e refinamentos; sem hardware comprado ou protótipo já concluído.
+
+Minecraft primeiroPCdepoisVR, três modalidades: individual/rede local intercambiáveis e mundo procedural expansível, limite de jogadores ainda sem número. Online distinto: até10mil jogadores/mapa100milkm², não reduzir por parecer grande nem prometer suportado já. Uma província comparação genérica, não nomear região. Elementos recursos/itens/transporte/combate enumerados íntegros. Hadnt looked design document entendido documento do ORIGINAL, não negar o próprio documento recém-escrito.
+
+Dez etapas de geração preservadas: forma/biomas, preenchimento altura, superfície/rocha-mãe, estruturas, luz, unidades especiais/algoritmos de fornalha-baú, poças, minérios, detalhes, criaturas. Não substituir ordem/algoritmos pelos do Minecraft real: narrador declara hipótese. Restone normalizado redstone, shepe ovelhas, world bench bancada de trabalho. Terra/cascalho em lista de minérios mantém categoria ampla da fonte sem corrigir geologia do jogo. Ações base+mods animação planejam amplitude de VR/sem sobrecarga, melhoria de fabricação por vir. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–228 conferidos; leitor220 preservado. TXT221–228 pendentes; próximo229. Quatro backups íntegros por SHA256 em backups/agd-capitulo-228-20261120T125327654901Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT228. Commit e push manuais.
+
+
+## Capítulo 229 — Thousand Hells e os limites de Minecraft — 20/11/2026
+
+Anexo b2e451e5-1475-4cfc-9c28-92967e2a85a2. Sequência229, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Quase quatro meses de projeto Yan, sem data gregoriana inventada. Thousand Hells AGORA título do concorrente, IPoriginal/inspiração budista/Asura comparativo vida anterior. Parceria escritor/novel simultânea é rumor. Seis classes Céus/Semideuses/Humanos/Animais/EspíritosFamintos/SeresInfernais são traduções descritivas do inglês, não taxonomia religiosa corrigida externamente. Todas ofensivas, inspiração Diablo; não jogo oficial ou licenciado de Chen.
+
+Mil infernos/andares com temas reutilizados, mapas/entradas procedurais, cidades superiores/interação/comércio e18+ conforme fonte. Suavização visual prevista por narrador paraVR, sem censurar descrição de lâminas/óleo/execuções. Tecnologia antiga sem época definida, não inferir dinastia. Sistemas sociais específicos ainda não vazados. Dynasty Warriors é hipótese de Chen sobre resultadoVR, não novo título produzido. Nenhum teste ou lançamento ocorrido.
+
+Minecraft fabricação: Qian detalha início ferramentas/armas; teto até foguetes é plano de Chen, sem viagem espacial concreta ou destino respondido. Duas formas: bancada/ordem itens e blocos posicionados no mundo para formar unidade, exemploGolemdeFerro. Controle/combustível/reforços/interruptores criam trens/foguetes; árvore tecnológica própria, não manual real de engenharia. Não afirmar disponibilidade de tais objetos no Minecraft original; proposta modifica versão deste mundo conforme225. Próximo passo reescrever documento, não item já programado. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–229 conferidos; leitor220 preservado. TXT221–229 pendentes; próximo230. Quatro backups íntegros por SHA256 em backups/agd-capitulo-229-20261120T125451478414Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT229. Commit e push manuais.
+
+
+## Capítulo 230 — A primeira versão de Minecraft para PC — 20/11/2026
+
+Anexo 363d1af8-7065-4ca1-b200-95a95a500699. Sequência230, título descritivo provisório; data editorial removida. Tradução integral sem créditos/notas extras. Árvore tecnológica avançada/cidades interativas ficam para etapas2/3; não afirmar foguetes já no protótipo. DemoPC com iniciar/sair, primeira pessoa/mão/voo livre/semvida-fome-inventário; não versão comercial lançada. Some small cobblestone formado interpretado casinha de pedregulho pelo parágrafo seguinte de entrar na construção. Recursos provisórios equivalem visual original, Chen aprova sensação/base, não aprova gráficosVR finais.
+
+Orientação Zhou: água/lava/céu realistas, suavizar arestas, volume/luz/sombra, texturas/cor, atmosfera clara conto de fadas, personagens fofos/Leggo, ferramentas não necessariamente pixeladas. Não abandonar blocos construção nem mudar direção para realismo total. Expressões faciais futuras, Cinzel1m³→64subblocos futuro; não inventar limite de mineração ou anúncio de recurso já pronto. Chen assume aldeias/minas/templos e planeja mais estruturas pré-feitas.
+
+Antes do Ano-Novo Chinês versãoPC chega ao nível do original, faseVR ainda adiante. Cronologia avança ao feriado seguinte sem ano absoluto inventado. Equipe ainda insegura da concorrência visual Thousand Hells, não derrota efetiva. Chen recusa outras atividades e só comparece premiação, sem prêmiosDiablo/Don'tStarve desta vez. Não apagar dois prêmios recebidos no183 em cerimônia anterior nem criar proibição permanente a sandbox. Razões de gosto/revolução/tamanho são julgamento dos jurados/narrador; não regra oficial. Dont Start normalizado Don't Starve. Final completo, sem corte ou complemento editorial.
+
+TXT UTF-8, cabeçalho/final e sequência1–230 conferidos; leitor220 preservado. TXT221–230 pendentes; próximo231. Quatro backups íntegros por SHA256 em backups/agd-capitulo-230-20261120T125611355850Z/. Reversão seletiva restaura registros conciliando mudanças posteriores e retira apenas TXT230. Commit e push manuais.
+
+
+## Revisão e publicação offline 221–230 — 20/11/2026
+
+Dez capítulos revisados contra fontes/contexto acumulado e integrados integralmente por comando publique. Textos preparados preservados, sem necessidade de novas alterações linguísticas ou narrativas. Sequência coerente: descanso e orçamento, sorteios estágio2, encomenda Leggo, construção de modelos/cachorro, escolha e apresentação Minecraft, conceitos VR, geração/fabricação e primeiro protótipoPC. Nenhuma reordenação, renumeração ou corte. Não houve final truncado que exigisse complemento. Datas editoriais removidas; títulos provisórios e notas inglesas preservados.
+
+Sistema:10milhões→10mildiamantes, giro100diamantes/100milyuans; alavanca990 dá dez cópias do MESMO prêmio. Dezrodadas=9900diamantes, sobram100; livros10balanceamento2+10narrativa2+30arquitetura+30Photoshop=80, consumíveis10ajustadores+10maldições=20. Cem itens no total. Sem efeitos colaterais/variação2vezes1h e10vezes12min do ajustador conforme fonte, sem uso efetivo. Maldição exige elogio público e gatilhos aleatórios; não foi usada. Receita/gastos novos de jogos não inventados para atualizar caixa3bilhões.
+
+Leggo é marca paralela intencional, comparação Lego da vida anterior distinta. NaveQian3999≈4milyuans/2996peças confirmada ficção científica no225. Trem>700/dinossauroquase200/caixasmenoresquase600 preservados. Frase individual93peças do223 permanece em itálico: o total2996 não esclarece se93 se refere a submodelo, boneco ou trecho corrompido; não substituir arbitrariamente. Montagens catedral/estádio/nave e conclusão antepenúltima/penúltima/última são ordem relativa, sem data absoluta criada. Cachorro creme/tamanho médio/pata direita erguida, habilidade artística e arquitetura explicam criação. Preço/hora e raridade de certificações são estimativas dos personagens, não pesquisa profissional externa.
+
+Minecraft: primeira etapa recriaPC e depoisVR, segunda/terceira melhorias tecnológicas. Documento pronto em uma noite não é jogo pronto. DemoPC sem barras/voo livre testa regras/geração, depois versãoPC no nível do original antesAnoNovoChinês; VR ainda não lançado. Sobrevivência e Criativo listados como modos adicionais planejados, não excluídos definitivamente nem todos presentes no demo. Recursos visuais provisórios versus refinamento água/céu/volume/personagensLeggo/faces/Cinzel64subblocos são etapas diferentes. Nenhum foguete ou trem funcional já demonstrado: teto tecnológico é plano personalizado, não mecânica afirmada do Minecraft real. Procedimento de geração é hipótese de Chen, sem trocar pelo algoritmo real.
+
+Dimensões7,8×7,8×9,6mm resultam0,584064cm³, coerente com menos1cm³ interpretado no226. Tolerância umcentésimodecm do225 é hipótese marcada da frase inglesa, não dado industrial verificado. Visão124graus/25focal do227 e75–90PC/124VR do228 preservam premissas do narrador, sem corrigir fisiologia por pesquisa externa. Números históricos Minecraft>100m/Tetris/2,5biMojang/4,31biYouTube/22biblocos são vida anterior, não resultados do projeto atual. Notas sobre registro habitacional ou certificações continuam atribuídas à fonte, sem convertê-las em orientação legal ou recomendação de compra.
+
+Thousand Hells nomeado no229, projeto próprioYan: seis classes/SeisReinos/ofensivas, mapa procedural/18+/cidades; romance simultâneo é rumor. Não adaptação autorizada de Diablo, não título já lançado. Quase quatro meses de desenvolvimento e cronologia do próximo feriado não fixam ano gregoriano. Lin Xiao pesquisa loja futura agosto/setembro, não mudança efetuada. Sem prêmioDiablo/Don'tStarve nesta cerimônia preserva prêmios anteriores de outras obras/ano, não apaga histórico. Próximo jogo continuaMinecraft, sem promoçãoS de Chen ou outroVR iniciado.
+
+Leitor local até230; nenhum TXT pendente em Almighty Game Designer. Próximo envio/revisão231. Aplicação/Clube/progresso/preferências preservados. Backup prévio19arquivos SHA256: backups/agd-publicar-revisar-221-230-20261120T131058272565Z/; ALTERACOES.diff. Reversão seletiva restaura conteúdo/registros/testes conciliando edições posteriores. Commit, push e implantação remota não executados. Validação efetiva registrada abaixo após execução.
+
+Validação concluída: node --check app.js, chapters.js das duas obras, books.js e catalog.js; node tests/reader.test.cjs; git diff --check aprovados. Suíte compara integralmente os230TXT ao leitor, títulos/marcações, catálogo, limites, navegação e retomada em DOM simulado, com isolamento entre obras. Primeiros220objetos preservados, dezTXTnovos idênticos ao backup. Dezenove backups SHA256 íntegros, sete arquivos protegidos do Clube/aplicação idênticos. Conferência visual nova no navegador não executada.

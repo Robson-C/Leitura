@@ -1,0 +1,127 @@
+Capítulo 226 — Liberdade acima de tudo em Minecraft
+
+No escritório, todos aguardavam ansiosamente a apresentação do documento de design.
+
+Embora tivessem se divertido com Leggo, a maioria ainda não entendia por que Chen Mo os fizera montar aqueles modelos, muito menos a ligação com o jogo novo.
+
+Ele já dera pistas de que seria um projeto de realidade virtual. Muitos esperavam algo sobre Azeroth ou um RPG de VR na linha de Diablo. Depois dos blocos, porém, já não tinham tanta certeza.
+
+Qual era a relação entre Leggo e o novo jogo?
+
+A apresentação “Conceito de design de Minecraft” apareceu na tela.
+
+Era ainda mais simples que a de Diablo. Terminou em menos de dez minutos.
+
+Havia três pontos principais: regras, apresentação visual e modos adicionais.
+
+As regras incluíam a estrutura do mundo, os limites da coleta e da construção, o ciclo de dia e noite, combate contra monstros, sobrevivência e fabricação de equipamentos.
+
+A apresentação visual tratava de deixar cada bloco o mais bonito possível, permitindo relacionar os elementos do jogo a coisas reais.
+
+Os modos adicionais seriam incorporados em etapas posteriores: Sobrevivência, Criativo, multijogador e outros.
+
+— Em linhas gerais, é isso. Alguma pergunta? — Chen Mo observou o grupo.
+
+Todos se entreolharam com a mesma expressão.
+
+Só isso? Está brincando?
+
+Zhou Hanyu pigarreou.
+
+— Não vejo nenhum problema grande no conceito. Foi apresentado com clareza. Mas, para um jogo de realidade virtual, Minecraft não é simples demais?
+
+Zheng Hongxi assentiu.
+
+— Também acho. Não tem elementos de história, nem tanta coisa em termos de balanceamento numérico. A complexidade não chega perto de Warcraft, muito menos de Diablo.
+
+Zhou Hanyu acrescentou:
+
+— Sim. E a exigência gráfica não está baixa demais? Os outros jogos de VR buscam o realismo. Chegam a renderizar cada fio de cabelo. Pelo que vimos, acho que nem teremos cinco dedos.
+
+— Também precisamos discutir se a diversão de construir basta para sustentar as vendas — disse Qian Kun. — Montar Leggo foi divertido, mas precisávamos das instruções. Se recebermos só uma pilha de peças, quantos conseguem fazer algo no nível do gerente? No máximo, montaríamos um monstro horrível.
+
+Su Jinyu também falou:
+
+— Concordo. Minha principal dúvida é quantos jogadores conseguiriam usar a criatividade para explorar um mundo sem limites. Além disso, o mercado de VR já é menor.
+
+Até os membros mais antigos da equipe tinham dúvidas daquela vez.
+
+Su Jinyu e Zheng Hongxi confiavam muito em Chen Mo, mas essa confiança se apoiava em conceitos que não divergiam tão drasticamente dos seus.
+
+Minecraft claramente não correspondia ao que esperavam do primeiro jogo de realidade virtual da Thunderbolt Entertainment.
+
+Chen Mo riu. Não se incomodava com os questionamentos.
+
+Afinal, investira tanto em seus três assistentes justamente para que desenvolvessem ideias próprias. Queria perspectivas diferentes, não pessoas que apenas baixassem a cabeça e executassem suas ordens.
+
+As perguntas mostravam que pensavam por conta própria. Isso era bom.
+
+Depois de alguns instantes, perguntou:
+
+— O que acham de Don't Starve?
+
+Todos se surpreenderam. Su Jinyu respondeu:
+
+— Hum… A jogabilidade é ótima, as vendas também, mas não é uma superprodução de primeira linha.
+
+Chen Mo assentiu.
+
+— Qual foi o segredo do sucesso?
+
+— Reproduzir as necessidades de sobrevivência, oferecer muitas possibilidades e permitir explorar e criar livremente num sandbox.
+
+Ele assentiu outra vez.
+
+— Exatamente. Fez sucesso porque era um sandbox com elementos de sobrevivência. Tinha gráficos de alta qualidade?
+
+— Não.
+
+Chen Mo continuou:
+
+— Tinha história? Um sistema numérico complexo? Uma boa introdução para iniciantes? Vocês conseguiram prever as vendas?
+
+Todos se entreolharam.
+
+— Não tinha história nem números complexos. Praticamente não havia orientação para novatos. Antes do lançamento, todos achavam que seria de nicho. Ninguém esperava mais de quatro milhões de cópias. O que isso nos diz?
+
+— Que um sandbox não precisa de história, de números complicados ou de uma boa introdução. Precisa de liberdade. Por ela, podemos sacrificar qualquer coisa.
+
+— Até os gráficos, adotando um visual pixelado. Tudo em favor da liberdade.
+
+Fez uma pausa para observar a reação.
+
+Todos refletiam sobre suas palavras.
+
+Chen Mo prosseguiu:
+
+— Qual é o tamanho da menor peça de Leggo? Sete vírgula oito milímetros de comprimento e largura, por nove vírgula seis de altura. Um volume de *menos de um centímetro cúbico*.
+
+— Por que essas medidas? Se fosse menor, seria difícil de montar. Se fosse maior, perderia capacidade de representar detalhes. As dimensões equilibram utilidade e facilidade de uso. Foi o melhor resultado a que os designers chegaram.
+
+— Da mesma forma, se queremos dar liberdade criativa em Minecraft, precisamos considerar esses dois aspectos.
+
+— E sempre chegaremos ao visual pixelado. Lembram do cachorro que montei? Aquilo era uma representação em pixels. Por isso, precisamos seguir o mesmo caminho no jogo.
+
+Àquela altura, a maioria já compreendia sua intenção.
+
+A ideia era criar um sandbox semelhante aos blocos de montar. Para isso, o visual pixelado era a solução. Na visão de Chen Mo, bastava garantir a liberdade criativa. Gráficos, números, história e outras formas de jogar não eram o essencial.
+
+O documento de design nascera daquele raciocínio.
+
+Houve alguns instantes de silêncio enquanto todos refletiam.
+
+Su Jinyu assentiu.
+
+— Certo, entendi. Já que pensou nisso com tanta clareza, apoio a ideia.
+
+Qian Kun acrescentou:
+
+— Vamos tentar! Se conseguirmos reproduzir a diversão de montar Leggo, certamente será bom!
+
+Zhou Hanyu também falou:
+
+— Ainda não estou completamente convencido, mas vou estudar mais o visual. Mesmo com pixels, dá para buscar os gráficos pixelados mais bonitos do mundo.
+
+Chen Mo riu.
+
+— Não se preocupem. Não vai decepcionar.

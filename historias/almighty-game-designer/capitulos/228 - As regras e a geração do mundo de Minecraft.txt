@@ -1,0 +1,89 @@
+Capítulo 228 — As regras e a geração do mundo de Minecraft
+
+Todo jogo tinha limitações de design impostas pela plataforma.
+
+Nos jogos de corrida para PC, por exemplo, normalmente havia duas perspectivas: de dentro do carro ou de fora.
+
+Isso acontecia porque o campo de visão em primeira pessoa no computador costumava ficar entre setenta e cinco e noventa graus, enquanto o humano chegava a cento e vinte e quatro.
+
+Com as limitações de um monitor, não era possível representar toda aquela visão sem acrescentar mais duas telas.
+
+A maioria não compraria outros dois monitores só para jogar corrida. Por isso, a perspectiva de dentro do carro parecia estreita.
+
+Era aí que entrava a câmera acima do veículo. Ao ampliar o que podia ser visto, tornava a experiência mais natural.
+
+(O mesmo se aplicava a PUBG.)
+
+As duas perspectivas eram, portanto, uma solução para as limitações do PC.
+
+Da mesma forma, embora a realidade virtual tivesse capacidades muito superiores de apresentar os jogos, também possuía limitações. O design continuava condicionado à tecnologia disponível.
+
+A maioria dos títulos populares de VR era em primeira pessoa. O processo de produção também seguia um padrão: lançar para PC e depois adaptar.
+
+O primeiro passo era melhorar os gráficos e os modelos até atender às exigências da realidade virtual. Isso normalmente consumia cerca de dez vezes mais recursos e concentrava a maior parte dos custos.
+
+O segundo era converter os controles. O trabalho era feito principalmente no editor, que recebia sinais por equipamentos especiais e os associava, um a um, às ações existentes.
+
+O designer podia, por exemplo, vincular sua intenção de pular ao salto do personagem. Depois, quando o jogador pensasse em saltar, a ação aconteceria.
+
+O campo de visão também aumentaria para cento e vinte e quatro graus. Olfato, audição e tato seriam adaptados à realidade virtual.
+
+O terceiro passo consistia em pequenos ajustes específicos, para tornar a experiência mais agradável em VR.
+
+Depois de revisar os pontos principais, Chen Mo começou a trabalhar nas regras de Minecraft.
+
+Na primeira etapa, pretendia recriar o original no PC. Só depois faria a adaptação para realidade virtual.
+
+Primeiro, as regras básicas do mundo.
+
+Planejava modos para um jogador, multijogador em rede local e multijogador online.
+
+Seria possível alternar entre o individual e a rede local, como em Diablo 3. Os mundos cresceriam indefinidamente, gerados pelo próprio jogo. Seria preciso acrescentar um limite de jogadores.
+
+Os mapas online comportariam até dez mil pessoas. O mundo ficaria limitado a cem mil quilômetros quadrados, uma área comparável à de uma província.
+
+Os recursos básicos seriam semelhantes aos do Minecraft original: pedra, água, lava, areia, cascalho, ouro, ferro, carvão, madeira, folhas, diamante, gelo…
+
+Outros poderiam ser acrescentados conforme a necessidade.
+
+Haveria materiais de fabricação, como gravetos, tábuas, couro e sementes; ferramentas de coleta, como pás e picaretas; meios de transporte, como trilhos, carrinhos de mina e barcos; e equipamentos de combate, como espadas, elmos e peitorais. Eram centenas de itens, com espaço para novas adições.
+
+Embora nunca tivesse visto o documento de design do Minecraft original, Chen Mo conseguia imaginar as regras de geração.
+
+O primeiro passo seria definir a base do mundo e a forma do terreno.
+
+Gerar os biomas e suas fronteiras, acrescentar colinas e montanhas, definir os limites com os oceanos, fazer pequenos ajustes e inserir rios.
+
+O segundo seria preencher o espaço com blocos de pedra, água e ar, de acordo com o limite de altura.
+
+O terceiro completaria os biomas. Planícies receberiam grama e pedra; desertos, areia e pedra. Todo o mapa seria preenchido, incluindo a camada de rocha-mãe.
+
+O quarto geraria estruturas especiais: cavernas, ravinas, depósitos minerais, aldeias, templos, monumentos oceânicos…
+
+Aldeias e templos do deserto usariam elementos predefinidos. Chen Mo pensava em acrescentar outras estruturas para dar mais vida ao mundo.
+
+O quinto passo seria gerar a iluminação.
+
+O sexto acrescentaria unidades especiais. Fornalhas e baús teriam seus próprios algoritmos de aleatoriedade.
+
+O sétimo criaria poças de água e lava. É claro que as de lava apareceriam com frequência muito menor.
+
+O oitavo distribuiria os minérios. Os tipos dependeriam principalmente da altura: terra, cascalho, carvão, ferro, ouro, redstone, diamante…
+
+O nono acrescentaria os pequenos detalhes: areia, argila e cascalho perto da água; plantas, árvores e cogumelos sobre o solo…
+
+Por fim, viriam as criaturas, como vacas, ovelhas, porcos e galinhas.
+
+É claro que aquilo era apenas uma hipótese de Chen Mo. Poderia haver diferenças em relação ao original, mas provavelmente não seriam tão grandes.
+
+Com o processo concluído, o mundo estaria pronto para os jogadores explorarem com seus personagens.
+
+No jogo original, as ações incluíam mover-se, pular, atacar, minerar e colocar blocos. Alguns mods de animação acrescentavam escalada, movimentos de se pendurar, deslocamento furtivo e expressões faciais.
+
+Chen Mo poderia implementar tudo isso e ampliar as animações para tornar a experiência mais realista. Naturalmente, os gráficos também precisariam acompanhar.
+
+Uma dúzia de animações não era nada extraordinário num grande RPG de VR. Também não sobrecarregaria o jogador com controles demais. Seria possível aprofundar a experiência sem impedir sessões longas.
+
+Além disso, pretendia melhorar outros aspectos.
+
+No original, por exemplo, o jogador usava tábuas numa bancada de trabalho para fabricar portas e gravetos. Chen Mo queria expandir o sistema, permitindo criar mais objetos de maneira clara e simples.
