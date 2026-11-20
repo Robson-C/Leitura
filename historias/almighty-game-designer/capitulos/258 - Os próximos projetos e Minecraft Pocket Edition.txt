@@ -1,0 +1,111 @@
+Capítulo 258 — Os próximos projetos e Minecraft Pocket Edition
+
+Zou Zhuo parou depois da primeira partida.
+
+— Espere um pouco, gerente. Acabei de lembrar que eu queria ver as projeções holográficas. Fiquei tão ocupado jogando que nem tive a oportunidade de olhar!
+
+Chen Mo riu.
+
+— É verdade. Mais alguém quer jogar Warcraft? Entrem nas cabines e deem ao Zou Zhuo uma chance de ver as projeções.
+
+Dois voluntários animados se ofereceram e entraram nas salas com isolamento acústico.
+
+Outra partida começou. Ao ver a projeção holográfica, Zou Zhuo ficou completamente impressionado.
+
+— Isso é incrível!
+
+— Consigo ver cada detalhe do mapa inteiro! Dá para acompanhar todas as ações de microgerenciamento com muita facilidade.
+
+— E todos os personagens e o terreno são tridimensionais, então fica muito mais bonito do que no PC.
+
+— Não seria incrível numa partida dois contra dois?
+
+— Mas tem um problema: num mapa para oito pessoas, *não ficaria tão bom*, certo? Os heróis ainda dariam para ver, mas as unidades menores ficariam minúsculas.
+
+Chen Mo assentiu.
+
+— Sim, esse conjunto de projetores funciona melhor com mapas pequenos, de um contra um. Além disso, não serve só para Warcraft. Tem outras utilidades também.
+
+Zou Zhuo ficou surpreso.
+
+— Hã? Quais?
+
+Chen Mo abriu um sorriso misterioso.
+
+— Para o jogo novo, é claro.
+
+***
+
+O princípio das projeções holográficas era bastante simples. Naquele mundo, embora fossem caras, elas funcionavam muito bem.
+
+Eram adequadas a diversos tipos de jogo. Desde que o título fosse totalmente tridimensional, com modelos e cenários em 3D, o projetor conseguiria apresentar muito bem uma visão de cima.
+
+Havia duas formas diferentes de exibição. A primeira era o modo de acompanhamento, que seguia a perspectiva de um jogador ou determinadas unidades. Jogos como Diablo se adaptavam melhor a ele.
+
+Já Warcraft não combinava tanto com esse modo por causa da quantidade de ações de microgerenciamento. Ao seguir um herói, muitos detalhes dessas ações se perderiam. Se a projeção acompanhasse a perspectiva do jogador, as mudanças rápidas de tela tornariam a experiência de assistir muito ruim.
+
+A outra opção era o modo fixo, que mantinha uma área ou perspectiva determinada. Warcraft se adaptava melhor a esse formato.
+
+É claro que mapas grandes demais, como os de oito jogadores, causariam um problema. Com a perspectiva fixa, unidades pequenas, como os camponeses, ficariam difíceis de enxergar confortavelmente.
+
+Porém, boa parte das partidas de Warcraft era de um contra um em mapas menores, então isso não era um grande problema. Além disso, Chen Mo não comprara os projetores apenas para Warcraft. Também havia pensado no uso deles no jogo novo.
+
+A área de projeção holográfica ainda tinha uma enorme tela de LED, semelhante às usadas em shows. A combinação do telão com os hologramas certamente proporcionaria uma ótima experiência ao público.
+
+***
+
+A recepção dos projetores foi extremamente positiva. Chen Mo também dera pistas sobre um jogo novo, mas, por mais que Zou Zhuo insistisse, ele não revelou mais nada.
+
+De volta ao quarto andar, reuniu os principais membros da equipe criativa e definiu os planos de desenvolvimento.
+
+Ainda havia muita coisa para organizar depois da mudança, e vários aspectos do trabalho não tinham voltado ao normal. Por isso, Chen Mo não pretendia iniciar imediatamente outro projeto de grande porte.
+
+Com Diablo e Minecraft produzidos em sequência e em intervalos tão próximos, todos estavam bastante cansados e precisavam descansar. Assim, ele queria trabalhar em alguns jogos menores para estimular a criatividade da equipe.
+
+O plano final ficou assim:
+
+Até o fim de setembro, concluiriam a organização da mudança e lançariam as versões de Minecraft para PC, dispositivos móveis e o mercado internacional. Eram tarefas relativamente simples, que serviriam para manter a equipe em atividade.
+
+No fim de outubro e no fim de novembro, lançariam um jogo pequeno e de alta qualidade em cada mês. Isso serviria como aquecimento e ajudaria a ampliar o catálogo da Thunderbolt Gaming Platform.
+
+A partir de dezembro, começariam a trabalhar no próximo grande jogo.
+
+***
+
+No escritório.
+
+Qian Kun entregou um tablet a Chen Mo.
+
+— Gerente, a versão móvel de Minecraft está praticamente pronta. Dá uma olhada, por favor. Os controles ainda estão meio estranhos.
+
+Chen Mo pegou o tablet e jogou por alguns minutos.
+
+— Sim, já está bom. Podemos considerar o lançamento agora — disse. — Os controles já chegaram mais ou menos ao limite do que podemos fazer nesta etapa. Por causa da própria plataforma, nunca vão ser iguais aos das versões para PC ou realidade virtual.
+
+Qian Kun assentiu.
+
+— Certo, vou providenciar isso.
+
+Depois de cerca de um mês de desenvolvimento, a versão móvel de Minecraft finalmente *ficou pronta para o lançamento*.
+
+O prazo estava de acordo com o que Chen Mo esperava.
+
+Na verdade, o desenvolvimento das versões para PC e dispositivos móveis fora relativamente tranquilo. A versão de PC existia desde antes da versão VR, e, tomando-a como base, fazer a versão móvel era relativamente fácil.
+
+O que consumira tanto tempo foram pequenos detalhes da jogabilidade.
+
+Chen Mo havia feito grandes alterações na versão de realidade virtual, que tinha muito mais conteúdo do que o Minecraft original. O modo online, o Mundo de Chen Mo e a *árvore tecnológica* sustentavam seu crescimento explosivo.
+
+A venda de construções também se tornara uma fonte importante de receita.
+
+Muitos jogadores se dedicavam ao máximo a descobrir técnicas de construção, criando todo tipo de edifício ou mecanismo móvel só para ganhar algum dinheiro dentro do jogo.
+
+No PC, a situação era melhor do que nos dispositivos móveis. Devido às diversas limitações da plataforma móvel, ela não podia se integrar perfeitamente à versão de realidade virtual.
+
+No multijogador, muitas pessoas costumavam se conectar ao mesmo servidor. Deixando de lado a grande demanda de recursos de processamento e a necessidade de uma boa conexão, a própria apresentação visual já era um problema. Com vinte ou trinta pessoas numa área pequena, a versão móvel não tinha chance, por causa do tamanho reduzido da tela do celular.
+
+As construções de Chen Mo também exigiam recursos de processamento extraordinários. Dificilmente os celulares conseguiriam suportá-las.
+
+Havia ainda a questão dos controles. Na versão móvel de Minecraft, eles eram bastante ruins, tornando o combate uma experiência desagradável. Porém, embora esse problema também existisse na versão original, não impedira sua popularidade explosiva.
+
+Por isso, Chen Mo decidiu manter versões idênticas para PC e realidade virtual, retirando parte das funções na versão móvel, que seria Minecraft: Pocket Edition.

@@ -1392,72 +1392,182 @@
       "source": 231,
       "chapter": 231,
       "title": "Minecraft ganha uma versão em realidade virtual",
-      "file": "capitulos/231 - Minecraft ganha uma versão em realidade virtual.txt",
-      "offlinePending": true
+      "file": "capitulos/231 - Minecraft ganha uma versão em realidade virtual.txt"
     },
     {
       "source": 232,
       "chapter": 232,
       "title": "Os quatro mundos de Minecraft",
-      "file": "capitulos/232 - Os quatro mundos de Minecraft.txt",
-      "offlinePending": true
+      "file": "capitulos/232 - Os quatro mundos de Minecraft.txt"
     },
     {
       "source": 233,
       "chapter": 233,
       "title": "Chen Mo avalia Thousand Hells",
-      "file": "capitulos/233 - Chen Mo avalia Thousand Hells.txt",
-      "offlinePending": true
+      "file": "capitulos/233 - Chen Mo avalia Thousand Hells.txt"
     },
     {
       "source": 234,
       "chapter": 234,
       "title": "Minecraft está pronto para os testes",
-      "file": "capitulos/234 - Minecraft está pronto para os testes.txt",
-      "offlinePending": true
+      "file": "capitulos/234 - Minecraft está pronto para os testes.txt"
     },
     {
       "source": 235,
       "chapter": 235,
       "title": "A primeira apresentação oficial da Thunderbolt",
-      "file": "capitulos/235 - A primeira apresentação oficial da Thunderbolt.txt",
-      "offlinePending": true
+      "file": "capitulos/235 - A primeira apresentação oficial da Thunderbolt.txt"
     },
     {
       "source": 236,
       "chapter": 236,
       "title": "Minecraft é revelado ao público",
-      "file": "capitulos/236 - Minecraft é revelado ao público.txt",
-      "offlinePending": true
+      "file": "capitulos/236 - Minecraft é revelado ao público.txt"
     },
     {
       "source": 237,
       "chapter": 237,
       "title": "Elogios demais para Thousand Hells",
-      "file": "capitulos/237 - Elogios demais para Thousand Hells.txt",
-      "offlinePending": true
+      "file": "capitulos/237 - Elogios demais para Thousand Hells.txt"
     },
     {
       "source": 238,
       "chapter": 238,
       "title": "A Cidade Proibida em Minecraft",
-      "file": "capitulos/238 - A Cidade Proibida em Minecraft.txt",
-      "offlinePending": true
+      "file": "capitulos/238 - A Cidade Proibida em Minecraft.txt"
     },
     {
       "source": 239,
       "chapter": 239,
       "title": "Da Cidade Proibida ao Antigo Palácio de Verão",
-      "file": "capitulos/239 - Da Cidade Proibida ao Antigo Palácio de Verão.txt",
-      "offlinePending": true
+      "file": "capitulos/239 - Da Cidade Proibida ao Antigo Palácio de Verão.txt"
     },
     {
       "source": 240,
       "chapter": 240,
       "title": "Os segredos das grandes construções",
-      "file": "capitulos/240 - Os segredos das grandes construções.txt",
-      "offlinePending": true
+      "file": "capitulos/240 - Os segredos das grandes construções.txt"
+    },
+    {
+      "source": 241,
+      "chapter": 241,
+      "title": "Minecraft e Thousand Hells chegam às lojas",
+      "file": "capitulos/241 - Minecraft e Thousand Hells chegam às lojas.txt"
+    },
+    {
+      "source": 242,
+      "chapter": 242,
+      "title": "A primeira noite de Lin Xue em Minecraft",
+      "file": "capitulos/242 - A primeira noite de Lin Xue em Minecraft.txt"
+    },
+    {
+      "source": 243,
+      "chapter": 243,
+      "title": "Uma casa ou uma tumba?",
+      "file": "capitulos/243 - Uma casa ou uma tumba.txt"
+    },
+    {
+      "source": 244,
+      "chapter": 244,
+      "title": "Um passeio pelo Mundo de Chen Mo",
+      "file": "capitulos/244 - Um passeio pelo Mundo de Chen Mo.txt"
+    },
+    {
+      "source": 245,
+      "chapter": 245,
+      "title": "As maravilhas do Mundo de Chen Mo",
+      "file": "capitulos/245 - As maravilhas do Mundo de Chen Mo.txt"
+    },
+    {
+      "source": 246,
+      "chapter": 246,
+      "title": "O mercado de plantas de Minecraft",
+      "file": "capitulos/246 - O mercado de plantas de Minecraft.txt"
+    },
+    {
+      "source": 247,
+      "chapter": 247,
+      "title": "Primeiros passos no Mundo de Todos",
+      "file": "capitulos/247 - Primeiros passos no Mundo de Todos.txt"
+    },
+    {
+      "source": 248,
+      "chapter": 248,
+      "title": "Uma planta de presente e as primeiras vendas",
+      "file": "capitulos/248 - Uma planta de presente e as primeiras vendas.txt"
+    },
+    {
+      "source": 249,
+      "chapter": 249,
+      "title": "Guildas, territórios e a árvore tecnológica",
+      "file": "capitulos/249 - Guildas, territórios e a árvore tecnológica.txt"
+    },
+    {
+      "source": 250,
+      "chapter": 250,
+      "title": "Os resultados do primeiro dia",
+      "file": "capitulos/250 - Os resultados do primeiro dia.txt"
+    },
+    {
+      "source": 251,
+      "chapter": 251,
+      "title": "A virada de Minecraft",
+      "file": "capitulos/251 - A virada de Minecraft.txt"
+    },
+    {
+      "source": 252,
+      "chapter": 252,
+      "title": "Os números do mundo de Minecraft",
+      "file": "capitulos/252 - Os números do mundo de Minecraft.txt"
+    },
+    {
+      "source": 253,
+      "chapter": 253,
+      "title": "Um mundo de possibilidades com redstone",
+      "file": "capitulos/253 - Um mundo de possibilidades com redstone.txt"
+    },
+    {
+      "source": 254,
+      "chapter": 254,
+      "title": "Uma pequena visitante na loja de experiências",
+      "file": "capitulos/254 - Uma pequena visitante na loja de experiências.txt"
+    },
+    {
+      "source": 255,
+      "chapter": 255,
+      "title": "A primeira casa de Nini",
+      "file": "capitulos/255 - A primeira casa de Nini.txt"
+    },
+    {
+      "source": 256,
+      "chapter": 256,
+      "title": "O propósito dos jogos e a nova loja de experiências",
+      "file": "capitulos/256 - O propósito dos jogos e a nova loja de experiências.txt"
+    },
+    {
+      "source": 257,
+      "chapter": 257,
+      "title": "Warcraft em projeção holográfica",
+      "file": "capitulos/257 - Warcraft em projeção holográfica.txt"
+    },
+    {
+      "source": 258,
+      "chapter": 258,
+      "title": "Os próximos projetos e Minecraft Pocket Edition",
+      "file": "capitulos/258 - Os próximos projetos e Minecraft Pocket Edition.txt"
+    },
+    {
+      "source": 259,
+      "chapter": 259,
+      "title": "Minecraft chega a novas plataformas",
+      "file": "capitulos/259 - Minecraft chega a novas plataformas.txt"
+    },
+    {
+      "source": 260,
+      "chapter": 260,
+      "title": "Novos jogadores e a volta de Nini",
+      "file": "capitulos/260 - Novos jogadores e a volta de Nini.txt"
     }
   ],
-  "notes": "Leitor local até 230; TXT 231–240 pendentes de revisão e integração por publique. Próximo 241. Anexos sem número/título: títulos descritivos provisórios e datas editoriais removidas. Commit e push manuais."
+  "notes": "Leitor local até 260; nenhum TXT pendente em Almighty Game Designer. Próximo envio/revisão 261. Lote 231–260 revisado contextualmente. Títulos descritivos provisórios nos anexos sem título; datas editoriais removidas. Commit e push manuais."
 }
