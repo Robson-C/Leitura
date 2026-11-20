@@ -1,0 +1,111 @@
+Capítulo 204 — Sanidade e os planos para Don't Starve
+
+Su Jinyu e alguns funcionários trocavam ideias na sala de reuniões, tentando descobrir como tornar Don't Starve divertido.
+
+— Pela orientação do gerente, é um jogo de sobrevivência, certo? Então tudo deve girar em torno de sobreviver.
+
+— Precisamos de dois grupos principais de elementos: os que ajudam o jogador a sobreviver e os que o prejudicam.
+
+— Que recursos e ameaças podemos colocar? Pensando no mundo real, temos clima, temperatura, monstros, comida… Tudo isso pode entrar no jogo.
+
+— Então a diversão será controlar um personagem que precisa sobreviver num mundo completamente desconhecido. Ele terá que explorar o mapa, encontrar recursos e usá-los para enfrentar as ameaças.
+
+— Com isso, já temos a estrutura básica. A julgar pela jogabilidade central, parece divertido.
+
+— Agora vem o projeto do conjunto. Precisamos de alguns indicadores para mostrar como vai a sobrevivência. Um exemplo simples é a vida.
+
+— A vida diminui quando o personagem é atacado, congela ou se queima, por exemplo. Quando chega a zero, o jogo acaba.
+
+— O que mais? O nome é Don't Starve. É óbvio que o gerente quer um indicador de alimentação. O jogador precisa procurar comida e sofrer consequências se não cuidar disso. Podemos até reduzir a velocidade de movimento ou algo assim.
+
+— Parece que já estamos chegando lá.
+
+— Mas ainda tem uma falha. Sinto que falta alguma coisa além desses dois indicadores.
+
+— Sim, só os dois parece pouco. Chuva, neve, granizo e seca afetam as pessoas na vida real. Como representar isso? O personagem perde vida quando chove? Ou a barra de alimentação diminui? Não faz muito sentido.
+
+— Além disso, com apenas dois indicadores, parece que estamos controlando um boneco de videogame, e não uma pessoa. Isso prejudica a imersão.
+
+— Pois é, parece que falta um terceiro elemento…
+
+Enquanto refletiam, Chen Mo entrou.
+
+— O outro atributo deve ser a sanidade.
+
+Su Jinyu se interessou.
+
+— Sanidade? Para representar o estado mental do personagem?
+
+Chen Mo assentiu.
+
+— O mau tempo e outros acontecimentos desagradáveis diminuem a sanidade. Da mesma forma, certos itens podem recuperá-la.
+
+— Quando chega a zero, o personagem enlouquece. Começa a ter alucinações, o mundo fica diferente e criaturas das sombras passam a atacá-lo.
+
+— Ao derrotá-las, recupera uma certa quantidade de sanidade. Por outro lado, se elas o matarem, o jogo acaba.
+
+Su Jinyu pensou um pouco.
+
+— É uma ótima ideia. Fome, vida e sanidade juntas representam muito bem o estado do personagem. Você é mesmo bom, gerente.
+
+Chen Mo riu.
+
+— Não é nada. Vocês acabariam chegando lá. É praticamente indispensável num jogo assim.
+
+— Gerente, devia participar da discussão com a gente. Percebi que Don't Starve tem muitos aspectos interessantes. Se desenvolvermos direito, vai ser um ótimo jogo!
+
+Chen Mo revirou os olhos.
+
+— Claro. Por que eu mandaria vocês fazerem um jogo sem potencial? Mas precisam entregar a tarefa sem minha ajuda. É para ampliar a visão de vocês. Não podem esperar que eu segure suas mãos o tempo todo.
+
+Su Jinyu fez um bico.
+
+— Está bem…
+
+Chen Mo mudou de assunto com naturalidade:
+
+— A Emperor Dynasty está trabalhando num Diablo em realidade virtual.
+
+Su Jinyu se espantou.
+
+— Hã? Desde quando? O que vamos fazer? Por que não está preocupado?
+
+Chen Mo se recostou na cadeira.
+
+— Por que estaria? É um jogo de realidade virtual. Não tenho muito o que fazer nessa área agora.
+
+Su Jinyu insistiu:
+
+— Então o que fazemos? E qual é o problema da Emperor Dynasty, copiando a gente desse jeito?
+
+Chen Mo pediu calma.
+
+— Relaxa. Está tudo bem. Nem sabemos se é possível adaptar Diablo para VR com sucesso. Algumas coisas não podem ser copiadas diretamente, e corrigir isso pode levar tempo. Eles vão precisar de pelo menos um ano.
+
+— Então precisamos acelerar, gerente! Fazemos um jogo simples de realidade virtual em meio ano para testar o terreno. No outro meio ano, transformamos Diablo num jogo de VR!
+
+Chen Mo ficou sem palavras.
+
+— Você está exagerando. Não dá para fazer tudo isso num prazo tão curto. Não precisa se preocupar. Só contei para lembrar que Don't Starve precisa avançar bem, sem atrasos. Quero usá-lo para testar a reação do público.
+
+— Já tenho planos para os próximos jogos. No máximo, farei alguns ajustes. Não vale a pena bagunçar tudo só para enfrentar a Emperor Dynasty diretamente.
+
+— Pretendo lançar Don't Starve em dois meses, no fim de setembro. É claro que será apenas a primeira versão. Teremos que atualizar conforme as opiniões dos jogadores e disponibilizar mods para eles escolherem.
+
+— Reaper of Souls deve ficar pronto em três meses, com mais três semanas de testes. Isso dá um lançamento em meados de novembro. Depois, deixaremos Diablo de lado por um tempo.
+
+— Até novembro, já devemos ter bastante retorno do público. Aí, toda a equipe vai se concentrar num jogo de realidade virtual para tentar competir com a Emperor Dynasty.
+
+— Certo! — Su Jinyu bateu palmas. — Vou tentar acelerar para termos uma demonstração o quanto antes e discutirmos o resultado.
+
+Chen Mo assentiu.
+
+— Tudo bem, mas não precisa correr tanto. Dois meses são suficientes. Garanta que a qualidade esteja à altura.
+
+Não era necessário se alongar sobre o sucesso de Don't Starve. Tanto pelas vendas quanto pelo reconhecimento, era considerado um clássico dos jogos independentes.
+
+Chen Mo o escolhera como exercício não apenas para estimular a criatividade da equipe, mas também para testar a receptividade dos jogadores aos jogos sandbox.
+
+Geralmente, esses jogos tinham mapas grandes, diversas mecânicas e muita liberdade, deixando bastante espaço para a criatividade. Esse era um elemento central: permitir que o jogador usasse os recursos disponíveis para alcançar um objetivo.
+
+Naquele mundo, já existiam jogos que ofereciam muita liberdade. Aos olhos de Chen Mo, porém, nenhum deles era um sandbox particularmente bem-sucedido.

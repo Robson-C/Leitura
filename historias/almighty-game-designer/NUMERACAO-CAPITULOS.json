@@ -1147,7 +1147,97 @@
       "chapter": 190,
       "title": "O anúncio de Diablo e as previsões do setor",
       "file": "capitulos/190 - O anúncio de Diablo e as previsões do setor.txt"
+    },
+    {
+      "source": 191,
+      "chapter": 191,
+      "title": "O primeiro teste de Diablo",
+      "file": "capitulos/191 - O primeiro teste de Diablo.txt"
+    },
+    {
+      "source": 192,
+      "chapter": 192,
+      "title": "A escolha do Caçador de Demônios",
+      "file": "capitulos/192 - A escolha do Caçador de Demônios.txt"
+    },
+    {
+      "source": 193,
+      "chapter": 193,
+      "title": "A atmosfera e o combate de Diablo",
+      "file": "capitulos/193 - A atmosfera e o combate de Diablo.txt"
+    },
+    {
+      "source": 194,
+      "chapter": 194,
+      "title": "A Coroa de Leoric",
+      "file": "capitulos/194 - A Coroa de Leoric.txt"
+    },
+    {
+      "source": 195,
+      "chapter": 195,
+      "title": "O princípio da rosquinha",
+      "file": "capitulos/195 - O princípio da rosquinha.txt"
+    },
+    {
+      "source": 196,
+      "chapter": 196,
+      "title": "A busca por equipamentos em Diablo",
+      "file": "capitulos/196 - A busca por equipamentos em Diablo.txt"
+    },
+    {
+      "source": 197,
+      "chapter": 197,
+      "title": "O primeiro mês de Diablo",
+      "file": "capitulos/197 - O primeiro mês de Diablo.txt"
+    },
+    {
+      "source": 198,
+      "chapter": 198,
+      "title": "O segredo do sucesso de Diablo",
+      "file": "capitulos/198 - O segredo do sucesso de Diablo.txt"
+    },
+    {
+      "source": 199,
+      "chapter": 199,
+      "title": "A força duradoura de Diablo",
+      "file": "capitulos/199 - A força duradoura de Diablo.txt"
+    },
+    {
+      "source": 200,
+      "chapter": 200,
+      "title": "A comemoração e os próximos projetos",
+      "file": "capitulos/200 - A comemoração e os próximos projetos.txt"
+    },
+    {
+      "source": 201,
+      "chapter": 201,
+      "title": "Reaper of Souls e Don't Starve",
+      "file": "capitulos/201 - Reaper of Souls e Don't Starve.txt"
+    },
+    {
+      "source": 202,
+      "chapter": 202,
+      "title": "A proposta da Emperor Dynasty",
+      "file": "capitulos/202 - A proposta da Emperor Dynasty.txt"
+    },
+    {
+      "source": 203,
+      "chapter": 203,
+      "title": "O projeto de Yan Zhenyuan",
+      "file": "capitulos/203 - O projeto de Yan Zhenyuan.txt"
+    },
+    {
+      "source": 204,
+      "chapter": 204,
+      "title": "Sanidade e os planos para Don't Starve",
+      "file": "capitulos/204 - Sanidade e os planos para Don't Starve.txt"
+    },
+    {
+      "source": 205,
+      "chapter": 205,
+      "title": "Os sistemas de Don't Starve",
+      "file": "capitulos/205 - Os sistemas de Don't Starve.txt"
     }
   ],
-  "notes": "Leitor local com capítulos 1–190 revisados e integrados. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 191. Títulos descritivos provisórios, datas editoriais removidas. Commit e push manuais."
+  "notes": "Leitor local com capítulos 1–205 revisados e integrados. Sem TXT pendente nesta obra. Próximo envio 206. Títulos 191–205 descritivos provisórios: anexos sem título/número. Datas editoriais removidas. Commit e push manuais."
 }

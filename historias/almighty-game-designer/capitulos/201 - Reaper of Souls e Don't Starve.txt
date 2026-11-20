@@ -1,0 +1,103 @@
+Capítulo 201 — Reaper of Souls e Don't Starve
+
+Chen Mo começou a apresentar os pontos principais da nova versão.
+
+— A atualização vai se chamar Reaper of Souls. A maior novidade serão as duas classes: Cruzado e Necromante. Também acrescentaremos conteúdo à história. O protagonista entrará no Pandemônio para enfrentar o chefe final.
+
+— Haverá mais missões secundárias para Shen, o Cobiçoso, Haedrig Eamon e os três seguidores.
+
+— É claro que a história serve apenas para complementar o conteúdo. Ela não será o foco principal da atualização.
+
+— Também teremos novas mecânicas, como Transmogrificação, níveis de Paragon e o *modo especialista*. As informações do documento conceitual devem bastar para vocês trabalharem, pois são relativamente simples.
+
+— O ponto central são os dois modos que vão prolongar a vida do jogo. Estimo que possam render mais um ou dois anos.
+
+— Estou falando das Fendas de Desafio e das temporadas.
+
+— Fendas de Desafio é um modo pensado para ajudar os jogadores a conseguir equipamentos raros.
+
+— Quando chegarem a essa etapa, provavelmente não vão ligar tanto para a história. Estarão mais interessados em caçar itens. Como o lugar em que fazem isso deixa de importar, ofereceremos um atalho por meio das Fendas de Desafio.
+
+— As temporadas competitivas equivalem a uma classificação por posições. Porém, a progressão será diferente da de Warcraft. Aqui, jogadores antigos têm uma vantagem considerável sobre os novatos. Por isso, todos precisarão começar do zero a cada temporada.
+
+— Cada uma deve durar de três a seis meses. Podemos ajustar livremente esse período de acordo com a resposta do público.
+
+— Em linhas gerais, é isso. Alguma dúvida?
+
+Depois da explicação, Chen Mo observou a reação do grupo.
+
+Todos se entreolharam. Era evidente que a maioria estava mais interessada nas classes e na história do que nas Fendas de Desafio e nas temporadas ranqueadas.
+
+— Hum, gerente… É claro que precisamos acrescentar história e classes — disse Su Jinyu. — Mas não sei se esses dois modos vão mesmo prolongar a vida do jogo. Achei que faria um editor, como em Plants vs Zombies e Warcraft.
+
+Os demais assentiram. Era evidente que pensavam o mesmo, mas não tinham coragem de perguntar.
+
+Chen Mo riu.
+
+— É diferente. A diversão central de Diablo vem de abrir caminho entre hordas de inimigos. Além disso, os mapas são gerados aleatoriamente. Mesmo que deixássemos os jogadores acrescentar recursos, eles não conseguiriam fazer tantas contribuições significativas.
+
+— Por que estão começando a se cansar? Porque não têm mais um objetivo.
+
+— Em outras palavras, continuavam caçando itens com prazer porque ainda não tinham enjoado. Mas quem já conseguiu as peças principais e não tem outra meta acaba saindo por não saber o que fazer depois.
+
+— As temporadas criam competição e dão aos jogadores um objetivo pelo qual disputar. Já as Fendas de Desafio ajudam a reduzir os aspectos mais repetitivos da busca por equipamentos, tornando o processo menos desgastante.
+
+— Existe algo como o editor de mapas de Warcraft que possa prolongar indefinidamente a vida de Diablo? Infelizmente, não. Este é um hack and slash, e precisamos cuidar dos jogadores dedicados que continuam aqui.
+
+— Mais alguma dúvida?
+
+Ainda havia desconfiança, mas a maioria já entendia seu raciocínio.
+
+Ninguém pretendia contestá-lo. Afinal, ele era o chefe. Desde que soubesse o que estava fazendo, tudo bem.
+
+Ao perceber que haviam entendido a questão, Chen Mo continuou.
+
+Documento de design de Don't Starve.
+
+A abertura do documento trazia uma arte conceitual extremamente simples: um homenzinho pálido, de cabelos desgrenhados, sentado junto a uma fogueira na floresta, cercado de árvores, arbustos e aranhas enfurecidas.
+
+Na lua, no canto superior direito, as palavras Don't Starve apareciam de maneira sinistra.
+
+O nome e a ilustração deixaram todos confusos.
+
+— Don't Starve? Tipo “não morra de fome”?
+
+— Essa arte também é muito estranha. Parece um jogo independente.
+
+— Pois é, não parece coisa de uma empresa grande. Pelo visual, vai ser para um público bem pequeno.
+
+— O gerente cansou de ganhar dinheiro?
+
+— Vamos ouvir a explicação.
+
+Todos aguardavam Chen Mo.
+
+— Primeiro, vocês adivinharam. A proposta lembra a de um jogo independente. Como falei antes, será um exercício para colocar a criatividade de todos em movimento. Não deve ser tão difícil.
+
+— Vou explicar rapidamente a jogabilidade. É um jogo de sobrevivência. A ambientação é bastante livre: ciência, magia e monstros estranhos coexistem nesse mundo. Dentro de uma certa lógica, é claro.
+
+— O único objetivo é sobreviver, como nos modos de sobrevivência de alguns outros jogos. A diferença é que teremos um sistema de equipamentos extremamente rico. O jogador poderá recolher pedras e galhos pelo mapa, fabricar ferramentas e, por fim, construir sua própria base. Vai partir do nada e criar tudo.
+
+— Podem pensar nele como um jogo sandbox.
+
+— É claro que, por ser um jogo de sobrevivência, o protagonista deve enfrentar perigos constantemente: a escuridão, o clima e os monstros. Quem não prestar atenção vai morrer.
+
+— Precisamos recriar a sensação de estar sozinho, abandonado na natureza. O jogador pode morrer de frio ou de fome, mas também pode sobreviver por muito tempo.
+
+— A ideia principal é essa. Alguma pergunta?
+
+Chen Mo olhou ao redor.
+
+Su Jinyu disse:
+
+— Acho que vai ser bom. Estou bastante interessada.
+
+Qian Kun franziu a testa.
+
+— Gerente, ainda não entendi direito o atrativo comercial. Parece uma proposta muito legal, mas acho que vai ser de nicho e vender poucas cópias.
+
+— Não adianta tentar prever as vendas antes de fazer o jogo — respondeu Chen Mo. — A motivação será sobreviver. Os jogadores vão se esforçar para não morrer e, com o tempo, até conseguir viver com mais conforto.
+
+— A vontade de continuar vivo, explorando e recolhendo recursos para isso, pode ser uma experiência muito divertida.
+
+— Não importa se vai ser popular ou de nicho. Encarem como um exercício divertido e aproveitem o processo.

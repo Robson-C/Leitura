@@ -1,0 +1,81 @@
+Capítulo 205 — Os sistemas de Don't Starve
+
+Naquele mundo, a maioria dos jogos sandbox era produzida por desenvolvedores estrangeiros. Earth Online, por exemplo, permitia trabalhar, comprar carros e casas e experimentar profissões diferentes. Era um dos títulos que ofereciam bastante liberdade.
+
+Porém, não era um sandbox de verdade.
+
+Jogos desse tipo tinham duas características principais: conteúdo rico e liberdade para criar. Embora Earth Online tivesse muito conteúdo, o jogador continuava preso aos limites estabelecidos pelo designer. Quase não podia criar nada.
+
+Era preciso enfatizar que a criação era um elemento central dos jogos sandbox. O jogador deveria poder construir o que quisesse usando os recursos fornecidos pelo jogo.
+
+Sem isso, não se podia falar num verdadeiro sandbox.
+
+É claro que alguns desenvolvedores estrangeiros já experimentavam nessa direção. Permitiam escolher o personagem, o carro ou a casa desejados, por exemplo. Mas tudo aquilo já fazia parte do conteúdo original e servia apenas para oferecer opções. Não era o núcleo da experiência.
+
+Por isso, Chen Mo queria usar Don't Starve para testar a reação do público. Se funcionasse, o caminho para seu primeiro jogo de realidade virtual estaria definido.
+
+Outro fator importante era que Don't Starve era relativamente mais fácil de desenvolver que outros jogos sandbox.
+
+Em sua vida anterior, três desenvolvedores haviam criado a primeira versão em oito horas. É claro que era apenas uma demonstração rudimentar.
+
+A versão completa levara mais de um ano, mas a maior parte desse período fora gasta em testes, experimentações e na busca pela identidade do jogo.
+
+A equipe discutira intensamente, por exemplo, como lidar com a progressão. Alguns achavam que, por ser um jogo de sobrevivência, o personagem deveria ficar cada vez mais forte. Outros defendiam que, justamente por ser de sobrevivência, o jogador deveria perder tudo ao morrer.
+
+Depois de muita discussão, escolheram a segunda opção.
+
+O estilo visual também era simples, mas singular. Personagens e monstros tinham apenas quatro direções e animações pouco complexas.
+
+Para Chen Mo, o ponto mais trabalhoso era ajustar a dificuldade. Porém, com as Poções de Reprodução de Memórias e as ideias de toda a equipe, não seria difícil alcançar um nível próximo ao do original, desde que seguissem na direção certa.
+
+Planejava três modos: Sobrevivência, Aventura e Cooperativo. Os dois primeiros dispensavam apresentação. No cooperativo, os jogadores poderiam explorar e viver a experiência juntos.
+
+Na verdade, esse também era o modo mais popular.
+
+O núcleo estava bem definido: explorar, reunir recursos, fabricar itens e fazer o possível para sobreviver pelo maior tempo que conseguisse.
+
+A estrutura básica incluía, entre outras coisas, geração de terreno, atributos e usos dos itens, diferenças entre os personagens, frequência de reaparecimento dos monstros, estações e condições ambientais.
+
+Os mapas também teriam conteúdo abundante. Haveria planícies, pântanos, prados, minas, florestas, cavernas… Cada bioma teria características e criaturas próprias.
+
+No começo de cada partida, o sistema geraria o mapa a partir de uma semente. O resultado poderia variar bastante de uma partida para outra, garantindo experiências diferentes.
+
+As estações também seriam uma parte central do jogo.
+
+Na primavera, choveria mais e as plantas cresceriam depressa.
+
+No verão, as plantas poderiam entrar em combustão espontânea. O personagem também esquentaria rapidamente e poderia sofrer com o superaquecimento.
+
+No inverno, as plantas cresceriam devagar, e o jogador poderia congelar.
+
+As estações e os demais fatores se combinariam para criar grandes ameaças. Seria necessário se preparar para a próxima estação, evitando perdas graves.
+
+Depois de estabelecer as bases, continuariam acrescentando conteúdo para tornar aquele mundo amplo, rico e complexo.
+
+Chen Mo pretendia incluir nove personagens jogáveis na primeira versão: Wilson, Willow, Wendy, Wolfgang, WX-78, Wes, Wickerbottom, Woody e Maxwell.
+
+Alguns só seriam desbloqueados após o cumprimento de certos requisitos. Suas habilidades também seriam diferentes. Willow, a incendiária, por exemplo, seria liberada depois de sobreviver nove dias. Poderia iniciar incêndios à vontade e seria imune ao dano de fogo.
+
+As criaturas se dividiam em quatro grandes categorias: humanoides, animais, seres estranhos e inteligências artificiais. Cada uma teria suas peculiaridades.
+
+Ao contrário dos animais, muitos humanoides possuiriam certa inteligência e poderiam ser subornados. Criaturas diferentes deixariam itens diferentes ao morrer. Alguns serviriam para fabricar equipamentos; outros, como alimento.
+
+Don't Starve também teria um sistema de equipamentos rico: objetos de uso cotidiano, como fontes de luz e ferramentas de coleta; consumíveis, como comida e ingredientes; e armamentos, incluindo armas, armaduras e armadilhas.
+
+Alguns itens ainda poderiam ser processados. Alimentos que estragassem depressa poderiam passar por varais de secagem, fogueiras ou panelas de cozimento para durar mais.
+
+É claro que, num sandbox, boa parte da diversão vinha dos mods criados pelos próprios jogadores e incorporados à experiência.
+
+Esses mods normalmente ficavam disponíveis para o público escolher, com efeitos diferentes. Alguns mostravam estatísticas ou diminuíam a dificuldade. Outros acrescentavam conteúdo.
+
+Com eles, o jogador podia ajustar o desafio à vontade e ampliar o conteúdo disponível. Um iniciante, por exemplo, poderia usar um mod para facilitar a sobrevivência.
+
+O desenvolvimento de Diablo: Reaper of Souls e Don't Starve avançava sem problemas.
+
+Enquanto isso, Diablo continuava ganhando popularidade.
+
+Depois do resultado surpreendente de um milhão e oitocentas e setenta mil cópias no primeiro mês, manteve o ritmo no segundo e vendeu mais um milhão e seiscentas e oitenta mil. Assim, a receita bruta acumulada se aproximava de quatrocentos e cinquenta milhões de yuans.
+
+A maioria dos novos jogadores continuava se divertindo. Ainda avançavam, missão após missão, *como Nephalem*, rumo ao confronto com Diablo. Não conseguiam parar de abrir caminho entre os monstros.
+
+Porém, outras vozes começavam a aparecer.
