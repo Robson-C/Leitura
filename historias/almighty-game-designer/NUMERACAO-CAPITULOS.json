@@ -1237,7 +1237,97 @@
       "chapter": 205,
       "title": "Os sistemas de Don't Starve",
       "file": "capitulos/205 - Os sistemas de Don't Starve.txt"
+    },
+    {
+      "source": 206,
+      "chapter": 206,
+      "title": "O fim da campanha e os pedidos por novidades",
+      "file": "capitulos/206 - O fim da campanha e os pedidos por novidades.txt"
+    },
+    {
+      "source": 207,
+      "chapter": 207,
+      "title": "O lançamento discreto de Don't Starve",
+      "file": "capitulos/207 - O lançamento discreto de Don't Starve.txt"
+    },
+    {
+      "source": 208,
+      "chapter": 208,
+      "title": "Jia Peng experimenta Don't Starve",
+      "file": "capitulos/208 - Jia Peng experimenta Don't Starve.txt"
+    },
+    {
+      "source": 209,
+      "chapter": 209,
+      "title": "A primeira noite e uma oportunidade inesperada",
+      "file": "capitulos/209 - A primeira noite e uma oportunidade inesperada.txt"
+    },
+    {
+      "source": 210,
+      "chapter": 210,
+      "title": "Sobrevivência e criatividade em Don't Starve",
+      "file": "capitulos/210 - Sobrevivência e criatividade em Don't Starve.txt"
+    },
+    {
+      "source": 211,
+      "chapter": 211,
+      "title": "As primeiras avaliações de Don't Starve",
+      "file": "capitulos/211 - As primeiras avaliações de Don't Starve.txt"
+    },
+    {
+      "source": 212,
+      "chapter": 212,
+      "title": "O desafio de prolongar a vida do jogo",
+      "file": "capitulos/212 - O desafio de prolongar a vida do jogo.txt"
+    },
+    {
+      "source": 213,
+      "chapter": 213,
+      "title": "A preparação do lançamento internacional de Diablo",
+      "file": "capitulos/213 - A preparação do lançamento internacional de Diablo.txt"
+    },
+    {
+      "source": 214,
+      "chapter": 214,
+      "title": "Diablo chega ao mercado internacional",
+      "file": "capitulos/214 - Diablo chega ao mercado internacional.txt"
+    },
+    {
+      "source": 215,
+      "chapter": 215,
+      "title": "Reaper of Souls é lançado",
+      "file": "capitulos/215 - Reaper of Souls é lançado.txt"
+    },
+    {
+      "source": 216,
+      "chapter": 216,
+      "title": "A volta dos jogadores a Diablo",
+      "file": "capitulos/216 - A volta dos jogadores a Diablo.txt"
+    },
+    {
+      "source": 217,
+      "chapter": 217,
+      "title": "Chen Mo reorganiza a Cruzada de Lin Xue",
+      "file": "capitulos/217 - Chen Mo reorganiza a Cruzada de Lin Xue.txt"
+    },
+    {
+      "source": 218,
+      "chapter": 218,
+      "title": "A força da cavalaria explosiva",
+      "file": "capitulos/218 - A força da cavalaria explosiva.txt"
+    },
+    {
+      "source": 219,
+      "chapter": 219,
+      "title": "A cavalaria explosiva inspira os jogadores",
+      "file": "capitulos/219 - A cavalaria explosiva inspira os jogadores.txt"
+    },
+    {
+      "source": 220,
+      "chapter": 220,
+      "title": "O marco de três bilhões de yuans",
+      "file": "capitulos/220 - O marco de três bilhões de yuans.txt"
     }
   ],
-  "notes": "Leitor local com capítulos 1–205 revisados e integrados. Sem TXT pendente nesta obra. Próximo envio 206. Títulos 191–205 descritivos provisórios: anexos sem título/número. Datas editoriais removidas. Commit e push manuais."
+  "notes": "Leitor local com capítulos 1–220 revisados e integrados. Sem TXT pendente nesta obra. Próximo envio 221. Títulos 206–220 descritivos provisórios: anexos sem título/número. Datas editoriais removidas. Commit e push manuais."
 }

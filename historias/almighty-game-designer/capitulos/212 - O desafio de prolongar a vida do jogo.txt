@@ -1,0 +1,91 @@
+Capítulo 212 — O desafio de prolongar a vida do jogo
+
+O lançamento de Diablo e Don't Starve, um depois do outro, provocou uma boa reação no setor. Mesmo assim, não surgiu nada parecido com a onda de cópias dos jogos de cartas para celular.
+
+Era esperado. As características centrais daqueles títulos eram muito particulares e difíceis de reproduzir.
+
+Diablo mostrara aos profissionais a lacuna no mercado para jogos de hack and slash gratificantes. Preenchê-la, porém, era outra questão.
+
+Se seguissem seu exemplo e criassem um jogo em terceira pessoa com visual sombrio, primeiro precisariam gastar o suficiente para alcançar sua qualidade. Mesmo que conseguissem, o público compraria uma cópia tão evidente de Diablo?
+
+Por isso, a única saída parecia ser produzir algo semelhante em realidade virtual, exatamente o que a Emperor Dynasty estava fazendo.
+
+E as outras empresas? Desenvolver para VR envolvia riscos enormes e exigia muitas adaptações. Poucas tinham condições de apostar tanto.
+
+Aos olhos de muitos designers, Don't Starve também era difícil de copiar.
+
+Afinal, ninguém entendia exatamente por que vendera tantas cópias.
+
+A história? O visual? A música e os efeitos sonoros?
+
+Os itens? A jogabilidade? A proposta sandbox?
+
+Uma coisa era certa: tratava-se de um sandbox relativamente bem-sucedido. A qualidade e as muitas possibilidades de jogo reproduziam as necessidades fisiológicas humanas e despertavam no público a vontade de criar.
+
+Mas como fazer outro sandbox semelhante?
+
+Ninguém sabia.
+
+Esses jogos podiam parecer agradáveis de desenvolver, mas eram extremamente difíceis. Ao analisar um título de sucesso, tudo parecia simples de reproduzir. O problema era não terem pensado naquilo antes.
+
+Por isso, apesar das boas avaliações de Diablo e Don't Starve, não houve uma corrida para copiá-los como acontecera com os jogos de cartas para celular.
+
+Além disso, quanto mais Diablo se destacava, mais detratores apareciam.
+
+— Tem gente reclamando de novo no fórum oficial. Dizem que Diablo fica ruim depois da campanha.
+
+— Sim, já esperava. Também experimentei. No começo, é ótimo, mas depois fica muito monótono. Sem a vontade de conseguir equipamentos, duvido que tanta gente continuasse.
+
+— Uma hora, até essa busca cansa. Quanto melhor a peça, mais rara ela é. Você joga cada vez mais e talvez nem encontre algo que sirva. É frustrante.
+
+— Isso só mostra que Chen Mo não é invencível. Ele pode até fazer jogos que durem bastante, mas este não é um deles.
+
+— Não tem jeito. Acho que já pensava nisso desde o começo. É uma experiência passageira, muito bem embalada, com cinemáticas incríveis. Matar os monstros também é gostoso. É assim que convencem você a comprar. Depois que ficam com seu dinheiro, não ligam para o resto.
+
+— É normal. Trata-se de um jogo para um jogador. Parem de compará-lo aos padrões dos jogos online.
+
+— Chen Mo passou direto para Don't Starve depois de lançar Diablo. É óbvio que não espera ganhar dinheiro com ele por muito tempo.
+
+— Também acho. Talvez esteja experimentando gêneros diferentes para se preparar para o futuro. Se Diablo não der certo, continua com Don't Starve.
+
+— Fiquei impressionado quando Diablo saiu, mas agora parece que era só aparência. As vendas foram incríveis, só que o público já está cansando. Não vai durar.
+
+— Pois é. Acho que o espetáculo acabou.
+
+— Ouvi dizer que a Emperor Dynasty está fazendo um jogo de VR no estilo de Diablo. Como será que está indo?
+
+— Parece que Yan Zhenyuan é o responsável. Não há dúvida sobre sua capacidade, nem sobre a distribuição e os recursos da empresa. Acho muito provável que faça sucesso.
+
+— Sim. Talvez até mais que Diablo, por causa da imersão da realidade virtual.
+
+— Difícil dizer. Adaptar um jogo de PC para VR envolve muito risco. É praticamente fazer outro do zero.
+
+— Afinal, Yan Zhenyuan é de classe S. Nenhum jogo dele fracassou. E há uma boa base teórica para sustentar a proposta. Imaginem abrir caminho entre inimigos em realidade virtual. Quando sair, vai preencher aquela lacuna do mercado.
+
+— É verdade. Ah, parece que Chen Mo errou um pouco nisso. Devia ter esperado para lançar. Logo deve começar a trabalhar com VR. Se tivesse deixado para daqui a um ano, talvez fizesse seu próprio Diablo em realidade virtual. Lançando agora, só deu ideias à Emperor Dynasty!
+
+Yan Zhenyuan também estava jogando Diablo.
+
+Já compreendera bem seu funcionamento. A história e as cinemáticas de qualidade, assim como a atmosfera assustadora construída com tanto cuidado, eram a embalagem. O verdadeiro núcleo estava no combate contra hordas e no balanceamento.
+
+É claro que a apresentação era tão boa que os jogadores sentiam ter recebido mais do que pagaram.
+
+Na prática, as etapas avançadas de Diablo dependiam inteiramente da progressão dos números.
+
+Enquanto continuavam caçando itens, os jogadores conseguiam equipamentos melhores, aumentavam a força e avançavam para dificuldades maiores. Assim, o balanceamento se tornava o principal incentivo para continuar.
+
+À primeira vista, parecia um modelo funcional. Até aquele momento, porém, Diablo não parecia conseguir sustentá-lo.
+
+Yan Zhenyuan também pensava numa solução. Estava produzindo um jogo de VR baseado na proposta de Diablo para PC. Se o público se cansasse em um ou dois meses, a rentabilidade seria muito prejudicada.
+
+Como a realidade virtual exigia muito mais investimento, vender por cópia só permitiria torcer por um prejuízo um pouco menor. Sonhar em lucrar daquela forma seria ilusão.
+
+Preciso encontrar uma solução logo.
+
+O projeto estava em sua fase inicial, com as diversas frentes avançando de maneira estável. Mesmo assim, precisava descobrir rapidamente como garantir a longevidade.
+
+Novembro se aproximava. Pelo cronograma, os testes começariam em junho do ano seguinte, e o lançamento aconteceria em agosto.
+
+Tanto faz. Por enquanto, vou seguir a ideia de jogo online. Colocar o máximo possível de interação social e comércio. Depois, alongar a duração e reduzir a velocidade de progressão dos novatos.
+
+Como o problema era difícil de resolver, Yan Zhenyuan decidiu recorrer às práticas dos jogos online: reter o público com atividades variadas.
