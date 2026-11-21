@@ -1,0 +1,81 @@
+Capítulo 326 — As respostas dos concorrentes
+
+Todas as características de League of Legends foram analisadas repetidamente.
+
+Os controles, a direção de arte, a jogabilidade central, o modelo de monetização, os métodos de divulgação... Inúmeros profissionais estudavam os fatores internos e externos que haviam tornado o jogo tão popular.
+
+Alguns designers também se perguntavam se poderiam aproveitar a onda para criar um jogo parecido, ou até melhor.
+
+Isso era especialmente importante para empresas como a Emperor Dynasty Entertainment e a Fantasy Gaming Platform, que tentavam tirar usuários da Thunderbolt. A chegada de League of Legends naquele momento decisivo fora um golpe mortal.
+
+As distribuidoras imaginavam uma disputa longa. Haviam planejado lançar seus jogos em maio ou junho, talvez até mais tarde. Porém, Chen Mo tomou a iniciativa e lançou League of Legends antes do Ano-Novo. Aproveitou o intervalo do feriado e uma divulgação em grande escala para elevar rapidamente sua popularidade.
+
+As concorrentes foram pegas de surpresa. Se mantivessem o plano de lançar seus jogos em maio ou junho, já seria tarde demais.
+
+Em pouco mais de dez dias, League of Legends havia conquistado tamanho sucesso. Quem poderia prever como estaria em três ou quatro meses?
+
+Até lá, talvez já tivesse devorado todo o mercado de PC.
+
+As empresas chegaram às seguintes possibilidades de resposta.
+
+A primeira era acelerar o desenvolvimento dos concorrentes e antecipar o lançamento.
+
+Mas essa proposta foi descartada rapidamente. Project: S e Three Realms eram jogos de grande porte, com versões interligadas para PC e realidade virtual. Havia muito trabalho, e os cronogramas já estavam apertados. Era impossível antecipá-los.
+
+Além disso, depois de analisar o modelo de League of Legends, muitos designers duvidavam que aqueles dois títulos fossem capazes de ameaçá-lo.
+
+Afinal, eram jogos de tiro e de interpretação de papéis de modelos tradicionais. O mercado já tinha produtos maduros desses gêneros. League of Legends, por outro lado, trazia um modelo novo. Era evidente qual chamaria mais atenção.
+
+Sempre se ouvia falar de gêneros novos substituindo os antigos. Quase nunca do caminho contrário.
+
+A segunda possibilidade era desenvolver algo parecido com League of Legends, seguindo a tendência ou fazendo uma imitação.
+
+Era claramente a melhor estratégia disponível, a menos que descobrissem um modelo de jogo ainda melhor. Só que tentavam fazer isso havia muito tempo. Não era algo que surgiria de uma hora para outra.
+
+Por isso, embora seguir a tendência e criar imitações parecesse pouco nobre, era a melhor escolha naquele momento.
+
+Além disso, uma cópia não estava necessariamente condenada ao fracasso. Havia muitos exemplos de imitações que superavam o original.
+
+Também existiam caminhos diferentes: lançar um jogo parecido no PC ou levar a ideia a outra plataforma.
+
+Em realidade virtual, certamente não daria. O investimento seria alto demais, assim como o risco. League of Legends havia conquistado tanta gente pelos requisitos baixos de hardware, pela facilidade de aprender e pela visão de cima do campo de batalha. Adaptá-lo para VR seria tão irrealista quanto fazer isso com um RTS como Warcraft.
+
+Sem uma visão geral, os jogadores não conseguiriam acompanhar o estado de toda a batalha. Cooperar também ficaria muito difícil. Somando a redução do público potencial, a diversão se perderia.
+
+Alguns sugeriram criar um jogo semelhante para celular. Parecia mais viável, mas ainda não havia uma decisão.
+
+O principal problema era que mudar a plataforma também mudava os hábitos de controle. Seria preciso pensar com cuidado em como evitar as armadilhas dessa adaptação.
+
+Por exemplo: como mirar habilidades num League of Legends de celular? Como dar os últimos golpes nos minions? Como consultar o minimapa? Enviar sinais aos companheiros? Determinar qual campeão o jogador queria atacar?
+
+Se fosse necessário tocar diretamente nos alvos para abater tropas, como impedir toques errados numa tela tão pequena? E, mesmo sem erros, quem aguentaria tocar centenas de vezes numa partida só para se mover e eliminar minions?
+
+Chen Mo já conhecia soluções claras para essas questões. Para os outros designers, porém, tudo era desconhecido. Mesmo que tentassem levar o gênero ao celular, primeiro precisariam de respostas razoáveis.
+
+Portanto, era uma possibilidade, mas inevitavelmente ficaria para depois.
+
+Após muita discussão, a escolha mais confiável era fazer primeiro um jogo para PC e conter o crescimento de League of Legends. Mesmo que não conquistassem toda a sua fatia do mercado, pelo menos poderiam aproveitar a tendência e entender melhor as características daquele gênero.
+
+Afinal, Chen Mo tinha todos os algoritmos e dados de League of Legends, essenciais para divulgar e aperfeiçoar o jogo. Sem os dados, seria difícil conhecer os gostos do público e impossível criar um verdadeiro fenômeno dominante.
+
+A Emperor Dynasty e a Fantasy realizaram algumas reuniões de emergência para definir a estratégia depois do Ano-Novo.
+
+Primeiro, a Emperor Dynasty pressionaria a GA a fazer mudanças em COG, que parecia ser o jogo em estágio mais avançado, para adaptá-lo melhor aos hábitos do público chinês e melhorar a baixa retenção.
+
+É claro que havia uma grande chance de a GA ignorar os pedidos. A Emperor Dynasty não poderia fazer muito. Afinal, era apenas a distribuidora.
+
+Segundo, desenvolveria um jogo novo, Cataclismo Ancestral. Usaria o relatório de Jin Jieguang como modelo para simplificar radicalmente a jogabilidade de League of Legends, na esperança de conquistar seus jogadores.
+
+Afinal, League of Legends era muito mais simples que COG, e o efeito fora imediato. Lin Chaoxu também esperava que uma versão ainda mais simples, Cataclismo Ancestral, conseguisse virar o jogo.
+
+Porém, a Emperor Dynasty não tinha tantos recursos. Para se dedicar plenamente ao novo projeto, deixaria *Project: S* de lado por enquanto.
+
+Como se tratava de um FPS, já era difícil produzir as versões para PC e VR ao mesmo tempo. Naquele momento, também não parecia ter competitividade suficiente. Só restava adiá-lo.
+
+Por outro lado, o desenvolvimento de Three Realms, da Zen Entertainment, continuaria.
+
+Na visão de Lin Chaoxu, COG era complexo demais. Depois de se acostumarem a League of Legends, os jogadores dificilmente se adaptariam a ele. Além disso, a GA colaborava pouco. Por isso, suas esperanças não eram grandes.
+
+Three Realms, por sua vez, era um MMORPG tradicional. Mesmo com inovações, não mudaria tanto. Diante do impacto de um jogo novo como League of Legends, também não havia muita esperança.
+
+Pelo que via, a versão simplificada de Cataclismo Ancestral era a aposta com mais chances de virar o jogo.

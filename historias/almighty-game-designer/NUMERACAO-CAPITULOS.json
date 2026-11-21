@@ -1897,7 +1897,147 @@
       "chapter": 315,
       "title": "Segurem eles, eu levo as torres",
       "file": "capitulos/315 - Segurem eles, eu levo as torres.txt"
+    },
+    {
+      "source": 316,
+      "chapter": 316,
+      "title": "Uma vitória no limite",
+      "file": "capitulos/316 - Uma vitória no limite.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 317,
+      "chapter": 317,
+      "title": "Um novo apelido e a chegada do Ano-Novo",
+      "file": "capitulos/317 - Um novo apelido e a chegada do Ano-Novo.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 318,
+      "chapter": 318,
+      "title": "Uma nova versão e uma abertura cinematográfica",
+      "file": "capitulos/318 - Uma nova versão e uma abertura cinematográfica.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 319,
+      "chapter": 319,
+      "title": "Os novos campeões e a alma das ranqueadas",
+      "file": "capitulos/319 - Os novos campeões e a alma das ranqueadas.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 320,
+      "chapter": 320,
+      "title": "Biscoitos e uma adversária surpreendente",
+      "file": "capitulos/320 - Biscoitos e uma adversária surpreendente.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 321,
+      "chapter": 321,
+      "title": "Observe e aprenda",
+      "file": "capitulos/321 - Observe e aprenda.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 322,
+      "chapter": 322,
+      "title": "O verdadeiro valor de Twisted Fate",
+      "file": "capitulos/322 - O verdadeiro valor de Twisted Fate.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 323,
+      "chapter": 323,
+      "title": "A aula do deus S",
+      "file": "capitulos/323 - A aula do deus S.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 324,
+      "chapter": 324,
+      "title": "Dez vitórias e Platina V",
+      "file": "capitulos/324 - Dez vitórias e Platina V.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 325,
+      "chapter": 325,
+      "title": "Os primeiros Desafiantes e a força dos jogos de PC",
+      "file": "capitulos/325 - Os primeiros Desafiantes e a força dos jogos de PC.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 326,
+      "chapter": 326,
+      "title": "As respostas dos concorrentes",
+      "file": "capitulos/326 - As respostas dos concorrentes.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 327,
+      "chapter": 327,
+      "title": "Um apelido popular e um novo cenário",
+      "file": "capitulos/327 - Um apelido popular e um novo cenário.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 328,
+      "chapter": 328,
+      "title": "Expansão internacional e um confronto holográfico",
+      "file": "capitulos/328 - Expansão internacional e um confronto holográfico.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 329,
+      "chapter": 329,
+      "title": "A emoção de assistir a uma competição",
+      "file": "capitulos/329 - A emoção de assistir a uma competição.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 330,
+      "chapter": 330,
+      "title": "Um anúncio de Primeiro de Abril",
+      "file": "capitulos/330 - Um anúncio de Primeiro de Abril.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 331,
+      "chapter": 331,
+      "title": "Um evento verdadeiro e um jogo estranho",
+      "file": "capitulos/331 - Um evento verdadeiro e um jogo estranho.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 332,
+      "chapter": 332,
+      "title": "De volta ao começo",
+      "file": "capitulos/332 - De volta ao começo.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 333,
+      "chapter": 333,
+      "title": "Um jogo para testar a calma",
+      "file": "capitulos/333 - Um jogo para testar a calma.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 334,
+      "chapter": 334,
+      "title": "Cinco estrelas de puro sofrimento",
+      "file": "capitulos/334 - Cinco estrelas de puro sofrimento.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 335,
+      "chapter": 335,
+      "title": "O verdadeiro prazer de assistir ao sofrimento",
+      "file": "capitulos/335 - O verdadeiro prazer de assistir ao sofrimento.txt",
+      "offlinePending": true
     }
   ],
-  "notes": "Leitor local com 315 capítulos consecutivos, 1–315. Lote 276–315 revisado e integrado; correção contextual do total da loja no 256 para mais de 300 milhões de yuans. Nenhum TXT pendente. Próximo envio e próxima revisão 316. Títulos provisórios preservados. Commit e push manuais."
+  "notes": "Leitor local com 315 capítulos consecutivos, 1–315. TXT 316–335 pendentes de revisão e integração por publique. Próximo envio 336; próxima revisão a partir do 316. Títulos provisórios preservados. Commit e push manuais."
 }

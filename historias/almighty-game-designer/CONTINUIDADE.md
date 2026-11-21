@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 20/11/2026: leitor offline até 315. Nenhum TXT pendente. Próximo envio e próxima revisão a partir do 316.
+Estado em 21/11/2026: leitor offline até 315. TXT 316–335 pendentes de revisão e publicação. Próximo envio 336; próxima revisão a partir do 316.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -3573,3 +3573,209 @@ Backup prévio50arquivos e sete hashes protegidos: backups/agd-publicar-revisar-
 
 
 Validação concluída: cinco verificações de sintaxe JavaScript (app, chapters das duas obras, books e catalog), node tests/reader.test.cjs e git diff --check aprovados. Suíte confere integralmente315TXT/títulos/marcações, catálogo, limites/navegação e retomada em DOM simulado e isolamento de progresso/preferências. Dos275objetos anteriores, somente256alterado conforme autorização; dos40TXTnovos,38preservados bytea byte e somente284/296revistos. Cinquenta backups SHA256 íntegros e sete arquivos protegidos idênticos (aplicação/Clube/catálogo). Sem commit,push,deploy ou alteração de dados pessoais do leitor. Não houve nova conferência visual no navegador.
+
+
+## Capítulo 316 — Uma vitória no limite — 21/11/2026
+
+Fonte: anexo ff090869-1c48-433e-81c3-bfb9828c71ee. Tradução integral; data editorial removida; título descritivo provisório. Continuação direta315: Chencontinua pressão separada e manda emboscar adversários; corte para diagnóstico Jin/Lin, retorno ao jogo0/7,LiVayne7/0/2,pressão em inibidor/Nexus e vitória. ChenZhao normalizado ChenMo. Preservado nenhum crítico com fúria/Infinito/Statikk/Sedenta por Sangue; não inventar quando comprou cada item entre cortes temporais. Contribution points normalizado pressão em rotas separadas pela estratégia descrita, não moeda/pontos adquiridos.
+
+Relatório: abandono primeira partidaPvP/intervalo para segunda, frase repetitiva second and first recuperada entre primeira e segunda em itálico. Some even quit game interpretado sair da partida em contraste abandono geral, sem punição ou desconexão inventada. Notaalta por veteranos, maioria silenciosa iniciante abandona; tutorialIAaté3 permite estimativa inicial LoL, não pareamento perfeito garantido. Jinpropõe copiar suposto plano secreto; Linhesita e só última cena autoriza novo jogo próprio, sem nome/projeto/equipe nova inventados.
+
+Crystal rota inferior traduzido inibidor, crystal core/hub final Nexus conforme função. Fonte não explicita golpefinal/destruição por minions nem frase de oitava morte: manter avanço à fonte+VICTORY+confirmação sistema, sem inventar animação ou responsável pelo último golpe. Objetivos passam19/100e1morte no315 para100azares/7mortes antes desfecho, sistema confirma todos concluídos/reversão. Placar0/8inferível de missão, não novo placar final detalhado/assistências inventadas. Transfer successful = reversão da sorte, não transferência dinheiro. Corte Giratório é E deTryndamere; KarthususaRéquiempósmorteconformepassiva302. Final completo na decisãoLin, sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–316 conferidos; leitor até 315 preservado. TXT 316 pendente; próximo envio 317. Backup de quatro registros SHA256: backups/agd-capitulo-316-20261121T103412176233Z/. Commit e push manuais.
+
+
+## Capítulo 317 — Um novo apelido e a chegada do Ano-Novo — 21/11/2026
+
+Fonte: anexo 71922361-d0a6-4198-a6e5-af6a9f92a03d. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao=ChenMo; Serent/thelent=Silent. Histórico confirmaTryndamere0/8pessoal; LiVaynefinal9/1/2MVPmaior dano versus7/0/2durante316, evolução compatível. Apelido vergonha de quemcarregagarotas preserva inversão humorística de ter sido carregado. Título inglês supergod contradiz uma morte final e é formulação embaralhada: traduzido virar estrela da partida, sem atribuir anúncio de sequência perfeita inexistente. Nenhum novo resultado de confronto inventado.
+
+AtivosDiaNamorados1,57milhão, não pico simultâneo; anterior311>1milhãoDAU/330milsimultâneos compatível. Sentença sat in five internet cafes significa grupos5emlanhouses, não cada pessoa em5estabelecimentos. MMO3métodos/rotinaversusMOBAimprevisível e afirmações sobrevício mantidascomoreflexõesnarrativas. LeeSin/Yasuo exemplificam vidaanterior, nãoanunciadoscomo jádisponíveis no elenco25. LarGrandesDesigners conforme284, não novo grupo. Planossemnovoslançamentos rivais é opinião do chat sobreferiado,não apaga testeCOG13/2.
+
+Avança16/2primeirodiaAnoNovo,Chen26anos,mãecobranamorada/neto. FonteusaXiaoLingsemexplicação e não bateChenMo: mantido nas duasocorrências em itálico com dúvida, não transformar em outro personagem ou supor apelido de infância confirmado. Mother when can I find partner recuperado você arrumar alguém pela frase neto, não mãe buscando parceiro. Final completo na ironia histórica, sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–317 conferidos; leitor até 315 preservado. TXT 316–317 pendentes; próximo envio 318. Backup de quatro registros SHA256: backups/agd-capitulo-317-20261121T103530986469Z/. Commit e push manuais.
+
+
+## Capítulo 318 — Uma nova versão e uma abertura cinematográfica — 21/11/2026
+
+Fonte: anexo c10ba2dc-e7dd-4a50-a6d2-ab5b5da495e7. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao normalizadoChenMo; XiaoLingmantidoem itálicoporapelidodafontenãoconfirmado317. Paisoperáriosvisitamacapital, antesChenvoltavacasa, estadaanoconformeescolha305. Pai cobra certidãopróximoFestival, nãocasamentojámarcado. Falas sobrebabá/hormôniosrestaurante preservadascomoopiniãomãe,nãoparecermédico; wasteoil traduzidoóleo reaproveitadoprocedênciaduvidosa. PaiIstillwork recuperado filhoaindatrabalhaconformecontexto, nãopaitransferidoparaestúdio.
+
+Ainda16/2primeirodiaAnoNovo. Manutenção08–12h=4h, termina12h, lançamentoversãonovaagoraconcluído. Nenhumclientelocalpelamanhãnão contradiz lanhousedeoutracidadecheiapóstarde. Grupode4amigossemnomes conheceMoonLord’sProphecy, normalizadomoonGodsprophecy, decideLoL; partidascomeçam1, nãoremovenívelconta. Umafaladiznovocampeão, nãoaltera5planejados310. MainlogothunderboltgamingnormalizadoThunderboltEntertainmentmarcaautor.
+
+Cinematicintegral:TwistedFate/cartacorvo/espantalhofoice; magoazulcompergaminho/grimório vspesadelo; Garenruivaadagas/Tryndamere/Annieurso/BarãoNashor,semacrescentarnomesausentesespantalho/mago/pesadelo/ruiva a partirconhecimentofora. MudançadeadversárioGarenpreservada,nãoinventarsumiçoruiva. Finalabruptoéfimvídeonarrado,nãofontecortada,nãoexigecomplemento. Sem omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–318 conferidos; leitor até 315 preservado. TXT 316–318 pendentes; próximo envio 319. Backup de quatro registros SHA256: backups/agd-capitulo-318-20261121T103659510280Z/. Commit e push manuais.
+
+
+## Capítulo 319 — Os novos campeões e a alma das ranqueadas — 21/11/2026
+
+Fonte: anexo 7b5cf3a7-4182-406c-b452-63ab5ac56907. Tradução integral; data editorial removida; título descritivo provisório. Cinemática4min A Twist of Fate traduzida descritivamente Uma Reviravolta do Destino, comparaçãoBlizzard/Azeroth/Valoran preservada como narrativa. Identificados cinco novos:Ryze/Fiddlesticks/Katarina/Sivir/Janna,25+5=30. Apelido lunhuis mother deSivir obscuro recuperado Mãe do Bumerangue em itálico, pendente fonteclara. RyzeMagoErrante refletetítulofonte; FiddlesticksArautoDesgraça/Espantalho; windlady=Janna; eternalNightmareMorten/incubus=Nocturne,aindafora,planejadopróxima. Nãoadicionaroutrocampeão alémcinco. Ryzetopo/meio,escasseztoponãoalteracontagem; parênteseGogoing3–0S4fechado,mantidaalegaçãodaobra semchecagemhistóricaexterna.
+
+Ryze/Katarinausamreformulações,históriavidaanterior não patch atual; modoslivresversõesantigasapenasideia. Rankedabertoem16/2,30campeões; dezbansrejeitado,seisadotado3porlado,azulprimeiro,roxooutro. Picksnãorepetidos. King→Desafianteconforme282. Rankingcompetition na enumeração de mecanismos interpretadosériesdepromoção em itálico, distintos demodorankeado, pendente confirmação; small/large divisions=divisões/elos. Comentáriopúblico não dávaloresdePD/quantidadedepartidas decolocação. Trêsmilpontos exemplo abstrato, nãonovoplacarChen. Final completo no entusiasmoDesafiante, sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–319 conferidos; leitor até 315 preservado. TXT 316–319 pendentes; próximo envio 320. Backup de quatro registros SHA256: backups/agd-capitulo-319-20261121T103823300067Z/. Commit e push manuais.
+
+
+## Capítulo 320 — Biscoitos e uma adversária surpreendente — 21/11/2026
+
+Fonte: anexo d926e62e-0b02-4ab6-bbcd-f63835d99c4c. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao=ChenMo; Carter=Katarina; motherLunzi=Sivir; windlady=Janna. PatrulheiraSombria original/PatrulheiraSombrasrenomeada conforme309, não dois heróis novos. ExpansãoLoL/declínioCOGnarrados,nãoencerramentooficialCOG. Cinco campeões mencionados coletivamente e quatroexemplos, não excluir Fiddlesticks. Manualemoji vertidocoloqueaquiemoji como texto comentário, semintroduziremojiespecíficoausente.
+
+Ainda16/2àtarde. LiJingsimoranaCapital,visitalojalevabiscoitosbaunilha/chocolate/matcha, pedeWarcraft. Chencome/exageraemnãooferecerfuncionários, brincadeirapreservada. Fontepraisehim corrigidoparaelogiodela. Trêsduelos:Chenraçaaleatória,Lielfosnoturnos,Chenvence3,segundacontraorcsCiclonesquaseperde. Igualdadeemnível/lutasdisputadas nãoempateemresultado. >300APM éestimativapelosom, não medição comprovada ou atributosdeChen. LiThrone alcançouprimeirolugardia7mêsanterior(agora16/2), não7diasatrás;semacrescentardataabsolutaaoTXT. NomeThrone mantido, explicaçãohomofonia conforme personagem, seminventartermochinêsoutraduçãoTrono em conta.
+
+PerguntaChen sobreWarcraft repetida apesarconversa317 preservada como fonte; nãoinseriramnésiaoureescrevereventos. FinalconviteLoL,nenhumarespostanovainventada. Final completo, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–320 conferidos; leitor até 315 preservado. TXT 316–320 pendentes; próximo envio 321. Backup de quatro registros SHA256: backups/agd-capitulo-320-20261121T103947924955Z/. Commit e push manuais.
+
+
+## Capítulo 321 — Observe e aprenda — 21/11/2026
+
+Fonte: anexo 00e1b874-7fa0-47d8-930c-38bccc270326. Tradução integral; data editorial removida; título descritivo provisório. Fish-catching normalizado Moyu (plataforma confirmada165), sala10013, nicknamecanalMister preservado distintoIDjogoSilent; não forçar igualdade de nomes que relatoafirma genericamente. ChenZhao=ChenMo; lucky sister=MissFortune,eich=Ashe,ratty=Twitch,icePhoenix=Anivia,Catarina=Katarina,paddy=Fiddlesticks,LunTaimother=Sivir,windlady=Janna. Reclamaçõesforçareal/avaliaçãoerrada iniciantes, não nerfs declarados. FontecitaAnnieKassadinenumeraçãomasdiz3magos; três magos mantidoem itálico com lacuna. Karthuséterceironas5opções283,masnãoinserirdescriçãoausente nementenderque elencoagoratemapenas4mid. Frase superghost=morriamuito, nãopoder sobrenatural deKassadin.
+
+Chenabretransmissãoparaexibirhabilidade/ensinar, semcâmera,micoucomentáriosligados; não responderchatnarrado. Liquerjogarproficiênciainsuficiente, Chenconfiguraviaadmin ambascontastodoscampeõesMestre, não GrãoMestre nematributosdecombatenovos. Filaduo rankedcomeçando, sempartidajáiniciada/picksinventados. Canal~200milseguidores/240milespectadores10min viaWeibo, métricasdiferentes nãoerro. Cronologia2,5anosWarcraft/2anosOnmyoji mantidacomoaproximaçãonarrador, sem datar ano real. Thronechatpensamoleque contrastaLijárevelada320. Final completo em intenção de mostrar jogadas, sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–321 conferidos; leitor até 315 preservado. TXT 316–321 pendentes; próximo envio 322. Backup de quatro registros SHA256: backups/agd-capitulo-321-20261121T104113389490Z/. Commit e push manuais.
+
+
+## Capítulo 322 — O verdadeiro valor de Twisted Fate — 21/11/2026
+
+Fonte: anexo 2545b390-71e2-44f2-87cd-6ee047dc0199. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao normalizado ChenMo; fist=Riot; lava/stone=Malphite; icePhoenixausentenãoinventar. LiVayneprimeirasposiçõesseleção,ChenTwistedFatedepoisAnnieinimiga. Teammatesnãoacreditamidentidade, citamGoph/vídeosAlistarTryndamere. Fifthallynãoidentificadonofonte,nãocriarcampeão. Annieagressiva,padrãodistância/últimosgolpes38contra28implícito:TXTmantém38/10avantagemsemadicionarnúmero28. Nível6Destino/ajudaMalphiteabateGaren,segundaRajudaLiabateMissFortune,terceiraRmataAmumu. PrimeiroabateChen,depoisassistência/nãoinverter. Semplacargeralinventado.
+
+Menos20min3itensPerdiçãoLich/CetroAbissal/AmpulhetaZhonya,nomesnormalizadosa partirLich/abyss/Zhongyasandbag; nãopreços/atributosnovos. Trata-seLoLficcionalnãopatchatual. Carryeducativo baseleiturajogo,nãoincapacidade mecânicadeChen. 666elogiochatpreservado. FinalRatrás5adversários,companhiaavança;nenhumresultadolutaainda. Expressão youre a big head semsentidolite ralvertida Ajudarumaova em itálico como xingamentoprovisóriopelocontexto,pendente fonteclara. Finale nãosalto/corte: continua próxima partida, semcomplementoeditorial.
+
+UTF-8, par de itálicos e sequência 1–322 conferidos; leitor até 315 preservado. TXT 316–322 pendentes; próximo envio 323. Backup de quatro registros SHA256: backups/agd-capitulo-322-20261121T104235507197Z/. Commit e push manuais.
+
+
+## Capítulo 323 — A aula do deus S — 21/11/2026
+
+Fonte: anexo 741f4378-8412-45f2-b041-3a041c7724d4. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao=ChenMo; serente=Silent; fishcatching=Moyu; IcePhoenix/icebird=Anivia. Luta322continua:Amumusuprema,TFchegacommoldedouradoZhonya2,5segimune/nãoalvejável,Fantasma+cartasdepois,TRIPLEKILL/wipe5/base/vitória. Nãoatribuir5abatesaoChen,nãoinserirmecânicarealdepatchouacionamentoforadotempo narrado. UniversalCards normalizadoQ Coringas; mummyspell MaldiçãodaMúmiaTriste. Danoaltofragilidade brickskin normalizado campeãofrágil, nãomodelopedraMalphite. Oitopedidosamizaderecusados,nãonoveouaceitos.
+
+Fimsegundaranqueada público>500mil,partidasegundanãodescritanãopreenchercomcampeãoresultado. TerceiraAniviaconfirmada,semresultadoainda. Comentárioscâncercolega/homicídiometafórico sãochatficcionalpreservado,nãoafirmaçãopaciente ou ameaçaexterna. Streamsemcâmera/micsemcontratooficialMoyu,recebepresentes,alegaçãonúmerosnãofalsospercepçãonarrativa,nãovalidaçãoexterna. NovoZhangYu chefeMoyu emcasa recebealerta, não contratação ou decisão jáfeita. QuasedoisanosdesdeSSR mantidocomoaproximação321. Final completo na surpresa deZhang, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–323 conferidos; leitor até 315 preservado. TXT 316–323 pendentes; próximo envio 324. Backup de quatro registros SHA256: backups/agd-capitulo-323-20261121T104430281199Z/. Commit e push manuais.
+
+
+## Capítulo 324 — Dez vitórias e Platina V — 21/11/2026
+
+Fonte: anexo 1a36d4b4-a5e8-49e5-a5d0-7f3fb1b356e6. Tradução integral; data editorial removida; título descritivo provisório. Fishcatching=Moyu; ChenZhao=ChenMo; Icebird=Anivia; Silentant=Silent. ZhangYuabreapp670milespectadores/topoplataforma, equipeconfirmanúmerosnãofalsos; elemandaagoradestacar/notificar. Mençãomilhões vemcomentárioapósdestaque, nãosubstituir670milpor6,7milhõesnemconfundirseguidores200mil321. Firstbroadcastcomentáriopreservado,nãoprimeiratransmissãoabsoluta poisOnmyojiprévia. Semcontratofechado ou valoresnovos.
+
+Anivia5/0/2durantepartida, não resultadofinal. ParedeQ/E/R+E com buffazul; frasecorrompida REkill...secondicicle recuperadacomo comboR+Eelimina com lança de gelo, não doisabatescontraamesmapessoa. PapéisAniviafeminina mantidos. Públicoquestionahack/ameaçacômica são falasficcionais,nãodenúnciareal. LiVayne>=6abatessegundocommentários,Thr onereconhecido por público eassociadohistórico9/1; não revelaçãofeitaporChenemmicrofone(câmera/micaindadesligados).
+
+Segueaté19h,dezvitóriasnasdezpartidasdeCOLOCAÇÃO→PlatinaVambos. Rankingcompetition nofecho significa colocação, nãofimdasranqueadasnemsubidapromocionalnovatapor10partidasaleatórias. Durações<=30min,horáriosnarrativospreservados, nãoinferirhoraexatainicial. Chenencerrastream;Limãeexigindo jantarduasvezes, pedepróximajogada. Semnovo relacionamentooficialouconviteaceitonarrado. Final completo, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–324 conferidos; leitor até 315 preservado. TXT 316–324 pendentes; próximo envio 325. Backup de quatro registros SHA256: backups/agd-capitulo-324-20261121T104609920707Z/. Commit e push manuais.
+
+
+## Capítulo 325 — Os primeiros Desafiantes e a força dos jogos de PC — 21/11/2026
+
+Fonte: anexo 38f3f6ff-2072-47ac-b320-6bbf61133075. Tradução integral; data editorial removida; título descritivo provisório. Do segundo ao sexto diaAnoNovo são5dias17–21/2 após16/2, não2–6fevereiro. Dupla partePlatinaV324,>10vitórias/dia,todasganhas,chega primeiraduplaDesafiante nacionalnoite6ºdia. Não somar númeroexatodepartidas ausente nemexplicitar saldoPD. OthersDiamante,Mestreintermediário→Desafiante. Sistemaavalia desempenho/ajusta adversários/bonificapontos,não aleatoriedadepreservandotodos50%literal. Stream2,09milhõesPICOespectadores é distinto doLoL>2milhõesativosDIÁRIOS21–22/2 e retenção>70%semjanela especificadaaqui; não inventar taxaD7mensal.
+
+Fishcatching=Moyu,Carter=Katarina,cardsharp=TwistedFate,Phoenix=Anivia. GragasEFlash/RjoganoQ, combosRyze/teleporteseescapadas, Katarinacomentam2pentakills,AlistarcomVayne. Características técnicas não tutorialdepatchreal. GoldenCicadashedding vertida escapada, semitem/invulnerabilid adenovos. Criadoresdeconteúdo passamcomentarvídeossemnarraçãodoChen; eleparastreamapósobjetivo, nãocontratocomMoyu/abandonaLoL. Demanda1horadiária fãs,nãoagendaaceita.
+
+Pósferiadoreuniões, análisesedesenvolturasmercado. FrasefontePCsuprimidobymobileandcasualgames recuperadadisputacelularporcasuais/VRporaventuraejogospesados, nãocategoriaPCsuprimidaporoutracategoria semplataforma. Afirmaçõesmercadogrowth/retentionconservadascomo avaliação narrativa,não consultoriaexterna. Final completo no reconhecimento novo gênero, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–325 conferidos; leitor até 315 preservado. TXT 316–325 pendentes; próximo envio 326. Backup de quatro registros SHA256: backups/agd-capitulo-325-20261121T104743770760Z/. Commit e push manuais.
+
+
+## Capítulo 326 — As respostas dos concorrentes — 21/11/2026
+
+Fonte: anexo e8391e77-70fd-4af1-b445-c907188ba771. Tradução integral; data editorial removida; título descritivo provisório. Empresasplanejavam maio/junhooumais, LoLlançadoantesferiadocresce~dezena dias; não inverterdatasantes/depoisAnoNovo. Project:S/ThreeRealmsgrandesPCVR nãopodemantecipar; não novo lançamento jáefetuado. AnáliseVR/modelosantigos/substituiçãogêner os éperspectivanarrador/empresas, semgeneralizaçãotécnicaprópria. Mountain villages/counterfeits/pirated significamimitações,jogosseguindo tendência,nãovilas/pirataria dearquivos. Mobilecontrolslasthit/mira/minimapa/sinais/alvointerpretadosconsistentemente,semprojetomóvelaprovadoaqui.
+
+Planodefinitivo:pressionarGAporajustesCOG, semautoridadecontratualdesign; criarAncientCatastrophe→CataclismoAncestral, novo título traduzidodescritivamente, seguindoJin/planoenganosoChen. Emperorrecursoslimitados,suspendeProject:S;fontecorta fraseapós In order to fully develop the new game e retoma thiswasanFPS...putaside. ReferenteProject:Srecuperadoem itálico porcontextoprévio290/326,sem inventar outrojogocancelado. Nãofontefinaltruncada,nemcancelamentopermanent e:deixadoladoporenquanto. ThreeRealmsZencontinua,fundingFantasycontextoanteriorpreservado,nãoprojetoEmperorrenomeado. Final completo na preferênciaLinCataclismoAncestral, semomissãooucomplementodefinal.
+
+UTF-8, par de itálicos e sequência 1–326 conferidos; leitor até 315 preservado. TXT 316–326 pendentes; próximo envio 327. Backup de quatro registros SHA256: backups/agd-capitulo-326-20261121T140459130424Z/. Commit e push manuais.
+
+
+## Capítulo 327 — Um apelido popular e um novo cenário — 21/11/2026
+
+Fonte: anexo 0ffa48d6-25c3-46c0-9228-5e69a3c13753. Tradução integral; data editorial removida; título descritivo provisório. Clive Ramon/Larman normalizado Clive Raman. Ele agradece, defende complexidade e só considera ajustar dificuldade de alguns heróis; não confirma reformulação já executada. Lin mantém COG complexo e Cataclismo Ancestral simples como apostas paralelas; release both at same time traduzido colocar ambos no mercado, sem fixar lançamento simultâneo na mesma data (COG já em teste).
+
+Trecho de apelidos chineses está bastante corrompido na fonte. British Alliance mantido como Aliança Inglesa em itálico. Shua! Shua!/harmonious English reincarnation interpretado Lu a Lu, apelido sonoro de LoL, em itálico como reconstrução incerta; não confirmado por fonte chinesa. Frase repetida play two games or play two games recuperada como formas curtas com sigla/apelido, sem inventar equivalência portuguesa para trocadilho. Kun altar quick news recebeu título descritivo provisório Boletim do Fórum de LoL em itálico nas primeiras referências; Weekly God Show = Jogadas Divinas da Semana; LOL scammers = Coleção de Mancadas, não fraude financeira. Manter dúvida para fonte mais clara.
+
+Três ou quatro streamers com milhões de espectadores, não três/quatro milhões de usuários novos. Diamante/Desafiante conforme termos anteriores. Valores de contratos sobem, nenhum contrato de Chen fechado nem retorno dele à transmissão. Nova atualização de conteúdo e versão internacional em desenvolvimento; sem lançamento externo concluído ou data anunciada. Alegações sobre competitividade de jogos casuais refletem personagem/narrador, não parecer externo. Final completo sobre retenção e conteúdo novo, sem corte, omissão ou complemento editorial.
+
+UTF-8, quatro pares de itálicos e sequência 1–327 conferidos; leitor até 315 preservado. TXT 316–327 pendentes; próximo envio 328. Backup de quatro registros SHA256: backups/agd-capitulo-327-20261121T140627947658Z/. Commit e push manuais.
+
+
+## Capítulo 328 — Expansão internacional e um confronto holográfico — 21/11/2026
+
+Fonte: anexo d9ad7b30-f3f4-469c-98bf-9dc8ad8a79b8. Tradução integral; data editorial removida; título descritivo provisório. Fist normalizado Riot; meteorite technology normalizado Meteorite Technology, parceira internacional anterior. Retrospecto do mundo anterior: beta2009/22,1–2campeões por duas semanas/seis meses,87ao fimS1/fimnovembro/emdoisanos. Fonte mistura continuidade de ritmo com every two to one months: mantido um ou dois meses em itálico, não corrigir para semanas sem original claro. Alegações históricas/Overwatch6meses são narrativa fornecida, não pesquisa externa. Plano Chen acelera elenco até~100; não 100 já disponíveis (30 atuais).
+
+Versão multilíngue previsão mais cedo fimabril, não lançamento garantido agora. Latência10ms global impossível mesmo universo; servidores por região. América/Europa/Coreia prioridades, não todas regiões finalizadas nem promessa física real de latência. Análise de ligas/vantagem de ocultar nível preservada, não torneio já realizado. Tradução inglesa even at night recuperada mesmo lançado depois em contexto ordem de entrada.
+
+LojaPCdominadoLoL; grito demoness mantido feiticeira genérica, sem adicionar LeBlanc ao elenco. Vagabond normalizado Mago Errante/Ryze. Holografia segundo andar/salas5PC por lado coerentes257; dez selecionados mínimoDiamanteV, BO3duasvitórias,5miniaturasKatarina/5chapéusTeemo. Fonte azul/vermelho aqui mantida sem impor roxo da seleção319. Prêmios para vencedores/derrotados, não sorteio geral. Partidas ainda não começaram nem resultado inventado. Final completo no anúncio dos prêmios, sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–328 conferidos; leitor até 315 preservado. TXT 316–328 pendentes; próximo envio 329. Backup de quatro registros SHA256: backups/agd-capitulo-328-20261121T140808991612Z/. Commit e push manuais.
+
+
+## Capítulo 329 — A emoção de assistir a uma competição — 21/11/2026
+
+Fonte: anexo c01ee299-c10e-4e17-a25e-1003fdf0c25a. Tradução integral; data editorial removida; título descritivo provisório. Chen controla câmera de espectador e comenta. Weapon Master=Jax; clown=Shaco; lava beast=Malphite; Catarina=Katarina. Azul Malphite/Gragas/TF/Vayne/Lulu, roxo Jax/Shaco/Kassadin/Ezreal/Blitzcrank. Não atribuir Chen/Li aos dez competidores escolhidos328. Sem abates na invasão inicial, desenvolvimento de rotas descrito sem resultado extra inventado.
+
+Três projetores: central mapa inteiro; dois menores câmeras que seguem jogadores de cada lado e alternam protagonistas. First-person perspective vertido visão dos jogadores, não câmera FPS dentro do campeão, pois descrição explícita é herói central/câmera que acompanha. LED câmera de espectador em paralelo, live-streamed aqui exibição local simultânea, sem inventar nova transmissão Moyu. Ângulo45graus/3D preservado. Fonte retorna azul/roxo (328 dizia azul/vermelho), mantido contexto do seletor sem renomear tudo.
+
+BO3 termina após três jogos e intervalos em três horas; vitória azul, cinco miniaturas Katarina/cinco chapéus Teemo. Não acrescentar placares de cada jogo. Dragão roubado conforme relato de jogador, sem substituir por Barão ausente. Recepcionista segundo andar organiza inscrição/seleção/confrontos; interessados formam equipes, seleção seg–sex e horários fixos de fim de semana. Comentadores a treinar, evento informal, sem novo campeonato profissional já estabelecido. Trata-se de agenda ficcional, não automação real solicitada. Final completo na participação dos clientes, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–329 conferidos; leitor até 315 preservado. TXT 316–329 pendentes; próximo envio 330. Backup de quatro registros SHA256: backups/agd-capitulo-329-20261121T140934952966Z/. Commit e push manuais.
+
+
+## Capítulo 330 — Um anúncio de Primeiro de Abril — 21/11/2026
+
+Fonte: anexo bffb6c20-6850-46ca-8ff1-c549caa87417. Tradução integral; data editorial removida; título descritivo provisório. Retorno quarto andar e planejamento e-sports; liga oficial adiada até expansão internacional/elenco, eventos locais primeiro. Cena planejamento→março→1/4apósmeianoite. Atualização16/2a1/4~1,5mês arredondado mantido. Próximos cinco: Irelia/LeeSin/Orianna/Draven/Leona, elenco30+5normal; nomes Arelia/carter etc normalizados. Vontade das Lâminas/Deusa do Amanhecer traduzem títulos da fonte; Japanese no apelido de Leona é corrupção de Garota do Sol, não nacionalidade japonesa. Wild humor/nerfs/lacaioHearthstone10/10 preservados sem jogoThunderboltjáanunciado.
+
+CataclismoAncestral usa sistemasCOGsimplificados, temaancestralchinês, possíveis romancesparceiros (não contratojáassinado). Aprimoramentorivais não afirmar jogo jádisponível. Weibo96,43%classificaçãoescolar/lençovermelho é brincadeiraFirstApril, não dadosreais coletados; trintaecincocampeões=4diferentes+31Draven é piada deliberada, NÃO erro numérico a corrigir. Relato anterior cinco reais e ilustrações2–6=5 compatíveis. Totaloitoimagens:1lenço/5campeões/1skin/1jogonovo. Skin Drade drade Draven normalizada Draven Draven em itálico como título incerto; não três skins novas.
+
+Excavate/Excavating for Ascension → Cavando para a Ascensão, título descritivo provisório do minijogo homemcaldeirão; não inserir Getting Over It como nome oficial ausente. ComparaçãoPUBG preservada, trocadilho do título chinês não recriado artificialmente em português. Afirmação cura/acolhimento é promessa sarcástica da publicação, não avaliação nossa nem adaptação psicológica real. Final completo em comentário sobre pernas/cal dearão, sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–330 conferidos; leitor até 315 preservado. TXT 316–330 pendentes; próximo envio 331. Backup de quatro registros SHA256: backups/agd-capitulo-330-20261121T141111028629Z/. Commit e push manuais.
+
+
+## Capítulo 331 — Um evento verdadeiro e um jogo estranho — 21/11/2026
+
+Fonte: anexo 0ddfb8c8-88e6-4034-8363-e67df82a8f22. Tradução integral; data editorial removida; título descritivo provisório. Summoners Canyon = Summoner’s Rift; delai Alliance = Liga do Draven; fishcatching = Moyu; Xue Lin/Lin Xue normalizado Lin Xue, sempre feminina, distinta de Lin Xiao. Vídeo descreve ataque e movimentação, não habilidade A nova. Evento Todo Mundo Ama Draven1–3/4, cabeças em campeões/monstros/minions; ranqueadas sem alteração conforme comentários. Cinconovos/30antigos/35doanúncio confirmam piada330, não35personagensinéditos. Lenço vermelho identificado como falso.
+
+Skin golden streamer interpretada Draven Comentarista de Ouro em itálico, título descritivo incerto; não assumir nome oficial nem confundir com evento de transmitir ao vivo. Fonte mid-laner with a single demonic spirit interpretada Orianna no meio, nova campeã de319/330 e referência clockwork spirit, sem acrescentar campeão não lançado. Lin baixa Cavando para a Ascensão grátis/semcompras: questiona lucro, não balanço real revelado. Local shop na frase velocidade de rede é pouco claro; mantida conexão de Lin sem inventar estabelecimento próprio. Instalador centenasMB sem número exato.
+
+Jogo apresenta menu3opções, vento/montanha/martelo, homemcareca/cal deirão/martelo e controlespormouse semtutorial. Caldeirão coerente330, não personagem sem pernas confirmado. Comparação de som entre títulos chineses e PUBG explicitada sem forçar trocadilho português; martelo/brincar mantém estranhamento sem frase obscena nova. Final completo na dúvidaLin, sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–331 conferidos; leitor até 315 preservado. TXT 316–331 pendentes; próximo envio 332. Backup de quatro registros SHA256: backups/agd-capitulo-331-20261121T141238200752Z/. Commit e push manuais.
+
+
+## Capítulo 332 — De volta ao começo — 21/11/2026
+
+Fonte: anexo 1bf043db-e8f5-4f0a-93e3-1aec6d5a90c4. Tradução integral; data editorial removida; título descritivo provisório. Xue Lin/Lin Xue normalizado Lin Xue, sempre feminina. Continua Cavando para a Ascensão: entende mouse/martelo, sofre na árvore, passa, atravessa elevação até vale, bate telhado/cai, repete/supera casa, erra salto tubo duas vezes (primeira salva na pedra, segunda cai ao fundo). Não declarar retorno ao ponto inicial absoluto da montanha: fundo do vale é ponto descrito. Personagem homem/martelo/cal deirão preservado, não jogoVR nem comandos WASD adicionados.
+
+Explicação física é lógica ficcional/hipérbole; piada tampa do caixão Newton e flags/Ópera Pequim mantidas em português. Oito movimentos é comparação do narrador, não solução em exatamente8cliques. Salto2–3m e duas tentativas tubo preservados. Chatvêjogador jájogou eantecipa sofrimento, sem revelar fase futura. Música Come Home Often vertida Volte sempre para casa, trecho fornecido mantido; não identificar cantor/título oficial ausentes. Narração final guarda progresso conforme promessa no jogo, não garantia sobre salvamento do site. Final completo no monólogo reconfortante irônico, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–332 conferidos; leitor até 315 preservado. TXT 316–332 pendentes; próximo envio 333. Backup de quatro registros SHA256: backups/agd-capitulo-332-20261121T141359840821Z/. Commit e push manuais.
+
+
+## Capítulo 333 — Um jogo para testar a calma — 21/11/2026
+
+Fonte: anexo 745d4c47-67ec-42a8-beab-5e6aea09c74d. Tradução integral; data editorial removida; título descritivo provisório. Xue Lin normalizada Lin Xue, feminina. Continua tentativa por orgulho e diversão do público; em 1–2h jogo se espalha entre transmissões, sem número de downloads inventado. Cinco exemplos anônimos de streamers: técnico, bons modos irônico, racional, em colapso, perdeu o juízo. Não atribuir falas a pessoas reais nem diagnósticos. Ameaças de matar autor são falas ficcionais de frustração, preservadas sem ação externa.
+
+Repetições mantidas: enganchar×5, chinelo×3, pausa10seg, sequência Motherf! Cker! da fonte com 20 ocorrências traduzida com o mesmo número de Filho da puta. PV100 da mesa preservado sem inventar dano negativo não escrito. Rubricas de batidas/cigarro/expressão vazia e gritos mantidas. Deathflag/Ópera de Pequim retomam brincadeira de bandeiras; não morte real de streamer. Golden calm fragments preservam fala entrecortada. Letra final sobre família/voltar para casa traduzida do anexo, sem atribuir cantor ou verso externo novo. Final completo na cantoria, sem corte, omissão ou complemento editorial.
+
+UTF-8, ausência de marcador temporário e sequência 1–333 conferidos; leitor até 315 preservado. TXT 316–333 pendentes; próximo envio 334. Backup de quatro registros SHA256: backups/agd-capitulo-333-20261121T141529009116Z/. Commit e push manuais.
+
+
+## Capítulo 334 — Cinco estrelas de puro sofrimento — 21/11/2026
+
+Fonte: anexo 143bc5bb-b1cc-4f0d-99c9-dc03e67038e4. Tradução integral; data editorial removida; título descritivo provisório. Continua montagem333 com cinco perfis: desavisado, culpa mouse, metódico salvar/carregar, comandante conversa com personagem, filósofo. S/L traduzido salvar e carregar; ausência de botão manual não significa perda do progresso automático prometido332. WeaponMaster=Jax; CounterStorm=Contra-Ataque. N solto no fim de gritos removido como resíduo de formatação, sem frase narrativa perdida. Hipérboles de loucura e xingamentos são falas ficcionais, não diagnóstico real.
+
+Notas1/5estrelas polarizadas e média6,1 preservadas: média está em escala10da plataforma, não afirmar erro de máximo5 nem corrigirpara3,05. C-type traduzido polarização descrita, sem atribuir formato gráfico inexato. Controlecorporal/voz são sarcasmo dos avaliadores (corposgritam), não recursos reais novos. No in-game content interpretado compras internas em itálico por ser jogo gratuito sem monetização331; não afirmar jogo sem conteúdo. Três teclados/mouses e sétimo dia de luto são piada de review, não exigem passagem temporal de sete dias desde1/4. Cincoestrelas não implica crítica genuína favorável.
+
+DesfechoChen filosofa e admite estar inventando; preservada ironia sem apresentar leitura filosófica como explicação oficial confirmada. Final completo na desistência de inventar, sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–334 conferidos; leitor até 315 preservado. TXT 316–334 pendentes; próximo envio 335. Backup de quatro registros SHA256: backups/agd-capitulo-334-20261121T141701396433Z/. Commit e push manuais.
+
+
+## Capítulo 335 — O verdadeiro prazer de assistir ao sofrimento — 21/11/2026
+
+Fonte: anexo 93a42d2d-7314-4d9e-8f3a-60c0e691f224. Tradução integral; data editorial removida; título descritivo provisório. Chen Zhao normalizado Chen Mo. Jogo vira fenômeno por vídeos e recomendação dos espectadores; boicote e ameaças irônicas de fãs fazem parte da ficção, sem ação externa. Brecha para salvar descrita sem tutorial técnico; distingue salvamento manual explorado/autossave normal e desafio de recomeçar. Não eliminar frase por conflito aparente com ausência botão334.
+
+Texto da imprensa reproduzido integralmente: convenções de jogos/garantias/fracasso, montanha nevada/cobra/placa, cosplay, lixo moderno, milHamlets. É interpretação do editor, não explicação confirmada do autor; resposta curta de Chen desmonta leitura. Oito mil aprovações do texto e ultrapassagem pela resposta de dois parágrafos, sem novo número de votos inventado. Frase de título repetido mantém 9 ocorrências de Descer conforme get down da fonte.
+
+Downloads >2milhões SOMENTE1/4, não dois milhões ativos diários, receita ou jogadores únicos garantidos. Sem campanha paga mas com Weibo e circulação espontânea, coerente330–331; não apagar divulgação própria anterior. No way to play entendido pouca variedade de mecânicas, não jogo impossível de jogar. ClasseB capacidade hipotética de produção, não classe atual deChen. Final completo na surpresa numérica, sem corte, omissão ou complemento editorial.
+
+UTF-8, ausência de marcador temporário e sequência 1–335 conferidos; leitor até 315 preservado. TXT 316–335 pendentes; próximo envio 336. Backup de quatro registros SHA256: backups/agd-capitulo-335-20261121T141828541879Z/. Commit e push manuais.
