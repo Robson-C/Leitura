@@ -1,0 +1,105 @@
+Capítulo 345 — Tudo é bom, mas não é divertido
+
+Depois de refletir bastante, Lin Chaoxu decidiu manter a decisão.
+
+Na indústria dos jogos, uma das primeiras lições para um designer era não mudar sua concepção apenas porque alguns jogadores estavam insatisfeitos.
+
+(É claro que isso também se aplicava a outras atividades criativas.)
+
+Na maioria dos jogos, era normal quem não gostava reclamar. Porém, havia muitos outros jogando satisfeitos, e esses não reclamavam.
+
+Dar atenção apenas às reclamações criaria um viés de sobrevivência. Fazer mudanças com base nisso poderia destruir a proposta e as características já estabelecidas, além de desagradar a quem não tinha objeções. O prejuízo seria ainda maior.
+
+Lin Chaoxu conhecia bem aquela lógica. Pela situação atual, Cataclismo Ancestral estava longe de precisar de uma intervenção drástica. Os números ainda subiam, apenas com menos velocidade.
+
+Além disso, atender aos jogadores mais habilidosos contrariava a proposta. O jogo fora feito para conquistar os de nível baixo e intermediário. Se os melhores não gostavam, não havia muito o que fazer.
+
+Afinal, a boa recepção vinha justamente das diferenças em relação a League of Legends. Se mudassem tudo para ficar igual, qual seria sua vantagem competitiva?
+
+Depois de pensar bastante, Lin Chaoxu disse:
+
+— Não vamos alterar a jogabilidade por enquanto. Façam mais algumas ações para movimentar o público e elevar os números e a popularidade. Continuem acompanhando o problema. Qualquer novidade, me avisem.
+
+Jin Jieguang assentiu. Pensava da mesma forma. Era realmente o caminho mais seguro.
+
+No fim de junho, os indicadores de Cataclismo Ancestral começaram a despencar.
+
+Foi tão repentino que, em pouco mais de dez dias, os usuários ativos diários e o tempo de jogo caíram fortemente. Até quem estava jogando percebia a perda de público.
+
+No fórum oficial, muitos discutiam o assunto.
+
+“Por que sinto que tem menos gente? Antes, achava partida rapidinho. Agora, às vezes leva um minuto, e ainda aparecem especialistas claramente acima do nível médio.”
+
+“Também vejo cada vez menos pessoas online na lista. Uns bons amigos que entravam sempre estão sumidos há dias.”
+
+“Mesma coisa. Meu amigo entrou pela última vez há cinco dias.”
+
+“O grupo de Cataclismo Ancestral nem fala mais do jogo. Só discutem jogos de celular e League of Legends.”
+
+“Será porque ainda está em testes e não saiu oficialmente? Deve fazer sucesso depois do lançamento. A qualidade é tão boa. A Emperor Dynasty precisa divulgar logo. Não dá para adiar mais!”
+
+“Pois é. Acho que é porque ainda não lançaram de verdade.”
+
+“É tão divertido. Por que o pessoal não gosta? Vamos trazer jogadores novos. É muito fácil aprender!”
+
+“Não façam esse escândalo. É normal o público oscilar. Qual jogo da Emperor Dynasty tem pouca gente? Quando lançar e for divulgado, com certeza vai ficar popular!”
+
+O que não sabiam era que os designers e Jin Jieguang estavam ainda mais preocupados. Os jogadores não viam os dados internos. A equipe, sim.
+
+Uma queda tão grande na atividade já não podia ser ignorada. Ameaçava a própria vida do jogo.
+
+Se não conseguissem manter o público que já tinham, não adiantaria divulgar e atrair mais gente.
+
+O resultado de uma torneira enchendo um reservatório enquanto outra o esvazia era uma conta que todos conheciam desde o ensino fundamental.
+
+Ninguém entendia. O que estava acontecendo?
+
+Não estava tudo bem no começo do beta fechado? A retenção era boa, assim como a satisfação. O jogo atendia aos menos habilidosos e se diferenciava de League of Legends.
+
+Todos não estavam satisfeitos?
+
+Por que, em apenas um mês, antes mesmo do fim dos testes, parecia estar morrendo?
+
+Nenhum jogo da Emperor Dynasty tivera uma queda tão rápida, a menos que houvesse algum acidente grave na operação.
+
+Porém, Cataclismo Ancestral ainda estava em testes. Nem se atreviam a fazer tantas ações de operação, quanto mais provocar um desastre.
+
+O que havia acontecido?
+
+A empresa enviou muitos questionários a quem abandonara. A resposta mais comum era:
+
+“Esse jogo é bom em tudo, mas não é divertido.”
+
+Jin Jieguang ficou pasmo. Que problema era esse de “não é divertido”?
+
+Era amplo demais. Não dava para localizar a causa!
+
+Designers e operadores quebravam a cabeça, pensando em eventos e mudanças de jogabilidade para colocar tudo de volta nos eixos. Não adiantava.
+
+A popularidade morria um pouco mais a cada dia.
+
+Tudo era bom, mas não era divertido.
+
+Era o maior insulto para um designer.
+
+O sentido por trás da frase era simples: os gráficos, a qualidade de produção e a sensação dos controles estavam bem. O problema era como se jogava.
+
+Era exatamente o caso de Cataclismo Ancestral. A principal razão para não ser divertido estava na jogabilidade.
+
+A rigor, Jin Jieguang e a Emperor Dynasty haviam caído na armadilha de Chen Mo. Porém, ela era tão discreta que nem parecia uma. Jin entrara sem hesitar.
+
+No começo dos testes, a reação realmente fora boa. O jogo cuidava dos sentimentos dos iniciantes, reduzindo a dificuldade e oferecendo objetivos claros. Isso permitira algum sucesso na fase inicial.
+
+O maior problema era que um iniciante não continuava iniciante para sempre.
+
+Quando os primeiros novatos se tornaram veteranos, aquele modelo passou a afastá-los abertamente.
+
+Por isso, precisava haver um equilíbrio delicado entre iniciantes, veteranos e especialistas. COG dava importância demais aos melhores. Cataclismo Ancestral se preocupava demais com os novatos. Os dois criavam desequilíbrios.
+
+Em comparação, o excesso de atenção aos especialistas de COG era menos prejudicial. No máximo, transformaria o título num jogo de nicho, voltado aos mais dedicados. Sobreviver não seria um problema.
+
+Já privilegiar os iniciantes a ponto de perder os jogadores mais fiéis era fatal. Afinal, eram eles que sustentavam o jogo. Os novatos se apoiavam nessa base.
+
+Os iniciantes se tornariam jogadores dedicados. *Com a perda crescente desse público, novos jogadores também deixariam de entrar aos poucos.*
+
+Depois de se tornar veterano, o jogador olhava novamente para as regras que o haviam atraído. Tudo aquilo passava a lhe causar aversão.

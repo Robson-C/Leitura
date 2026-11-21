@@ -466,3 +466,59 @@ Backup prévio50arquivos e sete hashes protegidos: backups/agd-publicar-revisar-
 
 
 Validação concluída: cinco verificações de sintaxe JavaScript (app, chapters das duas obras, books e catalog), node tests/reader.test.cjs e git diff --check aprovados. Suíte confere integralmente315TXT/títulos/marcações, catálogo, limites/navegação e retomada em DOM simulado e isolamento de progresso/preferências. Dos275objetos anteriores, somente256alterado conforme autorização; dos40TXTnovos,38preservados bytea byte e somente284/296revistos. Cinquenta backups SHA256 íntegros e sete arquivos protegidos idênticos (aplicação/Clube/catálogo). Sem commit,push,deploy ou alteração de dados pessoais do leitor. Não houve nova conferência visual no navegador.
+
+
+## Revisão e publicação offline 316–335 — 21/11/2026
+
+Vinte capítulos conferidos com os anexos fornecidos e a continuidade acumulada, integrados integralmente e em ordem. Leitor 1–335, nenhum TXT pendente nesta obra, próximo envio/revisão336. Sem fusão, renumeração, final cortado ou complemento narrativo. Aplicação/Clube/progresso/preferências preservados; commit, push e implantação remota manuais.
+
+Continuidade: fim da missãoTryndamere e diagnósticoCOG316; vídeo/novoapelido/16fevereiro317; pais e atualização318; cinco campeões/ranked319; LiThrone/biscoitos320; transmissãoMoyu321–324; Desafiantes/expansão325; resposta concorrentes326–327; versãointernacional/eventoholográfico328–329; anúncio1abril330; Draven/minijogo331; escaladaLin332; streamers/reviews/viralização333–335. Cortes de cena e partidas apenas citadas mantidos sem preencher acontecimentos ausentes.
+
+Ajustes contextuais:
+- 321: a fonte enumera Annie/Kassadin e depois diz três magos; falta o nome antes da frase sobre utilidade tardia mesmo após muitas mortes. Identificado como Karthus pelo elenco do283 e passiva/suprema discutidas302–303. Frase explicitada em itálico como interpretação: Karthus, por sua vez, continuava útil nas fases avançadas mesmo depois de morrer muitas vezes. Não inventada habilidade nova. A dúvida da fonte permanece registrada; removido itálico apenas da contagem três porque agora a recuperação nominal é que está marcada.
+- 325: carregador inimigo → principal causador de dano inimigo, tradução mais clara de C spot. Sem alteração de mecânicas ou números.
+- Outros18TXT preservados byte a byte. Nenhum ajuste de código funcional da aplicação.
+
+Conferência numérica e temporal:
+- Missão316: referência anterior1morte/19azares; agora0/7durantepartida e conclusão de todos objetivos0/8/100azares ao desfecho. Não inventar golpe final nem sequência ausente entre cenas. Li7/0/2durante316→9/1/2final317 é evolução compatível.
+- 14fevereiro1,57milhãoativos; 16fevereiro atualização8–12h=4h; elenco25+5=30, seis bans3porlado. Não confundir proficiênciaMestre321 com eloMestre. Alteraçãoadministrativa é de proficiência, não atributos.
+- Audiência stream200milseguidores/240mil10min/>500mil/670mil/pico2,09milhões são medidas e momentos diferentes. Dezcolocaçõesvencidas→PlatinaV, depois5diasdo2ºao6ºAnoNovo17–21/2,>10vitórias/dia→primeirosDesafiantes, sem inventar totalexatopartidas. LoL>2milhõesDAU21–22/2 e retenção>70% não downloads nem espectadores.
+- Internacionalatéfimabril no maiscedo/servidoresregionaismeta10ms; BO3dezjogadoresmínimoDiamanteV/trêsjogoseintervalos3h/5prêmiosvencedores+5derrotados. Não confundir torneioinformal com campeonatooficial.
+- 1abril: cinco novos reais30+5=35; anúncio35novos=4diferentes+31Draven é piada, não erro de soma. Evento1–3abril, íconeescolar96,43%énotíciafalsa. Oitoimagens=1+5+1+1. Não trocar prazo ou probabilidade ficcionais por dados externos.
+- 333vintepalavrõesrepetidos e335novedescidas repetidas preservados conforme anexos; 334média6,1 da plataforma e reviews1/5estrelas não são a mesma escala. Três teclados/mouses e sétimodia são humor, sem alterar cronologia para forçar sete dias após1abril.
+- 335mais2milhõesDOWNLOADSemumdia1/4, sem publicidade paga mas divulgação própriaWeibo e circulação orgânica já narradas. Não receita, simultâneos ouDAU.
+
+Incertezas preservadas: XiaoLing317–318 sem nome novo inventado; apelidoSivir/sériespromoção319; terceiro mago321 recuperado em itálico; xingamento322; Project:S326recuperado em itálico; trocadilhos chineses/títuloBoletim327; ritmoRiotmeses/semanas328 e cronologia87campeões como afirmação dafonte, semcorrigir história real porpalpite; nomes skins330–331; compras internas334 como recuperação contextual. Nenhuma dessas dúvidas exige apagar cena. Em328o texto diz1–2semanas e depois1–2meses; a intenção de ritmo alto pode indicar lapso, mas não dá valor inequívoco para substituir automaticamente. Preservado itálico. Fontehistórica não foi apresentada como informação atual verificada.
+
+As descrições do jogo sem pernas, palavrões, ameaças cômicas e comentários sobre insanidade são ficção, não incidentes ou diagnósticos reais. Reviewsfilosóficos335 contrastam respostaChen, preservando sarcasmo. Música/letras curtas já fornecidas traduzidas sem acrescentar material externo.
+
+Backup prévio29arquivos SHA256: backups/agd-publicar-revisar-316-335-20261121T185422198892Z/. CONFERENCIA-FONTES.json registra fontes e finais dos20capítulos; ALTERACOES.diff registrará alterações. Primeiros315objetos preservados integralmente; sete arquivos protegidos da aplicação/Clube com hashes para conferência. Validação será registrada ao concluir.
+
+
+Validação concluída: cinco verificações de sintaxe JavaScript (app, chapters das duas obras, books e catalog), node tests/reader.test.cjs e git diff --check aprovados. Os335TXT foram comparados integralmente ao leitor; títulos, marcações, catálogo, limites, navegação móvel simulada e retomada por obra passaram. Primeiros315objetos idênticos ao backup,18novosTXT preservados byte a byte; apenas321/325revistos. Vinte e nove backups SHA256 e sete arquivos protegidos íntegros. Sem commit/push/deploy nem mudança na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.
+
+
+## Revisão e publicação offline 336–345 — 21/11/2026
+
+Dez capítulos conferidos com os anexos fornecidos e a continuidade e integrados integralmente na ordem. Leitor 1–345, nenhum TXT pendente nesta obra, próximo envio/revisão346. Sem fusão, renumeração ou final cortado. Aplicação, Clube, progresso e preferências preservados. Commit/push/implantação remota manuais.
+
+Sequência revisada: minijogo amplia alcanceThunderbolt/LinXuevitóriabug336; internacionalLoL25abril337; respostasAméricaEuropaCoreia/conceitoMOBA/dados338; visitaMG339–340; relatórioCoreia/reorganizaçãoequipe/anúncioAncestraljunho341; testeAncestralelogios342; retenção65%/chat/fracassoThreeRealms343; ZouDiamante/desaceleraçãoAncestral344; decisãoLinnãomudar/quedaabsoluta/explicaçãonovatosveteranos345. ElogiomauagouroChen343nãoéativação de item confirmada.
+
+Ajuste de revisão:340 taça de campeã mundial → troféu de campeão mundial, correspondência mais clara com World Championship trophy. Sem mudança de prêmios, modalidade ou identidade da equipe. Outros nove TXT preservados byte a byte. Leituras contextuais já assinaladas continuam em itálico:337hipótesedoisMOBAsdominantes;339–340títulosThreeKingdoms;342cemminionsatrás(unidadeausente);345perdacrescentejogadoresdedicados(inglêsincreasecontradizargumentodeabandono). Não substituir hipóteses por fatos nem inventar detalhes ausentes.
+
+Conferência numérica e temporal:
+- 336Linraiva>10min,ordemrelatório>=10milpalavrasAouabaixo, não10milcaracteres; LinXuebugpermitevitória e espectadoresespalham, nenhumtempoexatodeconclusão inventado.
+- 337vídeo4min/possibilidade<3min, média6horas segundoChen e infinito hipérbole; coletânea>1milhãoviews,popularidade1ameadosabril~meiomês,internacional25/4apósprevisãofimabril; conteúdo2–3diasapósChina. COGinternacionalmeadosfevereiro~2mesesantes, nãoobriga dataigualbetaChina13/2. Partidas30–40minreferênciapromocional,nãotempofixo.
+- 338>500milACESSOSprimeirodiaexterior/68%retençãoD1, nãoDAUpermanent e/simultâneos; distintos390mil/73%nacionais. Entradaindividualougrupos2–5,quatroaliadosnãooutrosquatrogrupos.
+- MG339:maisdezclubesgrandesnacionais,MGentretrêsmaiores/maiorcapital,prédio4andares próprio,3cozinheiras,2atletasquarto,7lugaresfileira,salaWarcraft14lugares/3atletas. DuasFPS13atletastotal,nãocada. Seisdivisõesgrandes339versussetejogosenumerados340permanecependente: podesignificarumramomenorouemencerramento,semhipótesedefinitiva; nãocorrigirporforçaumdosnúmeros. LegionConquestfechamentosóconsiderado.
+- Liga340éplano10clubes/10equipes,2temporadas/3vagasmundial,prêmiomilhõesUSD,estádiodezenasmil/públicomundialdezenasmilhões. Retrospecto8milhõesS2/32milhõesS3e30milhõesarredondado éaudiênciadeevento, nãoassentosfísicos noestádio. EquipeMGjunhoéprevisão, nãocontrato. Semconversõesdeorçamentooureceitareais.
+- 3411/3equipeatualLoLmanutenção/restonovosjogos, equipeadicionaltorneios, não trêsfrações iguais. Cataclismoconteúdoprincipal3meses/30heróis, junho anunciado; moeda especial deobjetivosnãoéouroparaequipamentosexcluído.
+- 342nota9,2 e343retenção65%(janelanãoespecificada),nota>9, semconsiderarvitóriamercadodefinitiva. ThreeRealmsPC1semanadepoisAncestral,testefracassainterrompido/VRcondicionado, nãolançamentoVRjárealizado.
+- 344duassemanasdesaceleraRITMO,ativoscontinuamsubindo. 345fimjunhoDAU/tempodespencamem~dezenadias, agoraquedaabsoluta. Nenhum percentual dequedaexatofornecido. Umminutofila/cin codiasamigoo fflineexemploscomentários,nãotempo médioquantificado. 1mêsbetaaproximado compatíveljunho. Semfluxooucoortesanônimasinventadasparaexplicarfracasso.
+
+Todososfinaiscomparadosàfonte; fraseincompletamaking336éresíduointerno deefeitosonoro, nãofinalcortado, mantidareticência. Declaraçõesdepersonagens/narrador sobreCoreia/lei/competitividade/históriadosjogos permanecemficçãofornecida, nãoinformaçõesatuais verificadas ou aconselhamentoexterno. Traduçãonãoinicioucontatoscomclubes,ligasouserviços reais.
+
+Backup prévio19arquivosSHA256:backups/agd-publicar-revisar-336-345-20261121T191006048025Z/. CONFERENCIA-FONTES.json registra dez fontes e seus finais. ALTERACOES.diff registrará diferenças. Primeiros335objetos preservados integralmente; sete arquivos protegidos da aplicação/Clube com hashes. Validações serão registradas ao concluir.
+
+
+Validação concluída: cinco verificações de sintaxe JavaScript (app, chapters das duas obras, books e catalog), node tests/reader.test.cjs e git diff --check aprovados. Todos345TXT iguais integralmente ao leitor, títulos/marcações/catálogo/limites/navegação móvel simulada/retomada e isolamento entre obras conferidos. Primeiros335objetos idênticos ao backup; noveTXTnovos preservados byte a byte, apenas340com ajuste de fluência. DezenovebackupsSHA256/setearquivosprotegidos íntegros. Sem commit,push,deploy ou alterações na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.
