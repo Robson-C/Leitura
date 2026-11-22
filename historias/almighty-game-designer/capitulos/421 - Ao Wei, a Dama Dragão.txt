@@ -1,0 +1,93 @@
+Capítulo 421 — Ao Wei, a Dama Dragão
+
+Em pouco tempo, os esboços e as características detalhadas de cada herói estavam prontos. Os cenários dos mapas também já estavam sendo produzidos.
+
+A equipe de Chen Mo já havia criado dois jogos de VR e tinha a experiência de League of Legends como base para as mecânicas das habilidades. Podia-se dizer que produzir Overwatch não seria tão difícil. O único obstáculo era que ninguém havia feito um FPS antes, mas aquilo não era um problema impossível de resolver.
+
+Chen Mo planejava disponibilizar 23 heróis na primeira versão: 22 personagens do jogo original, incluindo Ana.
+
+Além deles, criaria uma heroína original de inspiração chinesa: Ao Wei, a Dama Dragão.
+
+Em Overwatch, os irmãos Genji e Hanzo eram personagens de estilo japonês, inspirados, respectivamente, em um ninja e um ronin. Mas o elemento do dragão havia sido atribuído justamente àqueles dois personagens japoneses.
+
+É claro que a maioria dos dragões chineses tinha quatro ou cinco dedos nas patas, enquanto os dragões dos Shimada tinham os três dedos característicos dos dragões japoneses. Aquilo demonstrava que ainda havia uma distinção entre os dois.
+
+Mas, de qualquer forma, não fazia sentido Chen Mo recriar aquela cultura dos dragões para personagens japoneses sem oferecer uma representação chinesa.
+
+Por isso, decidiu acrescentar Ao Wei, a Dama Dragão, aos 22 heróis como complemento.
+
+Sua história a apresentava como a última descendente do clã dos dragões da China. Seu corpo havia perecido, mas a alma continuava presa num altar no fundo do mar. Uma equipe de pesquisa chinesa avançara pelo Mar da China Oriental, e a exploradora Ao Wei mergulhara nas profundezas, recuperando o poder do Deus Dragão de sua vida anterior.
+
+Ao Wei teria duas formas, podendo alternar livremente entre ataque e suporte: a Forma do Trovão e a Forma da Chuva.
+
+Na Forma do Trovão, seu ataque normal lançaria rapidamente raios contra o alvo, acumulando marcas da Runa do Trovão. Ao atingir determinada quantidade, as marcas paralisariam o inimigo por um breve período e reduziriam sua velocidade de movimento. Se ele usasse uma arma branca para combater de perto, seus ataques normais também seriam bloqueados temporariamente.
+
+O ataque especial criaria uma nuvem de tempestade numa pequena área. Ela causaria dano contínuo aos inimigos próximos e acumularia marcas da Runa do Trovão. Se o ataque fosse usado novamente durante a duração da nuvem, provocaria uma tempestade elétrica e detonaria todas as marcas.
+
+As duas habilidades especiais de Ao Wei seriam Cavalgar as Nuvens e Tecer a Névoa.
+
+Cavalgar as Nuvens aumentaria sua velocidade e permitiria voar livremente, inclusive subindo e descendo para alcançar construções altas. A duração seria curta, com um tempo de recarga.
+
+Tecer a Névoa criaria uma nuvem ao redor da heroína, reduzindo temporariamente o dano recebido e também permitindo mudar de forma.
+
+Na Forma da Chuva, o ataque normal lançaria rapidamente um fluxo de água contra o alvo, recuperando uma pequena quantidade de vida de um herói aliado e acumulando marcas do Talismã da Chuva. Só a cura efetiva acumularia marcas. Ao atingir determinada quantidade, o aliado receberia uma grande cura de uma só vez e um aumento temporário na velocidade de movimento.
+
+O ataque especial criaria uma nuvem de chuva numa pequena área, curando continuamente os aliados e acumulando marcas do Talismã da Chuva. Se usado novamente enquanto a nuvem estivesse ativa, desencadearia uma chuva curativa e detonaria todas as marcas.
+
+A ultimate de Ao Wei seria a Forma do Dragão Verdadeiro. Ela se transformaria no corpo espiritual de um dragão divino, com um grande aumento de vida. Poderia voar temporariamente e atravessar qualquer terreno, embora não pudesse mergulhar no chão.
+
+Na Forma do Trovão, seu corpo ficaria envolvido por raios, causando dano contínuo aos inimigos ao redor. Na Forma da Chuva, curaria continuamente as unidades aliadas próximas.
+
+Além disso, enquanto a ultimate estivesse ativa, Ao Wei poderia consumir imediatamente todo o poder do Deus Dragão para criar uma tempestade elétrica ou uma chuva curativa numa grande área, dependendo da forma em uso.
+
+Como a imagem de uma dama dragão era muito comum nos jogos chineses, não seria difícil criar seu visual.
+
+Ao Wei teria uma aparência semelhante à Dama Dragão de Battle God: cabelos pretos presos num longo rabo de cavalo, um par de chifres de dragão e uma marca vermelha de raio na testa.
+
+Um véu preto cobriria seu rosto. As roupas também seriam predominantemente pretas, com um visual simples e prático e escamas douradas de dragão adornando o rosto.
+
+Além disso, ela herdaria uma característica constante das personagens femininas de Overwatch: seios e quadris bastante atraentes.
+
+Sua aparência também mudaria um pouco entre as duas formas. Na do Trovão, predominaria o preto, com efeitos elétricos ao redor do corpo. Na da Chuva, o branco, acompanhado de efeitos de água corrente.
+
+Ao Wei também teria algumas interações especiais nas falas com Mei e os irmãos Shimada.
+
+Se estivesse na mesma equipe que os irmãos, diria:
+
+“Tratem com respeito o poder do Deus Dragão que está em suas mãos. Ele deve ser usado para proteger este mundo.”
+
+Se os abatesse, diria:
+
+“O poder do Deus Dragão perdido em terras estrangeiras não pode derrotar a linhagem legítima.”
+
+Além disso, como Ao Wei e Mei eram chinesas e integrantes de expedições de pesquisa, teriam uma relação próxima. Além das falas, haveria uma interação oculta: quando Mei estivesse sob o efeito do Talismã da Chuva de Ao Wei, seu congelamento defensivo duraria mais tempo.
+
+A inclusão de Ao Wei também serviria para dar uma resposta aos jogadores chineses. Em Overwatch, a Blizzard havia atribuído os dragões aos personagens japoneses. Se Chen Mo simplesmente copiasse aquilo, provavelmente seria criticado por parte do público da China.
+
+Com a aproximação do fim do ano, não havia novos lançamentos, e os jogadores estavam relativamente sem novidades para jogar.
+
+O Mundial de League of Legends, entre outubro e novembro, realmente aumentara a popularidade do jogo. Mas, depois da competição, ele entrara numa fase de estabilidade.
+
+A partir de novembro, dois eventos da indústria despertavam expectativa: a feira de jogos em janeiro e a cerimônia anual de premiação antes do Ano-Novo Chinês.
+
+A maioria dos jogadores não se importava muito com a premiação. Não ligavam tanto para qual jogo venceria. Já a YouPlay, em janeiro, era um assunto bastante comentado.
+
+“Vocês vão à YouPlay este ano?”
+
+“Claro! Um evento desse tamanho antes do Ano-Novo Chinês? Por que eu não iria?”
+
+“Acho que não tem nenhum jogo que eu esteja esperando tanto este ano.”
+
+“Pois é. Os jogos da Emperor Dynasty e da Zen não foram tão interessantes. Mas vamos dar uma olhada. Talvez dê para testar alguma coisa que só vai sair no ano que vem.”
+
+“O Chen Mo vai participar, não vai? League of Legends dominou o mercado de PC neste ano. A Thunderbolt Entertainment está prestes a virar uma gigante no país.”
+
+“Mas não tem nada para mostrar no estande, tem? League of Legends? Já jogou tanto em casa e ainda vai à feira para jogar de novo?”
+
+“Bom, vamos conferir. Talvez o Chen Mo tenha feito um jogo novo.”
+
+“Impossível. Ele passou tanto tempo ocupado com o Mundial. Só faltam dois meses para janeiro. O que daria para fazer nesse prazo?”
+
+“Uma demonstração já serve. Ou podemos jogar os lançamentos da Emperor Dynasty e da Zen. Qualquer uma das opções serve.”
+
+“Verdade. Vamos juntos dar uma olhada.”

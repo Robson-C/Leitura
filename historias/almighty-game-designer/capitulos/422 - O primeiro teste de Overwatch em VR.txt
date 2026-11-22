@@ -1,0 +1,93 @@
+Capítulo 422 — O primeiro teste de Overwatch em VR
+
+O desenvolvimento de Overwatch avançava sem problemas. A diferença era que, dessa vez, o jogo não seria feito primeiro para PC e só depois adaptado para VR. As duas versões eram desenvolvidas praticamente ao mesmo tempo.
+
+O principal motivo era que a equipe já havia criado dois jogos de realidade virtual e conhecia bem o processo. Por um lado, o prazo era curto. Por outro, trabalhar assim facilitava a identificação de problemas na experiência e permitia ajustá-los a tempo.
+
+Na loja de experiências, Qian Kun procurou Chen Mo, empolgado.
+
+“Chefe, a Pharah está pronta. Já dá para testar na cápsula de VR!”
+
+“É mesmo? Vou dar uma olhada.”
+
+Chen Mo deixou imediatamente o que estava fazendo e acompanhou Qian Kun até a cápsula em que a demonstração de Overwatch já estava instalada.
+
+Pharah era a primeira heroína prevista para ser concluída. O próximo seria Genji.
+
+Por um lado, os dois envolviam movimentação pelo ar, e Chen Mo não sabia se a adaptação para VR provocaria tontura. Precisava verificar aquilo com antecedência. Por outro, eram personagens populares. Disponibilizá-los primeiro para testes ajudaria todos a entender melhor as mecânicas de Overwatch.
+
+Chen Mo entrou na cápsula e abriu a primeira versão do jogo.
+
+Naquele momento, ela ainda era bastante simples. Havia apenas um mapa, Torre Lijiang, e uma heroína, Pharah. Ao iniciar, ele foi levado diretamente ao cenário.
+
+Chen Mo olhou ao redor. Já havia assumido a forma de Pharah. Ao baixar a cabeça, conseguia ver a armadura azul que vestia e o lançador de foguetes em suas mãos.
+
+É claro que estava experimentando uma versão em desenvolvimento. Na versão oficial, os jogadores poderiam usar uma visão em terceira pessoa para observar a aparência dos heróis.
+
+Nas bordas de seu campo de visão, alguns elementos da interface se destacavam. À esquerda, apareciam o retrato da heroína, a vida e outras informações básicas, além do estado e do tempo de recarga das duas habilidades especiais. No canto inferior direito, ficavam os dados da arma e a quantidade de munição. No superior direito, o carregamento da ultimate.
+
+As bordas do campo de visão tinham uma interface translúcida de alta tecnologia, como se ele observasse o campo de batalha através de óculos táticos especiais. As informações importantes estavam muito bem integradas e não atrapalhavam a visão.
+
+Era uma sensação parecida com a de usar óculos. Embora a armação ocupasse uma pequena parte da visão, ficava apenas nas bordas. Sem prestar atenção, a pessoa a ignorava. Só ao olhar de propósito perceberia as informações ali.
+
+Além disso, aquele projeto de interface reforçava a imersão e combinava melhor com o estilo tecnológico de Overwatch.
+
+O jogador poderia abrir a tela de ajuda a qualquer momento para consultar a descrição das habilidades do herói.
+
+Na área aberta à sua frente, havia um robô de treinamento com vida infinita.
+
+Chen Mo apontou o lançador e disparou um foguete contra o alvo.
+
+Sentiu uma leve vibração no braço. O disparo seguiu praticamente para o ponto em que pretendia acertar.
+
+Mesmo ao adaptar um FPS para VR, não bastava querer atingir um lugar para acertá-lo. Caso contrário, os jogos de tiro se resumiriam a olhar para os alvos.
+
+Nos FPS de realidade virtual, os jogadores podiam controlar livremente a direção das armas, mas havia certas limitações. Por exemplo, não era possível atirar para trás sem antes se virar. Ao disparar para o centro do campo de visão, a precisão aumentava. Quanto mais próximo das bordas, menor seria a precisão.
+
+Controlar a visão e direcionar os disparos exigia dois sinais mentais diferentes. Aquilo também colocava à prova a coordenação entre olhos, mãos e cérebro. Quem jogava FPS havia bastante tempo teria mais precisão do que um iniciante.
+
+Chen Mo testou as duas habilidades de Pharah.
+
+O disparo de impacto seguia a mesma direção e as mesmas regras dos tiros. Quando ativou os propulsores da mochila, sentiu uma leve vibração nas costas e foi lançado para o alto.
+
+Voar era parecido com a experiência no PC, mas o campo de visão era mais amplo. Ele podia observar os arredores com maior liberdade, sem precisar mover o mouse o tempo todo.
+
+A sensação de cair do céu era tão realista que suas pernas amoleceram por reflexo. Mas, depois de voar algumas vezes, logo se acostumou. Era ótimo estar no ar, com uma imersão muito maior do que no PC.
+
+Depois de bombardear o robô de treinamento, Chen Mo saiu da cápsula, satisfeito.
+
+“E aí, chefe?”, perguntou Qian Kun, cheio de expectativa. Era evidente que ele próprio já havia experimentado Pharah em VR.
+
+Chen Mo assentiu.
+
+“Sim, é essa a sensação. Está tudo certo. Continuem e apressem a produção dos próximos heróis.”
+
+“Pode deixar!”
+
+Qian Kun voltou alegremente ao trabalho.
+
+Depois de confirmar que a experiência em VR não tinha problemas, Chen Mo ficou aliviado.
+
+O desenvolvimento de Overwatch continuou de forma organizada. Quando o jogo ficou pronto dentro do prazo, ele seguiu para Xangai para cuidar dos preparativos da feira.
+
+Na edição da YouPlay posterior ao lançamento de Onmyoji, a participação havia ficado a cargo da equipe da empresa. Chen Mo nem fora pessoalmente. Como não tinha nenhum jogo que precisasse divulgar, não havia muito motivo para comparecer.
+
+Dessa vez, porém, pretendia aproveitar a feira para lançar a primeira versão de Overwatch e promover o jogo.
+
+Xangai, Novo Centro de Exposições Internacionais.
+
+O estande da Thunderbolt Entertainment estava sendo montado, com muitos funcionários trabalhando sem parar.
+
+Dessa vez, o espaço no pavilhão N3 era muito maior do que o anterior. Ocupava mais de um terço de todo o pavilhão.
+
+A empresa não ficaria no mesmo setor que Emperor Dynasty Entertainment e Zen Entertainment. No N3, havia apenas companhias pequenas, o que deixava a Thunderbolt numa posição excelente.
+
+Chen Mo havia criado recentemente Minecraft, League of Legends e Outlast, mas eles não eram tão adequados para uma apresentação de estande, e também não ofereciam tantas opções para os cosplayers.
+
+Ele decidiu montar duas áreas principais de experimentação: uma de PC e outra de VR, equipadas, respectivamente, com computadores e cápsulas.
+
+Na área de PC, os visitantes poderiam experimentar novas versões e campeões de League of Legends. Também haveria competições com miniaturas de campeões como prêmios. Na área de VR, seria possível jogar Outlast e Overwatch.
+
+Além disso, alguns cosplayers representariam principalmente personagens femininas de League of Legends e Overwatch. Mas a presença deles já não fazia tanta diferença. O mais importante era a demonstração do novo jogo.
+
+Chen Mo não precisava mais depender de cosplay ou de chamarizes para atrair os visitantes. A qualidade e a reputação de seus jogos já eram suficientes.

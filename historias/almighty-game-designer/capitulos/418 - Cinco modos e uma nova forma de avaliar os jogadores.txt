@@ -56,7 +56,7 @@ O segundo seria o modo FPS, no qual só seria possível escolher heróis de ataq
 
 O terceiro seria o modo com banimentos. Cada lado poderia votar para banir três heróis. Se os jogadores achassem Reinhardt e Lúcio sem graça e não quisessem enfrentá-los, poderiam bani-los diretamente. Eles não apareceriam na partida.
 
-O quarto seria um modo com mais participantes: doze contra doze, *sem exigir uma composição fixa*. A proposta era oferecer mais espaço para os jogadores aprontarem e dar oportunidades a mais heróis.
+O quarto seria um modo com mais participantes: doze contra doze. A proposta era oferecer mais espaço para os jogadores aprontarem e dar oportunidades a mais heróis.
 
 O problema do seis contra seis era o pouco espaço na equipe. Para o bem do grupo, dois tanques e dois curandeiros eram praticamente obrigatórios, sobrando apenas duas vagas de ataque.
 

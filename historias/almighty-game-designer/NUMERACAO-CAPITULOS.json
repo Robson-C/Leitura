@@ -2472,72 +2472,122 @@
       "source": 411,
       "chapter": 411,
       "title": "A festa dos campeões e o futuro das ligas",
-      "file": "capitulos/411 - A festa dos campeões e o futuro das ligas.txt",
-      "offlinePending": true
+      "file": "capitulos/411 - A festa dos campeões e o futuro das ligas.txt"
     },
     {
       "source": 412,
       "chapter": 412,
       "title": "As skins dos campeões da NRG",
-      "file": "capitulos/412 - As skins dos campeões da NRG.txt",
-      "offlinePending": true
+      "file": "capitulos/412 - As skins dos campeões da NRG.txt"
     },
     {
       "source": 413,
       "chapter": 413,
       "title": "A corrida pelas vagas e a crise de Liangzhou",
-      "file": "capitulos/413 - A corrida pelas vagas e a crise de Liangzhou.txt",
-      "offlinePending": true
+      "file": "capitulos/413 - A corrida pelas vagas e a crise de Liangzhou.txt"
     },
     {
       "source": 414,
       "chapter": 414,
       "title": "A aliança que mudou o rumo da guerra",
-      "file": "capitulos/414 - A aliança que mudou o rumo da guerra.txt",
-      "offlinePending": true
+      "file": "capitulos/414 - A aliança que mudou o rumo da guerra.txt"
     },
     {
       "source": 415,
       "chapter": 415,
       "title": "O que falta para chegar à classe S",
-      "file": "capitulos/415 - O que falta para chegar à classe S.txt",
-      "offlinePending": true
+      "file": "capitulos/415 - O que falta para chegar à classe S.txt"
     },
     {
       "source": 416,
       "chapter": 416,
       "title": "Overwatch, a escolha para disputar o prêmio",
-      "file": "capitulos/416 - Overwatch, a escolha para disputar o prêmio.txt",
-      "offlinePending": true
+      "file": "capitulos/416 - Overwatch, a escolha para disputar o prêmio.txt"
     },
     {
       "source": 417,
       "chapter": 417,
       "title": "Overwatch sem ranqueadas",
-      "file": "capitulos/417 - Overwatch sem ranqueadas.txt",
-      "offlinePending": true
+      "file": "capitulos/417 - Overwatch sem ranqueadas.txt"
     },
     {
       "source": 418,
       "chapter": 418,
       "title": "Cinco modos e uma nova forma de avaliar os jogadores",
-      "file": "capitulos/418 - Cinco modos e uma nova forma de avaliar os jogadores.txt",
-      "offlinePending": true
+      "file": "capitulos/418 - Cinco modos e uma nova forma de avaliar os jogadores.txt"
     },
     {
       "source": 419,
       "chapter": 419,
       "title": "Um FPS em que os heróis têm habilidades",
-      "file": "capitulos/419 - Um FPS em que os heróis têm habilidades.txt",
-      "offlinePending": true
+      "file": "capitulos/419 - Um FPS em que os heróis têm habilidades.txt"
     },
     {
       "source": 420,
       "chapter": 420,
       "title": "Um jogo de VR completamente gratuito",
-      "file": "capitulos/420 - Um jogo de VR completamente gratuito.txt",
-      "offlinePending": true
+      "file": "capitulos/420 - Um jogo de VR completamente gratuito.txt"
+    },
+    {
+      "source": 421,
+      "chapter": 421,
+      "title": "Ao Wei, a Dama Dragão",
+      "file": "capitulos/421 - Ao Wei, a Dama Dragão.txt"
+    },
+    {
+      "source": 422,
+      "chapter": 422,
+      "title": "O primeiro teste de Overwatch em VR",
+      "file": "capitulos/422 - O primeiro teste de Overwatch em VR.txt"
+    },
+    {
+      "source": 423,
+      "chapter": 423,
+      "title": "O Mestre das Sombras na YouPlay",
+      "file": "capitulos/423 - O Mestre das Sombras na YouPlay.txt"
+    },
+    {
+      "source": 424,
+      "chapter": 424,
+      "title": "Zed e Jinx roubam a cena",
+      "file": "capitulos/424 - Zed e Jinx roubam a cena.txt"
+    },
+    {
+      "source": 425,
+      "chapter": 425,
+      "title": "Campeões mundiais, sem teclado",
+      "file": "capitulos/425 - Campeões mundiais, sem teclado.txt"
+    },
+    {
+      "source": 426,
+      "chapter": 426,
+      "title": "Uma vitória que exigiu duas trocas",
+      "file": "capitulos/426 - Uma vitória que exigiu duas trocas.txt"
+    },
+    {
+      "source": 427,
+      "chapter": 427,
+      "title": "Nós somos Overwatch",
+      "file": "capitulos/427 - Nós somos Overwatch.txt"
+    },
+    {
+      "source": 428,
+      "chapter": 428,
+      "title": "Overwatch será gratuito",
+      "file": "capitulos/428 - Overwatch será gratuito.txt"
+    },
+    {
+      "source": 429,
+      "chapter": 429,
+      "title": "Treinamento com Soldado 76",
+      "file": "capitulos/429 - Treinamento com Soldado 76.txt"
+    },
+    {
+      "source": 430,
+      "chapter": 430,
+      "title": "A imersão que ninguém queria abandonar",
+      "file": "capitulos/430 - A imersão que ninguém queria abandonar.txt"
     }
   ],
-  "notes": "Leitor local com 410 capítulos consecutivos, 1–410. TXT 411–420 pendentes de revisão e integração por publique. Próximo envio 421; próxima revisão a partir do 411. Títulos provisórios preservados. Commit e push manuais."
+  "notes": "Leitor local com 430 capítulos consecutivos, 1–430. Lote 421–430 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 431. Títulos provisórios preservados. Commit e push manuais."
 }
