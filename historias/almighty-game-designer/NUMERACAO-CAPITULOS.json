@@ -2587,7 +2587,67 @@
       "chapter": 430,
       "title": "A imersão que ninguém queria abandonar",
       "file": "capitulos/430 - A imersão que ninguém queria abandonar.txt"
+    },
+    {
+      "source": 431,
+      "chapter": 431,
+      "title": "Overwatch incendeia a indústria",
+      "file": "capitulos/431 - Overwatch incendeia a indústria.txt"
+    },
+    {
+      "source": 432,
+      "chapter": 432,
+      "title": "Quatrocentos mil downloads no primeiro dia",
+      "file": "capitulos/432 - Quatrocentos mil downloads no primeiro dia.txt"
+    },
+    {
+      "source": 433,
+      "chapter": 433,
+      "title": "O Velho P entra em ação",
+      "file": "capitulos/433 - O Velho P entra em ação.txt"
+    },
+    {
+      "source": 434,
+      "chapter": 434,
+      "title": "O contra-ataque de Genji",
+      "file": "capitulos/434 - O contra-ataque de Genji.txt"
+    },
+    {
+      "source": 435,
+      "chapter": 435,
+      "title": "A Jogada da Partida e as primeiras reclamações",
+      "file": "capitulos/435 - A Jogada da Partida e as primeiras reclamações.txt"
+    },
+    {
+      "source": 436,
+      "chapter": 436,
+      "title": "Os concorrentes ao prêmio de Jogo do Ano",
+      "file": "capitulos/436 - Os concorrentes ao prêmio de Jogo do Ano.txt"
+    },
+    {
+      "source": 437,
+      "chapter": 437,
+      "title": "O reencontro dos designers independentes",
+      "file": "capitulos/437 - O reencontro dos designers independentes.txt"
+    },
+    {
+      "source": 438,
+      "chapter": 438,
+      "title": "O futuro dos jogos competitivos",
+      "file": "capitulos/438 - O futuro dos jogos competitivos.txt"
+    },
+    {
+      "source": 439,
+      "chapter": 439,
+      "title": "Chen Mo na plateia",
+      "file": "capitulos/439 - Chen Mo na plateia.txt"
+    },
+    {
+      "source": 440,
+      "chapter": 440,
+      "title": "A natureza humana por trás dos jogos competitivos",
+      "file": "capitulos/440 - A natureza humana por trás dos jogos competitivos.txt"
     }
   ],
-  "notes": "Leitor local com 430 capítulos consecutivos, 1–430. Lote 421–430 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 431. Títulos provisórios preservados. Commit e push manuais."
+  "notes": "Leitor local com 440 capítulos consecutivos, 1–440. Lote 431–440 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 441. Títulos provisórios preservados. Commit e push manuais."
 }
