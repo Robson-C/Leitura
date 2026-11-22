@@ -2082,51 +2082,272 @@
       "source": 346,
       "chapter": 346,
       "title": "Quando as vantagens se tornam defeitos",
-      "file": "capitulos/346 - Quando as vantagens se tornam defeitos.txt",
-      "offlinePending": true
+      "file": "capitulos/346 - Quando as vantagens se tornam defeitos.txt"
     },
     {
       "source": 347,
       "chapter": 347,
       "title": "Preparativos para o Mundial e novos sorteios",
-      "file": "capitulos/347 - Preparativos para o Mundial e novos sorteios.txt",
-      "offlinePending": true
+      "file": "capitulos/347 - Preparativos para o Mundial e novos sorteios.txt"
     },
     {
       "source": 348,
       "chapter": 348,
       "title": "Um projeto de terror para realidade virtual",
-      "file": "capitulos/348 - Um projeto de terror para realidade virtual.txt",
-      "offlinePending": true
+      "file": "capitulos/348 - Um projeto de terror para realidade virtual.txt"
     },
     {
       "source": 349,
       "chapter": 349,
       "title": "Um argumento para a aprovação",
-      "file": "capitulos/349 - Um argumento para a aprovação.txt",
-      "offlinePending": true
+      "file": "capitulos/349 - Um argumento para a aprovação.txt"
     },
     {
       "source": 350,
       "chapter": 350,
       "title": "Uma visita à Casa Abandonada",
-      "file": "capitulos/350 - Uma visita à Casa Abandonada.txt",
-      "offlinePending": true
+      "file": "capitulos/350 - Uma visita à Casa Abandonada.txt"
     },
     {
       "source": 351,
       "chapter": 351,
       "title": "Um terror cheio de restrições",
-      "file": "capitulos/351 - Um terror cheio de restrições.txt",
-      "offlinePending": true
+      "file": "capitulos/351 - Um terror cheio de restrições.txt"
     },
     {
       "source": 352,
       "chapter": 352,
       "title": "Um jogo de terror previsível",
-      "file": "capitulos/352 - Um jogo de terror previsível.txt",
-      "offlinePending": true
+      "file": "capitulos/352 - Um jogo de terror previsível.txt"
+    },
+    {
+      "source": 353,
+      "chapter": 353,
+      "title": "Preparando o estúdio de captura de movimentos",
+      "file": "capitulos/353 - Preparando o estúdio de captura de movimentos.txt"
+    },
+    {
+      "source": 354,
+      "chapter": 354,
+      "title": "Um jogo de terror em que só se pode fugir",
+      "file": "capitulos/354 - Um jogo de terror em que só se pode fugir.txt"
+    },
+    {
+      "source": 355,
+      "chapter": 355,
+      "title": "O anúncio do primeiro Mundial",
+      "file": "capitulos/355 - O anúncio do primeiro Mundial.txt"
+    },
+    {
+      "source": 356,
+      "chapter": 356,
+      "title": "Um palco para o Mundial",
+      "file": "capitulos/356 - Um palco para o Mundial.txt"
+    },
+    {
+      "source": 357,
+      "chapter": 357,
+      "title": "Ingressos para o Mundial",
+      "file": "capitulos/357 - Ingressos para o Mundial.txt"
+    },
+    {
+      "source": 358,
+      "chapter": 358,
+      "title": "Ingressos esgotados e uma surpresa de terror",
+      "file": "capitulos/358 - Ingressos esgotados e uma surpresa de terror.txt"
+    },
+    {
+      "source": 359,
+      "chapter": 359,
+      "title": "Coragem para experimentar Outlast",
+      "file": "capitulos/359 - Coragem para experimentar Outlast.txt"
+    },
+    {
+      "source": 360,
+      "chapter": 360,
+      "title": "A primeira entrada no hospital",
+      "file": "capitulos/360 - A primeira entrada no hospital.txt"
+    },
+    {
+      "source": 361,
+      "chapter": 361,
+      "title": "Sem armas e sem saída",
+      "file": "capitulos/361 - Sem armas e sem saída.txt"
+    },
+    {
+      "source": 362,
+      "chapter": 362,
+      "title": "Terror compartilhado",
+      "file": "capitulos/362 - Terror compartilhado.txt"
+    },
+    {
+      "source": 363,
+      "chapter": 363,
+      "title": "Um ciclo de curiosidade e sustos",
+      "file": "capitulos/363 - Um ciclo de curiosidade e sustos.txt"
+    },
+    {
+      "source": 364,
+      "chapter": 364,
+      "title": "Uma onda de gritos nas transmissões",
+      "file": "capitulos/364 - Uma onda de gritos nas transmissões.txt"
+    },
+    {
+      "source": 365,
+      "chapter": 365,
+      "title": "Uma ajuda suspeita",
+      "file": "capitulos/365 - Uma ajuda suspeita.txt"
+    },
+    {
+      "source": 366,
+      "chapter": 366,
+      "title": "Agora é a vez do criador",
+      "file": "capitulos/366 - Agora é a vez do criador.txt"
+    },
+    {
+      "source": 367,
+      "chapter": 367,
+      "title": "Outlast à meia-noite, no modo Insano",
+      "file": "capitulos/367 - Outlast à meia-noite, no modo Insano.txt"
+    },
+    {
+      "source": 368,
+      "chapter": 368,
+      "title": "Parkour no quintal de casa",
+      "file": "capitulos/368 - Parkour no quintal de casa.txt"
+    },
+    {
+      "source": 369,
+      "chapter": 369,
+      "title": "O terror aprovado e a premiação do Mundial",
+      "file": "capitulos/369 - O terror aprovado e a premiação do Mundial.txt"
+    },
+    {
+      "source": 370,
+      "chapter": 370,
+      "title": "A promessa de um novo padrão para os esports",
+      "file": "capitulos/370 - A promessa de um novo padrão para os esports.txt"
+    },
+    {
+      "source": 371,
+      "chapter": 371,
+      "title": "Os últimos preparativos para o Mundial",
+      "file": "capitulos/371 - Os últimos preparativos para o Mundial.txt"
+    },
+    {
+      "source": 372,
+      "chapter": 372,
+      "title": "Um desafio na rota do meio",
+      "file": "capitulos/372 - Um desafio na rota do meio.txt"
+    },
+    {
+      "source": 373,
+      "chapter": 373,
+      "title": "Primeiro abate no nível dois",
+      "file": "capitulos/373 - Primeiro abate no nível dois.txt"
+    },
+    {
+      "source": 374,
+      "chapter": 374,
+      "title": "A lição e o início do Mundial",
+      "file": "capitulos/374 - A lição e o início do Mundial.txt"
+    },
+    {
+      "source": 375,
+      "chapter": 375,
+      "title": "A abertura do Mundial S1",
+      "file": "capitulos/375 - A abertura do Mundial S1.txt"
+    },
+    {
+      "source": 376,
+      "chapter": 376,
+      "title": "Herói, lutarei por você",
+      "file": "capitulos/376 - Herói, lutarei por você.txt"
+    },
+    {
+      "source": 377,
+      "chapter": 377,
+      "title": "NRG e a partida de abertura",
+      "file": "capitulos/377 - NRG e a partida de abertura.txt"
+    },
+    {
+      "source": 378,
+      "chapter": 378,
+      "title": "Uma vitória para abrir o Mundial",
+      "file": "capitulos/378 - Uma vitória para abrir o Mundial.txt"
+    },
+    {
+      "source": 379,
+      "chapter": 379,
+      "title": "O orgulho de estar no palco",
+      "file": "capitulos/379 - O orgulho de estar no palco.txt"
+    },
+    {
+      "source": 380,
+      "chapter": 380,
+      "title": "Os adversários também evoluem",
+      "file": "capitulos/380 - Os adversários também evoluem.txt"
+    },
+    {
+      "source": 381,
+      "chapter": 381,
+      "title": "Uma estratégia para conter Frost",
+      "file": "capitulos/381 - Uma estratégia para conter Frost.txt"
+    },
+    {
+      "source": 382,
+      "chapter": 382,
+      "title": "Uma estratégia que decide a partida",
+      "file": "capitulos/382 - Uma estratégia que decide a partida.txt"
+    },
+    {
+      "source": 383,
+      "chapter": 383,
+      "title": "Sete milhões de espectadores e uma reunião urgente",
+      "file": "capitulos/383 - Sete milhões de espectadores e uma reunião urgente.txt"
+    },
+    {
+      "source": 384,
+      "chapter": 384,
+      "title": "O interesse pelas vagas da liga",
+      "file": "capitulos/384 - O interesse pelas vagas da liga.txt"
+    },
+    {
+      "source": 385,
+      "chapter": 385,
+      "title": "As vagas não estão à venda",
+      "file": "capitulos/385 - As vagas não estão à venda.txt"
+    },
+    {
+      "source": 386,
+      "chapter": 386,
+      "title": "Os profissionais invadem as ranqueadas",
+      "file": "capitulos/386 - Os profissionais invadem as ranqueadas.txt"
+    },
+    {
+      "source": 387,
+      "chapter": 387,
+      "title": "Machados que dominam a partida",
+      "file": "capitulos/387 - Machados que dominam a partida.txt"
+    },
+    {
+      "source": 388,
+      "chapter": 388,
+      "title": "Uma chamada para jogos dos Três Reinos",
+      "file": "capitulos/388 - Uma chamada para jogos dos Três Reinos.txt"
+    },
+    {
+      "source": 389,
+      "chapter": 389,
+      "title": "Estratégia em um mundo de milhares de jogadores",
+      "file": "capitulos/389 - Estratégia em um mundo de milhares de jogadores.txt"
+    },
+    {
+      "source": 390,
+      "chapter": 390,
+      "title": "As quartas de final estão definidas",
+      "file": "capitulos/390 - As quartas de final estão definidas.txt"
     }
   ],
-  "notes": "Leitor local com 345 capítulos consecutivos, 1–345. TXT 346–352 pendentes de revisão e integração por publique. Próximo envio 353; próxima revisão a partir do 346. Títulos provisórios preservados. Commit e push manuais."
+  "notes": "Leitor local com 390 capítulos consecutivos, 1–390. Lote 366–390 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 391. Títulos provisórios e incertezas preservados. Commit e push manuais."
 }

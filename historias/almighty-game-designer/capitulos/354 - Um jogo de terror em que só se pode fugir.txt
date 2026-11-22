@@ -1,0 +1,113 @@
+Capítulo 354 — Um jogo de terror em que só se pode fugir
+
+Na sala de reuniões, todos, exceto os integrantes da equipe de League of Legends, estavam reunidos, esperando Chen Mo anunciar o novo jogo.
+
+É claro que Qian Kun estava presente. Embora fosse o principal responsável pelas atualizações de League of Legends, também cuidava dos valores numéricos e da estrutura das fases do novo projeto. Por isso, precisava participar.
+
+Depois de tanto tempo de treinamento, Chen Mo sentia que Qian Kun estava cada vez mais confiável. Tirando aquela obsessão meio adolescente por arrancar dinheiro dos jogadores, ele já era um designer muito competente em todos os outros aspectos.
+
+— Gerente, anuncie logo o novo jogo! — pediu Su Jinyu, impaciente.
+
+— Isso mesmo, gerente — disse Zhou Hanyu. — Você só falou que queria montar um estúdio de captura de movimentos. Vai fazer um RPG ou um jogo de aventura em primeira pessoa?
+
+Zheng Hongxi também estava cheio de expectativa.
+
+— Sim, acho que com certeza vai ser um RPG. Afinal, os jogos de interpretação de papéis são os que realmente demonstram a capacidade de uma empresa!
+
+Qian Kun claramente discordava.
+
+— Não, não, não! Como assim só os RPGs demonstram a capacidade de uma empresa? Quem faz isso são, obviamente, *os jogos que fazem os jogadores gastar dinheiro*!
+
+Lin Xiao olhou para Qian Kun com uma expressão sombria. Era evidente que o responsável pelo projeto de League of Legends tinha uma obsessão enorme por fazer os jogadores gastarem. Isso deixava Lin Xiao, que gostava de jogar League of Legends, bastante preocupada.
+
+Chen Mo riu. Estava claro que ninguém tinha adivinhado qual seria o próximo jogo, e isso o deixou muito satisfeito.
+
+“Se vocês adivinhassem tão facilmente, onde ficaria a minha moral como chefe?”
+
+Chen Mo tocou no teclado do notebook, e um documento apareceu na tela.
+
+Documento de design de Outlast.
+
+— Outlast? — Su Jinyu pareceu confusa. — É parecido com Don't Starve? Uma versão de Don't Starve para VR?
+
+Zheng Hongxi acariciou o queixo.
+
+— Pelo nome, também parece um jogo de sobrevivência. Mas não deve ser do mesmo tipo que Don't Starve. A rigor, o foco de Don't Starve é sobreviver, enquanto a ideia de fugir...
+
+— Parece um... — começou Qian Kun.
+
+Zhou Hanyu também parecia não acreditar.
+
+— J-jogo de terror?
+
+Chen Mo fez um gesto de aprovação.
+
+— Muito bem. Isso mesmo, é um jogo de terror.
+
+Todos ficaram sem palavras.
+
+Obviamente, ninguém esperava aquele gênero. Praticamente nenhuma grande desenvolvedora do país queria se envolver com jogos de terror, nem mesmo a Emperor Dynasty Entertainment ou a Zen Entertainment.
+
+As empresas nacionais que produziam jogos de terror costumavam ser pequenas desenvolvedoras ou designers independentes. Como achavam que sua capacidade de criação não seria suficiente para competir em outros gêneros, acabavam escolhendo o terror.
+
+Os jogos dessas empresas geralmente só tinham uma fachada de terror. Eram como Casa Abandonada: davam uma rodada de sustos e pronto.
+
+As razões eram complexas, mas, no fim das contas, se resumiam à aprovação e à falta de experiência acumulada.
+
+Sobre a aprovação, nem era preciso explicar. A maioria das desenvolvedoras não queria arriscar com algo que esbarrava nos limites do permitido.
+
+Quanto à experiência, as empresas nacionais não tinham uma base sólida na produção de jogos de terror. Os designers não compreendiam bem a psicologia dos jogadores, de modo que era fácil perceber os truques de seus jogos. Eles não davam medo nenhum e podiam até virar motivo de deboche.
+
+Todos ficaram bastante surpresos ao saber que Chen Mo planejava fazer um jogo de terror. Mas isso também despertou a curiosidade da equipe.
+
+Afinal, os jogos de Chen Mo sempre superavam suas expectativas e sempre faziam sucesso. Por isso, todos queriam saber que tipo de jogo de terror ele faria dessa vez.
+
+Chen Mo olhou para o grupo.
+
+— Por enquanto, o terror é um gênero de nicho na China. Mas é um gênero muito interessante, que já pode ser considerado um clássico dos jogos.
+
+— É como o meu jogo anterior, Cavando para a Ascensão. O jogo em si não é muito amigável para a maioria dos jogadores, mas é muito divertido de assistir e rende bastante assunto.
+
+— Com jogos de terror, acontece o mesmo. Talvez a maioria das pessoas não tenha coragem de jogar. Mas, desde que sejam bem-feitos, eles logo dominam as plataformas de transmissão ao vivo e os sites de vídeos. Espalham-se muito depressa e ficam muito conhecidos.
+
+— Agora vou explicar brevemente o conceito de design deste jogo. Ele está dividido em quatro partes: os controles, a história, os recursos necessários e o controle do estado psicológico do jogador.
+
+Chen Mo começou a explicar a jogabilidade central e os principais atrativos de Outlast.
+
+Na verdade, embora os grandes jogos AAA parecessem produções sofisticadíssimas, seus processos eram relativamente padronizados. Era como fabricar um produto numa linha de montagem: desde que os riscos fossem controlados e houvesse disposição para investir, era quase certo que o resultado ficaria acima de um nível mínimo de qualidade.
+
+Por exemplo, os grandes jogos AAA eram como a indústria pesada. Exigiam etapas trabalhosas e processos complexos, com uma sequência de produção relativamente fixa, alto investimento e alto risco.
+
+Já jogos competitivos online, como League of Legends e PUBG, eram como o setor de tecnologia da informação. A barreira técnica não era particularmente alta; o essencial estava na criatividade, nas ideias, na divulgação e assim por diante.
+
+O motivo pelo qual muitas grandes desenvolvedoras estrangeiras conseguiam manter um ritmo estável de um grande jogo AAA por ano era justamente esse modelo de produção relativamente padronizado.
+
+A Naughty Dog, por exemplo, havia criado The Last of Us e Uncharted. Os dois jogos pareciam muito diferentes em história e gênero, mas tinham uma maneira semelhante de jogar. Bastava mudar o roteiro, os cenários, os personagens e outros elementos para produzir outro jogo com relativa facilidade.
+
+Por isso, Chen Mo se concentrou em explicar os diferenciais de Outlast.
+
+Por exemplo, era um jogo de parkour... quer dizer, de terror, no qual a capacidade de combate do protagonista era zero e ele só podia fugir.
+
+Outro exemplo eram a visão noturna da filmadora do protagonista e a coleta de pilhas, dois elementos muito importantes.
+
+Essas características o diferenciavam claramente dos jogos de terror existentes, então Chen Mo destacou cada uma e as explicou em detalhes.
+
+Ele dividiu o jogo inteiro em várias partes. Em cada grande cenário, o jogador ativaria eventos diferentes depois de cumprir cada objetivo secundário.
+
+O ritmo alternaria entre momentos lentos e rápidos. Só depois de permitir que o jogador relaxasse seria possível elevar sua tensão ao máximo.
+
+Quando a apresentação do conceito terminou, todos estavam muito animados.
+
+— Uau, gerente, esse jogo de terror é incrível! — disse Zheng Hongxi. — É ainda mais empolgante do que os jogos que fizemos antes!
+
+— Uma superprodução! — exclamou Su Jinyu. — Se isso virar um jogo de VR, os jogadores não vão morrer de medo?
+
+— Não sei se o jogo vai ficar famoso, mas a nossa empresa com certeza vai... — disse Zhou Hanyu. — A única empresa do país capaz de fazer jogos de terror? Só de pensar nesse título já me sinto bem.
+
+— Que tal transformarmos uma das salas da empresa num hospital psiquiátrico, como recordação?
+
+— Sai dessa! — gritaram todos.
+
+Fu Guangnan franziu a testa.
+
+— Gerente, esse jogo parece bom. Mas será que consegue passar pela aprovação???

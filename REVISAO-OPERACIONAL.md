@@ -8621,3 +8621,476 @@ Fonte: anexo ef4ee1fc-7367-448b-9517-848e522018d4. Tradução integral; data edi
 Fonte chama alvo final hidden will e depois dissociative identity disorder/other personality: interpretação outra personalidade escondida entre almas marcada em itálico na primeira ocorrência. Final confirma personalidade alternativa, Rosa Vermelha imaginária e casa comprada por essa personalidade. Esquizofrenia é a explicação do roteiro fictício, preservada sem converter em diagnóstico médico ou equiparar clinicamente transtornos. Expressões high energy traduzidas impacto dos sustos, plot kills como cenas obrigatórias; referência a dor nos dedos e partes íntimas preservada, sem omissão. Nenhum uso do Bloqueio do Medo acrescentado; nenhuma transição a Outlast ou produção nova inventada.
 
 UTF-8, par de itálicos e sequência 1–352 conferidos; leitor até 345 preservado. TXT 346–352 pendentes, próximo 353. Backup dos quatro registros com SHA256: backups/agd-capitulo-352-20261121T225430500614Z/. Commit e push manuais.
+
+
+## Capítulo 353 — Preparando o estúdio de captura de movimentos — 21/11/2026
+
+Fonte: anexo c80f402e-391c-41fc-af81-23c8395745c2. Tradução integral; data editorial removida; título descritivo provisório. Casa Abandonada e Outlast mantidos como jogos distintos. Chen encerra crítica à trama e prepara produção Outlast: primeiro PC, depois melhoria de recursos e adaptação VR. Refreshing experience normalizado modo de vigília por contexto 350–351, contraposto à imersão total. Monitoramento e desconexão são tecnologia ficcional descrita pelo narrador, sem alteração de sistemas reais. Expressões depreciativas iniciais sobre transtornos e deficiência mantidas como frase do texto, não comentário editorial.
+
+Zhou Hanyu pesquisa captura de movimentos e contata Guo Feng, da Dazzling Aurora, já conhecida. Chen aluga andar no prédio comercial da Dazzling Aurora, não muda loja nem compra outro edifício. Recrutamento inicial concluído; equipamentos cerca de 10 milhões de yuans, sem contradição numérica demonstrável ou escala inventada; 1–2 atores estrangeiros para dublagem não equivale a limitar todo elenco de captura a duas pessoas. Padre e Mãos de Tesoura mantidos como referências descritivas, sem inventar nomes próprios. Comentários técnicos/históricos preservados como exposição narrativa, sem pesquisa externa necessária à tradução. Anúncio à equipe ainda ocorrerá. Sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–353 conferidos; leitor até 345 preservado. TXT 346–353 pendentes; próximo 354. Backup de quatro registros com SHA256: backups/agd-capitulo-353-20261121T225554591714Z/. Commit e push manuais.
+
+
+## Capítulo 354 — Um jogo de terror em que só se pode fugir — 21/11/2026
+
+Fonte: anexo 214adc92-180b-481d-8113-923eb6879793. Tradução integral; data editorial removida; título descritivo provisório. Qian Yong normalizado Qian Kun e Chen Zhao normalizado Chen Mo. Qian participa apesar de equipe LoL ausente: atualizações LoL e valores/estrutura de fases do projeto novo. Fonte trunca sentido da defesa de Qian (using games): jogos que fazem jogadores gastar dinheiro é interpretação em itálico, sustentada pela reação imediata de Lin Xiao e obsessão anterior por monetização, não recuperação de original chinês confirmada. Lin Xiao distinta de Lin Xue.
+
+Escape/Outlast normalizados Outlast; fala seguinte mantém ideia de fugir para preservar raciocínio do título. Cavando para a Ascensão recupera nome estabelecido; doomsday of the United States/mysterious sea normalizados The Last of Us/Uncharted, Naughty Dog preservada. PUBG é comparação narrativa, não lançamento por Chen neste mundo. Analogia indústria pesada/IT e afirmações sobre produção são exposição do narrador, não validação técnica externa. Protagonista Outlast sem combate, fuga, filmadora com visão noturna e pilhas; ritmo alterna relaxamento/tensão. Aprovação condicional já obtida em 349, mas equipe ainda pergunta se passará; não inventar nova concessão ou ignorar condições. Piada da sala hospital sem atribuir falante ausente na fonte. Nenhum corte, omissão ou complemento editorial.
+
+UTF-8, itálicos e sequência 1–354 conferidos; leitor até 345 preservado. TXT 346–354 pendentes; próximo 355. Backup dos quatro registros com SHA256: backups/agd-capitulo-354-20261121T225719130172Z/. Commit e push manuais.
+
+
+## Capítulo 355 — O anúncio do primeiro Mundial — 21/11/2026
+
+Fonte: anexo 5f556b15-9fe2-4529-9feb-7e49994b4564. Tradução integral; data editorial removida; título descritivo provisório. Chen Zhao normalizado Chen Mo. Chen informa à equipe a aprovação de Outlast, defendendo ironicamente a mensagem crítica; fala não revoga condições de 349. Classificação maiores de 18 mantida. Adults who can distinguish between the two contextualizado distinguir ficção/realidade; purificação/elevação são discurso irônico do personagem. Prazo desenvolvimento fim de setembro, duração cerca de 2 horas para jogador experiente; não confundir com 1 hora Casa Abandonada do capítulo 352 nem supor lançamento concluído. Poções de Reprodução de Memórias e livros de arquitetura mantidos, sem inventar quantidades consumidas.
+
+Em julho ocorre anúncio OFICIAL do primeiro Mundial de LoL na China em outubro, distinto de planejamento conhecido dos clubes em 347 e de primeira temporada de liga nacional futura. Fonte first season interpretada primeiro Campeonato Mundial, sustentada por World Finals e calendário de outubro repetidos no próprio texto. Três meses até evento como intervalo aproximado julho–outubro, não data exata inventada. Falas perguntam local/convites; não são prova de que preparativos inexistam. Afirmação antiga sobre convites por terceiros não implica abolir convites neste Mundial: próprio narrador confirma convites às equipes. Final completo no prestígio do título mundial; sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–355 conferidos; leitor até 345 preservado. TXT 346–355 pendentes; próximo 356. Backup dos quatro registros com SHA256: backups/agd-capitulo-355-20261121T225834739743Z/. Commit e push manuais.
+
+
+## Capítulo 356 — Um palco para o Mundial — 21/11/2026
+
+Fonte: anexo ba26ae4e-4eaa-4d13-a25b-3cb3529a5c96. Tradução integral; data editorial removida; título descritivo provisório. Yan Huang Information Technology é organizadora contratada por Chen, não desenvolvedora do jogo. Blazing glory/blazing fire/fiery Emperor normalizados Yan Huang pelo papel repetido da mesma empresa; não criar outras organizadoras. Escritórios Xangai/Pequim; arena estúdio multiuso décimo andar Grand Plaza em Xangai. S1 Mundial em outubro; aluguel pelo menos 1 ano permite LPL primavera S2 futura, não temporada já realizada no presente. Comparação com layout LPL preservada como modelo, sem inventar evento anterior.
+
+Valores preservados: 90 mil yuans/dia de aluguel, projetor holográfico 15 metros/>700 mil yuans, cerca de 20 estatuetas. Sem contradição aritmética demonstrável: custo projetor menor que aluguel anual, não alterar para milhões. Doze equipes estrangeiras confirmadas + quatro nacionais a selecionar; dez equipes nacionais existentes. Cable war interpretado disputas marcadas por problemas de conexão em itálico; não afirmar sabotagem ou episódio histórico específico. B/P escolhas e banimentos; Garen/Katarina/Twisted Fate/Teemo normalizados.
+
+Outlast lançamento MARCADO domingo 23 setembro, ano não informado; não confundir com prazo fim setembro/lançamento já ocorrido. Aprovação avança apesar de resistência Comitê; Zhang e Qiao exigem atenção ao retorno público, sequência futura condicionada. Improve VR performance traduzido avanço das formas de expressão na plataforma, pelo contexto artístico/projeto, sem inventar benchmark. Final completo sobre espaço do terror em VR. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–356 conferidos; leitor até 345 preservado. TXT 346–356 pendentes; próximo 357. Backup dos quatro registros com SHA256: backups/agd-capitulo-356-20261121T225959405124Z/. Commit e push manuais.
+
+
+## Capítulo 357 — Ingressos para o Mundial — 21/11/2026
+
+Fonte: anexo 2898147c-dcbb-4e49-8640-f4b0a3c8b37b. Tradução integral; data editorial removida, setembro narrativo preservado; título descritivo provisório. Brilliant flame/blazing glory normalizados Yan Huang pelo contexto 356; Kevin Zhang/Kaiwen Zhang = Zhang Kaiwen, presidente da empresa, não Zhang Zhongxiang do Comitê. Grand Square normalizado Grand Plaza, mesmo local de 356. Chen Zhao = Chen Mo. Circuito contínuo para série de competições, não criar nova franquia de jogo.
+
+Preços preservados: referência 100–300/intermediário150; anterior primeira fila300; basquete500–800; novos ingressos180–580; 2–3mil é opinião potencial de Chen, não preço cobrado. Sete milhões globais conflita com >8milhões ativos em julho346; mantido sete milhões em itálico por ausência de métrica que resolva contradição. Não inferir queda de público nem elevar valor arbitrariamente. Frase fonte vincula 8setembro ambiguamente ao evento: interpretada divulgação em 8setembro em itálico, sustentada por Mundial outubro347/355/356 e venda setembro. Não antecipar torneio para setembro. Datas reais/ano não acrescentados.
+
+Dezesseis equipes corresponde12estrangeiras+4nacionais. Ingressos eletrônicos associados à identidade, não sistema real implementado por nós. Champions blade Raven normalizado Riven Campeonato; card master = Twisted Fate. Skin para espectadores presenciais, estatueta adicional VIP, compra de ícones limitada a2porinvocador e baú condicional vitória. Critérios/quantidades não ampliados. Final completo no espanto com investimento; sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–357 conferidos; leitor até 345 preservado. TXT 346–357 pendentes; próximo 358. Backup dos quatro registros com SHA256: backups/agd-capitulo-357-20261121T230122531407Z/. Commit e push manuais.
+
+
+## Capítulo 358 — Ingressos esgotados e uma surpresa de terror — 21/11/2026
+
+Fonte: anexo 4ce95fd2-f21a-41f9-90ad-a981d252fc9e. Tradução integral; data editorial removida; datas narrativas 20 e 23 de setembro preservadas; título descritivo provisório. Miles square/Yuan da square normalizados Grand Plaza, mesmo local 356–357; Chen Zhao normalizado Chen Mo. Ingressos esgotam em uma semana, ainda sem competição realizada. Valores180/300/580 mantidos; doubled traduzido quase dobrou conforme 580vs300, sem alterar cifras. Cambistas/revenda impedida são explicação narrativa do sistema eletrônico, não garantia técnica externa. Escassez futura 2–3 anos é previsão de Chen.
+
+20setembro anúncio/teste antecipado na loja; lançamento geral23setembro ainda futuro, não confundir com Mundial outubro. Casa Abandonada distinta Outlast. Artes conceituais, sem vídeo divulgado; cenas hospital/sangue/cadáveres/paciente sob cama mantidas. Fonte afirma Minecraft jogo VR anterior e logo chama Outlast de primeiro jogo VR em três falas: preservadas três referências em itálico, registrando contradição. Não inventar primeiro realista/primeiro terror para esconder problema da fonte; contexto confirma Minecraft anterior. Fala chama Minecraft pequeno, mas narrador recorda recordes de vendas: avaliação do personagem não altera histórico. Final completo na piada de buscar cadáver, sem morte real nova narrada. Sem corte, omissão ou complemento editorial.
+
+UTF-8, três pares de itálicos e sequência 1–358 conferidos; leitor até 345 preservado. TXT 346–358 pendentes; próximo 359. Backup dos quatro registros com SHA256: backups/agd-capitulo-358-20261121T230244879789Z/. Commit e push manuais.
+
+
+## Capítulo 359 — Coragem para experimentar Outlast — 21/11/2026
+
+Fonte: anexo 38f5f99c-efb7-4b6f-bc76-9bc1b96c7e05. Tradução integral; data editorial removida; título descritivo provisório. Novo Zhao Xuhui, instrutor academia1,90m na capital, distinto Zhao Lei/Zhao Zihao/Zhao Yunting. Zou Zhuo cliente habitual masculino. Visita à tarde na demonstração antecipada; released não significa lançamento geral antes23setembro. Estátua Arthas, recepção1ºandar/VR3ºandar/cápsula individual para cada um. Não acrescentar multiplayer/voz compartilhada no jogo; fazem companhia na visita.
+
+Sete ou oito jogadores voltaram ao saguão após5min; relato de maioria desistindo10min não estabelece média auditada nem contradição com todos. Zou quer aguentar20min; Zhao pensa pelo menos1h, não duração efetiva de partida ou conclusão. Interface mostra Minecraft+Outlast, reforça erro primeiroVR das falas358. Refreshing/clear/awakening experience normalizados modo de vigília, em contraste imersão total. Primeiro acesso só vigília/Fácil; terminar desbloqueia imersão e dificuldades maiores.
+
+Avisos ficcionais integrais preservados: triagem física, dor~3%, saída livre com progresso salvo, desconexão após exceder alerta5segundos, promessas de ausência de risco. São texto do sistema do jogo na história, não garantias médicas nossas nem recursos reais da aplicação. Nenhuma verificação médica externa ou alteração funcional feita. Começo apenas menu/avisos; não inventar chegada ao hospital ou susto real de Zhao. Final completo nas reclamações dele, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–359 conferidos; leitor até 345 preservado. TXT 346–359 pendentes; próximo 360. Backup dos quatro registros com SHA256: backups/agd-capitulo-359-20261121T230411695841Z/. Commit e push manuais.
+
+
+## Capítulo 360 — A primeira entrada no hospital — 21/11/2026
+
+Fonte: anexo 1164f691-0f6b-4bee-a236-e1de1f1282fa. Tradução integral; data editorial removida; título descritivo provisório. Miles apushe normalizado Miles Upshur. Mountain mental hospital normalizado Hospital Psiquiátrico Mount Massive pelo letreiro MOUNT MASSIVE ASYLUM explícito no próprio capítulo. Não novo hospital ou protagonista distinto. Anti-explosive military vehicles contextualizado veículos militares blindados, sem modelo específico. Pilha/filmadora/visão noturna mantidos, não lanterna inventada.
+
+Entrada primeiro cinematográfica carro/e-mail, controle livre só após sair. Não pode combater; jornalista investiga por e-mail, sem detalhes remetente ausentes. Portão aberto/guarita vazia, porta administrativa trancada, abertura lateral/escada/andaime/janela, luz apaga, TV liga, duto e cadáver pendurado: ordem integral preservada. No começo não kill monsters é frase corrompida: interpretada não apareceriam monstros que realmente pudessem matar o personagem em itálico; é expectativa de Zhao, não garantia do narrador. Não inventar regra global de invulnerabilidade. Corpo final descrito como cadáver de cabeça para baixo lançado à frente, sem acrescentar ataque vivo ou ferimento.
+
+Final completo no grito/tremor/suor frio de Zhao. Não concluir desistência, desconexão ou tempo de partida ausente. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–360 conferidos; leitor até 345 preservado. TXT 346–360 pendentes; próximo 361. Backup dos quatro registros com SHA256: backups/agd-capitulo-360-20261121T230533084372Z/. Commit e push manuais.
+
+
+## Capítulo 361 — Sem armas e sem saída — 21/11/2026
+
+Fonte: anexo f650d565-62ec-4150-9da2-d00889fa5f77. Tradução integral; data editorial Oct21 removida, sem tratar como data da narrativa; título descritivo provisório. Dawn normalizado visão de Zhao Xuhui; Yingluo ruído do texto em grito, sem novo nome de personagem. Little Pig traduzido Porquinho. Homem pendurado inicialmente tomado por morto fala, sem afirmar ressurreição; padre sem nome próprio, gordão sem nome acrescentado. Primeiro susto cadáver seguido corredor/passagem, agarrão braço/pescoço e queda segundo andar para saguão1ºandar; impacto tátil leve comparado a celulares vibrando, sem lesão física real inventada.
+
+Crença de Zhao de ausência de monstros desmentida pela cena, não regra de segurança mudada. Estranheza medieval e hipótese mutação são pensamentos do jogador, não explicação confirmada do jogo. Objetivo sala segurança/destrancar saída; cartão acesso, cadeira rodas, computador, padre corta energia, pancadas, esconderijo armário e perseguidor abre armário vizinho. Farming monsters contextualizado aparecimento de monstro, não farmar experiência. No other energy traduzido sem outros grandes sustos. Não atribuir falas do padre ao protagonista nem inventar aconselhamento externo.
+
+Final completo: Zhao permanece escondido; jogo não capta voz externa para afetar partida, mas ele faz silêncio. Isso não elimina voz roteirizada protagonista nem comunicação entre cápsulas de outro jogo. Não afirmar fuga, morte, desistência ou desconexão. Sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–361 conferidos; leitor até 345 preservado. TXT 346–361 pendentes; próximo 362. Backup dos quatro registros com SHA256: backups/agd-capitulo-361-20261121T235248987179Z/. Commit e push manuais.
+
+
+## Capítulo 362 — Terror compartilhado — 21/11/2026
+
+Fonte: anexo bbb27dee-6766-416d-924c-c3ec1aefc210. Tradução integral; data editorial removida; título descritivo provisório. Gordão sai sem encontrar jogador; Zhao vai ao porão. Fonte diz duas air pumps: mantidas bombas de ar, não corrigir para combustível por conhecimento externo do jogo. Gerador+2bombas+interruptor em4locais. Zhao vê menos20min no sistema e desiste antes Zou; ambos voltam ao saguão, chá com leite e grupo de jogadores. Não confundir saída voluntária com desconexão automática nem afirmar conclusão do gerador: Zhao só relata ter ligado2bombas.
+
+Duração4–6horas média/2–3mínimo são estimativas na fala; cerca1/6 é comparação de20min com mínimo2h, não fração exata comprovada do progresso. Mantidos os números sem inflar nem tentar conciliar com4–6 pela invenção de tempo. Wooden nails long interpretado porrete comprido cheio de pregos em itálico; não atribuir nome próprio ou fundir perseguidor do porão ao gordão sem fonte. High energy traduzido grandes sustos, não energia literal. Profissional do terror é autoelogio de Zhao, profissão real continua instrutor academia.
+
+Grupo divulga jogo por postagens no fórum e quer atrair outras pessoas; são ações/personagens da narrativa, sem mensagens ou publicações externas nossas. Final Zhao sente alívio e convida nova tentativa, sem afirmar nova partida já começada. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–362 conferidos; leitor até 345 preservado. TXT 346–362 pendentes; próximo 363. Backup dos quatro registros com SHA256: backups/agd-capitulo-362-20261121T235406752350Z/. Commit e push manuais.
+
+
+## Capítulo 363 — Um ciclo de curiosidade e sustos — 21/11/2026
+
+Fonte: anexo 64a514d3-3370-463a-b2c4-95d9cddc76d7. Tradução integral; data editorial removida; data narrativa23setembro preservada; título descritivo provisório. Thunderbolt Gaming plataforma/fórum e Moyu transmissões mantidas distintas; Fish-catching normalizado Moyu; Xue Lin = Lin Xue, feminina. Comentários10min/menos20min e grupo volta15min são relatos distintos, não média uniforme ou contradição a corrigir. Cobaias é metáfora novos visitantes, não experimentação literal. Referência remédio coração é hipérbole de participante, sem recomendação médica acrescentada.
+
+Jogo oficialmente lançado23setembro, após demonstração na loja358–362. Expelled primeiros20min interpretado obrigada a sair em itálico: fonte não esclarece abandono por medo versus desconexão automática, não afirmar que todo jogador foi expulso pelo sistema. Antes do lançamento, posts contraditórios são depoimentos deliberadamente mentirosos ou sinceros dos personagens; não falha de continuidade. Provérbio primeiro dia/décimo quinto adaptado escapar uma vez mas não para sempre. Final Lin aceita experimentar, abre cápsula, público prevê sustos; não inventar partida iniciada nem susto efetivo da streamer. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–363 conferidos; leitor até 345 preservado. TXT 346–363 pendentes; próximo 364. Backup dos quatro registros com SHA256: backups/agd-capitulo-363-20261121T235527676244Z/. Commit e push manuais.
+
+
+## Capítulo 364 — Uma onda de gritos nas transmissões — 21/11/2026
+
+Fonte: anexo 24325219-fca1-482f-83cf-6936163062f1. Tradução integral; data editorial removida; título descritivo provisório. Xue Lin normalizado Lin Xue feminina; Fish-catching normalizado Moyu; Escape normalizado Outlast. Hospital Mount Massive mantido. Transmissão convencional adapta campo visual para tela PC/celular/TV: não trocar software para versão PC jogável. Cápsulas espectadores sincronizam visão/audição/tato, sem controle do personagem; recursos do universo ficcional, não tecnologia real da aplicação ou teste efetuado por nós. Chat em janela canto superior direito do streamer, não elemento do hospital.
+
+Lin segue abertura/luz apaga/visão noturna/avanço; piada endereço interrompida, nenhum endereço inventado. Falas público sobre ausência fantasmas e sintomas dos streamers mantidas como comentários, não fatos médicos validados ou diagnóstico. Cerca3min é provocação sobre desistência precoce; quase metade salas Moyu transmitindo à noite, não porcentagem exata nem prova de todas as plataformas. Fonte sujeito he da observação noturna não identificado: narração impessoal, sem atribuir Chen ou outro personagem. Yingluo ruído do texto convertido em grito, não personagem. Não vincular todos os sustos finais a Lin: montagem de diversos streamers. Final completo em gritos/uivos, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–364 conferidos; leitor até 345 preservado. TXT 346–364 pendentes; próximo 365. Backup dos quatro registros com SHA256: backups/agd-capitulo-364-20261121T235652378062Z/. Commit e push manuais.
+
+
+## Capítulo 365 — Uma ajuda suspeita — 21/11/2026
+
+Fonte: anexo b3ede0f1-f7f6-4f2d-ba7a-13dbd726bea6. Tradução integral; data editorial removida; título descritivo provisório. Xue Lin normalizada Lin Xue; Fish-catching normalizado Moyu; hospital Mount Massive preservado. Público sai cápsulas em menos10min, segue em telas convencionais; sensações táteis compartilhadas seguem364. Stabbed in back contextualizado cutucada nas costas no exemplo de susto de espectador concentrado, não ataque literal acrescentado. Popularidade da seção VR para PC refere categorias de transmissão/público, não prova de novo lançamento PC neste capítulo. Firmes refere recusa dos poucos streamers que não caíram na curiosidade, não terminar jogo.
+
+Lin jogou1h30 com pausa20min pelo caminho; fonte não esclarece inclusão da pausa no total, não inventar soma1h50 nem tempo líquido1h10. Esgotos escuros→ala masculina mais iluminada→duto→perseguição2ou3pacientes por pelo menos3min→pequeno elevador→figura de óculos/máscara danificada. Navegação Passiva é piada do narrador sobre encontrar saídas, não poder sobrenatural do sistema da personagem. Presentes e comentário sobre gemidos/respiração mantidos sem transformar em cena sexual. Figura final tronco nu/trapo descrita integralmente, sem sexualização acrescentada nem omissão.
+
+Figura sugere resgate mas revelação inquietante encerra capítulo; não acrescentar nome do médico, tortura posterior, captura já consumada ou conclusão do jogo. Expressões sobre morte/sintomas são comentários e hipérboles narrativas, não validação médica externa. Final completo na ironia médico/paciente, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–365 conferidos; leitor até 345 preservado. TXT 346–365 pendentes; próximo 366. Backup dos quatro registros com SHA256: backups/agd-capitulo-365-20261121T235814528763Z/. Commit e push manuais.
+
+
+## Revisão e publicação offline 346–365 — 21/11/2026
+
+Vinte capítulos revisados com a continuidade e os anexos fornecidos, agora integrados integralmente no leitor 1–365. Nenhum TXT pendente em Almighty Game Designer; próximo envio/revisão366. Sem renumeração, fusão ou complementos de finais. Aplicação, Clube, progresso e preferências preservados; commit/push/implantação remota manuais.
+
+Sequência: fracasso Cataclismo Ancestral e consolidação LoL346; seleção clubes/sorteios347; itens/Outlast/proposta Comitê348; aprovação condicional349; teste Casa Abandonada350–352; estúdio captura353; reunião Outlast354–355; organização Mundial356; venda ingressos357/esgotamento358; Zhao e Zou experimentam359–362; lançamento23setembro/transmissão Lin363–365. Mundial outubro, preparação julho e ingressos setembro; anúncio interpretado8setembro357 permanece assinalado. Condições de aprovação e proteçãoVR continuam, sem transformar falas ficcionais em garantias clínicas.
+
+Ajustes desta revisão:
+- 347: Dispositivos de Aura de Medo → Dispositivos de Bloqueio do Medo, descrição explícita348 confirma supressão do medo por30min, não causá-lo.
+- 362: só passei de um sexto?! → só avancei um sexto?!, correção de sentido da progressão sem mudar quantidade.
+- Demais18TXT preservados byte a byte. Títulos descritivos provisórios mantidos. Nenhum arquivo funcional da aplicação alterado.
+
+Conferência numérica/contextual:
+- 347: 12clubes avaliados/10selecionados;4equipes por região China/Coreia/Europa/América=16Mundial. Cerca600milhõesyuans receitaLoL não lucro líquido. Recarga50milhões→50mildiamantes e500sorteios, mas prêmios listados somam600; contradição da fonte mantida em itálico, sem solução inequívoca para alterar recarga ou lista. NomesNRG/NPC/Northend ainda não confirmados, preservados em itálico.
+- 348: BloqueioMedo30min/AuraReduçãoInteligência10min. Tentativa hipotética Jin3min não uso confirmado; dispositivo ativado349 durante reunião. JogoCasaAbandonada351não exigeBloqueioMedo.
+- 350: duas licenças398yuans total, nota3,7. Empresa financeira deZhao conflita antiga empresa metais: preservado em itálico, sem inventar trocaemprego. CasaAbandonada1horaChen/3–5horasnovatos352 não duraçãoOutlast.
+- 353: equipamento captura10milhõesyuans, andar alugado no prédioDazzlingAurora, não nova loja;1–2atores dublagem não total de intérpretes. PrazoOutlast fimsetembro355, estreia marcada23setembro356, teste antecipado20setembro358 e lançamento efetivo363.
+- 356: aluguel90milyuans/dia por pelo menos1ano; projetor15metros/>700milyuans não contradiz aluguel. Cerca20estatuetas;12estrangeiras+4nacionais; futura primaveraLPLS2 não primeira liga já realizada.
+- 357: ingressos180–580yuans; referência anterior100–300/intermediário150 e basquete500–800;2–3mil preço hipotético. Sete milhõesglobais conflita >8milhõesativosjulho346: mantido itálico, sem redefinir métricas ou inventar queda. 8setembro interpretado divulgação, Mundial permaneceoutubro.
+- 358: três falas primeirojogoVR contradizem Minecraft jálançado; preservadas em itálico sem inventar qualificativo ausente. 359confirma interfaceMinecraft+Outlast. ComentárioMinecraftpequeno não apaga recordesvendas.
+- 359–362: dor3%/alerta5segundos são parâmetros ficcionais. 5/10/15/menos20min relatos distintos, não médiaúnica. Dois locaisbombas+interruptor+gerador=4locais. Menos20min e1/6 é estimativa comparada mínimo2horas; média4–6horas não tempojájogado. Bombasdear preserva fonte, sem corrigir para combustível externamente.
+- 363–365: transmissão emVR sincroniza perspectiva/som/tato, não controle do espectador. CenaLin esgotos→ala masculina→perseguição≥3min→elevador/figura suspeita. 1h30com pausa20min não explicita inclusão; não somar tempo arbitrário. Não inventar nome médico, tortura posterior ou final do jogo. NavegaçãoPassiva é humor, não habilidade sobrenatural literal.
+
+Outras ambiguidades assinaladas continuam preservadas: interpretação fala monetizaçãoQian354, interrupçõesconexão356, regraimaginadaZhao360, porretecompregos362, saída por medo/desconexão363. Personagens e vozes normalizados pelo contexto: ChenZhao=ChenMo, QianYong=QianKun, XueLin=LinXue, variantesYanHuang/Moyu/GrandPlaza; ZhaoXuhui novo personagem distinto deZhaoLei. Fonte dos20capítulos e finais registrada em CONFERENCIA-FONTES.json. Nenhuma cena omitida ou narrativa adicional criada.
+
+Backup prévio29arquivos SHA256: backups/agd-publicar-revisar-346-365-20261122T001710413366Z/. Sete arquivos protegidos da aplicação/Clube com hashes; primeiros345objetos do leitor preservados. Validação será registrada ao concluir.
+
+
+Validação concluída: cinco verificações de sintaxe JavaScript, node tests/reader.test.cjs e git diff --check aprovados. Todos os365TXT comparados integralmente ao leitor; catálogo, limites, navegação móvel simulada, retomada e isolamento entre obras conferidos. Primeiros345objetos idênticos ao backup;18novosTXT preservados byte a byte, somente347/362revistos. Vinte e nove backups SHA256, vinte fontes e sete arquivos protegidos íntegros. Sem commit/push/deploy ou alterações funcionais na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.
+
+
+## Capítulo 366 — Agora é a vez do criador — 21/11/2026
+
+Fonte: anexo 4bab701b-5dc6-4ca7-bafd-2b9b104c8c68. Tradução integral; data editorial removida; título descritivo provisório. Xue Lin normalizada Lin Xue, Chen Zhao normalizado Chen Mo. Continuação365: suposto salvador atordoa protagonista/senta e amarra na cadeira de rodas/corredor/porta e provocação/ferramentas/corte dos dedos. Plot kill traduzido derrota obrigatória do roteiro, não morte definitiva. Nome médico não fornecido, não acrescentado. Fala incoerente I want to give in/You guys/I believe in you preservada literalmente em itálico, não reconstruir sermão monetário por conhecimento externo.
+
+Violência do jogo preservada integralmente: tesoura>meio metro, indicador DIREITO e anelar ESQUERDO decepados; dor tátil simulada leve mas persistente. Não lesão real: Lin sai e confirma dedos intactos. Não omitir descrição nem transformar em amputação física da jogadora. Desiste voluntariamente, encerra transmissão e põe comédia alto; após10min ainda medo. Não duração total nova inventada ou diagnóstico clínico. Falas sobre sintomas e suicídio são comentários de personagens sobre jogo, não aconselhamento médico ou intenção real do usuário.
+
+Excavating for Ascension normalizado Cavando para a Ascensão. Fonte comentário final confunde sujeito das compilações com Chen antes de pedir estreia: interpretado compilações de outros streamers em itálico, condiz com ausência de transmissão dele até aqui. Fãs pedem que Chen jogue; não afirmar que aceitou ou ativou Bloqueio do Medo. Nenhuma mensagem publicada por nós: posts/Weibo são eventos ficcionais traduzidos. Final completo nas exigências dos jogadores. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–366 conferidos; leitor até 365 preservado. TXT 366 pendente; próximo 367. Backup dos quatro registros com SHA256: backups/agd-capitulo-366-20261122T002029086027Z/. Commit e push manuais.
+
+
+## Capítulo 367 — Outlast à meia-noite, no modo Insano — 21/11/2026
+
+Fonte: anexo 7798baeb-468b-4c11-8ff3-5225c146d1a2. Tradução integral; data editorial removida; título descritivo provisório. Chen Zhao normalizado Chen Mo; Escape/Outlast normalizados Outlast; minijogo Cavando para a Ascensão preservado. Três dias após lançamento é intervalo narrativo, sem fixar dia absoluto não declarado. Público imagina fracasso de Chen em terror: frase couldnt get used interpretada hipótese talvez não se adaptasse em itálico, não fato de derrota comprovada antes da partida. Fonte1pm em cena23h50 e meia-noite contextualizada uma da madrugada em itálico, sem trocar horário da transmissão para meio-dia.
+
+Chen publica anúncio e transmite meia-noite; afirma não ter realmente jogado versão pronta antes e que não dá medo: são falas dele, não esquecer processo de desenvolvimento/testes equipe nem equiparar à Casa Abandonada já jogada. Bocejo e promessa terminar antes dormir mantidos. Microfone ligado, sem nome de plataforma/sala inventado. Expectativa de milhões não número exato de audiência atual.
+
+Quatro dificuldades Fácil/Difícil/Pesadelo/Insano; novos jogadores sóFácil até concluir, Chen usa privilégio desenvolvedor para escolhaInsano. Alteração é no jogo ficcional, sem ação real em sistemas. Quanto mais difícil menospilhas/maisdano; Insano explicitamente semsave/perdeprogressoem morte, distinção ao salvamento geral do aviso359. Não acrescentar ativaçãoBloqueioMedo/imersãototal por suposição. Cena termina na escolha/aviso/comentários, sem inventar desempenho ou resultado. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–367 conferidos; leitor até 365 preservado. TXT 366–367 pendentes; próximo 368. Backup dos quatro registros com SHA256: backups/agd-capitulo-367-20261122T002154747421Z/. Commit e push manuais.
+
+
+## Capítulo 368 — Parkour no quintal de casa — 21/11/2026
+
+Fonte: anexo 69395eda-0d06-4bb5-9663-0a19023b2c30. Tradução integral; data editorial removida; título descritivo provisório. Chen Zhao normalizado Chen Mo; mountain/Jushan hospital normalizados Mount Massive; Cavando não citado como novo jogo. 666 preservado como comentário de aprovação, não quantidade auditada de mensagens. Percurso entrada/janela/duto/porão/prisão/esgotos/ala masculina/pátio/ala feminina. Throw into crack contextualizado captura na passagem e queda360–361, sem inverter entrada para arremesso dentro da fresta. Baterias/pilhas e dois air pumps preservados como antes. High energy=sustos, farm monsters=aparecimento/movimentação, Safety Locks finais=três fusíveis já apresentados, não novos cadeados.
+
+Fonte chama dificuldade Nightmare três vezes, mas escolha367 é Crazy/Insano: preservado Pesadelo em três ocorrências com itálico como dúvida, sem transformar dois níveis distintos em um ou inventar troca de menu. Fonte também diz barged room six times: seis vezes preservado em itálico, não corrigir por palpite para nome de cômodo ou outro numeral. Louis serente apelido incerto preservado Louis Serente em itálico; não afirmar nome real do diretor ou trocar automaticamente porSilent. Ausência de pilhas úteis é provocação de Chen, depois diz2suficientes; não significa energia infinita.
+
+Porão5min versus outros30min; metadejogo/ala feminina em1hora versus2–3horasoutros; ambos compatíveis com duração anterior por perfis distintos. Chen mostra trajeto e temporização para despistar, não acrescentar invulnerabilidade ou BloqueioMedo. Morte1golpe alegação dele na dificuldade citada, não mudança de dano em nossa aplicação. Final ainda metade do jogo, sem vitória ou encerramento inventado. Sem corte, omissão ou complemento editorial.
+
+UTF-8, cinco pares de itálicos e sequência 1–368 conferidos; leitor até 365 preservado. TXT 366–368 pendentes; próximo 369. Backup dos quatro registros com SHA256: backups/agd-capitulo-368-20261122T002323196458Z/. Commit e push manuais.
+
+
+## Capítulo 369 — O terror aprovado e a premiação do Mundial — 21/11/2026
+
+Fonte: anexo bbe84440-5547-41ba-8f70-b9baa4bcc229. Tradução integral; data editorial removida; título descritivo provisório. Chen Zhao normalizado Chen Mo; Yan Huang organizadora; ministro Qiao Hua/presidente Zhang mantidos. Add one VR pod to game contextualizado acrescentar título à biblioteca da cápsula, não compra de hardware. 3ºdia transmissão/3dias>30milcópias, preço688yuans/nota9,4; não transformar unidades vendidas em simultâneos ou renda líquida. Duração<2h em percurso eficiente versus4–5hparaorientaçãoruimFácil, sem prometer que todo jogador conclua em2h. Equipe histórica<20pessoas é exposição da fonte, não contagem da equipe atual.
+
+Confirmado uso do Dispositivo de Bloqueio do Medo DURANTE transmissão, normalizando fear filter/fear masking device. Fonte não informa quantidade ou renovações, embora duração348seja30min e percurso368já1h: não inventar consumo, prolongamento ou um único dispositivo cobrindo tudo. Registrar duração como pendência a conferir no publicar. Sem descrição nova da ativação anterior. Qiao confirma não retirar jogo e maior flexibilidade futura, mas pede acompanhamento e aviso prévio; não aprovação ilimitada. Parágrafos sobre saúde/mortalidade são exposição ficcional da fonte, não orientação médica externa ou segurança técnica comprovada.
+
+MundialS1ainda iminente. Prêmio-base40milhõesyuans, campeão20milhões/vice10milhões, participação mínima200mil; source second runner-up interpretado vice-campeão pela sequência explícita campeão/depoisdemaisfaixas, não inventar terceiro com10milhões. Quase7milhõesUSD é conversão do universo narrativo, não câmbioatual. Não há rateio detalhado dos10milhões restantes para recalcular; cifras preservadas. Riven Campeonato e íconeS1,50%LUCROS da skin para premiação, não afirmar receita bruta/porcentagemporingresso. Bônus de compra distinto skinporingresso357, sem apagar benefício anterior. Final completo na participação doslucros. Sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–369 conferidos; leitor até365 preservado. TXT366–369pendentes; próximo370. Backup dos quatro registros com SHA256: backups/agd-capitulo-369-20261122T002448174308Z/. Commit e push manuais.
+
+
+## Capítulo 370 — A promessa de um novo padrão para os esports — 21/11/2026
+
+Fonte: anexo c96e442e-759b-4f3d-b623-336cdb493244. Tradução integral; data editorial removida; título descritivo provisório. Varianteschampionsblade/Jing/Peregrine/ziraiwen normalizadas Riven Campeonato. Preço99yuans e contribuição50porcompra: 50%de99=49,50; ajuste mínimo para cerca de50 em itálico torna arredondamento explícito, sem alterar preço para100 ou supor contrapartida financeira. Fonte alterna profits/proceeds: lucros na narração/valor arrecadado na fala preservados, não criar contabilidade detalhada. Recebimento automático skin por ingresso confirma357; ícone+moldura novosbrindes, não remover ícone369.
+
+Prêmio base40milhõesyuan≈quase7milhõesUSD369, aqui anúncio7/>7milhõesUSD com fundo crescendo, sem nova conversão por câmbio real. Estimativas centenasmilUSDextras não valorrealjáarrecadado. Thunderbolt controleChen vsacionistasEmperor/Zen, LinChaoxu/LiuYuanfeng preservados; nenhumcontato/ação financeira externa. Vídeo1semanaantescomeço e data5outubro explícita; estreiaexterior25abril337→iníciooutubro<6meses: fonte maisdemeioano preservada em itálico como divergência cronológica. Fala final meioano é arredondada e pode incluir lançamento doméstico fevereiro; não deslocar data25abril ou inventar nova estreia. Team tiny no comentário interpretado equipeThunderbolt em itálico, sem criar clube chamadoTiny.
+
+Simplificação de organização/invitacional/transmissãocliente contextualiza save a lot of time. Silent nome conhecido deChen; troféu apenas melhor equipe, duasmelhoresdisputamfinal,16participantes. Não afirmar evento já realizado ou campeão. Final completo na expectativa dosjogadoresestrangeiros. Sem corte, omissão ou complemento editorial.
+
+UTF-8, três pares de itálicos e sequência 1–370 conferidos; leitor até365 preservado. TXT366–370pendentes; próximo371. Backup dos quatro registros com SHA256: backups/agd-capitulo-370-20261122T002611734339Z/. Commit e push manuais.
+
+
+## Capítulo 371 — Os últimos preparativos para o Mundial — 21/11/2026
+
+Fonte: anexo a0b49b5f-b819-488d-a1da-8bd76f96ccf3. Tradução integral; data editorial removida; título descritivo provisório. GrandSquare/YuanDaPlaza normalizados GrandPlaza em Xangai/décimoandar; blazingglory=YanHuang; ChenZhao=ChenMo. NovoSunXiao responsável evento, distinto do presidenteZhangKaiwen. 3diasantesinício5outubro370, não fixar data absoluta no texto sem fonte. Hotel4estrelas próximo/salasindividuaispor equipe/andarespor região; 2conjuntosextrasmesmosmodelosteclado/mouse, não2para cada um sem indicação explícita.
+
+Vídeo promocional das16equipes em gravação atévéspera, distinto vídeo geral1semanaantes370. NTW europeu/Ninjas Work preservado como fornecido, não confundir com NT nacional nem forçar nome real de clube externo. Quatro vagas nacionais IF/MG/NRG/NT confirmadas apósseletiva356; Ntclub normalizadoNT conforme347. IFexpansãoImmortalFairy, clube maisrico/fivetalentos; NRGjovemcontrata2estrelas. NRG confirmada aqui como equipe jovem, ajuda esclarecer NRG/NPC347, mas não substitui retroativamente outros nomes ambíguos sem revisão específica.
+
+HuJing eLuoYongchang jogadoresdialogando, sem atribuir cada fala subsequente a pessoa não identificada. Solo killed=abateindividual; timerhabilidadeinvocador não necessariamente recarga/fim de efeito definido. Desprezocoreanos/europeus/americanos e >2mesesdiferençalancamento são avaliação dosjogadores, não rankingverificado. Calendário fevereiro→25abril mantém >2meses. Chen desaprova/franzetesta/entra, sem inventar sermão ou resultado partidas. Crosstalk contextualizado comentaristasimprovisamconversa, não apresentação literalshow. Final completo naentrada, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–371 conferidos; leitor até365 preservado. TXT366–371pendentes; próximo372. Backup dos quatro registros com SHA256: backups/agd-capitulo-371-20261122T002738108078Z/. Commit e push manuais.
+
+
+## Capítulo 372 — Um desafio na rota do meio — 21/11/2026
+
+Fonte: anexo 0a329367-00e1-45cb-a406-fb6a98c635fc. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao=ChenMo; IF6pessoas=5jogadores+dirigente, distintoSunXiaoorganizador. HuJing17anosmeio/corenacionalpromissor/herdeiro, LuoYongchangrotainferior; dirigente semnomeinventado. Visita para Mundial contextualizada preparativos371, não torneio jácomeçado. Kings=Desafiante, não novoeloRei. Temorbanimento é avaliação interna dosjogadores, nenhuma sanção realmenteaplicada.
+
+RegrasusuaisSOLO3abatesOU2torres e voltabase livre; frase no jungles or lanes interpretada não farmarselva/outrasrotas em itálico, não proibir minions da rota do duelo. Regra adotadaChen distinta: primeiroamorrerOUperderprimeiratorreperde, feitiços habituaiscompetitivo, livre escolha campeão. ListaExaustão/Barreira/Exaustão/Incendiar normalizada retirando duplicação literal deExaustão sem inventarCuraoutrofeitiço. Ajustartalentosnão escolhaaleatóriademecânicanova; conta/computadorLuoemprestados, não usarcontaSilentafirmadosemfonte.
+
+DeathSong normalizado Karthus, Orianna preservada, Flash/Incendiar para seleção narrada; ultimateglobal/rotafraca/escalação são comentário ficcional do confronto, não guiaatualverificado. Debuff→Exaustão em itálico por contexto feitiços, não qualquer enfraquecimento genérico. Fonte terminar perguntaIncendiar; não começar troca/dizer vitória. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–372 conferidos; leitor até365 preservado. TXT366–372pendentes; próximo373. Backup dos quatro registros com SHA256: backups/agd-capitulo-372-20261122T002904894656Z/. Commit e push manuais.
+
+
+## Capítulo 373 — Primeiro abate no nível dois — 21/11/2026
+
+Fonte: anexo 74fe0431-bf8b-47d4-a765-f11d712b1e6a. Tradução integral; data editorial removida; título descritivo provisório. DeathSong/DeadSong=Karthus, Clockwork=Orianna, Icebird=Anivia; ChenZhao=ChenMo. Stairwaytoheaven=ranqueadas, strongestEsper=Desafiante, pullups=seletiva conforme371–372, sem poderes sobrenaturais novos. Frase impossível Hu vencerChen contraria receio de derrotaChen no pensamentoSun: interpretada não seria impossível que ele vencesseChen em itálico; não afirma resultado antes de ocorrer. InterrupçõesQ contextualizadas errosQ, não CCsilêncioinventado.
+
+Dueloprimeiroabateouprimeiratorre372: KarthusChen/OriannaHu. Nível1posicionamento/minions/pressão; trêsQsdoisacertos/3últimosgolpes; mais2Qs→Oriannametadevida/Karthus2terços; poçãoHu; Chenchega2antes/Incendiar/E/Q/Flashperseguição/tankatorre/Qfinal→abate. Fonte leveled up by2 significa atingiu2, não subiu2níveispara3. QDevastar atraso0,5s e dano duploemalvoisolado preservados; não dadosatuais de patch verificados. Karthusquasemetadevidaapós sairtorre. Não inventar compra inicial, quantidadetotalQs ou númeroexatodisparostorre.
+
+Hu não se deixou perder deliberadamente; equipe reconhece seriedade/esforço. Chen venceprimeirodueloepropõe invertercampeões no próximo, sem narrarsegunda partida jáiniciada. Final completo na proposta. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–373 conferidos; leitor até365 preservado. TXT366–373pendentes; próximo374. Backup dos quatro registros com SHA256: backups/agd-capitulo-373-20261122T003029471686Z/. Commit e push manuais.
+
+
+## Capítulo 374 — A lição e o início do Mundial — 21/11/2026
+
+Fonte: anexo a4c87eb1-5d43-4544-8541-3276822e7f4c. Tradução integral; data editorial removida; título descritivo provisório. DeathSong/anikra contextualizadosKarthus (campeãoHu agora), OriannaChen. Fonte início Orianna killed song normalizado confronto, não abatejáocorridoantes10min. Take turret contextualizado receberdano torre/divar, não derrubartorreantesabate (regra372encerrariaduelo). Segundo duelo10min/nível6ultimatepuxaKarthus/abate/escapapoucavida, Chenvence2duelos; nenhum valor precisovida ou outrofeitiçoinventado. Huaceitaestudarestrangeiros. Treino16hcoreanos éfalaChen, sem recomendação médica ou confirmação de carga real externa.
+
+Exposição sobre ineditismo, concentração mercado eviabilidade esports pertenceauniversoficcional, não relatoatualdahistóriareal. Críticosdizemprêmios>40milhõesyuan e aluguel>30milhões/ano: compatível90mil/dia≈32,85milhões/365dias e fundocrescente, semcorrigir para300milhões. Prêmio7milhõesUSD mantém conversão aproximada já dada369–370, nãocâmbiohoje. Desenvolvedoraorganizaevento significaassumeresponsabilidade/financiamento comYanHuangoperadora, não removê-la da trama.
+
+Avança5outubroinícioMundial, não partida finaldecisiva já alcançada. GrandSquare/miles/distantSquare normalizadosGrandPlaza; Catarina=Katarina. Estátua3metros distintaArthasloja; grupoJiaPeng/ChangXiuya/LiJingsi/LinXue/SuJinyu/ZouZhuo/ZhengHongxi chega,QianKunantecipa. IngressosChenfrentepreservados, sem preço adicional inventado. Final completo em fotosestátua, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–374 conferidos; leitor até365 preservado. TXT366–374pendentes; próximo375. Backup dos quatro registros com SHA256: backups/agd-capitulo-374-20261122T003155606761Z/. Commit e push manuais.
+
+
+## Capítulo 375 — A abertura do Mundial S1 — 21/11/2026
+
+Fonte: anexo c5bbdf22-35f9-4c12-8e5e-dc17674cba41. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao=ChenMo; cardmaster=TwistedFate; aiXi=Ashe/stoneman=Malphite/robot=Blitzcrank/Prince=JarvanIV. Bandeiraazuldeclubenacionalemergente permanece semnome; não assumirNRG. WenLingweipresente embora lista374nãoexaustiva; LiJingsi/SuJinyufemininas. VIPestatueta confirma357; lugaresmesmafileira/Chenjuntoaocorredor. 666 falaChen contextualizado aplausoscoisasincríveis, não número de lugares.
+
+Abertura luzesfortes→apagão/símbolo→vídeoarquitetura→últimos10segundos/baúholográfico→DJ→chave/plataformazulvermelha/baú→campeões→taça holográfica/física. Contagem fonte10/9/3/2/1 preservada com reticências após9, sem tratar números intermediários como cena perdida. YuanMengDJ chamadoirmãoYuan; pronome she isoladofonte normalizado masculino pelo tratamento. FonteSilvertrace/Silverscar/Silvertraps interpretada SilverScrapes em itálico na apresentação do título; nome repetido na fala por coerência. MemóriasS2/WEvsCLG.eu8h e usoquintojogo são afirmaçõesficcionaisfornecidas, sem pesquisaexterna ou reconstruçãohistorica; S2grandfinal interpretado MundialS2, não finaldecisivaentreWEeCLG.
+
+Música instrumental sem letra acrescentada. Não ampliar temas para propaganda ou nomecomposer ausente. Baúencenadoabre e apareceTaçadoInvocadorreal no palco, não itemdeinventárioparajogadores. Final completo no troféu; não começar apresentaçãoequipes/primeirapartida. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–375 conferidos; leitor até365 preservado. TXT366–375pendentes; próximo376. Backup dos quatro registros com SHA256: backups/agd-capitulo-375-20261122T003319691884Z/. Commit e push manuais.
+
+
+## Capítulo 376 — Herói, lutarei por você — 21/11/2026
+
+Fonte: anexo 05fa432f-a959-474d-aaee-27a9659a35c0. Tradução integral; data editorial removida; título descritivo provisório. Troféu32kg BANHADOpratapuranãofeito32kgpratamaciça; trabalho4partes/2dragõeslaterais/escamasbase/diamantesolhos. King chasingdeer interpretado imponência de reis disputando supremacia em itálico, expressãofigurada não desenho literal de cervos. Vídeo16equipes/capitães/grupos,cenáriosXangai ecomposiçãoestúdio. Bandeiras~3metros distintas estátuaKatarina3metros375.
+
+NTW europeiacapitãoloiroucabelolongo,5jogadores; capitãesrepresentamequipesno palco, não presumir todos80jogadorespresentes. OrdemEuropa/América/Coreia/China,4gruposde1porregião, sem inventar sorteio ou regrasnovas. Apresentação>10min, ZhangYangterno roxo apresenta/comentaexperiente, distintoZhangKaiwen eZhangZhongxiang. YuanMengmasculino confirmado him; semalterarnome. Herói,lutareiporvocê slogantraduzido, nenhumaletra musicalnovaacrescentada.
+
+Sinais chinês/inglês diferem textosnatela, não narraçãooficialinglesainventada: ambos vozchinesa,comentáriosexterioreslocaispermitidos. Clienteespectadorlivre,nãocontrolejogador. Moyu>2milhõesespectadores, não receita/DAULoL/númeropresencial ou soma mundial. Distributedbulletcomments contextualizado limitarquantidade exibida simultaneamente. Final públicoelogiaabertura/queringressopróximoano; não narrarprimeirapartida nem fixar resultado. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–376 conferidos; leitor até365 preservado. TXT366–376pendentes; próximo377. Backup dos quatro registros com SHA256: backups/agd-capitulo-376-20261122T003447829663Z/. Commit e push manuais.
+
+
+## Capítulo 377 — NRG e a partida de abertura — 21/11/2026
+
+Fonte: anexo c07970b0-3769-430e-afcb-17a46058784d. Tradução integral; data editorial removida; título descritivo provisório. AberturaNRGChina vs equipeeuropeia fonteflog/DG/F: normalizado provisoriamente F, duasapresentaçõesmarcadasem itálico e pendência explícita, não vincularNTWsemprova. 4grupos/1equipeporregião/sorteiosemcabeçasdechave confirmadoagora. DuplacomentáriosMemories(nomeartístico preservado/shefeminino) eKeZhen(meioE,equipeforaMundial); reminiscedGuFei normalizadoMemories pelo turno de fala, sem criar terceirocomentarista. Corgi/KeJi apelidoporKe+brincadeiragaypreservado, sem deduzir orientaçãosexualreal.
+
+BanF Evelynn/Malphite/JarvanIV; banNRG Alistar/Katarina/Skarner. EscolhasF Irelia/Gragas/Diana/Ezreal/Blitzcrank; NRGShen/LeeSin/Anivia/Vayne/Sona. LadyBlade=Irelia, brightmoon=Diana, Icebird=Anivia, nightmare=Nocturne, vampire=Vladimir,lacus=Lux,bigmouth=KogMaw,gem=Taric. Análise fonte repete F para dois lados e final: segmento estável interpretadoNRG em itálico; preferênciafinal F mantidaem itálico pela ambiguidade, não forçar elogio de NRG nem atribuir erros aos jogadores. PrimeirasFmarcadascomo nomenclaturaprovisória, demais consistentes.
+
+35campeõesapós1abril+3atualizações×5=50 em outubro,15nomeslistadoscom3porfunção. Atualização3váriasclasses e campeõesmultifunção não contradição; Zed/Yasuoaindaplanejados. Comparação50campeõescomS2 preservada como memória narrativa, não corrigir para número de roster históricoexterno por palpite. Seismesesabril–outubrocompatível. Broadcast2pessoasagora/ideal3funções, não somar como3comentaristaspresentes. Final análiseestratégias, ainda sem resultado e sem jogadasdaabertura narradas. Sem corte, omissão ou complemento editorial.
+
+UTF-8, quatro pares de itálicos e sequência 1–377 conferidos; leitor até365 preservado. TXT366–377pendentes; próximo378. Backup dos quatro registros com SHA256: backups/agd-capitulo-377-20261122T003617245595Z/. Commit e push manuais.
+
+
+## Capítulo 378 — Uma vitória para abrir o Mundial — 21/11/2026
+
+Fonte: anexo b5e2ffde-97af-44a1-abbb-2ce1340d49f0. Tradução integral; data editorial removida; título descritivo provisório. Equipe europeia fonteF/DG/f*G/FFG: adotado provisoriamente FFG pela forma explícita na linha cumprimentos; primeiraocorrênciaitálico. Rever377F/flog/DG no publicar à luz desta forma, sem afirmar identidade externaFnatic. Black é caçadorNRG, variantesDollar/Blackie normalizadasBlack; Silvermeio. Nakano=duplameio/selva, blind=LeeSin,Phoenix=Anivia,brightmoon=Diana,bladegirl=Irelia. Dupla de idiotas apelido do público, não avaliação editorial nossa. Memoriesmantida feminina conforme377.
+
+InvadeazuladversárioLeeSinchega2 (não sobe2níveispara3)/emboscadatop/primeiroabate; Irelia4minionsvsShen15 apósretorno. Aniviarecebeazuldoprópriolado, distinto doazulroubado: não afirmar transferência automática deLeeSin. Fonte upper middle thirdlanes interpretado topo/meio/selva em itálico, considerando selva invade e botdescritos apenas seguros. DT supostamenteclassificado em frasecorrompida conflitaNTna lista371: mantidoDTem itálico; Edefora confirmada377, não renomear participanteporpalpite. Segundaestrategiasupport Shenultimate vaiatéVayne, não teleportaVayneparaoutrolugar.
+
+7minIrelianível4morrenovamente; Shen6usaRbot; partida35min/placarfonte10–25, explicitadoNRG25adversário10 pelo contexto vitória. MVPBlack, NRGvenceprimeirapartida; sóduplameio/selva highfive apesarfonte two midplayers, jáidentificadosBlackSilver. Cumprimentosadversários e reverênciapúblico. Análisefinal IFmelhorporqueelencocompletomeioequilibrado/botmaisforte, não declarar IFcampeãMundial. Sem resultadosnovosourecordesinventados. Final completo em jogo5pessoas. Sem corte, omissão ou complemento editorial.
+
+UTF-8, três pares de itálicos e sequência 1–378 conferidos; leitor até365 preservado. TXT366–378pendentes; próximo379. Backup dos quatro registros com SHA256: backups/agd-capitulo-378-20261122T003751868315Z/. Commit e push manuais.
+
+
+## Capítulo 379 — O orgulho de estar no palco — 21/11/2026
+
+Fonte: anexo 5795acf6-6684-4726-be48-8cb1d1385eff. Tradução integral; data editorial removida; título descritivo provisório. Memoriescomentadora/Nanaentrevistadorafemininas; Black nomeJiangHao explícito, caçadorNRG, Dollar/BlackGod normalizadosBlack/DeusBlack. Invadirazulplanejado/emboscadaoportunidadeIreliaavançada; frasecapturedmiddlelane contextualizada pegounocaminho pela rota superior narrada378, sem novaemboscadameioinventada. Três perguntas estratégia/desempenho/agradecimento. PaisJiangHao na plateia,mãechora/fazpositivo; não afirmar paichora ou outro parentesco.
+
+ChenconvidapaisJOGADORESCHINESES, não afirmar passagens para todasfamíliasestrangeiras. Alimentação/passagensaéreasdeoutrascidadesmantidas, sem hospedagempagaausentenafonte. Exposiçãoobjetivoaceitaçãoesports épensamentopersonagem/narrador, não orientaçãoprofissionalexterna.
+
+Datasintegralmentepreservadas: gruposprimeiroturno5–8outubro/segundo12–15;quartas19–22;semis28–29;final5novembro. Um mêsintervalocompatível5out→5nov; tardesmajoritariamentefimdesemana éafirmaçãofonte, sem inventaranoougarantirtodosdiaslistadossábado/domingo. Aberturagrupos não finaldecisiva. Moyu>2,3milhões, totalrealtime6,5milhõesvárioscanais, nãosomarcomo8,8nemconfundirpresencial. Faltecontrolemétricasdeduplicaçãofonte nãoesclarece, sem alegardadosauditadospor nós. MaioriapúblicoChina/partemenorexterior, não quantidaderegionalexata.
+
+PrimeiravitóriaNRGapenas, entrevistaBlacknão comprova campeão. Final completo naexpectativadafinal. Sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–379 conferidos; leitor até365 preservado. TXT366–379pendentes; próximo380. Backup dos quatro registros com SHA256: backups/agd-capitulo-379-20261122T003915250526Z/. Commit e push manuais.
+
+
+## Capítulo 380 — Os adversários também evoluem — 21/11/2026
+
+Fonte: anexo 1a9a2920-6e8b-4aaa-a0a2-b4f3e028ed40. Tradução integral; data editorial removida; título descritivo provisório. NRG/IF vencem1ºdia,abertura/encerramento,respectivamenteEuropa/AméricaNorte. Meio+selvaBlackSilver, HuJingID Lust/LuoYongchangID Roy; FrostmeioOST/MuffysuporteMAD/PuremeioVSG. Frase ADCNorthAmericaweaselEastgaming semnomeindividual: mantidoatiradorWBGem itálico conforme sigla posterior explícita, sem criar IDHe. OTnormalizadoOST nasúltimasfalas; pronomeFrostshe inconsistente normalizadomasculino. E Motus nomecorrompido preservadoem itálico, nãoconfundirOST ou inventar lista de16.
+
+MG/NT estudamcoreanasE Motus/MADnosgrupos; IFgrupoOSTconfirmado. NRG/IFenfrentaramocidente, duascoreanasOST/MADvenceramocidente, seminventar todososplacares/nomesadversários. EquipesfortesChinaCoreia vsfracasocidenteexplicadesempenho; avaliaçãoforçageralChenChina>Europa≈Coreia>maioriaAmérica écontextoficcional, não rankingexterno ou contradição categórica a avaliarpartidaúnica. Treinosantigoscoreanosfracos→evoluçãoatual sustenta mudança deatitudeHu.
+
+PrimeiroturnoBO1/cadaequipeuma partida pordia declaradafonte, cadaumcontra3adversários;2vitóriasperspectivaboanãogarantia. Segundo4dias/umgrupopordia, não alterar calendário379 ou inventar resultados. RetrospectoS2AZF/NajinSword/M5/CLG.eu/WE/IG/TPA preservado,mundoparalelonãoassumemesmasorganizações. FrostOriannasolokill eR4alvosnodragão; confiançaHuAnivia/Karthus eADRoysuperior éprojeção estratégica,nãovitóriajáocorrida. Final completo emchancevencer. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–380 conferidos; leitor até365 preservado. TXT366–380pendentes; próximo381. Backup dos quatro registros com SHA256: backups/agd-capitulo-380-20261122T004048084515Z/. Commit e push manuais.
+
+
+## Capítulo 381 — Uma estratégia para conter Frost — 21/11/2026
+
+Fonte: anexo 5944d238-57e9-43ab-b70f-a8b999dc0161. Tradução integral; data editorial removida; título descritivo provisório. HuavaliaChencompreensão/antecipação, não confirmatelepatiareal; nondirectionalskills=habilidadesdemiralivre. FrostdescobertoOST1mêsmeioatrás, explicaausênciatreinosantigos. 8outubrodomingo explícitofonte preservado, não fixaranoatual. GrupoA NRG3vitórias/quasevaga; BIF/OST2pontosantesduelo; CMADlidera/NTameaçadaporVSG; DWBGquasevaga/MGvsEMotus. WBC→WBG/Ntclub→NT/E mouts→E Motus/OT/sos/bot→OST pelo mesmopapel. E Motus reaparececonsistentemente, grafia adotada, não fundirOST.
+
+Primeiroturnoaindanãoconcluídoparatodas equipes, NRGjáfez3jogos eIFvai3º: não afirmar calendário deuma partida todososdiasparatodos nem classificaçõesmatematicamentegarantidas. Revezamentocomentáriosoutrosjogos,Memoriesfeminina/KeZhenmasculino. BansKarthus/Anivia/Orianna,faltamoutrosnomesnãoinventados. IFazulIrelia/Skarner/Vladimir/Ezreal/Alistar; OSTvermelhoDiana/DrMundo/Lux/KogMaw/Lulu. Vampiro=Vladimir,Lacus=Lux,incubus=Nocturne,widower=Evelynn. Luluaparececomposiçãoemborapapelanterior377nãoalistassecomo15novos; apenaspreservarsemrefazerlistaporpalpite.
+
+KillwildScorpion contextualizadoSkarnernaselva, não matarobjetivoneutro. PlanoVladimircontémFrost/Skarner6puxa epressionaoutros éanálisepromissória, não jogadas/resultadosjáocorridos. Sem Teleporteinventado,semhabilidadesadicionais. Final completo namensagemequipeanalisa, sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–381 conferidos; leitor até365 preservado. TXT366–381pendentes; próximo382. Backup dos quatro registros com SHA256: backups/agd-capitulo-381-20261122T004211899754Z/. Commit e push manuais.
+
+
+## Capítulo 382 — Uma estratégia que decide a partida — 21/11/2026
+
+Fonte: anexo 4d9d41d7-5f24-4e5b-aa3b-788c36662749. Tradução integral; data editorial removida; título descritivo provisório. OT/SOT/bot=falaOST, Memoriescomentadora/KeZhenmantidos. AberturaMundovermelho/Dianaazulcontextualizadacomoplano em itálico, pois azulroubadoantes; não afirmar Diana recebeu azul efetivamente e tambémentregouIF. IFroubaazuladversárioSkarner+bot/azulpróprioIreliacomVladimir/vermelhoSkarner=3buffscontroladospelaequipe,não3acumuladosSkarner. Vampire=Vladimir/saberswoman=Irelia/crescentmoon=Diana/scorpion=Skarner/Minotaur=Alistar. Nível3emboscadaforça2Flashes/4WQAlistarlevantaKogMaw+danofirstblood; raises twice interpretadocombinaçãoduas habilidades, não2abatesoualvosnovos.
+
+Skarner5+VladimirRfalhaLuxescapa; IreliaflashgastogankMundo. AzulIrelia peloVladimirsemnecessidademana,nãoimpossibilidademecânicadepegarbuff. Dragãovento=DragãodasNuvens conformeidentificaçãodoatributo, preservadomesmotextorefiraS2comoestilo: não corrigirautorparaoutrodragão. InvasãoOSTnoazulIFforçaFlashSkarner/VladimirFlashR+Irelia;LuxQevitadoPoçadeSangue;Dianamorre/LuxFlashescapa/MundomorreabateSkarner. Vantagem~4milouro,35? não: encerramento37min11–6IF. Artefato8.0juntoDiana removido como resíduo não semântico, não atributo/equipamento inventado. Frostsem mortes atéfasecitadanãoestatísticafinal fornecida.
+
+NRGeIF3–0apósPRIMEIROturno; ainda metadegrupos, não classificaçãoabsolutamatematicagarantida ou Mundialesgotado. Fonte last round normalizadoprimeiroturnopelocontexto382e381. Reprisesdezenasmilespectadores/dia não totaisdopúblicoao vivo379. Final impacto/imprensatradicional/apoioComitê, não campeão. Sem corte, omissão narrativa ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–382 conferidos; leitor até365 preservado. TXT366–382pendentes; próximo383. Backup dos quatro registros com SHA256: backups/agd-capitulo-382-20261122T004341323955Z/. Commit e push manuais.
+
+
+## Capítulo 383 — Sete milhões de espectadores e uma reunião urgente — 21/11/2026
+
+Fonte: anexo cbfe141d-76d5-4ca0-ae97-dd830dfb3fb1. Tradução integral; data editorial removida; título descritivo provisório. Aftergroupcompetitionended contextualizado encerramentoprimeiroturno em itálico, pois382encerra8out egruposmetade; não inventar finalsegundoturnoouclassificados. >7milhõespúblicototalinternet/TV, >2,7milhõesexterior incluídosnototal; maioriadoméstica compatível, sem somar9,7 ou declarar7milhõesChina. Referência6,3milhõesconferênciaficcionalécomparaçãoemcomentário, não dadoexternoverificado. Números7milhões/2milhõesarredondadosnasfalasnãoapagam>7/2,3Moyu379.
+
+Fishcatching=Moyu; EmperorDynasty/Fantasyplataformasdistintas; XuXiaojunpresideconformeLinChaoxu, YaoBoFantasyrepresentaDingXing. Não confundirYaoBo comYaoYu deoutroprojeto nemZhangexecutivos. Inferno/pequenosdemônios preservadoprovérbio. Apeloanalisarsucessoparaprestarcontas, nenhumamedidarepressivanovaefetivamenteexecutada. Earlier sincecompetitionstarted contextualizadocomeçodisputa distribuidoras, não Mundial quejácomeçoucomsucessonaabertura.
+
+Exposição financeiratorneios/aluguel/equipamentos/prêmios/patrocínio e atrasos évisãodepersonagens/narrador, não orientaçãodeinvestimento nem validaçãoderentabilidadeconcreta. YaoBofamousesportsplayer contextualizado nomeconhecidonosetor, sem inventarhistóricocompetitivo. PrestígioVRMinecraftOutlastconfirmado, preservarnormalidadejuntofalascorrompidasprimeiroVR358. Final completo nasurpresapopularidade, sem novoresultado/jogadas/invençãodocampeão. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–383 conferidos; leitor até365 preservado. TXT366–383pendentes; próximo384. Backup dos quatro registros com SHA256: backups/agd-capitulo-383-20261122T004504403783Z/. Commit e push manuais.
+
+
+## Capítulo 384 — O interesse pelas vagas da liga — 21/11/2026
+
+Fonte: anexo 8f8032dd-e882-4c19-9c64-5bd21e295f1b. Tradução integral; data editorial removida; título descritivo provisório. XuXiaojun/YaoBofechamrelatóriosemcontramedida; exposiçãofutebol/longevidade/competitividade éanálisenarrativa, não fatosatuaisexternosauditados. Lastresort interpretadomaisumtrunfodoprópriojogoem itálico, sem insinuarChenfalidousandorecurso desesperado: fontefala sucessocomoexpressãodomíniojogo. Funçãoespectador/visãomapa não recursosnovoseditadosnaaplicação.
+
+Primeiroturnoterminado/3diasintervalo atésegundo compatível9–11out→12out379. Exemplosviradasporrelaxamentoouaumentotreino são observações gerais, não resultados efetivostimesnarrados. SuJinyugrupopasseiaTorrePérolaOriental/Bund; frasecorrompida notlike teams no training normalizadogruposemtreinosdiferentedasequipes. Chen/LiJingsijogamdupla; caídadeelo porausência/nívelocultopreservado, sem especificar quantoselos/MMRexato. Championsegment=Desafiante; brightmoon=Diana,8/0/3abates/mortes/assistências.
+
+ClubesXangaipedemligaprofissionalpróximoano. Vagasprincipalcheias; FirstDivision contextualizadoligadeacessoem itálico, pois texto contrapõeprincipaljáfechada aoutra competição deentrada; não confundirprimeiradivisãocontopneminventarquantidade/acessopromoçãoregras. Aguardar próximoanexoparaconfirmarnome. Chenaceitareuniãonasala dohotel, recusa jantar, sofascompridos; nenhumconviteexternooumensagemenviadapornós. Final completoSuniráencaminharvisitantes, semreuniãojáocorrida. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–384 conferidos; leitor até365 preservado. TXT366–384pendentes; próximo385. Backup dos quatro registros com SHA256: backups/agd-capitulo-384-20261122T004628418893Z/. Commit e push manuais.
+
+
+## Capítulo 385 — As vagas não estão à venda — 21/11/2026
+
+Fonte: anexo 8942e734-5139-4f93-a6a1-a61bd781bf7a. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao=ChenMo, LiJingsifeminina/partidasozinha não necessariamente dueloSOLO372, SunXiaoorganizador. Donosclubessemnomesnovos; gorducho/sotaque características semnacionalidadedialetoinventado. Chenrecusajantar e recebehotel, não autorizaçãoaçãoexterna.
+
+FirstDivision confirmadoTORNEIOSECUNDÁRIOcompromoçãoanualparaligaprofissional: liga de acesso mantém384 e perdeincertezanestecapítulo pois estrutura explícita. Reveritálico384na próxima revisão. Liga principal10vagasjáconfirmadas equinta–domingo/BO3; proposta12oumais/grupos/BO2recusada. Groupmorebribing/outside lessbribing contextualizadomaisjogosintragrupomenosextragrupo em itálico, não alegarpropinasnaspartidas. Planoacessopormérito,nãovenda. OpiniãoBO3melhorrigidez éfalaChen,não normaatualexterna.
+
+NRG3–0–0fonte normalizado3vitóriasnenhumaderrota como381–382, semterceiracolunainexplicadadeempatesBO1. Jumpthreelevels éexpressãoascenderatéMundial, não3ligasseparadasinventadas. Número3 preservado em três degraus de uma vez no sentido figurado, sem mapear três divisões inexistentes. Donosdiscutemgastarcentenasmilparaentrar, semcifranúmericaexata/moedaexplicitada ou compraconcretizada. Preferêncianãomontarequipeédeclaraçãododono, não afirmaçãodetodos osclubes jádesistiram. Final completo nacríticadosvisitantes. Sem corte, omissão narrativa ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–385 conferidos; leitor até365 preservado. TXT366–385pendentes; próximo386. Backup dos quatro registros com SHA256: backups/agd-capitulo-385-20261122T004749809249Z/. Commit e push manuais.
+
+
+## Capítulo 386 — Os profissionais invadem as ranqueadas — 21/11/2026
+
+Fonte: anexo 6a00ff92-3b14-4fe0-9dfa-5318fd8a7df2. Tradução integral; data editorial removida; título descritivo provisório. Maioriaclubesaceitaligadeacesso/minorianãomontaequipe confirma385falasnãoequivalemtodosdesistem. Capacidade10LPL+12acesso=22clubes, não22ligaprincipal. ChenZhao=ChenMo/LiJingsifeminina. HealerinterpretadoSorakaem itálico; windlady=Janna/bigmouth=KogMaw/delaiAlliance=LigadoDraven. Turke/Truke normalizadoTurkeatiradorWBG, confirmaatiradorsemnome380.
+
+Contasestrangeirosfonte allChampionsandallChampions interpretadoDesafiante+todoscampeõesem itálico, não afirmar2listasiguaisnem concederitensnoaplicativoreal. RecolhidasapósMundial/cartõesmudançanome/anonimatoparasabotagem; actors=jogadoresquesabotamintencionalmente, nãoatorescinematográficos. IDsnovosestranhos preservados; trocadilhoProfessionalPlayer→professionalplayer semdiferençanafonte permanece literal em português, sem inventar palavrachinesa oupiadaperdida. Rastrear/jogarcontra semanticaesports, nãoperseguiçãopessoalexterna. Avisopunição éeventofigural,inclusive3diaséprevisãocomentarista não penalidadeuniversalconfirmada.
+
+FonteidentificaChenporIDtalent apesarnomesanterioresSilent/Mister: Talentoem itálico, não troca retroativa oumudançadecontaafirmada. ThronecontaLiJingsiconfirmada. EspíritoTenaz/ForçaMental mantémvariaçõesliteralmenterelacionadasID, semcriarnovojogador. Primeirocontatoderota,TurkeKogMaw/JannavsChenDraven/LiSoraka; escudogastoparadepoispressionar. Nãoabateouresultadoinventado. Final completo nadesgastederota. Sem corte, omissão ou complemento editorial.
+
+UTF-8, três pares de itálicos e sequência 1–386 conferidos; leitor até365 preservado. TXT366–386pendentes; próximo387. Backup dos quatro registros com SHA256: backups/agd-capitulo-386-20261122T004933106833Z/. Commit e push manuais.
+
+
+## Capítulo 387 — Machados que dominam a partida — 21/11/2026
+
+Fonte: anexo a38a161b-279d-4051-b7e5-9e6e0146f64b. Tradução integral; data editorial removida; título descritivo provisório. Driven/dlaiven/Raven contextualizadosDraven; Truke/Turke→TurkeWBG; bigmouth=KogMaw/windlady=Janna/healer=Soraka pelo386. Second kill início significa disputa chegar2, não segundoabate inexistente. A=ataquebásico, sangue=vida/milk=cura, bigswing=ultimate. Topstreamersskin interpretadoDravenComentaristadeOuro em itálico, retomandodesignaçãoprovisória319, semafirmarlocalizaçãooficialexternaverificada. EndlessBlade=GumedoInfinito; falasdas skin fornecidastraduzidas sem inventarnovas.
+
+Nível1trocas/Dravenchega2primeiro; após3,3incursõessobtorre:escudoExaustãoJanna/CuraKogMaw/Flashabate5m23s ecurasorakaescapa. 2min depois caçadorvem3vs2/Sorakamorre/Draventriple. Fonte placar17/2/3 informado e depois abateadicionalnafonte: valoresmantidos, não inventar18/2/3nemtotalexatoallkills; pendênciadeordempara publicar. Nãoidentificarcampeãocaçadorsemfonte ou quantificarultimatesfaltantes. DanopassivaKogMawpiadaexplosãoapósmorte, não grandedesempenhoofensivoconfirmado.
+
+Partidaranqueadadointervalo,Mundialnãooutroconfrontooficial/provaNRGvsWBG. Chen eLiJingsideixamjogo para mensagemSuJinyu,chamadaprojetosComitênoeditor; game draft não patchnovopublicado. WulinLegendremeteconcursotemáticachinêsanterior, sem novo título ou exigências inventadas. FinalcompletoChenabreeditor, não iniciarnovoprojetoantesdelercampanha. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–387 conferidos; leitor até365 preservado. TXT366–387pendentes; próximo388. Backup dos quatro registros com SHA256: backups/agd-capitulo-387-20261122T005105458989Z/. Commit e push manuais.
+
+
+## Capítulo 388 — Uma chamada para jogos dos Três Reinos — 21/11/2026
+
+Fonte: anexo e587ddcd-0a67-4b16-82ce-cf4bc772fa92. Tradução integral; data editorial removida; título descritivo provisório. AnúncioComitêJogoseRealidadeVirtual8out–8jan/trimestre/datadoontem, datasnarrativaspreservadassemfixarano. ParticipaçãoautomáticajogosTrêsReinoslançadosintervalo/todosdesigners/plataformaslivres/culturapositiva/inovação/mercadointernet. Prêmios1primeiro+3segundos+5terceiros+númeroexcelênciaindefinido, certificados+1mêsdestaquelojaoficial. Não converteremdinheiro ou garantirChenvenceu.
+
+Online/lucratividade/paytowin/estratégia são LEITURAdeChen dosrequisitos, não cláusulasexpressasdoedital. Textoacrescentasegundosualeituranaexposição para não impor online seplataformaslivres efonteapenasinterpreta. ThreeKingdomsKill títuloem itálico, correspondeKillofThreeKingdoms, semtraduçãocomercialoficialafirmada. RomanceoftheThreeKingdoms sériedegames distintaRomancedosTrêsReinoslivro; ThreeRealmsjogoZenanteriornãoérenomeadoaqui. Cabana/autoferimento/PenhascosVermelhos/cidadevazia preservadosecomentárioquealgumashistóriasficcionalizadasjáexplicitadofonte, semadicionarhistoriografiaexterna.
+
+ChenficaXangai/pretendefazermobileem1mêselepróprio, artepelaequipesedecapital; não voltarparaShanghai ouprometerprojeto100%semnenhumcolaborador. FinalMundial5nov mantido, adiamentoretornoperderiacercamêsargumentoSu. QianKun/ZhengHongxi/Suoferecemajuda,Chendispensaporenquanto. Outrosdesignersachamnãoparticipa,éengano/personagens,nãodesistênciarealdeChen. Nomegameescolhidoaindanãorevelado; não inventar título/mecânicasmonetização. Finalcompletonaconfiançadosconcorrentes. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–388 conferidos; leitor até365 preservado. TXT366–388pendentes; próximo389. Backup dos quatro registros com SHA256: backups/agd-capitulo-388-20261122T005241191476Z/. Commit e push manuais.
+
+
+## Capítulo 389 — Estratégia em um mundo de milhares de jogadores — 21/11/2026
+
+Fonte: anexo ff6d4925-77ce-4473-92f8-a22d038c4cd8. Tradução integral; data editorial removida; título descritivo provisório. LeadingtheLand/landguide/landofguide normalizados Leading the Land, inglês provisório dafonte em itálico na1ªapresentação, sem nomecomercialchineseglobalinventado. Fullyfree sandbox=totalliberdade, não compra/monetizaçãogratuita confirmada, pois fontepaytowin. RetençãoD1=40%, ARPUaté150 semmoeda/períodoinformados: não acrescentaryuans/dólaresmensaisnem converter; retençãolongoprazoaltasempercentualexato. Dezenasmiljogadoresguerra não númeroexatodeservidor ou simultâneos medidos nesta reprodução.
+
+Game toWest=JornadaaoOeste; MoonGoddessProphecy→MoonLord'sProphecy conforme338; LegendofSwordpreservado distintoTale. HeavenlySwordoftheThreeKingdoms mantido em itálico, conforme dúvida anterior338/HeavenlyJustice/HeavenlyThreeKingdoms, semfundirporpalpite. Wei/Shu/Wu reinos. RecordsThreeKingdoms→RomanceoftheThreeKingdoms sériejá388; unparalleledThreeKingdoms→DynastyWarriors; LegendCaoCao/LegendsThreeKingdoms nomesfonte mantidos. ExposiçãoIPgratuita eproblemasmercado éficçãofornecida, não parecerjurídicoexterno.
+
+ChenficaXangai/nãopretendevoltarcapitalproduçãogrande, consistente388; não afirmar localizaçãoatualcapitalporquefonteimperialcapitalnafrase. PlanoSLGpaytowin eamorjogadores sarcasmo, sem mecânicacompraespecíficaaindanãodefinida. Requisitosarteinterface/generais/terreno; militaryarts contextualizadoilustraçõesgenerais. Melhoriasvisualcidade/combate/habilidades/baixas/marchasterreno/cercos, nãoalterarsistemastratégicocentralnemdesenharproduçãoforaescopo. Originalmadurofaseavançada, objetivo reterinício/meio. Final completo naretenção, não lançamentojáfeito. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–389 conferidos; leitor até365 preservado. TXT366–389pendentes; próximo390. Backup dos quatro registros com SHA256: backups/agd-capitulo-389-20261122T005411720263Z/. Commit e push manuais.
+
+
+## Capítulo 390 — As quartas de final estão definidas — 21/11/2026
+
+Fonte: anexo 2dcf63ee-9294-4954-a553-93877af5705d. Tradução integral; data editorial removida; título descritivo provisório. ChenYu/ChenZhao→ChenMo; landguide→LeadingtheLandprovisório389. >400táticas/habilidades,dezenas/centenasagirporbatalha não contradizdezenasmilnomundototal389. Bibliografiafornecida traduzidaliteralmente, nomesPeiSongzhi/WeiLüe/ZizhiTongjianpreservados; RegistrosTrêsReinoslivrohistórico distintoRomancedosTrêsReinosromance/sériedejogos. Chenadmitenãolivrosleu, enumerarparaassustarZhengpiada. Semhistória refereausênciaroteiroprincipalnomobile,nãoausênciaculturatemática. 666adaptadoaplaudir/elogiar, nãoquantidadedeações. Onmyoji2anos/top10/declínio e grind sãoexposiçãoficcional, damagedliveridiomarecuperadotempodefarmsemmedicalizar.
+
+12–15outsegundoturnoumgrupopordia; fontevagasfourteamscontradizlistas8equipes e2China+3Coreia+2Europa+1América=8: corrigidooito em itálico, escalainequívoca. NRG60→6–0; IFperdeOSTsegundoturno/ganhadesempate/primeirogrupo; não inventarscoregeral7partidas. G1NRG/FFG,G2IF/OST,G3VSG/MAD,G4WBG/EMotus. DG/FG→FFGcomprimeirareferênciaitálicopelasvariantes377–378, VG→VSG,SOT/OT→OST. Equipeeuropeiaidentidadeaindaincerta,nãorenomearparaFnaticsembase. MGeliminadaporEMotus3–0segundoturno, NTtambémfora dooitoconformegrupoC.
+
+QuartasNRG–MAD/VSG–FFG/IF–EMotus/WBG–OST, reencontrosmesmogrupoproibidos; NRG/IFmetadesdistintas. Melhoradisciplina/visão/teamexplicadatreinoscoreanosconjuntos, OST/MADcompartilhamcomoutras2coreanas; não identificarquartatimesemnome. Nenhumaquartajogadaoucampeãoinventado. Final completo nobenefícioEMotus. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–390 conferidos; leitor até365 preservado. TXT366–390pendentes; próximo391. Backup dos quatro registros com SHA256: backups/agd-capitulo-390-20261122T005550149009Z/. Commit e push manuais.
+
+
+## Revisão e publicação offline 366–390 — 21/11/2026
+
+Vinte e cinco capítulos revisados com os anexos e a continuidade, integrados integralmente no leitor 1–390. Nenhum TXT pendente nesta obra; próximo envio/revisão391. Ordem e numeração preservadas, sem fusões, cenas omitidas ou complementos de finais. Aplicação, Clube, progresso e preferências preservados. Commit/push/implantação remota manuais.
+
+Sequência conferida: Lin abandona Outlast366; transmissãoChenInsano367–369; planejamentoMundial370/visitaIF371/duelos372–374; abertura375–376/vitóriaNRG377–379; avaliaçãoestrangeiros380/IFvenceOST381–382; distribuidoras383–384/vagasliga385; ranqueadas386–387; chamadaTrêsReinos388/projetoLeadingtheLand389; fimgrupos390. Nenhuma quartadefinal ainda jogada.
+
+Ajustes de revisão:
+- 368: três referências Pesadelo→Insano, pois menu367 e confirmação369 estabelecem mesma transmissão no Insano; não houve troca de dificuldade. Retirada dúvida nesses rótulos.
+- 377: F→FFG, grafia explícita378 e adotada390. Identidade europeia continua provisória/assinalada; não atribuir clube real por semelhança.
+- 378: DT→NT, conforme quatro chinesas IF/MG/NRG/NT371 e grupos381. E deKeZhen permanece fora; nenhuma equipe adicional criada.
+- 384: retirada dúvida liga de acesso, função secundária/promoção confirmada385 e10LPL+12acesso386.
+- 386: Espírito Tenaz uniformizado no pensamentoChen sobre mesmoKogMaw/Turke, evitando variante Força mental como se fosse outroID.
+- 387: vitória já decidida/Draven chegou a17/2/3 evita apresentar placar definitivo antes de abate adicional na fonte. Nenhuma cifra alterada/invenção18/2/3.
+- Outros19TXT preservados byte a byte. Nenhuma alteração funcional da aplicação.
+
+Conferência numérica e temporal:
+- Outlast3dias/>30milcópias/688yuans/nota9,4 mantidos; <2h eficiente e4–5h outros referem perfis distintos. BloqueioMedo confirmado369, mas duração30min348 e percurso1h368 sem quantidades/renovações: não inventar consumo ou garantir um único dispositivo cobrindo tudo.
+- SkinRiven99yuans×50%=49,50, cerca50 em370 explicita arredondamento. Fundo40milhõesRMB/campeão20/vice10/participação200mil, conversão narrativa quase7milhõesUSD e depois>7comfundo crescente, sem câmbioatual ou rateio inventado. Lucros/arrecadação conserva variação da fonte, sem taxas novas.
+- Mundial5out; primeiroturno5–8,segundo12–15,intervalo3dias9–11; quartas19–22/semis28–29/final5nov. 8outdomingo é dia da narrativa, sem fixar ano. 383apósgrupos interpretado primeiroturno conforme382/384. Mais6mesesexterior370 conflita25abril→outubro, mantido em itálico.
+- PúblicoMoyu>2milhões376→>2,3milhões379; total6,5milhõesrealtime379→>7milhõesanúncio383, incluindo>2,7milhõesexterior. Não somar estrangeiros ao total, nem confundir audiência com público presente; métricas não auditadas externamente.
+- 4regiões×4=16,4grupos×2avançam=8. Fourteams390 corrigido oito em itálico; 2China+3Coreia+2Europa+1América=8. NRG3–0primeiro/6–0fimgrupos; IFvenceOSTprimeiro/perdesegundo/ganhadesempate/lidera, sem placar total inventado. NT/MGeliminadas.
+- Grupos: A NRG/FFG; B IF/OST; C VSG/MAD; D WBG/E Motus. QuartasNRG–MAD/VSG–FFG/IF–E Motus/WBG–OST evitam reencontros e separamNRG/IFmetades. FFG incerta dadas variantesF/flog/DG/FG/FFG; E Motus repetida confirma grafia, distintaOST. WBC/VG/SOT/OT normalizadosWBG/VSG/OST. Quarta coreana semnome não inventada.
+- Black=JiangHao/selvaNRG,Silvermeio; HuJing=Lust/17anosmeioIF,LuoYongchang=RoyADC; FrostOSTmeio/MuffyMADsuporte/PureVSGmeio/TurkeWBGADC. Memoriesfeminina/KeZhenEconvidado/Nanaentrevistadora/SunXiaoorganizador/ZhangKaiwenYanHuang/ZhangYangapresentador distintos. LouisSerente368 e Talento386IDChen continuam incertos, não substituemSilent/Mister globalmente.
+- Duelos372–374primeiroabateouprimeiratorre: ChenKarthusvenceHuOrianna2; invertidosChenOriannavenceHuKarthus6/10min. Q0,5satraso/danoisoladodobra/vidadurantecombate2terços e depoismetade são estados distintos, não ajustes de patchreal.
+- NRG35min25–10/MVPBlack378; IF37min11–6/~4milouro/3buffsiniciais382. DragãoNuvens preserva versãoficcional, mesmo lembrançasS2; resíduo8.0 não atributo. Ranqueada387Draven/SorakavsTurkeKogMaw/Janna é intervalo, não Mundial: firstblood5m23/triple2mindepois/17–2–3no trecho de domínio.
+- Troféu32kgbanhadaprata não maciça; bandeiras3m e estátuaKatarina3m distintas. Capitães representam equipes, sem afirmar80jogadoresno palco. MúsicaSilverScrapes375interpretaçãoassinalada; sinalinglês376textos apenas,narraçãooficialchinês.
+- Liga10LPL+12acesso=22clubes; quinta–domingoBO3mantido, ampliação/grupos/BO2recusados. Treino16hcoreanos é falaChen,não recomendação externa.
+- ChamadaTrêsReinos8out–8jan;1primeiro/3segundos/5terceiros/excelênciaindefinida/1mêsdestaque. Online/paytowin/SLG leituraChen, não cláusula expressa. Projeto1mêsXangai/artecapital/>400táticas, dezenas ou centenas por batalha versus dezenas de milhares no universo não métricas equivalentes. ARPU150semmoeda/período/D1retenção40%389 mantidos sem completar unidades. LeadingtheLand provisório/HeavenlySwordThreeKingdoms incerto; não inventar lançamento do jogo.
+
+Outras interpretações não resolvidas permanecem em itálico, sem apagar cenas ou preencher lacunas com fatos inventados. Fontes/finais25capítulos registrados em CONFERENCIA-FONTES.json, nenhum final cortado. Backup prévio34arquivosSHA256: backups/agd-publicar-revisar-366-390-20261122T005637526535Z/. Sete arquivos protegidos e primeiros365objetos do leitor serão conferidos. Validações registradas ao concluir.
+
+
+Validação concluída: cinco verificações de sintaxe JavaScript, node tests/reader.test.cjs e git diff --check aprovados. Todos390TXT comparados integralmente ao leitor, com títulos/itálicos/catálogo/limites/navegação móvel simulada/retomada e isolamento entre obras conferidos. Primeiros365objetos idênticos ao backup;19novosTXT preservados byte a byte, somente368/377/378/384/386/387revistos. Trinta e quatro backups SHA256,25fontes e7arquivosprotegidos íntegros. Sem commit/push/deploy ou mudança funcional na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.

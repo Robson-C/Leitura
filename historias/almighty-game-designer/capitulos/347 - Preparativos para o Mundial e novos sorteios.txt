@@ -59,7 +59,7 @@ Os prêmios estavam bastante espalhados. Ao examiná-los, encontrou alguns livro
 - Apresentação — Arte: Modelagem 3D: sessenta.
 - Apresentação — Arte: Animações e Efeitos Especiais: cinquenta.
 - Apresentação — Música e Efeitos Sonoros: trinta.
-- Itens — Dispositivos de Aura de Medo: dez.
+- Itens — Dispositivos de Bloqueio do Medo: dez.
 - Itens — Ajustadores de Eficiência: vinte.
 - Itens — Aura de Redução de Inteligência: vinte.
 - Itens — Poções de Reprodução de Memórias: cinquenta.

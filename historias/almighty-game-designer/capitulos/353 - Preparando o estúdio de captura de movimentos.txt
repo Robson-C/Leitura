@@ -1,0 +1,83 @@
+Capítulo 353 — Preparando o estúdio de captura de movimentos
+
+Aquela história tinha tantos furos que Chen Mo nem sabia por onde começar. De qualquer forma, na metade do jogo ele já tinha adivinhado a natureza da trama e chegado àquela conclusão.
+
+Seguindo o resumo de sempre, a fórmula daquele jogo de terror era parecida com a dos filmes de terror nacionais. Dava para resumir em uma frase: “Pacientes psiquiátricos têm ideias de sobra, e crianças com deficiência intelectual vivem se divertindo.”
+
+Chen Mo não conseguiu evitar a decepção. Como um jogo de terror daquele nível poderia proporcionar diversão aos jogadores? Como poderia submeter o espírito deles a uma verdadeira provação?
+
+Quem não gostava de jogos de terror nem chegaria a jogar aquilo. Já para quem gostava, Casa Abandonada era simplesmente um insulto à inteligência.
+
+Estava na hora de mostrar aos fãs do gênero o que era um verdadeiro jogo de terror!
+
+Chen Mo já tinha alguma experiência com jogos de VR. Seguindo o processo habitual, primeiro faria a versão para PC. Depois, melhoraria a qualidade e os recursos do jogo antes de adaptá-lo para VR.
+
+No entanto, um jogo de terror como Outlast exigia recursos completamente diferentes dos usados em um jogo de construção como Minecraft. Agora, Chen Mo enfrentava dois problemas sérios.
+
+O primeiro era garantir a saúde física e mental dos jogadores por meio das configurações do jogo, para que ninguém morresse de susto durante a partida.
+
+O segundo era representar melhor as expressões e os movimentos dos personagens, tornando o jogo mais realista.
+
+A imersão de Outlast na versão original já era tão forte que muitos jogadores nem tinham coragem de jogá-lo no PC. Era comum gritarem de medo e precisarem de um bom descanso depois de cada fase.
+
+Ao adaptá-lo para VR, a sensação de imersão só se multiplicaria. Os jogadores sentiriam mais emoção, mas também mais medo.
+
+Sem medidas de segurança, até pessoas saudáveis poderiam passar mal de tanto susto.
+
+Felizmente, alguns jogos de terror estrangeiros já tinham configurações para lidar com isso. As cápsulas de VR podiam monitorar os sinais vitais e o estado de saúde do jogador em tempo real, desconectando-o automaticamente quando o nível de medo ultrapassasse determinado valor.
+
+Outra opção era permitir apenas o modo de vigília no começo. Só depois de terminar o jogo uma vez o jogador desbloquearia a imersão total, dificuldades maiores e assim por diante.
+
+Implementar essas funções não apresentava grandes dificuldades técnicas. Apenas tornava o trabalho de configuração um pouco mais trabalhoso.
+
+Quanto às expressões faciais e aos movimentos, Chen Mo já tinha bastante habilidade. Afinal, havia consumido tantos livros de habilidade de movimentos. Ações comuns, como escalar, pular e atacar, podiam ficar muito realistas.
+
+No entanto, era difícil criar manualmente expressões perfeitas para um personagem. Mesmo que conseguisse, seria um desperdício de esforço, pois as expressões, os movimentos da boca e as palavras precisavam estar em perfeita sincronia durante as falas.
+
+Fazer todas as expressões à mão seria ineficiente demais. Chen Mo acabaria morrendo de tanto trabalhar.
+
+Uma desenvolvedora nacional mais preguiçosa nem se daria ao trabalho de cuidar das expressões faciais e dos movimentos da boca. Usaria apenas uma animação genérica de fala.
+
+Mas, em jogos de VR, era necessário trabalhar esses detalhes. Caso contrário, os personagens pareceriam especialmente falsos quando observados de perto.
+
+Em geral, ao produzir grandes jogos em primeira pessoa, as principais desenvolvedoras optavam pela captura de movimentos. Esse também era o método mais comum entre as empresas europeias e americanas na produção de jogos AAA na vida anterior de Chen Mo.
+
+A chamada captura de movimentos consistia em contratar atores para interpretar as falas e as ações dos personagens. Dispositivos de rastreamento eram colocados em pontos importantes de seus corpos e rostos, registrando os movimentos com muita precisão e convertendo-os em dados de animação para os modelos dos personagens no jogo.
+
+Essa tecnologia havia surgido primeiro no cinema, em filmes da vida anterior de Chen Mo como Avatar, Piratas do Caribe e Planeta dos Macacos: A Origem. Logo, passou a ser aplicada também à indústria dos jogos.
+
+No mundo paralelo, ela também estava começando a ser amplamente utilizada. Algumas grandes desenvolvedoras chinesas, como a Emperor Dynasty Entertainment e a Zen Entertainment, já tinham seus próprios estúdios de captura de movimentos.
+
+Chen Mo também pretendia montar um. Afinal, Outlast não seria o único jogo em que usaria essa tecnologia. No futuro, faria mais jogos em primeira pessoa, com temas diferentes, e o estúdio teria muitas utilidades.
+
+Além disso, produzir Outlast tinha outra vantagem: não exigia muitos atores.
+
+Como era um jogo de terror, os personagens incluíam pacientes com tumores no rosto e soldados completamente equipados. Quase não mostravam o rosto, não falavam e não tinham expressões. Basicamente, só gritavam e avançavam contra o protagonista com posturas muito estranhas.
+
+Apenas o padre, o Mãos de Tesoura e alguns outros personagens específicos tinham expressões faciais. E eram expressões muito ferozes, de modo que os atores não precisavam apresentar uma interpretação tão refinada. Bastava mostrar o quanto eram assustadores.
+
+Se realmente não conseguissem, ainda seria possível ajustar os movimentos depois, sem prejudicar a qualidade do jogo.
+
+Se Chen Mo quisesse fazer algo como GTA 5, só a procura pelos atores já o deixaria exausto.
+
+Chen Mo explicou brevemente a Zhou Hanyu a ideia do estúdio de captura de movimentos e pediu que ele pesquisasse o assunto. Também pediu que procurasse Guo Feng, da Dazzling Aurora, para saber se ele tinha atores estrangeiros de confiança para recomendar.
+
+Na verdade, havia um grupo de atores estrangeiros trabalhando no país. Seria necessário algum esforço para encontrá-los, mas não era impossível.
+
+Isso acontecia principalmente porque algumas empresas nacionais produziam, de vez em quando, jogos com ambientação estrangeira. Havia certa demanda por esses atores no mercado interno, e suas agendas eram bastante cheias.
+
+Eles ganhavam muito bem fazendo participações em filmes e séries, dublando versões internacionais de jogos nacionais e realizando outros trabalhos desse tipo.
+
+Felizmente, Outlast não tinha muitas falas para dublar. Um ou dois atores estrangeiros que falassem inglês fluentemente seriam suficientes para dar conta do trabalho. Claro, algumas vozes especiais também precisariam de tratamento na pós-produção.
+
+Um estúdio de captura de movimentos exigia bastante espaço, mas não precisava ficar no mesmo local que a loja de experiência. Assim, Chen Mo alugou mais um andar no prédio comercial onde ficava o estúdio Dazzling Aurora, para usá-lo na captura de movimentos.
+
+Isso também facilitaria a produção das cenas cinematográficas.
+
+Zhou Hanyu publicou mais alguns anúncios de recrutamento na internet e contratou algumas pessoas com experiência na área. Com isso, a estrutura inicial do estúdio estava montada.
+
+Um conjunto completo de equipamentos de captura de movimentos custava caro: cerca de dez milhões de yuans, incluindo o sistema completo e uma câmera profissional para captura.
+
+Chen Mo comprou tudo sem hesitar. Mais cedo ou mais tarde, precisaria fazer aquela compra de qualquer jeito.
+
+Com tudo isso encaminhado, já estava na hora de anunciar o próximo jogo à equipe do projeto.

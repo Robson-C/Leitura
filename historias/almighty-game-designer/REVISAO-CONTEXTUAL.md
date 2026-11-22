@@ -522,3 +522,68 @@ Backup prévio19arquivosSHA256:backups/agd-publicar-revisar-336-345-20261121T191
 
 
 Validação concluída: cinco verificações de sintaxe JavaScript (app, chapters das duas obras, books e catalog), node tests/reader.test.cjs e git diff --check aprovados. Todos345TXT iguais integralmente ao leitor, títulos/marcações/catálogo/limites/navegação móvel simulada/retomada e isolamento entre obras conferidos. Primeiros335objetos idênticos ao backup; noveTXTnovos preservados byte a byte, apenas340com ajuste de fluência. DezenovebackupsSHA256/setearquivosprotegidos íntegros. Sem commit,push,deploy ou alterações na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.
+
+
+## Revisão e publicação offline 346–365 — 21/11/2026
+
+Vinte capítulos revisados com a continuidade e os anexos fornecidos, agora integrados integralmente no leitor 1–365. Nenhum TXT pendente em Almighty Game Designer; próximo envio/revisão366. Sem renumeração, fusão ou complementos de finais. Aplicação, Clube, progresso e preferências preservados; commit/push/implantação remota manuais.
+
+Sequência: fracasso Cataclismo Ancestral e consolidação LoL346; seleção clubes/sorteios347; itens/Outlast/proposta Comitê348; aprovação condicional349; teste Casa Abandonada350–352; estúdio captura353; reunião Outlast354–355; organização Mundial356; venda ingressos357/esgotamento358; Zhao e Zou experimentam359–362; lançamento23setembro/transmissão Lin363–365. Mundial outubro, preparação julho e ingressos setembro; anúncio interpretado8setembro357 permanece assinalado. Condições de aprovação e proteçãoVR continuam, sem transformar falas ficcionais em garantias clínicas.
+
+Ajustes desta revisão:
+- 347: Dispositivos de Aura de Medo → Dispositivos de Bloqueio do Medo, descrição explícita348 confirma supressão do medo por30min, não causá-lo.
+- 362: só passei de um sexto?! → só avancei um sexto?!, correção de sentido da progressão sem mudar quantidade.
+- Demais18TXT preservados byte a byte. Títulos descritivos provisórios mantidos. Nenhum arquivo funcional da aplicação alterado.
+
+Conferência numérica/contextual:
+- 347: 12clubes avaliados/10selecionados;4equipes por região China/Coreia/Europa/América=16Mundial. Cerca600milhõesyuans receitaLoL não lucro líquido. Recarga50milhões→50mildiamantes e500sorteios, mas prêmios listados somam600; contradição da fonte mantida em itálico, sem solução inequívoca para alterar recarga ou lista. NomesNRG/NPC/Northend ainda não confirmados, preservados em itálico.
+- 348: BloqueioMedo30min/AuraReduçãoInteligência10min. Tentativa hipotética Jin3min não uso confirmado; dispositivo ativado349 durante reunião. JogoCasaAbandonada351não exigeBloqueioMedo.
+- 350: duas licenças398yuans total, nota3,7. Empresa financeira deZhao conflita antiga empresa metais: preservado em itálico, sem inventar trocaemprego. CasaAbandonada1horaChen/3–5horasnovatos352 não duraçãoOutlast.
+- 353: equipamento captura10milhõesyuans, andar alugado no prédioDazzlingAurora, não nova loja;1–2atores dublagem não total de intérpretes. PrazoOutlast fimsetembro355, estreia marcada23setembro356, teste antecipado20setembro358 e lançamento efetivo363.
+- 356: aluguel90milyuans/dia por pelo menos1ano; projetor15metros/>700milyuans não contradiz aluguel. Cerca20estatuetas;12estrangeiras+4nacionais; futura primaveraLPLS2 não primeira liga já realizada.
+- 357: ingressos180–580yuans; referência anterior100–300/intermediário150 e basquete500–800;2–3mil preço hipotético. Sete milhõesglobais conflita >8milhõesativosjulho346: mantido itálico, sem redefinir métricas ou inventar queda. 8setembro interpretado divulgação, Mundial permaneceoutubro.
+- 358: três falas primeirojogoVR contradizem Minecraft jálançado; preservadas em itálico sem inventar qualificativo ausente. 359confirma interfaceMinecraft+Outlast. ComentárioMinecraftpequeno não apaga recordesvendas.
+- 359–362: dor3%/alerta5segundos são parâmetros ficcionais. 5/10/15/menos20min relatos distintos, não médiaúnica. Dois locaisbombas+interruptor+gerador=4locais. Menos20min e1/6 é estimativa comparada mínimo2horas; média4–6horas não tempojájogado. Bombasdear preserva fonte, sem corrigir para combustível externamente.
+- 363–365: transmissão emVR sincroniza perspectiva/som/tato, não controle do espectador. CenaLin esgotos→ala masculina→perseguição≥3min→elevador/figura suspeita. 1h30com pausa20min não explicita inclusão; não somar tempo arbitrário. Não inventar nome médico, tortura posterior ou final do jogo. NavegaçãoPassiva é humor, não habilidade sobrenatural literal.
+
+Outras ambiguidades assinaladas continuam preservadas: interpretação fala monetizaçãoQian354, interrupçõesconexão356, regraimaginadaZhao360, porretecompregos362, saída por medo/desconexão363. Personagens e vozes normalizados pelo contexto: ChenZhao=ChenMo, QianYong=QianKun, XueLin=LinXue, variantesYanHuang/Moyu/GrandPlaza; ZhaoXuhui novo personagem distinto deZhaoLei. Fonte dos20capítulos e finais registrada em CONFERENCIA-FONTES.json. Nenhuma cena omitida ou narrativa adicional criada.
+
+Backup prévio29arquivos SHA256: backups/agd-publicar-revisar-346-365-20261122T001710413366Z/. Sete arquivos protegidos da aplicação/Clube com hashes; primeiros345objetos do leitor preservados. Validação será registrada ao concluir.
+
+
+Validação concluída: cinco verificações de sintaxe JavaScript, node tests/reader.test.cjs e git diff --check aprovados. Todos os365TXT comparados integralmente ao leitor; catálogo, limites, navegação móvel simulada, retomada e isolamento entre obras conferidos. Primeiros345objetos idênticos ao backup;18novosTXT preservados byte a byte, somente347/362revistos. Vinte e nove backups SHA256, vinte fontes e sete arquivos protegidos íntegros. Sem commit/push/deploy ou alterações funcionais na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.
+
+
+## Revisão e publicação offline 366–390 — 21/11/2026
+
+Vinte e cinco capítulos revisados com os anexos e a continuidade, integrados integralmente no leitor 1–390. Nenhum TXT pendente nesta obra; próximo envio/revisão391. Ordem e numeração preservadas, sem fusões, cenas omitidas ou complementos de finais. Aplicação, Clube, progresso e preferências preservados. Commit/push/implantação remota manuais.
+
+Sequência conferida: Lin abandona Outlast366; transmissãoChenInsano367–369; planejamentoMundial370/visitaIF371/duelos372–374; abertura375–376/vitóriaNRG377–379; avaliaçãoestrangeiros380/IFvenceOST381–382; distribuidoras383–384/vagasliga385; ranqueadas386–387; chamadaTrêsReinos388/projetoLeadingtheLand389; fimgrupos390. Nenhuma quartadefinal ainda jogada.
+
+Ajustes de revisão:
+- 368: três referências Pesadelo→Insano, pois menu367 e confirmação369 estabelecem mesma transmissão no Insano; não houve troca de dificuldade. Retirada dúvida nesses rótulos.
+- 377: F→FFG, grafia explícita378 e adotada390. Identidade europeia continua provisória/assinalada; não atribuir clube real por semelhança.
+- 378: DT→NT, conforme quatro chinesas IF/MG/NRG/NT371 e grupos381. E deKeZhen permanece fora; nenhuma equipe adicional criada.
+- 384: retirada dúvida liga de acesso, função secundária/promoção confirmada385 e10LPL+12acesso386.
+- 386: Espírito Tenaz uniformizado no pensamentoChen sobre mesmoKogMaw/Turke, evitando variante Força mental como se fosse outroID.
+- 387: vitória já decidida/Draven chegou a17/2/3 evita apresentar placar definitivo antes de abate adicional na fonte. Nenhuma cifra alterada/invenção18/2/3.
+- Outros19TXT preservados byte a byte. Nenhuma alteração funcional da aplicação.
+
+Conferência numérica e temporal:
+- Outlast3dias/>30milcópias/688yuans/nota9,4 mantidos; <2h eficiente e4–5h outros referem perfis distintos. BloqueioMedo confirmado369, mas duração30min348 e percurso1h368 sem quantidades/renovações: não inventar consumo ou garantir um único dispositivo cobrindo tudo.
+- SkinRiven99yuans×50%=49,50, cerca50 em370 explicita arredondamento. Fundo40milhõesRMB/campeão20/vice10/participação200mil, conversão narrativa quase7milhõesUSD e depois>7comfundo crescente, sem câmbioatual ou rateio inventado. Lucros/arrecadação conserva variação da fonte, sem taxas novas.
+- Mundial5out; primeiroturno5–8,segundo12–15,intervalo3dias9–11; quartas19–22/semis28–29/final5nov. 8outdomingo é dia da narrativa, sem fixar ano. 383apósgrupos interpretado primeiroturno conforme382/384. Mais6mesesexterior370 conflita25abril→outubro, mantido em itálico.
+- PúblicoMoyu>2milhões376→>2,3milhões379; total6,5milhõesrealtime379→>7milhõesanúncio383, incluindo>2,7milhõesexterior. Não somar estrangeiros ao total, nem confundir audiência com público presente; métricas não auditadas externamente.
+- 4regiões×4=16,4grupos×2avançam=8. Fourteams390 corrigido oito em itálico; 2China+3Coreia+2Europa+1América=8. NRG3–0primeiro/6–0fimgrupos; IFvenceOSTprimeiro/perdesegundo/ganhadesempate/lidera, sem placar total inventado. NT/MGeliminadas.
+- Grupos: A NRG/FFG; B IF/OST; C VSG/MAD; D WBG/E Motus. QuartasNRG–MAD/VSG–FFG/IF–E Motus/WBG–OST evitam reencontros e separamNRG/IFmetades. FFG incerta dadas variantesF/flog/DG/FG/FFG; E Motus repetida confirma grafia, distintaOST. WBC/VG/SOT/OT normalizadosWBG/VSG/OST. Quarta coreana semnome não inventada.
+- Black=JiangHao/selvaNRG,Silvermeio; HuJing=Lust/17anosmeioIF,LuoYongchang=RoyADC; FrostOSTmeio/MuffyMADsuporte/PureVSGmeio/TurkeWBGADC. Memoriesfeminina/KeZhenEconvidado/Nanaentrevistadora/SunXiaoorganizador/ZhangKaiwenYanHuang/ZhangYangapresentador distintos. LouisSerente368 e Talento386IDChen continuam incertos, não substituemSilent/Mister globalmente.
+- Duelos372–374primeiroabateouprimeiratorre: ChenKarthusvenceHuOrianna2; invertidosChenOriannavenceHuKarthus6/10min. Q0,5satraso/danoisoladodobra/vidadurantecombate2terços e depoismetade são estados distintos, não ajustes de patchreal.
+- NRG35min25–10/MVPBlack378; IF37min11–6/~4milouro/3buffsiniciais382. DragãoNuvens preserva versãoficcional, mesmo lembrançasS2; resíduo8.0 não atributo. Ranqueada387Draven/SorakavsTurkeKogMaw/Janna é intervalo, não Mundial: firstblood5m23/triple2mindepois/17–2–3no trecho de domínio.
+- Troféu32kgbanhadaprata não maciça; bandeiras3m e estátuaKatarina3m distintas. Capitães representam equipes, sem afirmar80jogadoresno palco. MúsicaSilverScrapes375interpretaçãoassinalada; sinalinglês376textos apenas,narraçãooficialchinês.
+- Liga10LPL+12acesso=22clubes; quinta–domingoBO3mantido, ampliação/grupos/BO2recusados. Treino16hcoreanos é falaChen,não recomendação externa.
+- ChamadaTrêsReinos8out–8jan;1primeiro/3segundos/5terceiros/excelênciaindefinida/1mêsdestaque. Online/paytowin/SLG leituraChen, não cláusula expressa. Projeto1mêsXangai/artecapital/>400táticas, dezenas ou centenas por batalha versus dezenas de milhares no universo não métricas equivalentes. ARPU150semmoeda/período/D1retenção40%389 mantidos sem completar unidades. LeadingtheLand provisório/HeavenlySwordThreeKingdoms incerto; não inventar lançamento do jogo.
+
+Outras interpretações não resolvidas permanecem em itálico, sem apagar cenas ou preencher lacunas com fatos inventados. Fontes/finais25capítulos registrados em CONFERENCIA-FONTES.json, nenhum final cortado. Backup prévio34arquivosSHA256: backups/agd-publicar-revisar-366-390-20261122T005637526535Z/. Sete arquivos protegidos e primeiros365objetos do leitor serão conferidos. Validações registradas ao concluir.
+
+
+Validação concluída: cinco verificações de sintaxe JavaScript, node tests/reader.test.cjs e git diff --check aprovados. Todos390TXT comparados integralmente ao leitor, com títulos/itálicos/catálogo/limites/navegação móvel simulada/retomada e isolamento entre obras conferidos. Primeiros365objetos idênticos ao backup;19novosTXT preservados byte a byte, somente368/377/378/384/386/387revistos. Trinta e quatro backups SHA256,25fontes e7arquivosprotegidos íntegros. Sem commit/push/deploy ou mudança funcional na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.

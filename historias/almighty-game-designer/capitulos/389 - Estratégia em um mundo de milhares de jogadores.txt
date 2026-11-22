@@ -1,0 +1,83 @@
+Capítulo 389 — Estratégia em um mundo de milhares de jogadores
+
+Muitos designers estavam ansiosos para criar um jogo diferente dos Três Reinos e conquistar o primeiro prêmio.
+
+Mas aqueles que conheciam bem o tema sabiam que não seria fácil.
+
+As campanhas do Comitê geralmente eram voltadas a tipos de jogos que estavam em desvantagem no mercado, como os de temática chinesa na iniciativa anterior.
+
+Havia muitos jogos dos Três Reinos no país. Muitos mesmo. A qualidade, porém, era preocupante.
+
+Como propriedade intelectual, os Três Reinos eram um tema inteiramente gratuito. Qualquer designer podia aproveitá-lo, sem barreiras de entrada.
+
+Embora houvesse muitos fãs no país, o tema sofria o mesmo problema de Jornada ao Oeste: tinha sido explorado em excesso. A quantidade de jogos malfeitos fazia a maioria dos jogadores sentir enjoo só de ver “Três Reinos” no título.
+
+Além disso, os jogos atuais não tinham nenhuma maneira especialmente interessante de representar aquela cultura.
+
+Ao falar do tema, era preciso mencionar um MMORPG que sempre fora muito popular: *Heavenly Sword of the Three Kingdoms*. Ao lado de Moon Lord's Prophecy e Legend of the Sword, estava entre os três principais MMORPGs nacionais. Era conhecido e tinha características próprias.
+
+Seu foco eram as guerras entre reinos. Os jogadores se distribuíam por Wei, Shu e Wu, participando de conflitos frequentes e cercos a cidades. Também podiam acompanhar missões ligadas à história dos Três Reinos.
+
+Naquele momento, praticamente todos os títulos online do tema seguiam esse caminho: RPGs voltados à guerra.
+
+E a ênfase do Comitê nas necessidades do mercado e nos jogos online indicava que um título para um jogador provavelmente não venceria.
+
+Comparativamente, produzir um jogo para um jogador era mais fácil. Na história, na estratégia ou na jogabilidade, a ausência de interação entre pessoas dava mais liberdade ao designer e eliminava a preocupação com situações fora de controle.
+
+Na vida anterior de Chen Mo, clássicos como Romance of the Three Kingdoms, Legend of Cao Cao e Legends of the Three Kingdoms eram todos desse tipo. Tinham mais variedade na narrativa e na estratégia, mas não podiam simplesmente ser transformados em jogos online.
+
+Por exemplo, se cada pessoa assumisse o papel de um governante, no máximo uma dúzia ou pouco mais jogaria junta. E, com governantes diferentes desde o início, não haveria como garantir o equilíbrio.
+
+Por isso, criar um jogo online dos Três Reinos era uma dor de cabeça para qualquer designer.
+
+Além disso, a ausência de barreiras para usar o tema significava que seu potencial já tinha sido explorado quase até o limite. Muitos tinham quebrado a cabeça tentando produzir algo diferente, mas a maioria fracassara.
+
+Se tantos designers não tinham encontrado uma boa ideia, era sinal de que inovar realmente era difícil.
+
+Nessas condições, criar algo único seria extremamente complicado.
+
+Mas, para muitos, Chen Mo estar ocupado com o Mundial S1 e talvez não participar era a melhor notícia possível.
+
+Na sala de descanso, ele digitava no notebook.
+
+Na tela, estava o documento conceitual de *Leading the Land*.
+
+Comparado a títulos famosos de sua vida anterior, como Romance of the Three Kingdoms, Dynasty Warriors e Legends of the Three Kingdoms, Leading the Land não era tão conhecido. Mas Chen Mo queria produzi-lo porque tinha algo que os demais não ofereciam.
+
+Era um jogo de estratégia sandbox para celular, com total liberdade, capaz de reunir dezenas de milhares de jogadores em guerras entre reinos.
+
+Como jogo de estratégia do tipo SLG, tinha uma retenção de 40% no dia seguinte e uma receita média por usuário, ou ARPU, de até 150. Além disso, sua retenção de longo prazo era impressionante, destacando-o entre os jogos da categoria.
+
+Na vida anterior de Chen Mo, depois da ascensão dos jogos de celular, apareceram muitos títulos dos Três Reinos. Deixando de lado os de um jogador, Leading the Land estava entre os melhores online.
+
+Ele não pretendia voltar à capital para produzir um jogo grande. Um título SLG em que pagar desse vantagem deveria bastar para conquistar um prêmio na campanha.
+
+Além disso, fazia tempo que não criava um jogo assim. Precisava deixar os jogadores sentirem seu amor outra vez.
+
+Do ponto de vista técnico, não era difícil produzi-lo, nem seriam necessários tantos recursos.
+
+Na parte de arte, o trabalho se resumia à interface, às ilustrações dos generais, aos terrenos e a outros elementos semelhantes. Bastava enviar as exigências à equipe na capital e esperar os materiais.
+
+O mapa de Leading the Land representava de maneira bastante realista o período dos Três Reinos. Era montado peça por peça, mas os terrenos eram reutilizados, limitando a quantidade de recursos necessários.
+
+Havia terras com madeira, pedra, minério de ferro, alimentos e outros recursos, além de rios, montanhas, cidades, portos, postos de controle, fortalezas, acampamentos militares e assim por diante.
+
+Embora a arte original já fosse boa para um jogo de celular, Chen Mo não se contentaria com aquilo. Planejava melhorias em dois aspectos.
+
+O primeiro era a construção das cidades.
+
+No original, elas mudavam pouco. Todas as melhorias dos edifícios eram representadas por quadros e ícones. Chen Mo pretendia exibir as construções diretamente nas cidades dos jogadores, para que cada melhoria pudesse ser vista ali.
+
+O segundo eram as cenas de batalha.
+
+O sistema de combate era bastante particular. Por limitações técnicas, as cenas eram monótonas e praticamente não fazia diferença assisti-las ou não. Era melhor ler o relatório da batalha.
+
+Para os veteranos, isso não importava muito. Para os iniciantes, porém, podia ser motivo para abandonar o jogo.
+
+Chen Mo pretendia melhorar toda a apresentação das batalhas, mostrando com mais clareza pontos importantes, como as baixas de soldados e o uso das habilidades.
+
+Assim, os jogadores enxergariam mais diretamente os efeitos das diferentes táticas. Além de melhorar os gráficos, isso ajudaria os iniciantes a entender o que tinha acontecido.
+
+Ele também planejava aprimorar a apresentação geral do mapa. Durante as marchas, por exemplo, os exércitos acompanhariam melhor o terreno, em vez de parecerem flutuar. Os efeitos e as animações dos cercos também seriam aperfeiçoados.
+
+Como SLG, o jogo já tinha uma estrutura bastante madura nas etapas intermediárias e avançadas. Por isso, o principal objetivo de Chen Mo era reter mais jogadores no começo e no meio da experiência.
