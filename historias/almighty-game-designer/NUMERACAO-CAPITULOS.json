@@ -2412,9 +2412,62 @@
       "source": 401,
       "chapter": 401,
       "title": "A guerra por Liangzhou",
-      "file": "capitulos/401 - A guerra por Liangzhou.txt",
-      "offlinePending": true
+      "file": "capitulos/401 - A guerra por Liangzhou.txt"
+    },
+    {
+      "source": 402,
+      "chapter": 402,
+      "title": "O papel de cada jogador na guerra",
+      "file": "capitulos/402 - O papel de cada jogador na guerra.txt"
+    },
+    {
+      "source": 403,
+      "chapter": 403,
+      "title": "A primeira guerra entre províncias",
+      "file": "capitulos/403 - A primeira guerra entre províncias.txt"
+    },
+    {
+      "source": 404,
+      "chapter": 404,
+      "title": "Liangzhou unificada e um mundo em alerta",
+      "file": "capitulos/404 - Liangzhou unificada e um mundo em alerta.txt"
+    },
+    {
+      "source": 405,
+      "chapter": 405,
+      "title": "Youzhou invade Bingzhou",
+      "file": "capitulos/405 - Youzhou invade Bingzhou.txt"
+    },
+    {
+      "source": 406,
+      "chapter": 406,
+      "title": "A guerra se espalha pelo servidor",
+      "file": "capitulos/406 - A guerra se espalha pelo servidor.txt"
+    },
+    {
+      "source": 407,
+      "chapter": 407,
+      "title": "A final que Zheng Hongxi quase esqueceu",
+      "file": "capitulos/407 - A final que Zheng Hongxi quase esqueceu.txt"
+    },
+    {
+      "source": 408,
+      "chapter": 408,
+      "title": "O primeiro confronto da final",
+      "file": "capitulos/408 - O primeiro confronto da final.txt"
+    },
+    {
+      "source": 409,
+      "chapter": 409,
+      "title": "A um passo do título",
+      "file": "capitulos/409 - A um passo do título.txt"
+    },
+    {
+      "source": 410,
+      "chapter": 410,
+      "title": "Os campeões do primeiro Mundial",
+      "file": "capitulos/410 - Os campeões do primeiro Mundial.txt"
     }
   ],
-  "notes": "Leitor local com 400 capítulos consecutivos, 1–400. TXT 401 pendente de revisão e integração por publique. Próximo envio 402; próxima revisão a partir do 401. Títulos provisórios preservados. Commit e push manuais."
+  "notes": "Leitor local com 410 capítulos consecutivos, 1–410. Lote 401–410 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 411. Títulos provisórios preservados. Commit e push manuais."
 }
