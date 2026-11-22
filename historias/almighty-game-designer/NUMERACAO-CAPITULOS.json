@@ -2647,7 +2647,67 @@
       "chapter": 440,
       "title": "A natureza humana por trás dos jogos competitivos",
       "file": "capitulos/440 - A natureza humana por trás dos jogos competitivos.txt"
+    },
+    {
+      "source": 441,
+      "chapter": 441,
+      "title": "O caminho dos jogos competitivos em VR",
+      "file": "capitulos/441 - O caminho dos jogos competitivos em VR.txt"
+    },
+    {
+      "source": 442,
+      "chapter": 442,
+      "title": "Um beco sem saída muito atraente",
+      "file": "capitulos/442 - Um beco sem saída muito atraente.txt"
+    },
+    {
+      "source": 443,
+      "chapter": 443,
+      "title": "A um passo da classe S",
+      "file": "capitulos/443 - A um passo da classe S.txt"
+    },
+    {
+      "source": 444,
+      "chapter": 444,
+      "title": "Duas subidas ao palco",
+      "file": "capitulos/444 - Duas subidas ao palco.txt"
+    },
+    {
+      "source": 445,
+      "chapter": 445,
+      "title": "Muito obrigado ao país",
+      "file": "capitulos/445 - Muito obrigado ao país.txt"
+    },
+    {
+      "source": 446,
+      "chapter": 446,
+      "title": "O mundo precisa de mais heróis",
+      "file": "capitulos/446 - O mundo precisa de mais heróis.txt"
+    },
+    {
+      "source": 447,
+      "chapter": 447,
+      "title": "Sete troféus e uma noite de comemoração",
+      "file": "capitulos/447 - Sete troféus e uma noite de comemoração.txt"
+    },
+    {
+      "source": 448,
+      "chapter": 448,
+      "title": "Finalmente, um designer de classe S",
+      "file": "capitulos/448 - Finalmente, um designer de classe S.txt"
+    },
+    {
+      "source": 449,
+      "chapter": 449,
+      "title": "Ranqueadas que ninguém prometeu",
+      "file": "capitulos/449 - Ranqueadas que ninguém prometeu.txt"
+    },
+    {
+      "source": 450,
+      "chapter": 450,
+      "title": "Um Bastion bom demais para ser verdade",
+      "file": "capitulos/450 - Um Bastion bom demais para ser verdade.txt"
     }
   ],
-  "notes": "Leitor local com 440 capítulos consecutivos, 1–440. Lote 431–440 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 441. Títulos provisórios preservados. Commit e push manuais."
+  "notes": "Leitor local com 450 capítulos consecutivos, 1–450. Lote 441–450 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 451. Títulos provisórios e ambiguidades de fonte preservados. Commit e push manuais."
 }
