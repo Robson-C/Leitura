@@ -1,6 +1,6 @@
 # Almighty Game Designer
 
-Estado em 21/11/2026: leitor offline até 390. Lote 366–390 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 391.
+Estado em 22/11/2026: leitor offline até 400. TXT 401 pendente de revisão e publicação. Próximo envio 402; próxima revisão a partir do 401.
 
 ## Capítulo 1 — Por favor, me chame de designer de videogames
 
@@ -4476,3 +4476,172 @@ Outras interpretações não resolvidas permanecem em itálico, sem apagar cenas
 
 
 Validação concluída: cinco verificações de sintaxe JavaScript, node tests/reader.test.cjs e git diff --check aprovados. Todos390TXT comparados integralmente ao leitor, com títulos/itálicos/catálogo/limites/navegação móvel simulada/retomada e isolamento entre obras conferidos. Primeiros365objetos idênticos ao backup;19novosTXT preservados byte a byte, somente368/377/378/384/386/387revistos. Trinta e quatro backups SHA256,25fontes e7arquivosprotegidos íntegros. Sem commit/push/deploy ou mudança funcional na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.
+
+
+## Capítulo 391 — A final definida e a polêmica das gravações — 22/11/2026
+
+Fonte: anexo d0b5b666-ce72-4347-945a-bc04285a11e0. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao=ChenMo/NPC=NRG neste confrontoMAD conformequartas390; VG=VSG/OT=OST. LK interpretado LCK em itálico por liga coreana mencionada no retrospecto. Referências Faker/Bang/RiftRivals e generalizações sobre torcida/treinos são exposição da ficção fornecida e memória do protagonista, não pesquisa histórica independente ou endosso editorial. Molhopimenta/spicychicken preserva zombaria e não vira agressão executada no projeto. Nenhuma mensagem/contato real feito.
+
+19–29outquartas/semis compatívelcalendário379. QuartasNRGvenceMADem5jogos(portanto3–2)/VSGvenceFFG/IFvenceEMotus/OSTvenceWBG3–0; somenteúltimo placar explicitado pela fonte, demais não inventados. Dois suportesbanidos+Alistarfirstpick limitaMuffy, nãodizer3banssuportes. SemisNRGperde1ºjogo/venceVSGsérie semplacar finalfornecido; IFvence1º/OSTvence2º3º/IFvence4º/decisivo54minOSTvence, série3–2OST. NRG–OSTfinaldefinida, ainda nãojogada; não declararcampeãoMundial. RetrospectoIF2–1OSTgrupos inclui3ºjogodesempate e nãocontradizturnos1–1.
+
+Audiência7,8milhõessemis versus>7grupos/8,3S2memóriapassada; métricasfonte não definem únicospico/total, não somarasduas sériespara15,6milhõesnemsubstituir8milhõesarredondado340. EquipesCoreiaunidasexplicamevolução390, semselecionarestiloúnicoparatodos.
+
+Áudiospublicadosa partirsemis/6cortesOST/lutafinaltroca3por5 eaceIF. Conteúdoocultonãorevelado, ofensas ainda HIPÓTESEdospectadores, não inventar insultosnacionaisou raciais/puniçãojáaplicada. Textopreserva suspeita eperguntapúblico. Finalcompleto napuniçãocondicional. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–391 conferidos; leitor até390 preservado. TXT391pendente; próximo392. Backup dos quatro registros com SHA256: backups/agd-capitulo-391-20261122T100446166265Z/. Commit e push manuais.
+
+
+## Capítulo 392 — O pedido de desculpas e a preparação para a final — 22/11/2026
+
+Fonte: anexo ad95bbbd-c20c-4efb-b712-5931a00d5750. Tradução integral; data editorial removida; título descritivo provisório. ChenZhao=ChenMo, bot/OT=OST; FrostMEIOconforme380–391, nãoatirador apesarbotplayerfonte. Jia? não novopersonagem: JiangHao=BlackNRG,HuJing=IF/LuoYongchang=Roy. Isn'tequivalenttheresnoevidence frasecorrompida contextualizada sugestãodealgoaesconder em itálico, sustentadapelaintençãoexplicar6silênciosao público. Não afirmar prova inexistente ou gravadorapagado.
+
+Ofensasagoraconfirmadaspelagravação,4jogadoresOSTincluindocaçador/Frostsilencioso; pedido público de desculpas exigido/cumprido. Semmulta/suspensão,semracismonosxingosconformeexposição, não inventarmotivosraciais/genéricosantiCoreia. Falasvulgares eameaçasdostorcedores preservadas como ficção fornecida, semendossoouatosreais. NoáudioEzreal/Corki/Nocturne/Jarvanreferem5ºjogosemifinal, não lineupprimeirogrupos381; não substituircampeõesparaforçarlistaantiga. Nadaéorientaçãoreal depuniçãoouparecerjurídico. Sun/contasWeibo são personagens/eventos, nenhuma ferramenta usada paraenviarmensagens fora doTXT.
+
+Fonteesclarecejogadoresnãoavisadossobregravação/ediçãoYanHuangprimeirocomcensura/Chensódescobreapósrepercussão; não trocarporconsentimentoconfirmado. Áudiooriginaldivulgadosemlegendarxingamentos,traduçãovemfãs. Caçadorressentidoemparticular semnomefornecido,não inventarID.
+
+IFficaajudarNRGcomo treinooponenteOST,salasapartadasporisolamentosonoro; LuoYongchangajudaráADdaNRGamanhã, não transferência decontrato/jogadoremprestadona final. Pausa10minentretestes, estratégiafuncionouemtreino semnovoresultadooficial. FinalNRG–OSTaindapendente. Finalcompleto emtemorarrependimentoBlack. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–392 conferidos; leitor até390 preservado. TXT391–392pendentes; próximo393. Backup dos quatro registros com SHA256: backups/agd-capitulo-392-20261122T100627052870Z/. Commit e push manuais.
+
+
+## Capítulo 393 — Inovação demais para os jogadores — 22/11/2026
+
+Fonte: anexo ca3d1d7d-af53-4fbf-9741-6cfa9d1dc2b7. Tradução integral; data editorial removida; título descritivo provisório. LeadingtheLand/landguide normalizadosLeadingtheLandtítuloprovisório389; HeavenlyJusticeThreeKingdoms mantidoitálico/distintoHeavenlySword389semorigemqueconfirmeequivalência. ChenZhao=ChenMo, ThunderboltGaming/lojaoficialpublicam2nov, finalMundial5nov (faltammenos1semana). Produçãocercamês388nãoexige30diasexatos; nenhuma mudança decidadededocumentos antigos.
+
+Fala onlygottoLevel3 entre descrição níveisdefensoresinterpretadaterrasnível3 em itálico, não novo nívelglobaljogador quefonteexplicitamentenega. Progressãosemmapastages contextualizadacontrolarritmo/ficaràscegas pelocontexto deestranhamento, sem inventartutorial. States=provínciasadministrativas, não EstadosnacionaisWei/Shu/Wu; mapaunificadosem3facçõestradicionaisconfirmado. Terraquadrada/generais/cidade/defensoresaleatórios percebidosnoscomentários; não randomização realgarantidaouequilíbriotécnicoexternoverificado.
+
+Lançamento2novsemWeibo/publicidadeativa, aindaexperimentorecepção; notade10min édesistênciarelatada,nãoduraçãojogointeiro. Vantagenscriativasecurvadeaprendizado críticasnarrativas,títulosfamososMinecraft/Diabloexemplossucessosanteriores. DLCDiablo=expansão, não lançamento deprodução nova. Concorrentesesperamfracasso, nãodeclaraçãojogojáfracassou ouresultadoedital. Finalcompleto nadúvidacriatividadedemais. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–393 conferidos; leitor até390 preservado. TXT391–393pendentes; próximo394. Backup dos quatro registros com SHA256: backups/agd-capitulo-393-20261122T100759351680Z/. Commit e push manuais.
+
+
+## Capítulo 394 — Um império que começa em um pequeno território — 22/11/2026
+
+Fonte: anexo 664a0ae5-66c1-4cde-8d18-c4ec47b80cc5. Tradução integral; data editorial removida; título descritivo provisório. Novo rivalZenHeroesThreeKingdoms traduzidoHeróis dosTrêsReinos, distintoLegendsThreeKingdomsjogosantigos389. Cartas/mapadesbloqueioporcidades/generais/equipamento/almas/estrelas/montarias/artefantasiosa DongZhuoLüBu/mataguerra simplificada preservados. Artes>10milyuansCADA seriaorçamentoterceirizadohipotético, nãocustototalrealoupreçorecursoChen. Candidatoa1ºprêmioopiniãodesigners, não vencedoranunciado.
+
+LeadingLandmantidotítuloprovisórioinglesestabelecido. Citaçãoreiteradasobterraesúditosdoreipreservada,semletramusicalnãofornecida. Zhengjogandocelularsolo; ChenfezsemSu/Zheng masartepelaequipecapital388–389 continua,não apagarcolaboradores. Episódiosbarcospalha/incêndioacampamentos/cidadevazia/7capturas7libertaçõesmantidossematribuirnomesausentes. Nãoconfundirsemroteiromissõesprédefinidas comsemambientação: introduçãopoéticaconfirmada.
+
+CGpalácio/nuvens/exército/caldeirãoecontaThunderbolt descritosintegralmente. Frasesclássicasdoinglêscorrompido (Luoyang/6direções/8rumos/estrela/tigres/armasletras) assinaladasem itálico para interpretação; conservadotextoeexplicaçãoposteriorZheng, semreconstruiroriginalchinêsnãofornecido. Fonte quatroprovínciasnomeadas eand13otherstates: outras13províncias mantidoliteralem itálico por númeropotencialmentecorrompido. Nãocorrigirpara13totalou17totaldefinitivosemconfirmaçãonofluxo. Dezmil léguasimagempoética não dimensãomapamensurada.
+
+Finalcompleto naestrela-generalrepresentajogador, nenhumterritórioconquistadoainda. Sem corte, omissão ou complemento editorial.
+
+UTF-8, cinco pares de itálicos e sequência 1–394 conferidos; leitor até390 preservado. TXT391–394pendentes; próximo395. Backup dos quatro registros com SHA256: backups/agd-capitulo-394-20261122T100943028594Z/. Commit e push manuais.
+
+
+## Capítulo 395 — Os primeiros passos e a primeira aliança — 22/11/2026
+
+Fonte: anexo 68b2a4db-fcc4-4121-8f9c-f105b1fcb04e. Tradução integral; data editorial removida; título descritivo provisório. Leadinglandshore=LeadingtheLand,ZhengHongxijogador/celular,nãoChenassumindoconta. EscolheLiangzhouporqueQingzhou/Yangzhoucheias; referênciaLiangOcidental, semnovadatalançamento. Gradeaproximada10×10=100casasvisíveis; cidade9casas/áreacentral9, não dimensãointeiradomapadeprovíncia. Luoyangcenáriorealnojogo,nãolocalinicialdeZheng: cidadepequenasemnome.
+
+Até3generaisportropa/acampamentoprincipal-centro-vanguarda; chefecampoderrotadoimplicaderrota, vanguardaaindabloqueadapormelhoriaSalãoComando. ResidênciaGovernanteoutroedifíciorequisito,mantidosdistintos. Flecha/temporotamarcha,cavalaria/exércitoinimigo,carregamentomantimentos,recrutamentointegralmente. Batalhasvisuaiscedemànotificaçãorelatório, não eliminaçãodoscombates. SistemaexplicitaCAPITAISDAS13PROVÍNCIAS: resolve394and13otherstates→13total, revisar394na próximapublicação combackup (nãocorrigirpara17). Nenhuma alteração retroativa feita neste envio.
+
+Regrasnuméricas: proteção1hterrenoconquistado, conquistasóadjacente; vigor20porexpedição/100totalnormal, bônusconsumometade, nãoinverterpara20combufe40normal. Retorno80%recursosnormal/100%iniciante, recuperaçãomaisrápidageneraisferidos/esperaaliançareduzida semtemposinventados. Proteçãocidadeinicialsem duraçãofornecida,nãoimpor1hdeterrenoàcidade. Construçãocurtadezsegundos/outrasmaioressemnúmeros. Objetivosestratégicosversusmissõesrequisitosnãoausênciadireção.
+
+ConvitesDragãoemGuerrapeloMundo/GrandeFazendeirotraduçõesdescritivas, primeirapreferida/aliançanível1com10membrosmáximo. Vermelhosnãoaliados/azuisaliados/não todosinimigosjáatacando. Líderpedegrupoexternocomoversãoficcional, nãoingressargrupoouenviarmensagempornós. Finalcompletonoconvitecanal. Sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–395 conferidos; leitor até390 preservado. TXT391–395pendentes; próximo396. Backup dos quatro registros com SHA256: backups/agd-capitulo-395-20261122T101117934673Z/. Commit e push manuais.
+
+
+## Capítulo 396 — A aliança e a disputa por territórios — 22/11/2026
+
+Fonte: anexo 8ccea654-19a9-4233-833e-c028c309fe25. Tradução integral; data editorial removida; título descritivo provisório. Leadinglandshore/landleadingearth=LeadingtheLand. DragonWar/Dragonbattles prefixoDragãoemGuerra conforme395; principalpeloMundo/secundárianasTerrasSelvagens. Peaceconqueringgeneral/Generaljianpingtu normalizadosGeneralPacificador,primeiraem itálico por nomeprovisóriodescritivo, semoriginalchinês. Grupo>80pessoas/aliançanível1só10 não contradição: váriasaliançassecundáriasaguardamprincipalcrescer. Nenhumgrupoexternoacessadooumensagemenviadapornós.
+
+HeavenlySwordThreeKingdoms retomatítulo389/394, não fundirHeavenlyJustice. Grupoexperienteemoutrosjogos,nãoveteranosdesterecém-lançado. Pontosdepoder=INFLUÊNCIAterritorial, distintosdepontuaçãodecombategeralexplicitamenteausente. Quantidadeterras+NÍVELDOSTERRENOSaumentapontuação, não nívelglobaljogador que393nega. Incentivoadaptartáticas/fortalecertropasconstruir, não automação real implementada.
+
+Generaltrendoftheworld=Curso do Mundo,sistemaprogressoSERVIDORnãoeventoprivadodecadapessoa. Formação3Reinos requer3capitaisocupadas; Reunificação13provínciasmesmaaliança. TrezeTOTALreforça395eresolve394outras13; corrigir394empróximarevisãocombackup. Não afirmar3capitaismesmaaliançaprimeirameta (nãoexigidofonte). TalismãsJademoedarecarga/pacoteslimitados/bandidosmaparecompensasc coletivas, semcustos/probabilidadesinventados. Generais5estrelasnotificamglobal, não limite máximodeestrelaimplícito.
+
+Funçõespesquisa/guias/diplomacia/normas/recrutamento/ricaçostropafortes preservadas. Regra não disputarterra contextualizadaentraliados, não proibirconquistaterrenosquecorejogoexige. Início-terras/meio-cidades/unificarprovíncia/fim-passagens/guerraprovínciascompleto; semguerracomeçadaouresultadoinventado. Final completo naexpansãorápida. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–396 conferidos; leitor até390 preservado. TXT391–396pendentes; próximo397. Backup dos quatro registros com SHA256: backups/agd-capitulo-396-20261122T101250440898Z/. Commit e push manuais.
+
+
+## Capítulo 397 — O primeiro cerco da aliança — 22/11/2026
+
+Fonte: anexo c8d3b3e7-24aa-47db-b821-5a979a4f1ff2. Tradução integral; data editorial removida; título descritivo provisório. DragonWar=DragãoemGuerra; QiyueWuyigrafiapreservada, semtraduçãopoéticainventada. YunStreet/Yunjie→Yunjie conformefontefinal; clouddepths/cloudrecesses/Yunshen→ProfundezasdasNuvens, jogadorfortealiança,nãonovaaliança. Liangzhou/CapitalWuwei/distância efortalezasregrascompletas.
+
+CursoMundo:160milterrenos/objetivofonte more45peopleinAllianceof30 interpretado30aliançascom>45membroscada em itálico, jáque30pessoasnão comporta45; dimensão servidor/metaalianças é leitura provável, confirmar comfuturoscapítulossemalterarparanúmeronovo. 9milhõessoldados/15milterrenosnível4/>20cidadesnível3. Cidades3mínimo/10Luoyang/8Wuwei. Yunjie9casas(1núcleo+8urbanas),Wuwei25e2camadasurbanas; não mudarterritóriojogador395oumapatotal10×10.
+
+>60–70participantes/5–6camadasfortalezas; aliançacresceagora não10membrosfixos395. 3tropasmínimoprincipal/cerco/cavalariaabrircaminho; infantariacercolenta7–8horastransferirfortaleza. Ataqueinício20h/fortechega20h05/resto20h06/marchaZheng2m12s. Fonte now8:30 incompatívelfuturo20h05→interpretado porvoltadas20h03 em itálico, aproximaçãocompatívelpartida20h03m48 para20h06 eesperaalgumasdezenassegundos; não afirmarsegúndoexatoatualfonte. Registrarcorreçãotemporalpararevisão, semalterarchegadasoutriplicarvelocidade.
+
+Cidade3guarniçãonível6comparadaTERRENONÍVEL6,nãocidade6;4tropasdefensoras. Forteelimina1/custoalto; Zhengperde>metadesoldadoselimina1/4tropainimiga,semquantidadetotalsoldadosinventada. Guarniçõeseliminadas3min/recuperamdentro1h/cercoavançadepois; nãoconquistarantesúltimacena. Finalcompleto nastropasdecercopartindo. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–397 conferidos; leitor até390 preservado. TXT391–397pendentes; próximo398. Backup dos quatro registros com SHA256: backups/agd-capitulo-397-20261122T101429490490Z/. Commit e push manuais.
+
+
+## Capítulo 398 — Uma ameaça na madrugada — 22/11/2026
+
+Fonte: anexo 442c4e1e-7edb-433c-ac9a-dd0835f0448e. Tradução integral; data editorial removida; título descritivo provisório. YunStreet/chiyunStreet=Yunjie3conquistada,<10min; Dragonwarringworld/longZhan=DragãoemGuerrapeloMundo; JadeGate/Yumen=Yumen,anYi=Anyi4. AgendaamanhãYumen/depoisdescanso/seguinteAnyi mantida semfixardatasreais. Fonte ordinarysiegeincrease durability contradizmecânica397derrubardefesas: traduzidoreduzirresistência, sem adicionarbuffcontraditório. Fortalezasretreat contextualizadot tropasretornam,nãoedifíciosandando.
+
+LíderdivulgatelefoneSEM dígitosfornecidos,nãoinventaroucontatarpessoasreais. Estadofallen=Subjugado,derrotatodastropas+resistênciacidade0/vassalonãocontraataca/terraspontosdepassagem; lídersubjugado→aliançainteira. Não inventarresgate/libertação,condiçãopermanentefutura não demonstrada alémhipérbolefonte. Liangzhou2grandesDragão/QiyueWuyi,paztemporáriadeinteresses/diplomatanãoconfrontar; nãoatribuiraataquefinalQiyueantesidentificaçãoclara.
+
+Marcosrecompensatalismãsincentivamfusões;níveis4/6deTERRAbarreiras,nãocidadesmínimo3/máximo10. ProgressãoZheng3→4recursosmaisaltos,semníveljogadorglobalinventado. Recrutamento2h→acordar8h6hespera; desperdíciovigorcheiorelatado,nãotaxaderecuperaçãoinventada. Duasexpedições/váriasconstruções/alarme2h relatoficcionaldehábitos,não recomendação de interrompersonoreal. Não apagarmecânicaourotinanarrada.
+
+Finalredlineperto líder/fortalezasalgumasconstruindo/2prontas/tropasabrindocaminho; ameaçaaindanãoatacou/nãosubjugoulíder/nãotemidentidadeconfirmada. Finalcompletonasfortalezas. Sem corte, omissão ou complemento editorial.
+
+UTF-8 e sequência 1–398 conferidos; leitor até390 preservado. TXT391–398pendentes; próximo399. Backup dos quatro registros com SHA256: backups/agd-capitulo-398-20261122T101605940061Z/. Commit e push manuais.
+
+
+## Capítulo 399 — A corrida para proteger o líder — 22/11/2026
+
+Fonte: anexo c044f82f-e1fa-4f95-ba13-e4cfee38af44. Tradução integral; data editorial removida; título descritivo provisório. QiyueWuyiAGORAconfirmadaatacante,Generaljianpingtu/JianPingtu=GeneralPacificador/clouddepthsYunshen=ProfundezasdasNuvens/GaoZhan=altopoder(osmaisfortes), não criarGaoZhanpessoa. Rapeemfaladejogador contextualizadopegar/atacarlíder no jogo territorial, não cena de violência sexual. Buyland=conquistarterreno,pavimentarcaminho não compra premiuminventada. Grupoenvia1/são6ou7iniciais/quasemetadealiançaacordadaporcontatosanteriores; nenhumtelefonerealexecutado.
+
+Visão5casascidade/2fortaleza. ConstruirfifthDistrict/5casas afirmaevitarvisão, fronteirapouco clara: primeiradistânciatraduzidacercade5 em itálico para não impor geometriaexatacontraditória, corpo mantémlimite5comoestratégiadeclaredepersonagens. Não elevarpara6semconfirmarfórmula, registrar dúvida para revisar. 2inimigosvazamdestinosterraemvisão,revelamplanoataque4–5h. Aliados4–5casasdacidadelíderregra solicitada, não raionovovisão.
+
+ProteçãodaCidade=Defensefunção3hpreparação+5himunidade, distintaGUARNIÇÃOtropasparadefender. Ativa2h30→conclui5h30→termina10h30. Ataque3h40→faltam1h50, aproximaçãoquase2hcorreta. Fraseafteranhourtugofwarfonte pode significardisputa2h30–3h40 antesassaltoprincipal; traduçãoDepoisde1hdisputapreservadano bloco sem avançar relógio explicitamente a4h40. Revisar clareza temporal na publicação se necessário; não alterarhorárioconfirmado5h30.
+
+DúziaoumaisQiyue,mai oriacavalaria/baixocerco permiteatraso; Generalaguenta2ou3tropasnormais, reforçoschegandomenos1h/outro30min. Urbanoexternocai,núcleoaindaresiste,aliançanãosubjugada. Sem resultadoinventado, finalcompleto noconfrontodireto. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–399 conferidos; leitor até390 preservado. TXT391–399pendentes; próximo400. Backup dos quatro registros com SHA256: backups/agd-capitulo-399-20261122T101746262862Z/. Commit e push manuais.
+
+
+## Capítulo 400 — O reforço que segura a cidade — 22/11/2026
+
+Fonte: anexo 9b185417-cc30-4a6f-8988-5bfa9eb911bb. Tradução integral; data editorial removida; título descritivo provisório. GeneralJianpingtu=GeneralPacificador/clouddepths/cloudrecesses/cloudunknown=ProfundezasdasNuvens/DragonWar=DragãoemGuerra. PequenaCavalariaWeiGuoJia/CaoZhang/CaoRen4estrelas; GrandeCavalariaWeiXiahouYuan/XunYu/CaoCao semestrelasinventadas. WuGong=arqueirosWu,nãonovojogadorpessoa. Viceroylineup traduzidoComposiçãodosGrandesComandantesem itálico como nomedescritivo; LüMeng/SunQuan/ZhouYuarqueirosWu. FonteidentificaLüMeng/ZhouYu na tropaProfundezas,nãoconfirmaterceiroSunQuanpresente na tropa agora (apenascomposiçãoclássicaexemplificada).
+
+Defesa10tropas→9após1ºataque→4apósinimigoelim inar5. Chegadareforçofalta10min depois3min; perdascoletivasatézerogu arnição, cidadenúcleodesprotegida. Resistênciainicial900; danos<20/70/33sãoprimeirosataques,nãolistaexaustivapara somar210. Mais2tropasaliadasatrasam, cidade~300depois210quandoProfundezaschega. Falainimigo200éarredondamento,nãocontradiçãoacorrigir. 5–6ataquesprimeirodepois10totalrepelidos emais3–4,nãoconsiderarmesmocontadorliteralinconsistente. Nãoinvert er200pontostropa paraHPdosgenerais.
+
+Jogoexplicabônusmesmafacção/tipotropa,2rodadassemataquebásicoLüMeng/depoisdanomágico/ZhouYutambéminibe2rodadas. Não afirmar silênciohabilidades/permanenteincapacidadecontraqualquercomposição; observação écontradependentesataquefísico. Defesaestabilizaeaguenta,nãodescrevercapturacapitalinimiga/assinaturapazouProteção5h30ativadanaausênciadefonte. Horárioabsolutonovonãofornecido. FinalcompletonasinergiaLüMengZhouYu, semresultadofinalguerra. Sem corte, omissão ou complemento editorial.
+
+UTF-8, par de itálicos e sequência 1–400 conferidos; leitor até390 preservado. TXT391–400pendentes; próximo401. Backup dos quatro registros com SHA256: backups/agd-capitulo-400-20261122T101926386566Z/. Commit e push manuais.
+
+
+## Revisão e publicação offline 391–400 — 22/11/2026
+
+Dez capítulos revisados com os anexos e a continuidade, integrados integralmente no leitor 1–400. Nenhum TXT pendente nesta obra; próximo envio/revisão401. Sem renumeração, fusões ou complementos de finais. Aplicação, Clube, progresso e preferências preservados; commit/push/implantação remota manuais.
+
+Sequência: semifinaisNRGvenceVSG/OSTeliminaIF e polêmicaáudios391; desculpas4OST/Frostsilencioso/IFajudatreinoNRG392; LeadingtheLandlançado2nov eestranhamento393; rivalZen/cinemática/mapa394; ZhengLiangzhou/tutorial/aliança395; grupoDragão/CursoMundo396; cercoYunjie397/conquista398; ataqueQiyueWuyilíder399/reforçoProfundezas400. FinalMundialNRG–OST ainda não narrada; defesa noturna estabilizada pelo reforço, sem fim de guerra inventado.
+
+Ajustes:
+- 394: quatro províncias nomeadas e outras treze → treze províncias no total, entre elas as quatro citadas. Aviso do sistema395 e objetivo396 confirmam treze capitais/províncias totais. Retirada a dúvida desta contagem; sem alterar nomes ou número de facções.
+- 399: Àquela altura, após cerca de uma hora de disputa esclarece a relação com ataqueprincipal3h40, sem avançar mais1h para4h40 e ainda alegar quase2haté5h30. Intervalo aproximado em itálico, preservando caráter interpretativo. Não há alteração dos horários confirmados2h30/5h30/10h30.
+- Outros8TXT preservados byte a byte. Sem novos ajustes de mecânicas por referência a jogos reais.
+
+Conferências:
+- SemifinalOST–IF: IFganha1º/OST2º3º/IF4º/OST5º54min=3–2OST. NRGperdeprimeirocontraVSGmasvence série, sem placarfinal fornecido. QuartasNRG–MAD5jogos/OST–WBG3–0, sem outros placares inventados. Audiência7,8milhõessemis e8,3S2retrospecto são métricas da fonte, não números de assentos ou soma das séries.
+- 6cortesáudio391/4jogadoresxingam392/Frostnão; pedidos públicos de desculpas cumpridos, sem multa/suspensão e sem discriminação racial conforme relato. Palavrões/reaçõesameaçadoraspreservados como falasficcionais, nenhuma cena apagada. Publicação emWeibo/telefonemas/grupos pertencem à ficção; nenhuma ação externa nossa.
+- LeadingtheLand2nov/decisãoMundial5nov, sem final antecipada. Heróis dosTrêsReinos é rivalZen/cartas+guerra, distinto projetoChen/SLG. Sem história significa sem roteiroguiado e não sem cenáriohistórico. Versoscorrompidos394 continuam interpretados em itálico; não reconstruído original chinês inexistente. HeavenlyJustice/HeavenlySword continuam títulosincertos, sem equivalência global por palpite.
+- Gradevisível10×10≈100casas, cidadeZheng9casas, províncias13total. Até3generaisportropa/acampamentoprincipal-centro-vanguarda/desbloqueioSalãoComando distintoResidênciaGovernante. Vigor20por100normal/consumometadeiniciante; devolução80%normal/100%iniciante. Terrenoconquistadoproteção1h distinta proteçãocidadeinicial sem duraçãofornecida.
+- Grupo>80váriasalianças, capacidadeinicial10/aliançanível1 não contradição; líderGeneralPacificador descritivoprovisório, DragãoemGuerrapeloMundo/ramonasTerrasSelvagens mesmo coletivo. CursoMundo metas3capitaisocupadas/13provínciasmesmaaliança, recompensascoletivasTalismãsJade e cartas5estrelas. Pontosdeinfluênciapelas terras/níveis não poderdecombategeral, nem nívelglobaljogador.
+- 397metas160milterrenos,30alianças>45membros(interpretaçãoassinalada),9milhõessoldados,15milnível4,>20cidadesnível3. Yunjie3/9casas,Wuwei8/25casas,Luoyang10máximo. 60–70participantes/3tropasfunções/infantariacerco7–8hdeslocamento, não tempo de toda batalha. Chegadaforte20h05/resto20h06/marcha2m12, agora cerca20h03 assinalado: fonte8:30 incoerente mantida no registro sem inventar horário exato do relógio.
+- Yunjieguarnições4tropascomparáveisTERRENONÍVEL6,não cidade6. Eliminadas3min/recuperam1h/cercofinal<10min; próximoYumen/depoisdescanso/Anyi4. Fonte398aumentardurabilidade já traduzida reduzir conforme função cerco397; nenhum buff inimigo acrescentado.
+- RegrasSubjugado:tropasderrotadas+resistênciacidade0,vassalonãocontraataca/terraspontes; líderesubjugadoaliançainteira. Não inventar permanentemente sem resgate ou regra futura não demonstrada. QiyueWuyi identifica atacante399; anteriormente398 sóameaçasemnome. Visão5casascidade/2fortaleza e construçãofronteira5 continuam dúvidaassinalada, sem alterar para6 arbitrariamente.
+- ProteçãoCidade3hpreparo+5himunidade:2h30→5h30→10h30. Assaltoprincipal3h40 faltam1h50; períodoaproximadodeconflito anterior esclarecido399. Sem ativarproteção5h30antesfonte. Núcleonão caiu.
+- 400defesa10tropas→9→4→zero; cidade900pontos→cerca300→210quandoProfundezaschega, inimigoarredonda200. Danos<20/70/33 exemplosparciais, não somar como todosataques. Reforçosduastropasatrasam, Profundezasfaltava10min/depois3min, nenhum horário finalnovo. 5–6primeiros/10repelidos depoismais3–4 são evolução, não exigir mesmo contador.
+- CavalariaMenorWeiGuoJia/CaoZhang/CaoRen4estrelas; MaiorXiahouYuan/XunYu/CaoCao; WuGong=arqueirosWu. LüMeng/ZhouYu5estrelas inibemataquesbásicos2rodadas edanomágico, não impedem todas habilidades. ComposiçãoGrandesComandantes comSunQuan é exemplocompleto, não prova terceirogeneralpresente nesta tropa. Último parágrafo400 traduz integralmente vantagemcontraataquesfísicos e ataquesmágicos, sem omissão.
+
+Fonte e final de cada capítulo registrados em CONFERENCIA-FONTES.json. Demais ambiguidades preservadas em itálico. Backup prévio19arquivosSHA256: backups/agd-publicar-revisar-391-400-20261122T102013412290Z/. Sete arquivos protegidos e primeiros390objetos serão conferidos. Validações registradas ao concluir.
+
+
+Validação concluída: cinco verificações de sintaxe JavaScript, node tests/reader.test.cjs e git diff --check aprovados. Todos400TXT comparados integralmente ao leitor, títulos/itálicos/catálogo/limites/navegação móvel simulada/retomada e isolamento entre obras conferidos. Primeiros390objetos idênticos ao backup;8novosTXT preservados byte a byte, somente394/399revistos. DezenovebackupsSHA256,10fontes e7arquivosprotegidos íntegros. Sem commit/push/deploy nem mudança funcional na aplicação/Clube/progresso/preferências. Não houve nova conferência visual no navegador.
+
+
+## Capítulo 401 — A guerra por Liangzhou — 22/11/2026
+
+Fonte: anexo e2293477-a0d3-402e-9e22-302fa96349be. Tradução integral; data editorial removida; título descritivo provisório. DragonWar=DragãoemGuerra/GeneralJianPingtu=GeneralPacificador/cloudrecessesYunshen=ProfundezasdasNuvens. SunQuansawakenings interpretadoSunQuandespertoem itálico, pois fraseinglesaambígua; não inventarhabilidade específica. COST=limitecustoTOTALDECOMANDO,nãomoedapagaporselecionar. ConfirmadoapenasLüMengeZhouYunatropa porlimite,composiçãoSunQuanfuturapossível. MetadesoldadosProfundezasrestam apósderrotarfrente, nãoderrotartodaaliançaQiyue.
+
+Chatafterdefensebroken contextualizadoassimqueproteçãoativa em itálico,pelalógicaesperarinvulnerabilidadeantescontrataque. Fonteativa5h34, 4min alémestimativa5h30em399: preservadohorárioexplícito e5hduração,nãotrocado para5h30ouinventadoinício2h34. Conferirnovohoráriofimcasofonteforneça (5h34+5h=10h34), não alteração automática das estimativas anteriores. Fortalezasprontas7–8h/novosonline8h/intervalo5–8atividadesnormais,nãopausamecânicaobrigatóriaoucronômetroexato. Espectador17tropas érelatoarredondadoprogressivodecombates, não contraposiçãoexataa10+3–4do400.
+
+Coordenadas(291,218)núcleoconflito;(291,222)/(294,217)/(295,193)ordenspreservadas. Thisredplotgone contextualizadoordemtomarvermelho; GaoZhanShang=osmaisfortesavancem, nãonovopersonagem. Construirfortalezasdemandaespaçopertodefrente,nãocapitaltomada. Demolirfortalezaeocuparterreno ações distintas, cercoevitarexércitoinimigocondiz397. Geografiamaisdúziacasasseparafrontes,nãodimensãototal10×10visível395.
+
+Guerraexplicitamentedeclarada/semacordodepaz; Qiyuealeganecessidade/Dra gãotraição, preservar posiçõesambas semendossoeditorial. ReferênciaLüMeng/LiuBeipartediscussãoficcional,nãopesquisahistóricaprópria. HábitosdesonoZheng2–3hrelato,nãorecomendação. Final nasordensdereconhecimento, semvencedorfinalprovíncia/Mundialinventados. Sem corte, omissão ou complemento editorial.
+
+UTF-8, dois pares de itálicos e sequência 1–401 conferidos; leitor até400 preservado. TXT401pendente; próximo402. Backup dos quatro registros com SHA256: backups/agd-capitulo-401-20261122T152621961278Z/. Commit e push manuais.

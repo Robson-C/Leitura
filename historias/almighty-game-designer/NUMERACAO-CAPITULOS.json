@@ -2347,7 +2347,74 @@
       "chapter": 390,
       "title": "As quartas de final estão definidas",
       "file": "capitulos/390 - As quartas de final estão definidas.txt"
+    },
+    {
+      "source": 391,
+      "chapter": 391,
+      "title": "A final definida e a polêmica das gravações",
+      "file": "capitulos/391 - A final definida e a polêmica das gravações.txt"
+    },
+    {
+      "source": 392,
+      "chapter": 392,
+      "title": "O pedido de desculpas e a preparação para a final",
+      "file": "capitulos/392 - O pedido de desculpas e a preparação para a final.txt"
+    },
+    {
+      "source": 393,
+      "chapter": 393,
+      "title": "Inovação demais para os jogadores",
+      "file": "capitulos/393 - Inovação demais para os jogadores.txt"
+    },
+    {
+      "source": 394,
+      "chapter": 394,
+      "title": "Um império que começa em um pequeno território",
+      "file": "capitulos/394 - Um império que começa em um pequeno território.txt"
+    },
+    {
+      "source": 395,
+      "chapter": 395,
+      "title": "Os primeiros passos e a primeira aliança",
+      "file": "capitulos/395 - Os primeiros passos e a primeira aliança.txt"
+    },
+    {
+      "source": 396,
+      "chapter": 396,
+      "title": "A aliança e a disputa por territórios",
+      "file": "capitulos/396 - A aliança e a disputa por territórios.txt"
+    },
+    {
+      "source": 397,
+      "chapter": 397,
+      "title": "O primeiro cerco da aliança",
+      "file": "capitulos/397 - O primeiro cerco da aliança.txt"
+    },
+    {
+      "source": 398,
+      "chapter": 398,
+      "title": "Uma ameaça na madrugada",
+      "file": "capitulos/398 - Uma ameaça na madrugada.txt"
+    },
+    {
+      "source": 399,
+      "chapter": 399,
+      "title": "A corrida para proteger o líder",
+      "file": "capitulos/399 - A corrida para proteger o líder.txt"
+    },
+    {
+      "source": 400,
+      "chapter": 400,
+      "title": "O reforço que segura a cidade",
+      "file": "capitulos/400 - O reforço que segura a cidade.txt"
+    },
+    {
+      "source": 401,
+      "chapter": 401,
+      "title": "A guerra por Liangzhou",
+      "file": "capitulos/401 - A guerra por Liangzhou.txt",
+      "offlinePending": true
     }
   ],
-  "notes": "Leitor local com 390 capítulos consecutivos, 1–390. Lote 366–390 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 391. Títulos provisórios e incertezas preservados. Commit e push manuais."
+  "notes": "Leitor local com 400 capítulos consecutivos, 1–400. TXT 401 pendente de revisão e integração por publique. Próximo envio 402; próxima revisão a partir do 401. Títulos provisórios preservados. Commit e push manuais."
 }
