@@ -1,0 +1,107 @@
+Capítulo 419 — Um FPS em que os heróis têm habilidades
+
+Em pouco tempo, o documento de conceito de Overwatch estava pronto.
+
+A base do jogo não era tão complicada, e as alterações de Chen Mo se concentravam principalmente nas regras e nos sistemas. Por isso, não seria tão difícil produzi-lo.
+
+As mudanças pretendiam preservar a diversão central sem destruir as características originais do jogo.
+
+Um dos maiores problemas de Overwatch era que alguns heróis simples ou pouco divertidos eram fortes demais. Sem escolhê-los, os jogadores não venciam; escolhendo-os, não se divertiam. Por isso, muita gente acabava usando personagens de que não gostava só para ganhar.
+
+Vencer não trazia grande satisfação. Perder, por outro lado, fazia o jogador explodir.
+
+Heróis como Reinhardt e Lúcio, por exemplo, realmente tinham várias técnicas avançadas nas partidas de alto nível. Mas os jogadores comuns não chegavam a experimentar aquilo.
+
+Suas habilidades eram simples e diretas, sem tanto espaço para grandes demonstrações individuais. Ofereciam muitos benefícios à equipe, mas a diversão de usá-los era limitada.
+
+Só que alterar as habilidades destruiria a identidade daqueles heróis. Muitos odiavam o escudo de Reinhardt. Mas, se ele fosse modificado, ainda seria Reinhardt?
+
+Por isso, a maneira mais razoável e eficaz de mudar o jogo, preservando as habilidades e as características dos personagens, era enriquecer suas regras e seus modos para dar espaço a mais heróis.
+
+Depois de terminar o documento, Chen Mo chamou todos para uma reunião.
+
+Muitos integrantes do estúdio ainda estavam envolvidos no clima do Mundial da S1. Ao saber que já começariam um novo projeto, ficaram pasmos.
+
+“Tão rápido assim?” Su Jinyu ficou surpresa.
+
+Fazia pouco tempo que todos haviam voltado de Xangai. Mesmo que fossem criar outro jogo, não deveriam primeiro parar para pensar no que fazer?
+
+Chen Mo sorriu. Na tela, apareceu o título do documento: Conceito de Overwatch.
+
+“Pessoal, desta vez temos uma missão urgente.” Ele olhou para todos. “Vamos criar um Jogo do Ano em três meses.”
+
+“Hã?”
+
+Todos ficaram sem reação.
+
+Três meses? Para fazer um Jogo do Ano?
+
+Embora já estivessem acostumados às declarações grandiosas de Chen Mo, aquilo ainda parecia inacreditável para muitos.
+
+Criar um Jogo do Ano em três meses? Parecia até um insulto aos outros designers!
+
+Havia gente que trabalhava duro por dois ou três anos e nem conseguia entrar na disputa. E eles fariam um em três meses? Não era absurdo demais?
+
+Além disso, não bastava querer ganhar o prêmio. Era preciso agradar aos jurados.
+
+A maioria sabia que, embora a Thunderbolt Entertainment tivesse desenvolvido League of Legends, realizado o Mundial e lançado seu segundo jogo de VR, Outlast, naquele ano, ainda seria muito difícil conquistar o prêmio com aqueles títulos.
+
+Porque não eram do gosto dos avaliadores.
+
+Chen Mo claramente sabia disso. Era por esse motivo que queria criar outro jogo. Pelo que dizia, o principal objetivo do projeto seria ganhar prêmios.
+
+Será que funcionaria?
+
+Cheios de dúvidas, todos ouviram a apresentação.
+
+“Overwatch é um FPS, mas será completamente diferente dos principais jogos de tiro do mercado. Isso porque as habilidades dos heróis terão um impacto totalmente diferente sobre as batalhas.”
+
+Ao ouvir aquilo, os olhos de todos brilharam.
+
+Muita gente já havia pensado em um FPS com habilidades, mas ninguém conseguira transformar a ideia em realidade.
+
+Um esboço conceitual apareceu no projetor. Mostrava um guerreiro com uma armadura de alta tecnologia, sacando a longa espada presa às costas. A imagem de um enorme dragão se enroscava ao seu redor, transmitindo uma intensa ameaça.
+
+“Vamos usar Genji como exemplo. Seu ataque normal é lançar shurikens para atingir os inimigos à distância. Ele tem duas habilidades especiais: uma permite avançar rapidamente e causar dano; a outra reflete ataques à distância. Além disso, pode escalar paredes livremente e dar um salto duplo.”
+
+“Sua ultimate consiste em sacar a espada das costas e causar muito dano num curto período.”
+
+“Outro exemplo é Mei. Ela tem dois ataques básicos. Um libera uma névoa gelada que congela o inimigo aos poucos. O outro dispara pingentes de gelo para causar dano em um alvo. Suas habilidades especiais permitem criar uma parede de gelo ou entrar num estado de congelamento que a torna imune a dano. A ultimate é uma nevasca, capaz de congelar vários adversários dentro da área.”
+
+Chen Mo apresentou brevemente dois heróis clássicos de Overwatch para ajudar a equipe a entender como seria um FPS com habilidades.
+
+Como o tempo era curto, não havia conseguido desenhar todos os personagens. Escolhera apenas dois com características marcantes.
+
+Com os esboços e as descrições, a maioria logo conseguiu imaginar como seria jogar com aqueles heróis.
+
+“Se for assim…” Qian Kun coçou a cabeça. “Todos os heróis vão ser muito fortes. Não vai parecer uma briga entre deuses?”
+
+“Sim.” Chen Mo sorriu. “Pode pensar dessa forma.”
+
+Su Jinyu interveio:
+
+“Você é bobo? Os campeões de League of Legends também não têm habilidades?”
+
+Qian Kun fez um gesto com a mão.
+
+“É claro que eu sei. Mas ainda é um FPS, não é? Pode acontecer de nós cinco estarmos correndo com as armas na mão, a Mei aparecer do nada, usar uma nevasca, congelar todo mundo e a gente se ferrar?”
+
+Chen Mo assentiu.
+
+“Sim, pode. Mas isso também faz parte da diversão. Como *um jogador que quer fazer boas jogadas*, você deve tentar criar esse tipo de oportunidade.”
+
+“Hum… Então vai ser muito difícil equilibrar o jogo.” Como Qian Kun trabalhava com os valores numéricos, era muito sensível àquele tipo de problema.
+
+Chen Mo assentiu.
+
+“Vai ser difícil mesmo. Mas é um problema inevitável. Se quisermos fazer um bom FPS com habilidades, teremos que resolver o balanceamento da melhor forma possível.”
+
+“Entendi.” Qian Kun concordou.
+
+Era evidente que adicionar habilidades a um FPS dificultaria o balanceamento. Num MOBA, o dano dos ataques básicos de um campeão podia ser estimado. Com ou sem itens de acerto crítico, era possível calcular aproximadamente quanto dano um atirador causaria em determinado intervalo.
+
+Num FPS, porém, a eficiência dos ataques normais dependia da mira do jogador e do nível do adversário. Havia uma diferença enorme entre um especialista que acertava tiros na cabeça e um iniciante que errava todos os disparos. Acrescentar habilidades tornava a força real dos heróis ainda mais difícil de estimar e controlar.
+
+Chen Mo olhou para a equipe.
+
+“Eu e Qian Kun vamos cuidar do balanceamento dos valores. Afinal, já temos alguma experiência com League of Legends. Não deve ser um problema tão grande. Mais alguma pergunta?”

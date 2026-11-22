@@ -1,0 +1,85 @@
+Capítulo 418 — Cinco modos e uma nova forma de avaliar os jogadores
+
+A ideia de Chen Mo era transformar Overwatch num jogo voltado à diversão, preservando aquilo que havia de mais divertido em sua essência.
+
+Primeiro, precisava eliminar a barreira de entrada e torná-lo completamente gratuito. A receita viria apenas de skins, avatares e outros serviços adicionais.
+
+O objetivo era atrair o maior número possível de jogadores e ampliar a base disponível para o pareamento. Assim, a taxa de vitórias e a experiência das partidas da maioria se aproximariam das de League of Legends.
+
+Muitos poderiam achar uma bobagem tentar manter a taxa de vitórias em cinquenta por cento. Mas, na verdade, um jogo competitivo incapaz de garantir esse equilíbrio seria um desastre.
+
+Isso significaria que alguns jogadores habilidosos poderiam continuar vencendo sem parar, enquanto os menos capazes só perderiam. A consequência seria uma evasão ainda maior nas faixas mais baixas, algo extremamente prejudicial à vida útil do jogo.
+
+Em segundo lugar, era preciso diminuir o peso das vitórias e derrotas e reforçar a sensação de evolução pessoal.
+
+Num jogo competitivo, a principal diversão da maioria vinha de vencer. Sem eliminar isso, ele também precisava fazer o possível para que quem perdesse não ficasse tão desanimado.
+
+Em sua vida anterior, um dos problemas de Overwatch era que os jogadores perdiam sem entender por quê. Talvez achassem que um companheiro havia jogado mal, que faltara cooperação ou que a composição era ruim. Enfim, o sistema não dizia o que havia causado a derrota, e o próprio jogador também não conseguia descobrir.
+
+Isso fazia muitos sentirem uma profunda impotência. A frustração depois de perder podia ser explosiva.
+
+A solução de Chen Mo era registrar todas as estatísticas dos heróis ao longo da partida, não apenas dano, cura e eliminações.
+
+No caso de Winston, por exemplo, o sistema reuniria dano causado, eliminações, mortes, dano recebido, eliminações decisivas — como abater um adversário de dano ou cura com bom desempenho —, dano decisivo — a contribuição de dano para essas eliminações —, eficiência da ultimate, incluindo o momento em que fora usada, e outros dados. Tudo isso resultaria numa avaliação completa de cada partida.
+
+Todos poderiam consultar os números com clareza e distinguir quem estava carregando a equipe de quem a estava prejudicando.
+
+Ao mesmo tempo, as eliminações deixariam de ser contabilizadas de forma compartilhada. Não haveria mais aquela situação de levar uma medalha de ouro em eliminações só por ter participado dos abates.
+
+É claro que, com todas as estatísticas públicas e ainda mais detalhadas, as medalhas de ouro seriam removidas.
+
+Afinal, aquele sistema não fazia muito sentido. A medalha, por si só, não significava que alguém havia jogado bem, e a maioria não a aceitava como prova disso.
+
+Ao usar um mesmo herói, o jogador poderia acompanhar a evolução de sua proficiência no fim de cada partida. Aquilo também funcionaria como uma forma indireta de incentivo.
+
+Por exemplo, alguém que jogasse bem de Hanzo poderia perder a partida, mas, ao ver uma avaliação S e perceber que havia se saído melhor do que antes, esqueceria a infelicidade da derrota.
+
+Além disso, as recompensas estariam diretamente ligadas ao desempenho individual, e não ao resultado da partida. Desde que jogasse bem, alguém poderia receber mais ao perder do que ao vencer. Isso reduziria a frustração da derrota.
+
+Quem ainda não fosse bom também conseguiria entender seus problemas por meio dos dados.
+
+Por exemplo, se um jogador escolhesse Reaper, ao terminar a partida, o sistema poderia enviar uma notificação: sua avaliação havia sido B; o uso do E para se deslocar estava muito abaixo da média; o uso do Shift para evitar dano também; e *o dano acumulado em disparos à distância era muito maior do que o causado de perto*.
+
+Combinando essas informações, o sistema poderia concluir que ele não sabia atacar a retaguarda adversária. Depois de entender aquilo, o jogador daria mais atenção a esses pontos na próxima vez que usasse Reaper.
+
+Só com a alegria de vencer e a compreensão do motivo de perder a maioria conseguiria se divertir de verdade.
+
+O último ponto era oferecer vários modos de jogo.
+
+Um dos maiores problemas de Overwatch era que o modo de seis contra seis com todos os heróis disponíveis tornava os personagens capazes de fortalecer a equipe muito mais eficientes do que os de ataque comuns. Isso engessava as composições.
+
+Chen Mo pensava em disponibilizar cinco modos diferentes. O mais popular entre os jogadores indicaria qual caminho era o mais acertado.
+
+O primeiro seria o modo clássico: seis contra seis, todos os heróis disponíveis e sem repetir personagens na mesma equipe.
+
+O segundo seria o modo FPS, no qual só seria possível escolher heróis de ataque. Em outras palavras, seria um retorno à diversão original dos jogos de tiro, com tudo decidido nos disparos.
+
+O terceiro seria o modo com banimentos. Cada lado poderia votar para banir três heróis. Se os jogadores achassem Reinhardt e Lúcio sem graça e não quisessem enfrentá-los, poderiam bani-los diretamente. Eles não apareceriam na partida.
+
+O quarto seria um modo com mais participantes: doze contra doze, *sem exigir uma composição fixa*. A proposta era oferecer mais espaço para os jogadores aprontarem e dar oportunidades a mais heróis.
+
+O problema do seis contra seis era o pouco espaço na equipe. Para o bem do grupo, dois tanques e dois curandeiros eram praticamente obrigatórios, sobrando apenas duas vagas de ataque.
+
+Na disputa por essas vagas, era evidente que os heróis com maior capacidade de causar dano, como Soldado: 76, estariam sempre presentes. Já os que causavam menos dano não teriam chance alguma. Mesmo que alguém jogasse bem com eles, os companheiros não confiariam.
+
+Numa partida de doze contra doze, a equipe teria mais espaço para heróis menos populares. Mantendo uma quantidade básica de tanques e curandeiros, seria possível escolher Soldado: 76, Widowmaker, Hanzo, Genji e Reaper ao mesmo tempo. Assim, haveria espaço para atiradores em posições elevadas, ataques à retaguarda, dano convencional e outras formas de atuação.
+
+O quinto seria o modo de promoção. Quando um herói alcançasse determinada quantidade de eliminações ou assistências sem morrer, receberia uma promoção e poderia escolher uma habilidade para fortalecer. Em outras palavras, a vantagem inicial permitiria criar uma bola de neve.
+
+É claro que o outro lado também poderia conseguir uma promoção ainda mais forte ao encerrar a sequência de eliminações de um adversário.
+
+Todos os efeitos seriam zerados no fim de cada rodada, garantindo condições iniciais justas na seguinte.
+
+O principal objetivo era atender aos jogadores que queriam ser os heróis da partida e experimentar a emoção de enfrentar cinco adversários sozinhos.
+
+Além disso, o Overwatch de Chen Mo teria um sistema mais rigoroso de recompensas e punições.
+
+O desempenho nas partidas cotidianas afetaria a pontuação geral de cada jogador. No pareamento, a prioridade seria reunir pessoas de nível semelhante.
+
+Quem mantivesse uma pontuação muito baixa enfrentaria adversários mais fracos.
+
+Jogadores que recebessem muitas denúncias por falta de empenho deliberada, xingamentos e condutas semelhantes sofreriam punições. Além disso, haveria prioridade para colocá-los nas mesmas partidas. Nos casos graves, ficariam isolados numa fila restrita e só seriam liberados depois de disputar determinada quantidade de partidas contra a inteligência artificial.
+
+É claro que Chen Mo não tinha cem por cento de certeza de que aquelas mudanças funcionariam. Mas de uma coisa ele sabia: Overwatch era um ótimo jogo. Não deveria se limitar ao sucesso que havia alcançado em sua vida anterior. Poderia ser melhor.
+
+Chen Mo não queria que seu jogo perdesse a popularidade depois de um período de sucesso. Queria que tivesse uma vida mais longa e permitisse que mais jogadores se divertissem.

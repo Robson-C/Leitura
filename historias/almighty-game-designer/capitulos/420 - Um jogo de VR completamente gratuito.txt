@@ -1,0 +1,95 @@
+Capítulo 420 — Um jogo de VR completamente gratuito
+
+Su Jinyu pensou por um instante e disse:
+
+“Chefe, a ideia é boa. Mas será que temos mesmo chance de disputar o prêmio de Jogo do Ano? Pelo que sei, esse prêmio costuma ir para jogos de mundo aberto, com mais conteúdo.”
+
+“Não se preocupe com isso”, respondeu Chen Mo. “Neste ano, não há grandes concorrentes entre os jogos de VR. Talvez haja um ou dois títulos bons, mas tenho confiança em Overwatch. Além disso, Wolf Soul, da Emperor Dynasty Entertainment, já não ganhou o prêmio antes? Também é um FPS.”
+
+Vendo que ninguém tinha outras perguntas, ele continuou a explicar o restante do documento: modos de jogo, características dos heróis, construção do universo, design dos mapas, formas adicionais de jogar, modelo de monetização e assim por diante.
+
+Quanto mais ouviam, mais empolgados ficavam. O documento seguia o estilo de Chen Mo: era extremamente completo. Todos estavam particularmente interessados nos heróis e em suas histórias.
+
+Mas o modelo de monetização ainda provocou bastante discussão.
+
+“Completamente gratuito? Igual a League of Legends, cobrando só por serviços adicionais?”
+
+“Não é um pouco arriscado? Afinal, é um jogo de VR. O investimento é muito maior do que num jogo de PC!”
+
+“Pois é, chefe. E já não existem tantos jogadores de VR. Será que só vender esses serviços vai cobrir os custos?”
+
+“Não tem nenhum jogo de VR no mercado sem cobrança de entrada, tem?”
+
+Era evidente que todos entendiam a importância de eliminar a barreira de entrada num jogo competitivo. O problema era que as plataformas de VR e PC eram diferentes.
+
+Até então, os jogos de VR mais baratos do país custavam algumas dezenas de yuans. Ninguém tinha ouvido falar de um título gratuito.
+
+Chen Mo parecia já esperar aquela reação. Sorriu e respondeu:
+
+“Entendo a preocupação de vocês. Vamos colocar assim: mesmo na pior das hipóteses, se o jogo só der prejuízo, não tem problema. Afinal, nosso objetivo é o prêmio de Jogo do Ano.”
+
+“Eu preciso ganhar dinheiro com tudo? Nossa empresa não está com falta de dinheiro. Mesmo que esse jogo dê prejuízo e *ganhe visibilidade*, não faz mal. Além disso, desde que haja jogadores suficientes, é impossível não ganhar dinheiro.”
+
+Ele olhou para a equipe.
+
+“Quanto vocês acham que seria um preço adequado para Overwatch?”
+
+Todos se entreolharam.
+
+Qian Kun respondeu:
+
+“Tomando Wolf Soul como referência, poderia custar desde 488 até 1.288 ou 1.688 yuans. Minecraft foi vendido a 128, que já é um preço muito baixo. Para muitos jogadores de VR, é quase de graça.”
+
+“Se vendermos Overwatch a 128 yuans, um milhão de cópias rende uma quantia na casa dos cem milhões”, disse Chen Mo. “Estamos precisando desses cem milhões?”
+
+Ninguém soube o que dizer.
+
+Era verdade. A receita mensal de Onmyoji já chegava a centenas de milhões. Chen Mo não via grande necessidade de depender da venda de cópias de Overwatch.
+
+Ele continuou:
+
+“Mesmo que aumentemos o preço em cerca de dez vezes, para 1.288 yuans, um milhão de cópias renderia uma quantia na casa de um bilhão. Mas vocês precisam considerar quantos jogadores perderíamos com essa barreira de entrada.”
+
+“Em outras palavras, cobrar pouco não faz sentido. Esses trocados não fazem diferença, então é melhor oferecer de graça. Se cobrarmos muito, vamos perder um grande número de jogadores. Para nós, a quantidade de pessoas jogando é mais importante do que a receita da venda de cópias. Num jogo competitivo, não preciso explicar a importância de ter uma base ampla para o pareamento, preciso?”
+
+“E se Overwatch for totalmente gratuito? Provavelmente será instalado na maioria das cápsulas de VR do país e até do exterior. Mesmo quem não joga FPS pode se sentir atraído a experimentar. Se metade… Não, se apenas um décimo dessas pessoas ficar e se tornar parte do público fiel, já estaremos no ganho.”
+
+Todos se entreolharam, em silêncio.
+
+De fato, as palavras de Chen Mo eram impressionantes. Qualquer outro designer não teria confiança para oferecer um jogo de VR de alta qualidade gratuitamente e depender apenas da venda de skins. Que visão ousada!
+
+Mas Chen Mo era diferente. Agora tinha muito dinheiro, e a decisão final era sua. Podia gastar como quisesse e fazer o que bem entendesse. Nenhum acionista ou investidor apareceria para lhe dar ordens.
+
+Todos só podiam suspirar. Quem tinha dinheiro podia mesmo fazer o que queria!
+
+Ainda assim, o raciocínio fazia sentido. Já não havia tantos jogadores de VR. Se ainda fosse preciso comprar o jogo, não seria possível garantir uma base suficientemente ampla, e a experiência seria menos amigável para os iniciantes.
+
+Era evidente que Chen Mo tinha grandes ambições para Overwatch em realidade virtual. Queria transformá-lo no jogo com o maior número de jogadores e também no primeiro título de VR de alta qualidade sem cobrança de entrada.
+
+No fim, todos aceitaram aquela decisão surpreendente: criar um jogo de VR totalmente gratuito para disputar o prêmio de Jogo do Ano.
+
+Afinal, ele era o chefe. A palavra final era dele.
+
+Em novembro, enquanto Chen Mo preparava Overwatch, algo aconteceu na indústria.
+
+War of Souls, um MOBA em primeira pessoa desenvolvido por uma pequena empresa, foi lançado discretamente e logo desapareceu.
+
+Era um jogo para PC com uma ideia simples: aproveitar a onda dos MOBAs criada por League of Legends e substituir a câmera elevada em terceira pessoa pela visão em primeira pessoa, explorando outra possibilidade.
+
+Mas o resultado foi um fracasso nada surpreendente. Muitos jogadores sequer chegaram a ouvir falar dele.
+
+Na verdade, desde o surgimento de League of Legends, vários designers haviam considerado a mesma pergunta: seria possível transformar um MOBA num jogo em primeira pessoa?
+
+Depois de analisar a ideia com cuidado, muitos desistiram. Esse também era o principal motivo para grandes empresas, como Emperor Dynasty Entertainment e Zen Entertainment, não terem criado um MOBA desse tipo.
+
+A pequena empresa responsável por War of Souls claramente quis tentar a sorte, mas fracassou sem deixar dúvidas.
+
+Isso porque um fator muito importante nos MOBAs era a necessidade de enxergar a batalha como um todo. Os jogadores precisavam saber onde estavam os companheiros, o que faziam e onde se encontravam os campeões adversários para tomar as decisões corretas.
+
+Trocar a visão elevada pela perspectiva em primeira pessoa limitava diretamente o campo de visão e levava a interpretações erradas da situação.
+
+Além disso, era difícil avaliar o alcance real das habilidades de área em primeira pessoa. Algumas habilidades que atingiam o mapa inteiro eram muito difíceis de implementar, e os jogadores frequentemente erravam na percepção das distâncias.
+
+Todos esses problemas prejudicavam seriamente a diversão central de um MOBA. Somados à qualidade bastante mediana da produção, fizeram com que o jogo quase não chamasse atenção.
+
+O fracasso também reforçou a opinião predominante de que MOBAs não funcionavam em primeira pessoa, muito menos em VR.

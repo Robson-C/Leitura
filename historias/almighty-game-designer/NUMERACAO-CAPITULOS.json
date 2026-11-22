@@ -2467,7 +2467,77 @@
       "chapter": 410,
       "title": "Os campeões do primeiro Mundial",
       "file": "capitulos/410 - Os campeões do primeiro Mundial.txt"
+    },
+    {
+      "source": 411,
+      "chapter": 411,
+      "title": "A festa dos campeões e o futuro das ligas",
+      "file": "capitulos/411 - A festa dos campeões e o futuro das ligas.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 412,
+      "chapter": 412,
+      "title": "As skins dos campeões da NRG",
+      "file": "capitulos/412 - As skins dos campeões da NRG.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 413,
+      "chapter": 413,
+      "title": "A corrida pelas vagas e a crise de Liangzhou",
+      "file": "capitulos/413 - A corrida pelas vagas e a crise de Liangzhou.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 414,
+      "chapter": 414,
+      "title": "A aliança que mudou o rumo da guerra",
+      "file": "capitulos/414 - A aliança que mudou o rumo da guerra.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 415,
+      "chapter": 415,
+      "title": "O que falta para chegar à classe S",
+      "file": "capitulos/415 - O que falta para chegar à classe S.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 416,
+      "chapter": 416,
+      "title": "Overwatch, a escolha para disputar o prêmio",
+      "file": "capitulos/416 - Overwatch, a escolha para disputar o prêmio.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 417,
+      "chapter": 417,
+      "title": "Overwatch sem ranqueadas",
+      "file": "capitulos/417 - Overwatch sem ranqueadas.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 418,
+      "chapter": 418,
+      "title": "Cinco modos e uma nova forma de avaliar os jogadores",
+      "file": "capitulos/418 - Cinco modos e uma nova forma de avaliar os jogadores.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 419,
+      "chapter": 419,
+      "title": "Um FPS em que os heróis têm habilidades",
+      "file": "capitulos/419 - Um FPS em que os heróis têm habilidades.txt",
+      "offlinePending": true
+    },
+    {
+      "source": 420,
+      "chapter": 420,
+      "title": "Um jogo de VR completamente gratuito",
+      "file": "capitulos/420 - Um jogo de VR completamente gratuito.txt",
+      "offlinePending": true
     }
   ],
-  "notes": "Leitor local com 410 capítulos consecutivos, 1–410. Lote 401–410 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 411. Títulos provisórios preservados. Commit e push manuais."
+  "notes": "Leitor local com 410 capítulos consecutivos, 1–410. TXT 411–420 pendentes de revisão e integração por publique. Próximo envio 421; próxima revisão a partir do 411. Títulos provisórios preservados. Commit e push manuais."
 }

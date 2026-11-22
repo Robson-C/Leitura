@@ -1,0 +1,81 @@
+Capítulo 417 — Overwatch sem ranqueadas
+
+Depois de decidir qual seria o próximo jogo, Chen Mo começou a escrever o documento de conceito de Overwatch.
+
+Como jogo competitivo, Overwatch não tinha tanto conteúdo assim. Tanto no número de heróis quanto nas mecânicas das habilidades, nos elementos dos mapas e em outros aspectos, ficava muito atrás das grandes produções de verdade.
+
+No planejamento de Chen Mo, a primeira versão seria a seguinte.
+
+Quanto aos heróis, seriam disponibilizados os primeiros 22. *Sombra e os heróis lançados depois dela ficariam para mais tarde*.
+
+Quanto aos mapas, seriam disponibilizados doze. *Eichenwalde e os mapas posteriores ficariam de fora por enquanto*.
+
+A ideia era garantir a experiência básica dos jogadores. Se cortasse ainda mais conteúdo, sobraria pouco demais, prejudicando bastante a jogabilidade.
+
+Além disso, alguns sistemas importantes precisavam estar prontos: modo de treinamento, skins de heróis, abertura de caixas, Jogada da Partida, recursos sociais, perfil de carreira, configurações e assim por diante.
+
+As demais alterações diziam respeito à experiência de jogo. A maior mudança estaria nos modos disponíveis.
+
+Chen Mo havia pensado bastante no assunto.
+
+A rigor, Overwatch não fora um jogo competitivo particularmente bem-sucedido. Em equilíbrio, números de jogadores, qualidade do espetáculo das partidas, popularidade e vários outros aspectos, ficava muito atrás de Dota, League of Legends e CS:GO.
+
+Mesmo deixando o cenário profissional de lado e considerando apenas a experiência dos jogadores, havia muitas falhas.
+
+Um dos problemas centrais era que o jogo tentava eliminar as experiências negativas, mas acabava oferecendo mais frustração do que a maioria dos outros títulos.
+
+No primeiro contato, os jogadores ficavam muito empolgados e achavam tudo perfeito. Mas, depois de jogar por bastante tempo, sentiam uma profunda impotência.
+
+Muitos se deparavam com uma pergunta difícil de responder: o que fazer para vencer quando os companheiros não eram bons o suficiente?
+
+O que precisavam fazer para ficar mais fortes?
+
+Em termos de jogabilidade, Overwatch havia herdado o modelo de Team Fortress 2. Mas enfrentava problemas que Team Fortress 2 nunca tivera que enfrentar.
+
+Se fossem apenas jogos de nicho, os dois poderiam se sair muito bem. Mas e se quisessem substituir os MOBAs, levar aquele novo modelo de jogo ao mundo inteiro e transformá-lo num dos principais gêneros do mercado?
+
+Seria difícil demais.
+
+Havia muitos motivos para isso, mas o principal era que o modelo de Overwatch ainda não estava maduro, e a Blizzard não havia conseguido aperfeiçoá-lo.
+
+Como um FPS com habilidades, ele combinava elementos de MOBA e de jogos de tiro. Ao mesmo tempo, porém, criava muitos problemas novos.
+
+Por causa das diferentes funções e habilidades dos heróis, as relações de vantagem entre eles eram muito acentuadas. Genji, por exemplo, tinha uma desvantagem natural contra Winston. Era praticamente impossível compensar aquela diferença apenas com habilidade, o que contrariava completamente os hábitos dos jogadores de FPS.
+
+Num jogo de tiro, ter uma mira suficientemente boa resolvia a maior parte dos problemas. Em Overwatch, não era bem assim.
+
+Ao mesmo tempo, como sua base continuava sendo a de um FPS, qualquer pequena alteração nos valores podia provocar consequências muito sérias. Equilibrar os heróis era, portanto, mais difícil do que num MOBA. Isso levava diretamente a problemas como a demora para lançar novos personagens e a rigidez das composições nas partidas de alto nível.
+
+Além disso, a trindade de guerreiro, mago e sacerdote de que a Blizzard tanto gostava — tanque, dano e cura — também reduzia a diversão do jogo.
+
+Overwatch dependia enormemente da equipe. Por isso, heróis que ofereciam grandes benefícios ao grupo, como Reinhardt, Ana e Lúcio, eram muito populares. Já personagens que não proporcionavam esse tipo de vantagem, como Widowmaker e Hanzo, não eram bem aceitos pela equipe, mesmo quando o jogador era habilidoso.
+
+Em termos simples, continuava sendo uma partida de seis contra seis, com cada herói valendo um ponto individualmente. Mas algumas combinações somavam seis pontos, enquanto outras chegavam a cem.
+
+Ao mesmo tempo, o modo competitivo acelerava a descoberta e o desenvolvimento das estratégias. Para vencer, a maioria dos jogadores pressionava os companheiros a escolher a composição mais eficiente. Isso fazia com que a discriminação contra certos heróis começasse antes mesmo da partida.
+
+“Escolheu a dupla de Reconstruir o Império? Não quero saber se você joga bem. Vou te xingar primeiro.”
+
+(Reconstruir o Império era uma referência a uma interação especial ativada quando Hanzo e Widowmaker eram escolhidos juntos. Os dois funcionavam de maneira semelhante a atiradores de precisão e quase não ofereciam benefícios conjuntos à equipe. Por isso, muitos jogadores acreditavam que escolher aquela dupla era garantia de derrota.)
+
+Era por isso que composições como 3–0–3 e 4–0–2 se tornavam tão populares, fazendo o jogo perder tanto a diversão dos MOBAs quanto a dos FPS. Somavam-se a isso a lentidão das atualizações, a base reduzida de jogadores por causa da compra obrigatória do jogo e os problemas do modo competitivo. Tudo aquilo fazia sua popularidade cair rapidamente.
+
+O que Chen Mo queria era aproveitar os pontos fortes de Overwatch e evitar essas falhas, permitindo que o jogo tivesse uma vida mais longa em VR.
+
+A ideia central da mudança era abandonar completamente o caminho do cenário competitivo e transformar Overwatch num jogo mais voltado à diversão.
+
+Na prática, isso significava não disponibilizar um sistema de partidas ranqueadas e não organizar competições relacionadas ao jogo.
+
+Podia parecer absurdo, mas era uma decisão que ele havia considerado cuidadosamente. Ao criar Warcraft e League of Legends, Chen Mo entendera muito bem o valor dos rankings e das ranqueadas para os jogos competitivos. As competições de alto nível eram um complemento importantíssimo para League of Legends. Só um idiota deixaria de aproveitá-las.
+
+Para Overwatch, porém, o sistema de ranqueadas e os torneios não trariam tantos benefícios. Pelo contrário, teriam certos efeitos negativos sobre o ambiente do jogo.
+
+Em sua vida anterior, as competições de Overwatch também haviam sido muito populares. Mas existiam dois problemas sem solução.
+
+O primeiro era a experiência de assistir às partidas. Assim como acontecia com os outros FPS, aquela era uma dificuldade que não podia ser resolvida.
+
+O segundo era a composição das equipes. À medida que os profissionais explorassem o jogo, descobririam que, dentro das regras existentes, composições como 2–2–2 ou 3–0–3 eram as melhores. Alguns heróis simplesmente não eram bons, enquanto outros praticamente não tinham utilidade.
+
+Essa tendência se espalharia rapidamente dos campeonatos para as partidas de alto nível e, depois, para as de nível mais baixo, influenciando a avaliação de todos os jogadores sobre os heróis. No fim, inevitavelmente levaria à situação em que escolher a dupla de Reconstruir o Império já bastava para ser xingado.
+
+Por causa da própria natureza do jogo, aqueles dois problemas não tinham solução. Já que não podia resolvê-los, era melhor não seguir por aquele caminho. Insistir só consumiria a vida útil do jogo antes da hora e produziria o efeito contrário ao desejado.
