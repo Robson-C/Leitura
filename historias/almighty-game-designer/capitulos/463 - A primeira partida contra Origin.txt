@@ -1,0 +1,115 @@
+Capítulo 463 — A primeira partida contra Origin
+
+Enquanto isso, na loja de experiências.
+
+Em comparação com quem acompanhava as outras transmissões, os jogadores que estavam ali tinham uma vista muito melhor. O segundo andar da loja contava com uma área especial de projeção holográfica!
+
+Havia um telão e um projetor holográfico. Assistir à partida daquele jeito era muito melhor que acompanhar a transmissão num site!
+
+A loja não usava o sinal oficial da transmissão, porque Chen Mo conseguia obter os dados por conta própria.
+
+Antes do início do confronto, ele havia combinado isso com os organizadores. Embora a disputa acontecesse numa rede local, para reduzir ao máximo a latência, os dados gerados durante a partida seriam enviados a Chen Mo em tempo real.
+
+O volume era muito pequeno, pois um arquivo completo de replay de Warcraft tinha apenas algumas centenas de *quilobytes*.
+
+Depois de receber os dados, Chen Mo podia reproduzir a partida no cliente de Warcraft e exibi-la pelo projetor holográfico.
+
+O jogo já estava carregando no telão da loja. No canto inferior esquerdo, uma pequena janela mostrava as expressões de Starlight.
+
+Quanto a Origin...
+
+Mesmo que quisessem filmar suas expressões, não havia como!
+
+Assim que a partida começou, o projetor holográfico também passou a exibi-la.
+
+Os jogadores já esperavam havia algum tempo, impacientes, e comemoraram ao ver as imagens.
+
+“Começou! Começou!”
+
+“Caramba, estou muito empolgado. Acho que estou mais animado que em todas as partidas anteriores de Warcraft!”
+
+“É claro. É uma batalha entre humanos e inteligência artificial. É uma disputa completamente diferente!”
+
+“Shhh! Não falem. Prestem atenção!”
+
+Todos se concentraram no telão e na projeção holográfica para acompanhar a abertura da batalha entre humanos e máquinas.
+
+Embora as imagens não parecessem diferentes das outras partidas de Warcraft, para os jogadores o significado era completamente outro.
+
+Afinal, o adversário era uma IA!
+
+O confronto seria disputado em melhor de três, também para reduzir ao máximo a influência da sorte sobre o resultado.
+
+Os mapas mudariam entre as partidas. Todos estavam entre os mais populares do jogo e seriam sorteados.
+
+Isso também dava uma pequena vantagem ao jogador humano, pois as estratégias variavam bastante conforme o mapa. Por exemplo, *um ataque com unidades de primeiro nível podia funcionar num mapa pequeno ou com bases próximas, mas não num mapa grande com bases distantes*.
+
+Para Origin jogar bem em todos os mapas, seu programa precisava ser mais complexo. Quanto mais mapas houvesse, maior a possibilidade de erros nos cálculos e nas estratégias.
+
+Era também por isso que Origin não podia escolher raça aleatória. Com a tecnologia daquele momento, já era difícil criar uma IA de Elfos Noturnos tão forte. Os desenvolvedores não tinham recursos para trabalhar também nas outras raças.
+
+Mesmo assim, a Sétima Visão parecia muito confiante e acreditava que Origin conseguiria lidar com qualquer mapa.
+
+Chen Mo, Li Jingsi, Goph e os demais grandes jogadores de Warcraft estavam sentados, olhando atentamente para o telão.
+
+Dessa vez, o comentarista era Digwa.
+
+Aquela reunião de estrelas mostrava a verdadeira força do Warcraft chinês. A loja de experiências de Chen Mo era muito melhor que as outras opções de transmissão.
+
+Mas ele não havia planejado aquilo de propósito. O encontro surgira espontaneamente. Chen Mo não queria fazer nada grandioso; pretendia apenas oferecer um pequeno benefício aos fãs mais fiéis.
+
+“A abertura dos dois é parecida. Ambos colocaram o Ancião da Guerra mais à frente e começaram com Caçador de Demônios. Agora precisamos ver os itens que vão conseguir.”
+
+“Ah, Starlight não deu muita sorte. No primeiro acampamento de monstros, o de nível cinco deixou uma *Máscara de Sobi*? Isso é sacanagem. Esse item não serve de muita coisa para o Caçador de Demônios.”
+
+“Já Origin... Caramba, uma *Trompa de Ventobravo*? O seu é ainda pior! Nem se compara à máscara! Com esses itens dos dois lados, não tem nem o que dizer. Vocês dois são azarados demais!”
+
+Todos caíram na gargalhada.
+
+Aqueles profissionais tinham boa lábia, principalmente quando entendiam tão bem o jogo. Além de explicar claramente a situação, conseguiam fazer piadas e divertir o público.
+
+No geral, todos torciam pelos humanos e queriam que Starlight vencesse.
+
+Warcraft era diferente de Go: a sorte também tinha seu papel. Ao ver Origin conseguir um item tão ruim, os espectadores quase morreram de rir.
+
+Pelo visto, até entre as inteligências artificiais havia as sortudas e as azaradas!
+
+A partida continuou.
+
+Os dois lados entraram numa fase relativamente estável de desenvolvimento, mas os pequenos confrontos não cessavam. Mais uma vez, Origin mostrou uma execução absurda, arrancando exclamações de surpresa de quem assistia.
+
+*Caçar monstros no limite e retirar unidades com pouquíssima vida*: parecia não haver nada que Origin não conseguisse fazer.
+
+E isso já era com restrições rigorosas. Sem limites de comandos, Origin poderia fazer todas as unidades *atacarem enquanto se movimentavam*. Mas aquilo seria poderoso e injusto demais. Não haveria igualdade alguma na disputa.
+
+Por isso, seu APM era estritamente limitado. Ela só podia priorizar os comandos mais importantes em cada momento, sem *alternar ataques e movimentos* indefinidamente. Mesmo assim, o espetáculo daquela execução já superava o da imensa maioria dos humanos.
+
+Starlight, por outro lado, não parecia lidar tão bem com alguns detalhes. Não se sabia se era nervosismo ou outro motivo. Por exemplo, depois de usar o Guardião do Bosque para prender uma Caçadora adversária com raízes, bastava mais um ataque normal para eliminá-la. Mas ele se virou cedo demais, confiante de que já estava resolvido, e deixou a unidade escapar.
+
+Era algo esperado. Afinal, Starlight era humano e não poderia executar tudo com perfeição. Felizmente, ao contrário de Go, Warcraft não era apenas uma disputa de raciocínio. Os mapas, os itens e outros elementos também influenciavam o resultado.
+
+As estratégias dos dois eram surpreendentemente parecidas: Caçador de Demônios primeiro, depois Guardião do Bosque, seguido pelas Dríades. A linha geral era muito semelhante, com diferenças apenas em alguns detalhes.
+
+Depois de tanto tempo de desenvolvimento estratégico em Warcraft, a melhor abordagem para os confrontos entre Elfos Noturnos estava praticamente definida. Origin não podia inventar estratégias que ignorassem as mecânicas do jogo. Só podia aperfeiçoar as que já existiam.
+
+Era como uma inteligência artificial que precisava estudar muitos registros de partidas de Go antes de desenvolver gradualmente suas próprias estratégias ao enfrentar jogadores humanos.
+
+À medida que a partida avançava, o clima começou a ficar pesado.
+
+“Essa execução... É impressionante.”
+
+“Está muito difícil. No começo, parecia que havia uma pequena vantagem, mas, quanto mais a partida avança, menos parece possível vencer.”
+
+“Só posso dizer que Origin é assustadora numa disputa presencial. Tem tantas maneiras de preservar a vida das unidades! Agora entendo por que gosta de Elfos Noturnos. Essa raça claramente permite aproveitar melhor a vantagem no microcontrole.”
+
+“Vai ser difícil. Muito difícil!”
+
+Era diferente de Go. A situação num tabuleiro de Go era ainda mais complexa. Mesmo quem entendia bastante do jogo tinha dificuldade para avaliar quem estava na frente numa disputa de altíssimo nível entre humanos e máquinas.
+
+Na vida anterior de Chen Mo, por exemplo, muitos profissionais achavam que AlphaGo estava em desvantagem. Mas, na própria avaliação da IA, sua probabilidade de vitória continuava acima de cinquenta por cento.
+
+Warcraft era diferente. A situação no campo de batalha podia ser percebida pelo tamanho dos exércitos, pela quantidade de unidades de cada lado e pelas perdas nos confrontos.
+
+Até quem nunca havia jogado conseguia acompanhar o espetáculo, mesmo sem entender tudo.
+
+Por isso, os espectadores logo perceberam: a situação de Starlight não era nada boa!

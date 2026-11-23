@@ -1,4 +1,64 @@
 ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+PUBLICAÇÃO LOCAL CONCLUÍDA ATÉ 470, capítulos 1–470. Nenhum TXT pendente. Próximo 471; próxima revisão desde 471. Lote 451–470 revisado com vinte fontes, sem necessidade de novos ajustes nos TXT. Origin vence Starlight/Digwa 2–0; Chen aleatório/Mortos-Vivos em impasse na primeira partida. Dúvidas da fonte continuam em itálico e na continuidade. Clube preservado. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–470 pendentes. Próximo 471; revisão ao publicar desde 451. Capítulo 470: Chen aleatório recebe Mortos-Vivos, mapa grande/bases distantes. Mecânica e previsão estatística das expansões de Origin sustentam impasse, minas próprias pouco usuais. Primeira sem resultado. Kaiser/Nightwind comentam; Goph/Digwa/Li assistem. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–469 pendentes. Próximo 470; revisão ao publicar desde 451. Capítulo 469: Chen aceita para defender balanceamento; Digwa anuncia desafiante superior com Humanos, público deduz Chen. Evento lotado, ingresso/área espectadores, equipamento testado, jogo começa a carregar; sem mapa/raça ou resultado revelado. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–468 pendentes. Próximo 469; revisão ao publicar desde 451. Capítulo 468: TR de Digwa contido, Caçador de Demônios Imolação nível 2, Origin vence série 2–0. Na loja, profissionais tentam chamar Chen; Li usa acusação de desbalanceamento, ele responde indignado Esperem só. Sem aceite formal/duelo Chen ainda. Identidade Gourd e torres canceladas incertas em itálico. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–467 pendentes. Próximo 468; revisão ao publicar desde 451. Capítulo 467: Origin vence primeira contra Digwa (mapa grande/distância, ambos expandem, perde Arquimago). Segunda mapa grande/bases próximas, Digwa convoca milícia/TR. Origin infere proximidade pelo camponês e cancela caça de monstros. Série 1–0, segunda sem resultado. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–466 pendentes. Próximo 467; revisão ao publicar desde 451. Capítulo 466: Digwa toma iniciativa e prepara TR com Humanos, equipe Origin vem à China por urgência dele. Cilindro offline calcula localmente, sem supercomputador ou atualização automática; autoaprendizado limitado. Duelo ainda não começou. Duas ambiguidades estratégicas em itálico. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–465 pendentes. Próximo 466; revisão ao publicar desde 451. Capítulo 465: Goph/Li/Digwa/Nightwind/Kaiser estudam replays; Chen ajuda com pendrive mas não participa da reunião. Digwa (Humanos; sweet potato normalizado) anunciado representante contra Origin. Duelo ainda não começou. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–464 pendentes. Próximo 465; revisão ao publicar desde 451. Capítulo 464: Origin derrota Starlight 2–0 no confronto presencial, coletivo humano desanimado. Starlight relata precisão decisória e pressão emocional; texto explica IA sem mapa revelado. Chen ainda não enfrenta Origin. Termo corrompido A-Class interpretado em itálico conforme 463. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–463 pendentes. Próximo 464; revisão ao publicar desde 451. Capítulos 462–463: evento presencial sem plateia, Origin offline, empresa Sétima Visão (nome incerto). Loja acompanha por dados em tempo real/projeção, Digwa comenta. Primeira partida espelhada de elfos, Starlight em desvantagem, sem resultado. Interpretações técnicas corrompidas marcadas no TXT. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–461 pendentes. Próximo 462; revisão ao publicar desde 451. Capítulo 461: Origin originalmente média 400/pico 600 APM; empresa anuncia redução da média para 350. Prêmio 1,5 milhão de dólares por vencer melhor de três. Starlight primeiro desafiante presencial, mesma raça, duelo ainda não ocorrido. Empresa segue sem nome. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–460 pendentes. Próximo 461; revisão ao publicar desde 451. Capítulo 460: Origin confirmado publicamente como IA de empresa norte-americana sem nome; desafio presencial a Starlight nesta semana, melhor de três, ainda sem resultado. Interesse público revive Warcraft. Go dominado cinco anos antes da narrativa atual. Duas interpretações incertas de fonte corrompida em itálico. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–459 pendentes. Próximo 460; revisão ao publicar desde 451. Capítulo 459: Chen sugere Origin ser IA integral pela quase ausência de ações inúteis; hipótese ainda sem confirmação externa. Critério de repetição 0,5 s, referência arredondada 98% (458 mediu 98,3%). Segundo dia após topo europeu/coreano, notícia chega a outros públicos. Fala incerta de fórum sobre suspeita antiga de Chen ser IA marcada em itálico. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–458 pendentes. Próximo 459; revisão ao publicar desde 451. Capítulo 458: Origin invicto sobe europeu/coreano a 4 mil pontos, derrota Starlight e descarta hipótese de conta secundária dele. Latência sugere localização americana, não confirma. Chen mostra APM pico 600/média 400 e ações efetivas 98,3%. Identidade ainda desconhecida. IDs Origin203/204 incertos em itálico. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–457 pendentes. Próximo 458; revisão ao publicar desde 451. Capítulo 457: uma semana depois Comitê corrige maioria das trapaças, Hami ainda sem culpa comprovada. Chen e Li Jingsi examinam três replays de Origin, novo líder invicto de Warcraft americano, Elfos Noturnos. Suspeitam de conta secundária de Starlight, identidade não confirmada. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–456 pendentes. Próximo 457; revisão ao publicar desde 451. Capítulo 456: ativos diários caem 29% no dia inicial, superam patamar anterior no quinto dia, com migração de Wolf Soul/Fire Assault. Detector não elimina trapaças sofisticadas. Hami, streamer Moyu e suposto melhor Tracer, é denunciado; vídeos não comprovam trapaça e Chen não determina banimento. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–455 pendentes. Próximo 456; revisão ao publicar desde 451. Capítulo 455: detector em funcionamento, 3,28 milhões de acessos tentados, 6,4% barrados (~210 mil), mais de quatro mil banimentos confirmados por revisão. Bloqueio de dispositivo desconhecido não comprova trapaça. Cálculo corrigido em itálico: um décimo de 6,4% = 0,64%. Replays desmentem reclamações de banidos no fórum. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–454 pendentes. Próximo 455; revisão ao publicar desde 451. Capítulo 454: análise manual gera erros e desconfiança nos FPS concorrentes; propostas de bloquear cápsulas não foram implantadas. Chen mantém exigência de acesso e reembolsa quem sair, com banimento definitivo da conta e bloqueio do documento. Hipótese final de um mês sem solução, sem salto temporal. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–453 pendentes. Próximo 454; revisão ao publicar desde 451. Capítulo 453: Chen anuncia detector com acesso máximo à cápsula, prêmios por denúncias e punição a grupos cúmplices; jogadores questionam privacidade; ele mantém a exigência e oferece reembolso. Atualização prevista para amanhã ao meio-dia, ainda não executada na narrativa. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até 450; TXT 451–452 pendentes. Próximo 453; revisão ao publicar desde 451. Capítulo 452: Chen ordena revisão manual e congelamento temporário; novos cadastros de Overwatch suspensos por pelo menos três dias. Comitê identifica dispositivo que altera sinais mentais sem modificar dados do cliente; correção técnica sem prazo. Identidades roubadas limitam o efeito dos banimentos. Nenhuma medida da ficção foi executada em sistemas reais. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
+Leitor local até450; TXT451pendente. Próximo452; revisão ao publicar desde451. Cap451: MeiPuresy/timeabateBastion/capturaA,masBastionviraTracer/exMercy76 e2trapaceirosderrotamtime;3acusadosnanarrativa,nãoterceiroaimbotconfirmado. Ondaatinge3FPSmesmodia,Chenreuniãourgente/QianKun/SuJinyu/denúncias,respostaainda não dada. Commit/push manuais.
+
+ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
 PUBLICAÇÃO LOCAL CONCLUÍDA ATÉ450, capítulos1–450. Nenhum TXT pendente nesta obra. Próximo451; próxima revisão451em diante. Lote441–450 revisado,10TXTpreservadosbyteabyte. OverwatchJogoAno446/Chentotal7prêmios;CLASSESconfirmada448painel92/90/91/92/93/93. Ranqueadasnãoprometidas,rumor60vs>70NOVOSpendente. Cap450PuresyVolskayaencontraBastiontrapaceiro,2ataquesfracassados/Hehefinal. Clube522capítulos279–800/TXT801–803pendentespreservados. Commit/push manuais.
 
 ESTADO ATUAL — 22/11/2026 — ALMIGHTY GAME DESIGNER
@@ -5257,3 +5317,251 @@ Números, moedas e métricas compatíveis com os períodos e os personagens que 
 Backup prévio19arquivosSHA256: backups/agd-publicar-revisar-441-450-20261122T213254663186Z/. Sete arquivos protegidos e primeiros440objetos serão conferidos;dezfontesefinais emCONFERENCIA-FONTES.json. Reversão restaura arquivos desse backup e registra operação,mantendoTXTdisponíveis. Validações registradas ao concluir.
 
 Validação concluída: cinco verificações de sintaxe JavaScript, node tests/reader.test.cjs e git diff --check aprovados. Todos os 450 TXT correspondem integralmente ao leitor; primeiros 440 objetos preservados. Catálogo, limites, navegação móvel simulada, retomada e isolamento entre obras conferidos. Dezenove backups, dez fontes e sete arquivos protegidos verificados por SHA256. Dez novos TXT preservados byte a byte após revisão, sem alterações adicionais necessárias. Sem conferência visual nova no navegador e sem commit/push/deploy.
+
+## Capítulo 451 — A invasão dos trapaceiros — 22/11/2026
+
+Fonte: anexo8bd242c5-44b6-43c4-8605-6e8d45c4d024. Tradução integral, data editorial removida, título descritivo provisório. ContinuaçãoHehe450,Puresy/VelhoPnãoJiangHao. AtaquecoordenadoMei(VelhoP)/Reinhardt/Zarya/DVa/Soldado76/Lúcio,paredegelo/barreiras/investida/matrizDVa abateBastionperdendo76eLúcio. PointAcapturado,adversárioBastiontrocaTracer,exMercytrocaSoldado76,DOISaimbotsmostrados. SkyHunter/LieKong/HunterKongnormalizadosTracer,ChariaZarya,XiaomeiMei. Cryofreezerefrigerator→congelamentodefensivo,semobjetogeladeiraliteral. Powerbank→alvoparacarregarultimates,semnomeitemnovo.
+
+Fonteposteriormentechama3cheaters,depois2confirmados: preservadocomot rêsjogadoresACUSADOS/denunciadospelosatacantes,sematribuirferramentatecnicamenteaterceironãomostrado. NãoimporidentidadeterceiroouafirmarqueReinhardttambémusaautoaim. DerrotacomprovadaPuresy,TracerJogadaPartidaautoaimmudaalvoparaevitarescudoZaryaeReinhardt,VelhoPsilenciosoirritado,semreaçãoanticheatimplementadaainda.
+
+NoMESMODIAondasdecheatsemOverwatch/WolfSoul/FireAssault,rumorfãstecnologiainternacionalnovasóESPECULAÇÃO,nãocausaconfirmada. Reportssystem>duassemanasanterioresécomparaçãofonte,semnúmerosinventados. ReuniãourgenteChen/QianKun/SuJinyu:suportecompilalista/telefonecheio,pedeestratégiaChen,fina lsemrespostaainda. Palavrõesefalasdebanir/reportar/comitêinvestigarpertencemficção,nenhumenvioexterno/açãoemcontas/programasanticheatexecutadospeloagente. Sem corte ou complemento editorial.
+
+UTF-8 e sequência1–451 conferidos; leitor até450 preservado por SHA256. TXT451 pendente; próximo452. Backup dos quatro registros com SHA256: backups/agd-capitulo-451-20261122T232141410120Z/. Commit e push manuais.
+
+## Capítulo 452 — Uma trapaça que o sistema não detectava — 22/11/2026
+
+Fonte: anexo 29bb8600-574d-4d72-a2b1-b77829c7f3a9. Tradução integral; data editorial removida; título descritivo provisório. Chen Zhao→Chen Mo; raging inferno assault→Fire Assault; illusion editor→Illusion Game Engine; Thunderbolt Game Pass→contas Thunderbolt; mouse Hong→macros de mouse. Is frozen an eternal seal interpretado como suspensão temporária versus banimento definitivo, conforme resposta explícita.
+
+Medidas ficcionais: triagem de aumentos anormais de precisão/headshots/dados; suporte recebe acesso a replays para revisão manual; congelamento temporário, não banimento permanente automático; novos cadastros especificamente em Overwatch suspensos por pelo menos três dias. Qian Kun questiona a necessidade diante do vínculo com documento; Chen explica mercado de identidades roubadas. Su Jinyu executa a organização dentro da narrativa, Zheng Hongxi pergunta sobre o congelamento. Nenhuma conta, cadastro, permissão ou sistema real foi alterado pelo agente.
+
+Diagnóstico: dois tipos de trapaça descritos em alto nível, alteração de dados do cliente e equipamento que interfere nos sinais mentais. Onda atual pertence ao segundo tipo; clientes não apresentam adulteração detectável. Comitê suspeita de avanço estrangeiro aproveitado por fabricantes de dispositivos; hipótese técnica da ficção, não conclusão sobre malware real. Atualização da detecção depende de pesquisa, sem prazo confirmado. Emperor Dynasty e Zen também recorrem à revisão manual. Não foram acrescentados programas, procedimentos operacionais ou detalhes técnicos ausentes da fonte.
+
+Números preservados: exemplo de trinta por cento de precisão; jogos pagos de mil a dois mil yuans; mais de noventa por cento dos trapaceiros não usam documento próprio; 1,3 bilhão de habitantes e público de FPS de algumas dezenas de milhões. São dados e afirmações narrativos, sem pesquisa demográfica atual ou cálculo de prevalência adicional. Documento na lista de bloqueio não permite imputar identidade real do usuário, pois pode pertencer a vítima de roubo de dados. Final mantém bloqueio de número para elevar o custo, sem solução definitiva já implementada.
+
+Sem corte ou complemento editorial. UTF-8 e sequência 1–452 conferidos; leitor até 450 preservado por SHA256. TXT 451–452 pendentes; próximo 453. Backup dos quatro registros com SHA256: backups/agd-capitulo-452-20261122T232324956973Z/. Commit e push manuais.
+
+## Capítulo 453 — Medidas drásticas contra as trapaças
+
+Fonte sem título ou numeração explícitos, recebida após 452 → capítulo 453; título descritivo provisório. Removida apenas a data editorial Oct 21, 2026. Fonte local: C:/Users/Robson/.codex/attachments/acbd39d0-d412-4071-973f-4819e71dad05/Texto colado.txt.
+
+Overwatch sofre mais com trapaças pelo acesso gratuito e recadastro barato; Wolf Soul e Fire Assault custam mais de mil yuans. Chen anuncia revisão manual de contas com forte aumento de pontuação oculta, congelamento após confirmação e atualização para amanhã ao meio-dia. Novo detector exige nível máximo de acesso à cápsula de VR, verifica equipamentos e interrompe o jogo diante de dispositivos desconhecidos fora da lista de permissões. Comunicado promete presentes aos primeiros trinta denunciantes de cada conta confirmada; limite individual de vinte denúncias por dia. Companheiros de grupo são congelados para investigação; banimento permanente de quem conscientemente se beneficiou do trapaceiro, não punição automática de qualquer companheiro aleatório.
+
+Discussão central é privacidade e excesso de permissões. Chen mantém exigência, oferece congelamento da conta e reembolso integral dos gastos a quem deixar o jogo; afirma ter conversado com o Comitê e promete não consultar dados pessoais, somente verificar dispositivos suspeitos. Preservada a tensão entre verificação abrangente e promessa restrita, sem inventar garantia técnica, auditoria ou aprovação formal do Comitê. Não afirma que atualização já ocorreu nem que resolveu a crise. Chen Zhao normalizado Chen Mo; raging inferno assault → Fire Assault; testing program → programa de detecção. Penguin Games preservada como nome da fonte, sem substituir por empresa real. Todas as permissões, contas e medidas são acontecimentos ficcionais.
+
+Sem cortes ou complementos editoriais. TXT 451–453 pendentes; leitor até 450 preservado por SHA256. Próximo 454; revisão ao publicar desde 451. Backup dos quatro registros: backups/agd-capitulo-453-20261122T232652080950Z. Commit/push manuais.
+
+## Capítulo 454 — Uma decisão inflexível
+
+Fonte sem título ou número explícitos recebida após 453 → capítulo 454; título descritivo provisório. Removida a data editorial Oct 21, 2026. Fonte: C:/Users/Robson/.codex/attachments/2063c334-7082-436b-a44f-3fc3814eee82/Texto colado.txt.
+
+Wolf Soul e Fire Assault sofrem com lentidão, falsos positivos e falsos negativos da análise manual. Jogadores habilidosos passam a ser acusados, enquanto trapaceiros discretos escapam. Bloquear cápsulas por número de série e vinculá-las integralmente à identidade são propostas discutidas, não medidas implantadas pelo Comitê. Preservadas distinções entre identificador da cápsula, endereço IP e documento civil; não corrigir a comparação imperfeita da fonte inventando tecnologia de rastreamento. Cápsulas captam comandos mentais e transmitem sentidos, além de medir condições físicas; não identificam automaticamente DNA, registro civil ou antecedentes.
+
+Chen mantém a exigência de acesso e aceita reembolsar quem sair. Aqui a fonte esclarece que o reembolso implica banimento permanente da conta e bloqueio do documento, ampliando o congelamento mencionado no 453; preservar a progressão sem reescrever retroativamente o anúncio. Ele suspeita de trapaceiros entre os reclamantes, mas reconhece usuários com preocupações legítimas. Final é hipótese: um mês sem solução técnica poderia arruinar os três FPS, não salto temporal nem falência ocorrida.
+
+Interpretação incerta marcada: a fonte repete literalmente muzzle ao contrastar mira no corpo com outro alvo; pelo contexto, traduzido *em vez da cabeça*. Não se inventam parâmetros ou instruções técnicas adicionais. Thunderbolt gaming pass normalizado para Thunderbolt Gaming Platform, raging inferno assault para Fire Assault. Sem cortes narrativos ou complementos de encerramento.
+
+TXT 451–454 pendentes; próximo 455; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-454-20261122T232815793321Z. Commit/push manuais.
+
+## Capítulo 455 — A justiça vem dos céus
+
+Fonte sem título ou número explícitos após 454 → capítulo 455; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/933cf234-ecd3-4e2f-9f65-718b95689404/Texto colado.txt.
+
+Um dia depois, atualização de emergência instala o detector. No primeiro dia, 3,28 milhões tentam entrar e 6,4% são barrados; comunicado arredonda para 210 mil cápsulas (3.280.000 × 0,064 = 209.920). Bloqueio por equipamento desconhecido não equivale a comprovação de trapaça: equipamento auxiliar legítimo pode provocar alerta, e removê-lo permite voltar sem punição. Mais de quatro mil contas são efetivamente confirmadas por revisão manual e banidas permanentemente, com bloqueio dos documentos associados. Não confundir os 210 mil acessos barrados com 210 mil culpados confirmados; reação exagerada de comentarista foi preservada como fala dele.
+
+Revisão numérica autorizada: fonte diz que um décimo de 6,4% seria cerca de 0,5%; corrigido para *0,64%*, cálculo direto demonstrável, sem inventar prevalência real. A multiplicação aproximada por dez do impacto por partidas foi preservada como raciocínio narrativo, não convertida em cálculo probabilístico novo. Permanecem a hipótese de um décimo e a ampliação cumulativa por encontros; não são resultados observados.
+
+Pharaoh eagle → Pharah; frase da imagem A justiça vem dos céus. titled battle pet Warriors é corrupção recorrente da expressão de banimento, traduzida como leva de trapaceiros banidos; título/banimento não é título honorífico. beta testing no contexto é entrada em funcionamento do detector, sem regressão do jogo lançado para fase beta. goddesses na crítica a opositores entendido contextualmente como sabichões. Instant frailties in the midst of an Army permanece interpretação incerta em itálico: *acertos instantâneos em pontos fracos no meio de uma multidão*. Chen Zhao normalizado Chen Mo. Metáfora final de exposição pública traduzida como humilhação, sem inventar execução real; insulto violento de comentarista preservado como fala ficcional.
+
+Jogadores honestos percebem melhora e parte dos críticos passa a apoiar. Alguns banidos reclamam; Chen manda publicar replays em primeira pessoa em respostas oficiais, evidenciando as infrações. Tópicos sobem no fórum. Não há solução técnica do Comitê apresentada. Sem cortes ou complementos de encerramento. TXT 451–455 pendentes; próximo 456; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-455-20261122T232940044526Z. Commit/push manuais.
+
+## Capítulo 456 — O melhor Tracer do mundo
+
+Fonte sem título ou número explícitos após 455 → capítulo 456; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/1cad38e5-3d49-492c-a6b7-9edd8b4d0cb2/Texto colado.txt.
+
+Detector melhora o ambiente, mas não erradica trapaças. Fonte afirma bloquear mais de noventa por cento dos equipamentos auxiliares; fração sofisticada capaz de escapar custa milhares ou dezenas de milhares de yuans mensais. São afirmações da narrativa, sem garantir inexistência de falsos positivos ou eficácia absoluta. Jogadores ativos diários caem 29% no primeiro dia e superam o patamar anterior no quinto dia; indicador não é a porcentagem de 6,4% de acessos barrados do 455. Migração dos dois FPS concorrentes aumenta a base. Lin Chaoxu e Liu Yuanfeng não têm confiança pública suficiente para copiar a exigência; aguardam Comitê.
+
+Novo streamer Hami, terceiro mais popular de Overwatch na Moyu, apelidado melhor Tracer do mundo; Chen ironiza que só há servidores nacionais. Hunter Kong/Sky Hunter → Tracer; Yuanshi → Genji; 76 → Soldado: 76; sledgehammer → Reinhardt; Gorilla → Winston. Melhor Tracer refere-se ao jogador, não muda gênero feminino da heroína. fish-catching → Moyu conforme plataforma já estabelecida. raging inferno assault → Fire Assault; Chen Zhao → Chen Mo.
+
+Qian Kun traz denúncias, mas análise de Chen, três visualizações e trechos quadro a quadro não comprova trapaça. Giro de 180 graus e mira instantânea podem ocorrer por habilidade ou sorte. Possível equipamento sofisticado de assistência é hipótese condicional, não culpa estabelecida. Mantida a decisão de não banir com essas provas e aguardar atualização do Comitê. Não transformar suspeita em confirmação por causa do título provisório. Sem números de dano, programa ou procedimento técnico acrescentados. Sem cortes, incertezas de tradução não resolvidas ou complementos de encerramento.
+
+TXT 451–456 pendentes; próximo 457; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-456-20261122T233100960313Z. Commit/push manuais.
+
+## Capítulo 457 — Um jogador chamado Origin
+
+Fonte sem título/número explícitos após 456 → capítulo 457; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/978a1510-3d49-41e1-aaec-7f40b7c7f78f/Texto colado.txt.
+
+Uma semana depois, Comitê lança correção emergencial contra a maioria das trapaças; recursos sofisticados persistem. Wolf Soul e Fire Assault recuperam controle com revisão manual, mas Overwatch mantém vantagem e reputação. Fonte atribui prisão de quadrilhas ao Comitê; não acrescentados órgãos ou procedimentos. Hami segue sem comprovação: nem detector nem correção o identificaram, vídeos inconclusivos. Tecnologia sofisticada permanece hipótese condicional; Chen conserva dados suspeitos para futuras verificações.
+
+Li Jingsi vence Chen em Warcraft, reclama da escolha de raça aleatória; ele atribui vitória à sorte com item. Chen não planeja atualizações, considera jogo completo e RTS em declínio. Vinte a trinta jogadores de ponta bastariam para disputas continuarem; não são toda a população ativa. Warcraft lançado havia quatro anos, conforme afirmação explícita da fonte, sem criar cronologia retroativa nova. new game like this conflita com frase anterior; traduzido num jogo daqueles, mantendo raciocínio de veterano com poucos novatos, sem chamá-lo lançamento.
+
+Origin é novo ID no servidor americano, invicto, topo rápido, somente Elfos Noturnos. Chen assiste a três replays, nota execução e controle simultâneo excepcionais, mas detalhes imperfeitos. Identidade ainda desconhecida; Starlight, melhor elfo coreano, é hipótese dos dois, não identificação confirmada. stallight normalizado Starlight na mesma fonte. Korea light traduzido Luz da Coreia como apelido sugerido; manter atenção à próxima confirmação. Não antecipar IA, fraude ou relação com Hami. stairway tree/heaven → ranking; multi-thread skills → controle de várias frentes; American costume → servidor americano; black technology → tecnologia tão avançada que parece ficção científica; Chuunibyou → adolescente com mania de grandeza. Chen Zhao → Chen Mo; fish-catching TV → Moyu. Sem cortes ou complementos editoriais.
+
+TXT 451–457 pendentes; próximo 458; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-457-20261122T233237130639Z. Commit/push manuais.
+
+## Capítulo 458 — Uma eficiência de 98,3%
+
+Fonte sem título/número explícitos após 457 → capítulo 458; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/676ebb8a-4d87-4944-b1eb-0853ddaed9f6/Texto colado.txt.
+
+Chen não busca duelo, diz jogar para divulgar jogos, e Li o provoca por não jogar a sério com ela. Origin inicialmente tem repercussão restrita ao nicho Warcraft; servidor chinês acha desempenho americano inferior ao feito de Chen/Silent. Depois ele joga alternadamente nos servidores europeu e coreano, invicto com Elfos Noturnos. simultaneamente significa manter campanhas nos dois servidores, não duas partidas simultâneas afirmadas. Pequena latência fora do americano leva à hipótese de morar nos EUA, não comprovação de nacionalidade ou localização exata.
+
+Fonte original203/original204 interpretada como IDs Origin203/Origin204 (itálico por dúvida de grafia), pois Origin indisponível. Suposição de datas preservada sem converter para dia/mês específico ou afirmar data de criação. Três dias e duas noites, quatro mil pontos em cada servidor, bônus por vitórias consecutivas preservados. Confronto real Origin versus Starlight elimina hipótese de serem a mesma conta/jogador na narrativa. Starlight perde disputa espelhada de Elfos Noturnos por diferença crescente de exércitos; item melhor poderia ter mudado resultado é opinião, não partida adicional. light/star light/Saint light padronizados Starlight; explicita a identificação sugerida como Luz da Coreia no 457, sem nova alteração retroativa.
+
+Goph, Nightwind, Zou Zhuo e Li visitam Chen; ele busca dados e assiste padrões estranhos, sem afirmar fraude ou identidade. APM: pico 600, média ~400, ações efetivas 98,3% no último diálogo; não confundir 98,3% com vitórias ou precisão de tiro. serente aqui identifica explicitamente Chen como chefe oculto de Warcraft, normalizado Silent conforme ID estabelecido; não altera outras menções incertas fora do capítulo. fish pond → derrotar adversários inferiores; population gap → diferença de tamanho dos exércitos; evil strategy → estratégia esquisita, sem inventar maldade, IA ou motivação. Sem cortes narrativos ou complementos de encerramento.
+
+TXT 451–458 pendentes; próximo 459; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-458-20261122T233410808012Z. Commit/push manuais.
+
+## Capítulo 459 — Origin pode ser uma inteligência artificial
+
+Fonte sem título/número explícitos após 458 → capítulo 459; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/c3406027-e472-4537-9595-c7a7a4f6f880/Texto colado.txt.
+
+Proporção arredondada para 98% na fonte, após 98,3% específico no 458; não trocar todas as referências ou confundir com taxa de vitórias. Explicação narrativa de ações efetivas versus repetidas/inúteis: grupo de controle, movimento, ataque e habilidades; repetições ajudam humanos a manter ritmo. Picos 600–700, ~300 para profissionais, 400 excepcional, proporção humana 60–70%. Mantidas como afirmações do texto, não orientação técnica geral validada. Critério de Chen considera repetidos dois comandos à mesma unidade dentro de 0,5 segundo. Alegação de impossibilidade humana nesse intervalo também preservada, apesar de generalização discutível; não trocar tempo ou inventar justificativa. Hipótese: IA muda de plano nesse intervalo, considera 100% das próprias ações úteis. Não afirma medição objetiva de 100%.
+
+Chen sugere Origin programa integral/IA; Goph propõe humano com assistência, hipótese discutida e afastada pelos personagens, sem confirmação externa ainda. Zou compara com computador Insano e ouro extra. Não revelar fabricante, identidade, consciência ou vínculo com Hami. No segundo dia após topo coreano/europeu, assunto sai do nicho e vira maior notícia do mês. Fórum disputa Warcraft versus LoL e lembra Chen com raça aleatória, em contraste com Origin somente elfos. Jogador de três mil pontos opina sobre detalhes, não é nova classificação de Origin.
+
+Interpretação incerta marcada em itálico: fala I had suspected that this was an AI before, but Chen Zhao proved that he had made it himself entendida como suspeita anterior sobre o próprio Chen, seguida da prova de que ele jogava pessoalmente. Não significa que Chen criou Origin. Demais referências Chen Zhao → Chen Mo. effective control/operation → ações efetivas; nullifying → ações inúteis; automatically pull minions → recuar unidades automaticamente; kick out of formation → retirar de grupos de controle. Sem cortes ou complementos editoriais.
+
+TXT 451–459 pendentes; próximo 460; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-459-20261122T233538651650Z. Commit/push manuais.
+
+## Capítulo 460 — Uma guerra entre humanos e máquinas
+
+Fonte sem título/número explícitos após 459 → capítulo 460; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/54c20148-d246-4236-9cae-fa942c712e50/Texto colado.txt.
+
+Anúncio público com coletiva e cobertura chinesa confirma Origin como inteligência artificial criada por empresa norte-americana ainda não nomeada. Não é mais mera hipótese de Chen. Invicta nos três servidores; Warcraft escolhido por nível de design e balanceamento. Empresa desafia Starlight a confronto presencial nesta semana, melhor de três conforme fala de fórum. Não antecipar data, local, regras técnicas, vencedor ou confronto com Chen. IA em jogos de tabuleiro superou humanos cinco anos antes, antes da transmigração; Go último bastião, não afirmar Origin já jogava Warcraft cinco anos atrás. Notícia anunciada ontem no relato da reportagem, não data editorial real.
+
+Abertura compara controle a combos geométricos de Gragas, cem seguidos sem erro e dez Gragas simultâneos como analogia de comentaristas. Fala sobre meia dúzia de habilidades e ace mantida como provocação, não descrição técnica rigorosa. Relato do ano anterior contém even with 70% of its health remaining com sujeito confuso; entendido como vitória humana conservando *setenta por cento das forças intactas*, marcado incerto e sem mudar número. Outro trecho corrompido even Warcraft was on the last page of its life interpretado pelo contexto de vendas/interesse como Warcraft em fim de ciclo que *ganhou um novo fôlego*, também em itálico. Fonte muitos Warcraft players who had never played before contextualizada como pessoas que nunca jogaram comprando Warcraft, sem inventar estatística de vendas.
+
+Discussão pública já extrapola nicho; não confundir IA genérica anterior com identidade da empresa, nem inferir fabricante real. Um mês para dominar tudo é previsão de fã, não salto temporal ou resultado ocorrido. Premissas sobre Go e inteligência são opiniões da narrativa, não pesquisa contemporânea. Sem cortes ou complementos de encerramento.
+
+TXT 451–460 pendentes; próximo 461; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-460-20261122T233659816115Z. Commit/push manuais.
+
+## Capítulo 461 — Um desafio de um milhão e meio de dólares
+
+Fonte sem título/número explícitos após 460 → capítulo 461; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/81fabc9b-2067-4a87-a585-144decbe7e1d/Texto colado.txt. Este 461 pertence a Almighty Game Designer e existe normalmente; antigas lacunas 461/470 da outra obra não se aplicam.
+
+Empresa norte-americana ainda sem nome havia criado outra IA de RTS derrotada por humanos antes de Origin. Explicação da escolha de RTS destaca névoa de guerra, informação incompleta, relações entre unidades e necessidade de decisões rápidas; opiniões gerais sobre dificuldade, Go, FPS e MOBA preservadas como raciocínio da narrativa, sem pesquisa ou reescrita histórica. Referência AlphaGo/Ke Jie é lembrança de Chen do mundo anterior, não fabricante ou identidade da empresa ficcional.
+
+Limites originalmente impostos a Origin: média ~400 APM, pico no máximo 600; ações efetivas tornam isso equivalente a 500–600 humanas segundo o texto. Após topo nos três servidores, empresa anuncia média reduzida a 350, sem novo pico numérico informado. Não substituir retroativamente os 400 observados no 458. Recompensa de 1,5 milhão de dólares por vencer melhor de três, não por uma partida isolada, não yuans ou prêmio já recebido. Motivos alternativos da redução (justiça, evitar desistências ou massacre sem audiência) são especulação narrativa.
+
+Starlight aceita como primeiro profissional no evento presencial, sem negar partidas ranqueadas anteriores contra profissionais. Mesma raça Elfos Noturnos serve à comparação de equilíbrio; não garante igualdade de comando, pois efetividade da IA segue vantagem. Origem americana/latência retomada no comentário de fã, sem novo endereço exato. Team Starlight traduzido Starlight estava preparado, sem criar uma equipe de competição. Champion no RTS → herói; civil war → partida espelhada. Anúncio e debate prévios, duelo ainda não ocorreu. Sem cortes, complementos de encerramento ou ambiguidades de tradução pendentes neste capítulo.
+
+TXT 451–461 pendentes; próximo 462; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-461-20261122T233824679704Z. Commit/push manuais.
+
+## Capítulos 462–463 — Abertura do duelo presencial
+
+Dois envios sem título/número explícitos após 461 → 462 e 463, na ordem recebida, títulos descritivos provisórios. Datas editoriais Oct 21, 2026 removidas. Fontes: C:/Users/Robson/.codex/attachments/b2b42c27-3fd7-407d-a0f8-0ce5a305f536/Texto colado.txt e C:/Users/Robson/.codex/attachments/a15e2c53-6d3d-4c7a-ad99-3c924045feb8/Texto colado.txt.
+
+462: evento transmitido mundialmente sem plateia presencial, dois computadores, três juízes e um funcionário; demais profissionais em outras salas. Empresa identificada com nome inconsistente Seventh Horizon/seventh vision: usado *Sétima Visão* na apresentação, pendente de confirmação, sem associar empresa real. Símbolo de sete camadas com olho; máquina cilindro prateado tamanho purificador. Origin versão offline, Starlight fones e tensão. spotlight no trecho de disposição das telas entendido Starlight; não é equipamento de iluminação espionando tela. Transmissão oficial sem comentário, apenas áudio do sistema; retransmissores locais têm comentaristas, Nightwind no canal de ciência e Kaiser online. Deus K preservado como apelido de sala, não nova identidade comprovada. Chen avisado e satisfeito com divulgação, mas sem declaração pública ou transmissão pessoal confirmada.
+
+463: loja usa dados em tempo real combinados com organização, não sinal oficial, para replay no cliente e projeção holográfica do segundo andar; janela de câmera Starlight, sem rosto de IA. LAN reduz latência do duelo; dados de observação enviados a Chen não significam Origin depender de processamento remoto. few hundred Kuai em tamanho de replay interpretado *quilobytes*, não dinheiro; unidade não resolvida no original. Melhor de três, mapas populares sorteados e diferentes, ainda primeira partida sem resultado. Público Chen/Li/Goph e veteranos; Digwa comenta presencialmente, encontro espontâneo para fãs.
+
+Interpretações incertas do 463 em itálico: comparação corrompida tier-one map → ataque com unidades de primeiro nível favorável em mapa pequeno/bases próximas e não em grande/bases distantes; artistes mask → Máscara de Sobi; storm lions horn → Trompa de Ventobravo; extreme MFS/low health → caçar monstros no limite e recuar unidades quase mortas; use A/go to A → atacar enquanto se movimenta/alternar ataques e movimentos. Não inventados atributos dos itens ou novos parâmetros. ancient war trees → Ancião da Guerra; evil demon Hunter → Caçador de Demônios; old deer → Guardião do Bosque; buck → Dríades; Huntress → Caçadora; AFA no contexto Go anterior → AlphaGo. Metáfora europeus/africanos sobre sorte traduzida sortudos/azarados, conservando piada sem literalidade obscura.
+
+Ambos usam elfos, Caçador de Demônios, Guardião e Dríades; itens ruins dos dois lados, IA microcontrola com APM restrito, Starlight erra ao não finalizar Caçadora presa. Origem só domina raça elfos pela complexidade do treinamento; não afirmar que outras raças já foram programadas. Encerramento na desvantagem de Starlight, sem derrota confirmada, placar ou vencedor. Referência >50% de chance AlphaGo é recordação de Chen, não probabilidade desta partida. Sem cortes ou complementos de encerramento.
+
+TXT 451–463 pendentes; próximo 464; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulos-462-463-20261122T234043007950Z. Commit/push manuais.
+
+## Capítulo 464 — O desespero diante de Origin
+
+Fonte sem título/número explícitos após 463 → capítulo 464; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/cf64c990-fda4-4659-be8a-4e07e8259566/Texto colado.txt.
+
+Resultado confirmado: Origin vence primeira e segunda partidas, 2–0. Primeira: Starlight vantagem inicial por sorte, perde controle no meio e dá GG após batalha. Segunda: mapa grande com bases afastadas dificulta tower rush; Origin preserva vida, pressiona e amplia exército; Starlight abalado. Não inventado terceiro jogo, premiação paga, confronto Chen ou novo desafiante. Público e transmissões lamentam. Coletiva: Starlight pede desculpas, descreve decisões precisas e pressão emocional da máquina; ele próprio corrige absolutamente certa para probabilidade muito alta. Preservado efeito retórico de nunca errar sem acrescentar garantia tecnológica independente.
+
+Explicação narrativa diferencia IA com acesso direto aos dados/mapa revelado de Origin avaliando informações visuais limitadas, explorando mapa e inferindo intenções sob névoa. Capacidade de estudo de replays e autojogo descrita em alto nível da ficção, sem algoritmo ou instruções acrescentados. Estratégias incomuns e tower rush não seriam fraqueza automática. Não tratar declarações generalizantes sobre IA real como pesquisa contemporânea. Cinco anos de P&D são afirmação da fonte, sem trocar datas da cronologia anterior.
+
+all the troops were A-Class é corrupção semelhante ao use A no 463: *atacarem enquanto se movimentavam* em itálico, não unidades de classe A inventadas. light/stallight/team light → Starlight; population gap → diferença de tamanho dos exércitos; rush towers → ataque rápido com torres; A.I. oposta a A.I. na frase corrompida contextualizada computador programado do jogo versus IA de verdade. 463 descreve itens ruins para ambos; 464 afirma vantagem inicial de Starlight por sorte, preservada sem inventar item novo ou mudar o resultado anterior. Juízo final de que IA acelerará declínio dos RTS mantido como conclusão da narrativa, não fato de perda financeira já medida; não apagar por aparente tensão com crescimento de público no 460.
+
+Sem cortes ou complementos de encerramento. TXT 451–464 pendentes; próximo 465; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-464-20261122T234214015970Z. Commit/push manuais.
+
+## Capítulo 465 — Digwa aceita o desafio
+
+Fonte sem título/número explícitos após 464 → capítulo 465; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/f37a072e-9c0f-4a83-85b8-bd5c5a83bd38/Texto colado.txt.
+
+Reunião na loja: Goph, Li Jingsi, Digwa, Nightwind e Kaiser, três primeiros de altíssimo nível. sweet potato → Digwa, identidade inequívoca pelo elenco e anúncio final, não novo personagem. Goph principal jogador de Orcs, Li elfos, Digwa Humanos. Im a beast significa jogo de Orcs, não insulto ou habilidade nova. Goph mais premiado e antigo líder; Li recentemente o superara e ele voltara a alcançá-la (pronomes corrompidos normalizados sem trocar identidades). Não converter ranking em vitória de Li num torneio presencial: ela nunca participou de grandes competições conforme fonte.
+
+Digwa se diz praticamente empatado com Starlight neste ano, não confiante; Goph disposto se necessário, mas teme confronto orcs/elfos; Li não tem interesse/não acredita vencer. Chen ausente da discussão, evita intromissão por orgulho/autonomia dos profissionais, mas entrega via Li pendrive com todos os replays de Origin nos três servidores. Parágrafo seguinte cita especificamente dados americanos/europeus; preservado sem retirar coreano da fala anterior. Eles dividem replays por raça dos adversários, não Origin escolhendo outras raças, e passam noites estudando.
+
+Popularidade continua alta apesar da derrota. Fã supõe Chen afastado de Warcraft; preservado como opinião sem apagar partida amistosa com Li no 457. Suposição sobre chances, vantagem racial e desvantagem de Goph é análise dos personagens, não atualização de balanceamento. Encerramento anuncia Digwa representante contra Origin, sem afirmar que duelo começou, data definida, resultado ou premiação recebida. Maior organização do Go contraposta a pequeno meio profissional RTS, sem apagar ampla repercussão pública. Chen Zhao → Chen Mo, stallight → Starlight, stairway → ranking. Sem cortes, ambiguidades não resolvidas ou complementos de encerramento.
+
+TXT 451–465 pendentes; próximo 466; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-465-20261122T234340342392Z. Commit/push manuais.
+
+## Capítulo 466 — A estratégia de Digwa
+
+Fonte sem título/número explícitos após 465 → capítulo 466; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/2e5156ac-2e19-4a16-a970-3ddaead310de/Texto colado.txt.
+
+Digwa tomou iniciativa, diferentemente de Starlight desafiado; grupo escolhe Humanos pelas chances estratégicas, não humanidade genericamente. sweet potato → Digwa; magical beasts → Warcraft; melon powder → fãs de Digwa. Li ~nível Starlight, Goph Orcs desfavorável versus elfos. TH000/Chefão Ovo e Moon/WCG pertencem a lembrança de Chen do mundo anterior; não são jogadores novos desse evento nem nome real de Digwa afirmado. Estratégias incomuns podem fracassar antes de funcionar; Patrulheira Sombria nível seis ou Mortos-Vivos são propostas de controlar trabalhador e produzir outra raça, não estratégia já executada. Não acrescentar nome de habilidade de Mortos-Vivos ou batalha inexistente.
+
+TR = tower rush/ataque rápido com torres; fonte duplica t-r ao dizer melhor tipo de TR, interpretado *logo no início da partida*, marcado incerto. mine/mining no contexto RTS → estabelecer expansões; trecho truncado logicamente sobre mapa grande/elfos mantido em itálico: *mesmo que você soubesse estabelecer expansões, Origin ainda estaria jogando de Elfos Noturnos*, sem inventar vantagem específica que completaria argumento. ultimate skill no confronto espelhado significa estratégia decisiva, não habilidade suprema específica. Race soldier → unidades de outra raça. Humanos têm melhor viabilidade de tower rush no plano dos personagens, sem afirmar que demais raças literalmente não possuem torres. Vários planos preparados, mas nenhum duelo iniciado neste capítulo.
+
+Equipe Origin vem à China rapidamente a pedido de Digwa para enfrentar versão atual antes de nova evolução. Cilindro offline faz cálculos localmente, não usa supercomputador, não atualiza automaticamente, autoaprendizado limitado. Versão completa poderia usar supercomputador com custo alto; não dizer que isso foi permitido no duelo ou que máquina offline é incapaz de aprender. Piada da varredura de antivírus preservada como narrativa, sem ação em sistemas reais. Exemplo Go com adiamento superior a um mês é lembrança/justificativa, não novo salto temporal. Encerramento no desejo de vencer agora, sem resultado, recompensa recebida ou participação de Chen anunciada.
+
+Sem cortes narrativos ou complementos de encerramento. TXT 451–466 pendentes; próximo 467; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-466-20261122T234510365102Z. Commit/push manuais.
+
+## Capítulo 467 — Uma chance para o ataque com torres
+
+Fonte sem título/número explícitos após 466 → capítulo 467; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/29ca5bbc-213e-4762-88ec-f5ff9ae341e3/Texto colado.txt.
+
+Público e repórteres fora da sala oficial, acompanham televisão; Chen/Li/Goph presentes dão autógrafos. Não inventar entrada de plateia no recinto da disputa, arena lotada ou comentários ao vivo de Chen. Primeira: mapa grande, bases distantes inviabilizam TR; Digwa expande e fortifica minas, Origin não insiste em torres e expande em posições ocultas. Economia/quantidade de minas semelhantes, pequenos confrontos custam unidades/torres; ambos população máxima no confronto final. Arquimago de Digwa morre; GG, Origin responde GG; placar parcial Origin 1–0, não série encerrada. 100-man refere-se a cem de população, não cem unidades ou pessoas.
+
+Segunda começa após pausa: mapa grande/bases próximas, camponês explorador de Digwa vai anti-horário e encontra base; ele convoca milícia para TR. Fogo-Fátuo de Origin ainda não achou inimigo, mas IA infere proximidade pela chegada precoce do camponês; cancela plano de caçar monstros com Caçador de Demônios. Termina antes de torres erguidas ou resultado; não antecipar vitória, derrota ou terceira partida.
+
+sweet potato → Digwa; mine/chaotic mining flow → expansões/minas espalhadas; junior teams/team tactic → tower rush pelo contexto dos 466/467, não equipe adicional. Shi Lezhi → loucura; dirty play → defensivo/incômodo, não trapaça. anticipated Dr. é fragmento corrompido interpretado *O TR que estávamos esperando!*, em itálico. tark Republic → tower rush, contexto inequívoco; little Pathfinder elf → Fogo-Fátuo explorador; knocked on militia → convocou milícia. Última metáfora militar traduzida confronto direto cara a cara, mantendo risco e necessidade de estabelecer torres. Não especificar mapa, heróis adicionais, custo ou dano ausentes.
+
+Sem cortes narrativos ou complementos de encerramento. TXT 451–467 pendentes; próximo 468; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-467-20261122T234634598541Z. Commit/push manuais.
+
+## Capítulo 468 — Não questione o balanceamento de Chen Mo
+
+Fonte sem título/número explícitos após 467 → capítulo 468; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/eb0a24bf-9604-479c-a926-d0e80f594214/Texto colado.txt.
+
+Segunda de Digwa: Arquimago/milícia/unidades básicas erguem torres, mas Origin adapta plano, retorna Caçador de Demônios e Ancião da Guerra, constrói Protetores Anciões/Poços Lunares e contrata mercenários. Caçador nível dois por matar camponeses escolhe Imolação em vez de Evasão; posicionamento maximiza queimadura em camponeses. TR falha, Digwa se afoba, perde torres e dá GG. Resultado confirmado Origin 2–0 Digwa. Não inventar tanques: first wave of tanks contextualizado primeira onda de ataque, pois força básica inicial e nenhuma produção de tanque. Terran → Humanos, Dr/tier R/team TR → tower rush, sacrifice/fire ring → Imolação, Dodge → Evasão.
+
+Towers forced to retreat é corrupção de fonte sobre estruturas: construção *cancelada*, marcado incerto, sem afirmar que torres humanas se movem. Gourd na fala sobre a humilhação de Nightwind é identidade corrompida, interpretado *Digwa* em itálico pelo diálogo, sem confirmação definitiva. Lembrança de palavrão formado com torres conservada como referência narrada, sem inventar episódio novo ou alterar detalhes anteriores. Humano mais forte no diálogo significa jogador da raça Humanos, não necessariamente qualquer raça.
+
+Coletiva Digwa apenas pede desculpas e diz ter tentado; culpa por estratégia coletiva, não problema comprovado no balanceamento. Goph acha chances dele inferiores porque Orcs e estilo de confronto direto desfavorável, enquanto público ainda confia. Na loja, Chen já recusou convite particular naquele dia; hipótese de medo de perder é suposição expressa de Goph, não motivo confirmado do protagonista. Li manda mensagem pedindo duelo e recebe não; então alega que profissionais culpam balanceamento/elfos fortes para provocar orgulho dele. Resposta indignada Esperem só fecha capítulo. Não afirmar aceite formal já enviado à empresa, duelo iniciado, placar com Chen ou alteração de atributos do jogo.
+
+Sem cortes narrativos ou complementos de encerramento. TXT 451–468 pendentes; próximo 469; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-468-20261122T234805060186Z. Commit/push manuais.
+
+## Capítulo 469 — A dignidade de um designer de videogames
+
+Fonte sem título/número explícitos após 468 → capítulo 469; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/fce32104-4700-444e-8086-2f1a87bb150a/Texto colado.txt.
+
+Aqui o aceite de Chen é confirmado. Li mostra resposta e diz pronto; brinca que equipe Origin é que deve temer perder. Motivação de Chen é defender balanceamento, consciente da provocação. No segundo dia após derrota, Digwa anuncia no Weibo jogador da raça Humanos mais forte; trocadilho humans da fonte explicitado como raça versus espécie, sem atribuir anúncio a Goph/Orcs. Público percebe Chen, afastado de competição profissional de alto nível, mas comentário de fã sobre anos sem jogar não elimina amistosas recentes com Li. Menção quatro anos é analogia da fonte, não nova data precisa do último torneio.
+
+No dia do duelo há público com ingressos, área de espectadores lotada e ruas cheias/controle de trânsito. Preservada novidade da fonte sem inventar entrada dos torcedores na sala dos computadores ou reconfiguração completa do recinto vazio anterior. Reportagem enfatiza passado competitivo de Chen; repórteres impedidos de entrevistá-lo antes, ele promete depois e fala sobre balanceamento. Sem novo Weibo pessoal, sem alterações de atributos em Warcraft. Procedimentos de pausa/intervalo explicados; ambos testam equipamentos, Chen aquece em partida personalizada e dá OK. Capítulo encerra no carregamento inicial do duelo, sem raça selecionada mostrada, mapa, resultado ou premiação.
+
+sweet potato → Digwa; Chen Zhao → Chen Mo; selling flatbread traduzido abrir barraca de comida, sentido de aposentadoria, não negócio realmente confirmado. Human contestant no post de Digwa → jogador de Humanos; outras falas mantêm confusão até correção explícita do comentarista. Dignidade do designer é motivo declarado, não diagnóstico factual de que jogo esteja ou não balanceado. Sem cortes, ambiguidades não resolvidas ou complementos de encerramento.
+
+TXT 451–469 pendentes; próximo 470; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-469-20261122T234927124144Z. Commit/push manuais.
+
+## Capítulo 470 — Mortos-Vivos contra Origin
+
+Fonte sem título/número explícitos após 469 → capítulo 470; título descritivo provisório. Data editorial Oct 21, 2026 removida. Fonte: C:/Users/Robson/.codex/attachments/830f4b81-4add-43ac-90ac-bfa4a0ed37e3/Texto colado.txt. Lacuna antiga 470 da outra obra não se aplica.
+
+Kaiser/Nightwind comentaristas; Goph/Digwa/Li espectadores. Primeira partida Chen versus Origin: Chen escolhe raça aleatória e recebe Mortos-Vivos, mapa grande/bases distantes; não corrigir para Humanos por anúncio público do 469 ou plano prévio. Reação de sorte péssima não é condição biológica. Fonte descreve composição Cavaleiro da Morte/Lich/aranhas com Armadura Gélida e assédio; não criar unidade chamada aranha gelada, nova habilidade ou instante exato da produção do segundo herói. Origin expande dispersamente; Mortos-Vivos desfavoráveis em economia, fortes em confronto direto.
+
+Chen preserva unidades, contém Origin repetidamente e permanece em impasse; sem vitória, derrota, GG, segundo mapa ou esgotamento de minas ocorrido. Suposta trapaça de mapa é reação do público, não uso confirmado. Explicação do narrador: Chen usa dados de todas as partidas de Origin naquele mapa, habilidade de Análise Matemática da segunda fase e raciocínio sobre desenvolvedores para prever probabilisticamente suas expansões. Complementa com avaliação durante jogo; não leitura mental infalível ou vulnerabilidade técnica real. Suas próprias minas em posições pouco usadas escapam temporariamente da prioridade de exploração, até Fogo-Fátuo localizar quase prontas; sem declarar invisibilidade.
+
+sweet potato → Digwa; beast → Orcs; team Saint → Chen Mo, único adversário de Origin; mine/chaotic mine → expansões dispersas; consciousness → percepção de jogo. Frase Its a pity that Chen Mo didnt have such good mechanics contradiz elogios e pedido seguinte de escolher raça adequada: traduzida Que desperdício dessa mecânica!, preservando o sentido inequívoco do diálogo. Founder of classic genres refere-se a estratégias clássicas de Warcraft, não novos gêneros lançados neste evento. Comentário 100-person battle → cem de população, não cem pessoas/unidades garantidas. Ranking de raças é avaliação dos personagens, sem mudança de atributos. Sem cortes, ambiguidades pendentes ou complementos de encerramento.
+
+TXT 451–470 pendentes; próximo 471; revisão ao publicar desde 451. Leitor até 450 preservado por SHA256. Backup dos quatro registros: backups/agd-capitulo-470-20261122T235054578768Z. Commit/push manuais.
+
+## Publicação local 451–470 — revisão contextual de 22/11/2026
+
+Vinte fontes inglesas conferidas com as traduções e a continuidade até 450. Sequência contínua, sem duplicação, fusão, reordenação ou capítulo omitido. Vinte TXT preservados byte a byte nesta revisão: os ajustes contextuais já feitos durante a tradução permanecem adequados. Datas editoriais removidas; títulos descritivos provisórios mantidos. Sem mudanças funcionais na aplicação.
+
+451–456: trapaças em Overwatch, Wolf Soul e Fire Assault. Bastion vira Tracer e Mercy vira Soldado: 76; dois usuários evidenciados, enquanto falas acusam três, sem inventar terceiro identificado. Congelamento inicial temporário, banimento posterior por comprovação. Detector bloqueia equipamentos desconhecidos, inclusive possíveis auxiliares legítimos, sem equiparar 210 mil bloqueios a 210 mil culpados. Mais de quatro mil banidos confirmados. Reembolso com bloqueio definitivo no 454 esclarece anúncio do 453. Privacidade discutida sem afirmar que Comitê aprovou auditoria ou que todas as objeções eram de trapaceiros. Hami permanece suspeito, não condenado.
+
+457–461: correção do Comitê uma semana depois; origem de Origin passa de jogador misterioso a hipótese de IA e só é confirmada no anúncio público do 460. Starlight descartado como identidade porque enfrenta Origin. Invicta nos três servidores, elfos, latência fora da América sugere localização. Empresa ainda sem nome até 462. APM pico 600/média 400, 98,3% de ações efetivas (arredondado a 98 no diálogo seguinte), novo limite médio 350 anunciado depois; não mudar medições anteriores. Critério de dois comandos em 0,5 s e avaliação de limites humanos mantidos como falas da fonte. Prêmio US$ 1,5 milhão por vencer melhor de três, sem pagamento ocorrido.
+
+462–466: empresa alterna Seventh Horizon/seventh vision: Sétima Visão incerta marcada na apresentação. Recinto de competição sem plateia, retransmissões com comentaristas e loja com projeção a partir de dados em tempo real. Starlight perde 2–0. Goph Orcs, Li elfos, Digwa Humanos; sweet potato é Digwa. Grupo escolhe Humanos/tower rush e Digwa desafia por iniciativa própria. Origin offline calcula no cilindro, sem supercomputador e sem atualização automática; autoaprendizado limitado. Detalhes corrompidos de unidades/itens/mapas preservam marcação de interpretação, sem parâmetros inventados.
+
+467–470: Digwa perde primeira por desgaste em mapa grande/distante, segunda TR contido; série 2–0. Ao chegar nível dois, Caçador de Demônios usa Imolação e reduz camponeses. Chen aceita depois da provocação sobre balanceamento, não por mudança de atributos. Primeiro anúncio de Digwa fala de jogador de Humanos, mas Chen escolhe aleatório na partida e recebe Mortos-Vivos; não corrigir a escolha para a raça esperada. Público de ingresso na área de espectadores do 469 não exige inventar multidão na sala oficial. Primeira de Chen em mapa grande/distante fica em impasse, sem resultado no fim do 470. Análise probabilística de replays explica localização de expansões, não trapaça real ou leitura infalível da IA.
+
+Conferência numérica: 3.280.000 × 6,4% = 209.920, compatível com 210 mil arredondados; um décimo de 6,4% = 0,64%, já corrigido e marcado no 455 conforme autorização. Queda inicial de 29% é de ativos diários, não dos acessos barrados; superação do patamar no quinto dia. Milhares/dezenas de milhares de yuans mensais de dispositivos, preços de FPS de mais de mil yuans, 1,3 bilhão de habitantes e público de dezenas de milhões são afirmações ficcionais, sem conversões extras. Três dias/duas noites e 4 mil pontos em cada servidor preservados. Bônus por sequência e ritmo não exigem alterar números. Cem em batalha é população, não cem unidades garantidas. Dois a zero das duas séries não é placar da série de Chen, ainda aberta.
+
+Pendências de fonte mantidas em itálico e detalhadas na continuidade: 454 alvo oposto a corpo; 455 pontos fracos; 458 grafia Origin203/204; 459 referência antiga à suspeita sobre Chen; 460 setenta por cento de forças e recuperação do interesse; 462 nome da empresa; 463 tamanho do replay, comparação de mapas, itens e ações; 464 ação de atacar/mover; 466 TR inicial e fragmento sobre expansões/elfos; 467 fala antecipated Dr; 468 construção cancelada e identidade Gourd. Não completar por invenção. Itens ruins no 463 e vantagem relativa por sorte no 464 são compatíveis sem inventar novo item. Expectativa de declínio dos RTS não apaga aumento momentâneo de audiência. Sem novo corte ou complemento editorial.
+
+Leitor local 1–470, nenhum TXT pendente. Próximo 471; próxima revisão desde 471. Clube da Longevidade preservado: leitor 279–800 e TXT 801–803 pendentes. Progresso e preferências preservados; commit, push e implantação remota manuais.
+
+Backup prévio de 29 arquivos com SHA256: backups/agd-publicar-revisar-451-470-20261122T235256007620Z. Sete arquivos protegidos, primeiras 450 entradas e vinte fontes registrados. Validação será registrada ao concluir.
+
+Validação concluída: cinco verificações de sintaxe JavaScript, node tests/reader.test.cjs e git diff --check aprovados. Todos os 470 TXT correspondem integralmente ao leitor; primeiras 450 entradas preservadas. Catálogo, limites, navegação móvel simulada, retomada e isolamento entre obras conferidos. Vinte fontes, 29 backups e sete arquivos protegidos verificados por SHA256. Vinte TXT do lote preservados byte a byte, sem novos ajustes necessários. Sem conferência visual nova no navegador e sem commit/push/deploy.

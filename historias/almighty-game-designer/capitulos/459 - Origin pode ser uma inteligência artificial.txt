@@ -1,0 +1,101 @@
+Capítulo 459 — Origin pode ser uma inteligência artificial
+
+“Como isso é possível? Essa proporção de ações efetivas... Não é humana!”, exclamou Goph, chocado.
+
+Pelos dados de APM, a velocidade das mãos de Origin era muito alta, mas ainda estava dentro dos limites humanos. Chen Mo e Goph conseguiam atingir aquele número de ações por minuto.
+
+Mas noventa e oito por cento de ações efetivas? Aquele dado era extremamente anormal!
+
+As chamadas ações efetivas eram comandos que tinham alguma utilidade prática. Por exemplo, clicar com o botão direito para mover uma unidade, criar grupos de controle, retirar unidades desses grupos, atacar, usar habilidades e assim por diante.
+
+Já as ações inúteis eram movimentos sem propósito, a criação repetida dos mesmos grupos ou apertar F1 várias vezes, coisas que não influenciavam muito a batalha.
+
+Um jogador habilidoso conseguia manter um APM relativamente alto. Durante uma batalha de grande escala, podia atingir picos de seiscentas ou setecentas ações por minuto. Mas havia muitas ações inúteis misturadas ali. Elas não eram feitas para inflar o APM, e sim, principalmente, para aquecer as mãos. Aqueles comandos aparentemente sem sentido ajudavam o jogador a manter a velocidade.
+
+Na verdade, a maioria dos jogadores com cerca de trezentas ações por minuto já podia se tornar profissional em Warcraft. Era isso que significava dizer que RTS exigia um APM alto. Chegar a quatrocentas ações por minuto já era basicamente o nível dos melhores dos melhores.
+
+Dessas quatrocentas ações, apenas sessenta a setenta por cento eram efetivas. Para muitos jogadores, quanto maior o APM, maior também a quantidade de comandos inúteis.
+
+Até Chen Mo executava algumas ações inúteis quando jogava Warcraft. Só se podia atribuir isso aos limites do corpo humano. Por mais rápidas que fossem as mãos, ainda era necessário repetir alguns comandos para manter o ritmo.
+
+Mas Origin conseguia manter uma média de aproximadamente quatrocentas ações por minuto e, ao mesmo tempo, chegar a noventa e oito por cento de ações efetivas?
+
+Em outras palavras, seu controle dos detalhes era ainda melhor que o de Chen Mo!
+
+Aquilo não fazia sentido!
+
+Chen Mo olhou para todos.
+
+“Por isso, Origin pode ser uma IA.”
+
+“Como assim?” A primeira reação de Zou Zhuo foi de incredulidade. “Os veteranos de Warcraft destroem facilmente o computador na dificuldade Insano, mesmo com o ouro extra que ele recebe. Como essa IA poderia ser tão forte?”
+
+Goph também assentiu.
+
+“Pois é. Origin realmente não parece um computador. Seus comandos e suas estratégias não são diferentes dos de um humano. Será que é algum tipo de trapaça?”
+
+“Trapaça?”, perguntou Zou Zhuo.
+
+Goph assentiu.
+
+“Sim, um programa externo. Em outras palavras, um programa de assistência. Por exemplo, Origin já poderia ser um jogador habilidoso do servidor americano, mas não tão bom assim. Agora, com uma nova trapaça que recua as unidades automaticamente, ele se uniu à máquina e sua força aumentou muito.”
+
+Chen Mo negou com a cabeça.
+
+“Preciso enfatizar uma coisa. Essa taxa de noventa e oito por cento foi calculada segundo um critério de avaliação que eu criei. Por exemplo, enviar dois comandos de movimento ou ataque para a mesma unidade num intervalo de meio segundo conta como ação repetida e, portanto, inútil.”
+
+“Mas esse critério foi feito para pessoas normais, jogadores normais. É impossível uma pessoa normal dar dois comandos para a mesma unidade em meio segundo. Mas e se for uma IA?”
+
+“Você quer dizer...” Goph franziu a testa.
+
+Chen Mo assentiu.
+
+“Exatamente. É bem possível que Origin não considere aquele comando inútil. Talvez apenas tenha mudado de estratégia naquele intervalo de meio segundo.”
+
+“Em outras palavras, para Origin, cem por cento das próprias ações seriam efetivas.”
+
+Goph e os demais finalmente entenderam.
+
+Pelo visto, Origin não seria apenas um jogador usando trapaças ou scripts. Enquanto houvesse uma pessoa jogando, haveria ações inúteis. Nenhum especialista conseguiria evitar isso.
+
+Em outras palavras, era muito provável que Origin fosse um programa de computador completo: uma IA, uma inteligência artificial.
+
+Zou Zhuo ainda não conseguia acreditar.
+
+E não era só ele. Os outros presentes também estavam incrédulos.
+
+Muita gente acreditava que ainda faltava um longo caminho para a inteligência artificial dominar os RTS.
+
+Ninguém esperava que aquilo pudesse acontecer tão de repente!
+
+No segundo dia depois de Origin chegar ao topo dos servidores coreano e europeu, sua fama na internet começou a ultrapassar a comunidade de Warcraft e alcançar jogadores de outros títulos.
+
+O caso já havia se tornado a maior notícia do mês e se espalhava rapidamente para outros públicos.
+
+Afinal, Origin havia dominado os servidores coreano e europeu. Os dois eram conhecidos por reunir muitos jogadores fortes, incluindo profissionais de altíssimo nível. Mesmo assim, ele chegara ao topo sem perder uma única partida. Era assustador demais.
+
+Em outras palavras, a força atual de Origin já havia superado a dos profissionais daqueles servidores!
+
+Nos fóruns, não eram apenas os jogadores de Warcraft que comentavam os feitos inacreditáveis daquele misterioso especialista. Muitos jogadores de outros títulos de PC e até alguns de VR também falavam sobre ele.
+
+“Vocês ouviram? Surgiu um jogador absurdo em Warcraft!”
+
+“Hã? RTS já morreu, e ainda estão falando de jogador bom? Agora quem manda é League of Legends!”
+
+“Porra, esse jogadorzinho ruim ainda se acha? Em termos de competição, Warcraft esmaga esse seu League of Legends!”
+
+“Por que começaram essa disputa de quem é superior? É a primeira vez que vejo fãs de dois jogos da mesma empresa brigando desse jeito. Os dois são do Chen Mo. Para que discutir?”
+
+“Tá, estamos fugindo do assunto. Aqui estamos falando de Origin. Quem não se interessa pode sair. Não venham arrumar confusão.”
+
+“Vi os vídeos de Origin. Parece que voltamos à época em que Chen Mo atropelou o ranking logo depois do lançamento de Warcraft! É o mesmo massacre de todas as formas possíveis, com um controle extremamente minucioso. Parece invencível num confronto direto!”
+
+“Como jogador com três mil pontos no ranking, acho que Origin controla os detalhes melhor que Chen Mo, principalmente naquelas partidas do servidor americano. Em algumas, não perdeu uma única unidade. É insano!”
+
+“Ah, aquilo é só um bom jogador espancando novatos. Não tem muito o que dizer. Em termos de espetáculo, Chen Mo é muito melhor. Ele chegou ao topo usando raça aleatória, enquanto Origin só sabe jogar de Elfos Noturnos.”
+
+“Por que estou com a impressão de que esse cara trapaceia? *Na época, também suspeitei que Chen Mo fosse uma IA*, mas ele provou que era ele mesmo jogando. Só que o controle de Chen Mo já estava no limite humano. Como Origin pode ser ainda mais absurdo?”
+
+“Também acho. E Origin veio do servidor americano. Quantos grandes jogadores de RTS existem lá? Muito provavelmente é algum tipo de tecnologia avançada fora do comum.”
+
+“É, acho que Origin devia aparecer. Chegou ao topo do servidor americano, depois do coreano e do europeu. Se fosse eu, já teria aparecido para me gabar faz tempo. Como ele consegue continuar tão quieto?”

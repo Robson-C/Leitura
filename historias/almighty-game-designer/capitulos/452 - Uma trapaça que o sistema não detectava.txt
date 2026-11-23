@@ -1,0 +1,101 @@
+Capítulo 452 — Uma trapaça que o sistema não detectava
+
+Chen Mo bateu levemente na mesa.
+
+“Primeiro, vamos fazer uma triagem rápida pelos dados do jogo. Congelem as contas que apresentarem aumentos anormais recentes na proporção de tiros na cabeça, na precisão ou em outros indicadores.”
+
+“Temos as câmeras da morte e as Jogadas da Partida. Deem ao atendimento acesso para revisar manualmente as contas denunciadas. Congelem todas cujas ações não correspondam ao controle humano normal.”
+
+Su Jinyu assentiu.
+
+“Certo. Vou organizar isso agora.”
+
+“Congelar significa banir permanentemente?”, perguntou Zheng Hongxi.
+
+Chen Mo balançou a cabeça.
+
+“Não, é uma suspensão temporária. O banimento definitivo dependerá da situação. Além disso, suspendam por enquanto os novos cadastros em Overwatch. Por pelo menos três dias, não poderemos ter contas novas.”
+
+Qian Kun hesitou.
+
+“Isso é necessário, chefe? As contas Thunderbolt já estão vinculadas ao documento de identidade.”
+
+Chen Mo manteve a decisão.
+
+“Há muita gente vendendo dados de documentos na internet. Quem quiser comprar consegue uma grande quantidade. Só isso não é seguro.”
+
+“Certo.” Qian Kun assentiu. “Mas essas medidas não resolvem o problema no longo prazo. Parece que estamos tratando os sintomas, não a causa.”
+
+“Sim, eu sei. Já consultei o Comitê. Eles ainda estão investigando e devem responder em breve. Enquanto isso, vamos usar a revisão manual para reduzir o impacto tanto quanto possível.”
+
+Logo, todos saíram para cuidar de suas tarefas.
+
+Chen Mo também estava surpreso com a explosão de trapaças.
+
+Os FPS eram populares naquele mundo. Wolf Soul e Fire Assault funcionavam havia alguns anos, mas nunca se ouvira falar de uma onda daquela dimensão.
+
+A situação era diferente da de sua vida anterior. Graças à tecnologia avançada e à regulação do mercado pelo Comitê, a maioria dos programas de trapaça havia sido reprimida. Mesmo quando alguns usuários apareciam, eram banidos rapidamente, sem provocar tanto alvoroço.
+
+Embora os FPS tivessem passado do PC para a realidade virtual, seus princípios continuavam semelhantes. Durante os disparos, alguns dados precisavam ser armazenados e calculados no cliente para garantir a experiência. Isso abria espaço para programas externos interferirem nas informações.
+
+Por isso, tanto naquele mundo quanto no anterior, os jogos de tiro eram um dos principais alvos das trapaças. Os métodos e as técnicas eram completamente diferentes, mas a lógica era parecida.
+
+Na plataforma de VR, havia duas formas de trapacear.
+
+A primeira era usar um programa específico para acessar indevidamente os dados do cliente, lendo e alterando informações ocultas para obter visão através de obstáculos ou mira automática. Era o equivalente aos programas de trapaça de sua vida anterior.
+
+A segunda envolvia equipamentos auxiliares. Como os jogadores controlavam a visão e a direção dos disparos por sinais mentais, certos dispositivos podiam ajudá-los a executar ações especiais.
+
+Por exemplo, alguém com pouca coordenação e reações lentas talvez acertasse apenas trinta por cento dos tiros. Um equipamento desse tipo poderia substituir seus sinais originais por outros mais precisos, aumentando a velocidade de reação e a taxa de acertos.
+
+Era semelhante às macros de mouse de sua vida anterior. Não alterava os dados do cliente, mas modificava os comandos do jogador, facilitando ações avançadas sem exigir a mesma habilidade. Na prática, elevava artificialmente seu nível.
+
+Naquele mundo, as trapaças haviam sido quase eliminadas principalmente por razões técnicas.
+
+De um lado, invadir e modificar os jogos ficara mais difícil. Do outro, os sistemas de verificação se tornaram mais completos. Quando os dados do cliente apresentavam alguma anormalidade, um alerta era acionado. Depois da conferência, a conta problemática era congelada para investigação.
+
+As empresas sempre haviam tratado o problema com rigor. Em jogos de VR que facilmente custavam de mil a dois mil yuans, uma trapaça comprovada levava ao banimento permanente. O número do documento associado à conta também podia entrar na lista de bloqueio do Comitê.
+
+É claro que os trapaceiros de verdade não usavam os próprios documentos. Mesmo assim, o custo para continuar era relativamente alto.
+
+Por isso, embora houvesse casos em outros FPS, eles estavam longe de ser generalizados.
+
+Mas, depois daquela onda, os jogadores perceberam que os mecanismos anteriores pareciam não funcionar.
+
+As verificações de Overwatch, Wolf Soul e Fire Assault não encontravam alterações nos dados dos clientes. O desempenho dos usuários era claramente anormal, mas o sistema não disparava alertas. Não conseguia determinar se havia trapaça.
+
+Ou seja, tratava-se de um método novo.
+
+O Comitê também investigava o caso e avisou Chen Mo assim que seus técnicos chegaram a um resultado.
+
+Era evidente que aquela tecnologia havia ultrapassado temporariamente a capacidade de detecção do Illusion Game Engine. Ela não modificava os dados do cliente.
+
+Chen Mo sabia que o mundo paralelo ainda atravessava uma fase de avanços tecnológicos acelerados. Tecnologias nacionais e estrangeiras eram renovadas rapidamente. Às vezes, o progresso parecia ter parado, mas uma descoberta podia surgir de repente.
+
+Aquela trapaça era um dos resultados dessas novidades.
+
+O avanço tecnológico melhorava os mecanismos de proteção, mas também os métodos usados para burlá-los. Depois de uma mudança daquele tipo, o novo recurso se espalhara rapidamente do exterior para a China.
+
+Segundo a hipótese do Comitê, algum avanço estrangeiro havia sido aproveitado pelos criadores de trapaças para produzir equipamentos auxiliares voltados aos FPS disponíveis no mercado.
+
+O dispositivo modificava, até certo ponto, os sinais mentais do jogador. Como era tecnologicamente avançado e não alterava os dados do cliente, as verificações do jogo não geravam alertas.
+
+Para resolver o problema de vez, seria necessário esperar os técnicos compreenderem seu funcionamento e atualizarem os mecanismos de detecção.
+
+Quando isso ficaria pronto? O Comitê não tinha um prazo. A tecnologia também era nova para os especialistas, e a análise exigia tempo.
+
+Até lá, as desenvolvedoras teriam que controlar a disseminação por conta própria.
+
+Emperor Dynasty e Zen também iniciaram revisões manuais de emergência, congelando as contas suspeitas.
+
+Com a verificação automática sem funcionar, só restava o método trabalhoso de examinar cada caso para avaliar se havia trapaça.
+
+Naturalmente, depois da comprovação, o documento vinculado à conta entraria na lista de bloqueio e não poderia mais ser usado para cadastrar contas em FPS.
+
+Mas aquilo não tinha tanto efeito. Mais de noventa por cento dos trapaceiros de fato não usavam a própria identidade.
+
+Na internet, existiam canais clandestinos de venda de dados pessoais. O país tinha 1,3 bilhão de habitantes, enquanto o público de FPS chegava, no máximo, a algumas dezenas de milhões. Os trapaceiros podiam comprar diferentes documentos e registrar várias contas.
+
+Algumas pessoas nem sabiam que seus dados haviam sido roubados.
+
+Por isso, naquele momento, não era viável responsabilizar alguém apenas pelo documento associado à conta. A única saída era bloquear o número e aumentar o custo da trapaça.

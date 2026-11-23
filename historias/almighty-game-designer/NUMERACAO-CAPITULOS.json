@@ -2707,7 +2707,127 @@
       "chapter": 450,
       "title": "Um Bastion bom demais para ser verdade",
       "file": "capitulos/450 - Um Bastion bom demais para ser verdade.txt"
+    },
+    {
+      "source": 451,
+      "chapter": 451,
+      "title": "A invasão dos trapaceiros",
+      "file": "capitulos/451 - A invasão dos trapaceiros.txt"
+    },
+    {
+      "source": 452,
+      "chapter": 452,
+      "title": "Uma trapaça que o sistema não detectava",
+      "file": "capitulos/452 - Uma trapaça que o sistema não detectava.txt"
+    },
+    {
+      "source": 453,
+      "chapter": 453,
+      "title": "Medidas drásticas contra as trapaças",
+      "file": "capitulos/453 - Medidas drásticas contra as trapaças.txt"
+    },
+    {
+      "source": 454,
+      "chapter": 454,
+      "title": "Uma decisão inflexível",
+      "file": "capitulos/454 - Uma decisão inflexível.txt"
+    },
+    {
+      "source": 455,
+      "chapter": 455,
+      "title": "A justiça vem dos céus",
+      "file": "capitulos/455 - A justiça vem dos céus.txt"
+    },
+    {
+      "source": 456,
+      "chapter": 456,
+      "title": "O melhor Tracer do mundo",
+      "file": "capitulos/456 - O melhor Tracer do mundo.txt"
+    },
+    {
+      "source": 457,
+      "chapter": 457,
+      "title": "Um jogador chamado Origin",
+      "file": "capitulos/457 - Um jogador chamado Origin.txt"
+    },
+    {
+      "source": 458,
+      "chapter": 458,
+      "title": "Uma eficiência de 98,3%",
+      "file": "capitulos/458 - Uma eficiência de 98,3%.txt"
+    },
+    {
+      "source": 459,
+      "chapter": 459,
+      "title": "Origin pode ser uma inteligência artificial",
+      "file": "capitulos/459 - Origin pode ser uma inteligência artificial.txt"
+    },
+    {
+      "source": 460,
+      "chapter": 460,
+      "title": "Uma guerra entre humanos e máquinas",
+      "file": "capitulos/460 - Uma guerra entre humanos e máquinas.txt"
+    },
+    {
+      "source": 461,
+      "chapter": 461,
+      "title": "Um desafio de um milhão e meio de dólares",
+      "file": "capitulos/461 - Um desafio de um milhão e meio de dólares.txt"
+    },
+    {
+      "source": 462,
+      "chapter": 462,
+      "title": "O palco da batalha entre humanos e máquinas",
+      "file": "capitulos/462 - O palco da batalha entre humanos e máquinas.txt"
+    },
+    {
+      "source": 463,
+      "chapter": 463,
+      "title": "A primeira partida contra Origin",
+      "file": "capitulos/463 - A primeira partida contra Origin.txt"
+    },
+    {
+      "source": 464,
+      "chapter": 464,
+      "title": "O desespero diante de Origin",
+      "file": "capitulos/464 - O desespero diante de Origin.txt"
+    },
+    {
+      "source": 465,
+      "chapter": 465,
+      "title": "Digwa aceita o desafio",
+      "file": "capitulos/465 - Digwa aceita o desafio.txt"
+    },
+    {
+      "source": 466,
+      "chapter": 466,
+      "title": "A estratégia de Digwa",
+      "file": "capitulos/466 - A estratégia de Digwa.txt"
+    },
+    {
+      "source": 467,
+      "chapter": 467,
+      "title": "Uma chance para o ataque com torres",
+      "file": "capitulos/467 - Uma chance para o ataque com torres.txt"
+    },
+    {
+      "source": 468,
+      "chapter": 468,
+      "title": "Não questione o balanceamento de Chen Mo",
+      "file": "capitulos/468 - Não questione o balanceamento de Chen Mo.txt"
+    },
+    {
+      "source": 469,
+      "chapter": 469,
+      "title": "A dignidade de um designer de videogames",
+      "file": "capitulos/469 - A dignidade de um designer de videogames.txt"
+    },
+    {
+      "source": 470,
+      "chapter": 470,
+      "title": "Mortos-Vivos contra Origin",
+      "file": "capitulos/470 - Mortos-Vivos contra Origin.txt"
     }
   ],
-  "notes": "Leitor local com 450 capítulos consecutivos, 1–450. Lote 441–450 revisado e integrado. Nenhum TXT pendente nesta obra. Próximo envio e próxima revisão a partir do 451. Títulos provisórios e ambiguidades de fonte preservados. Commit e push manuais."
+  "notes": "Leitor local com 470 capítulos consecutivos, 1–470. Lote 451–470 revisado com as fontes e integrado por publique em 22/11/2026. Nenhum TXT pendente. Próximo envio 471; próxima revisão a partir do 471. Títulos descritivos provisórios e interpretações incertas em itálico preservados. Commit e push manuais."
 }

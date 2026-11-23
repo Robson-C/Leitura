@@ -1,0 +1,93 @@
+Capítulo 461 — Um desafio de um milhão e meio de dólares
+
+A entrada da inteligência artificial no mundo dos videogames não havia sido tranquila.
+
+Antes de desenvolver Origin, aquela empresa já havia criado outra inteligência artificial para disputar partidas de RTS. Mas ela fora completamente esmagada pelos jogadores humanos.
+
+A escolha dos RTS como foco principal se devia, sobretudo, às características do gênero.
+
+No mercado daquele momento, apenas os RTS ofereciam condições para um confronto entre humanos e inteligência artificial.
+
+Nos FPS, por mais que se esforçassem, os humanos não conseguiam vencer programas de trapaça. Nos jogos casuais de quebra-cabeça, também não tinham chance.
+
+Aqueles desafios aparentemente difíceis só eram complicados para os humanos. Para uma inteligência artificial, eram muito simples.
+
+Afinal, entre tantos jogos de quebra-cabeça, qual superava Go em dificuldade?
+
+Já os populares MOBAs eram jogos de cinco contra cinco. Colocar cinco humanos para enfrentar cinco IAs com o mesmo raciocínio não parecia muito adequado.
+
+Por isso, os RTS eram a opção mais apropriada para a empresa de pesquisa em inteligência artificial.
+
+O motivo de serem mais difíceis de dominar que Go era a névoa de guerra.
+
+Num RTS, a visão limitada impedia a inteligência artificial de conhecer todos os movimentos do adversário, abrindo espaço para a disputa estratégica entre os dois lados.
+
+Além disso, as relações de vantagem e desvantagem entre os diferentes tipos de unidade eram extremamente complexas. As mudanças na situação muitas vezes eram mais rápidas e complicadas que em Go. Se uma pequena intenção do adversário não fosse percebida ou compreendida a tempo, um único ataque poderia destruir o exército e a base.
+
+Para a inteligência artificial, a maior limitação sempre fora uma só: a velocidade de cálculo.
+
+No início dos confrontos entre humanos e IA em Go, os humanos conseguiam vencer nas partidas rápidas, mas perdiam nas partidas com mais tempo para pensar. Isso acontecia porque o raciocínio da inteligência artificial era completamente diferente do humano. Quanto mais complexa a situação, mais tempo ela precisava para calcular a solução ideal.
+
+Nos jogos de estratégia em tempo real, não havia o mesmo tempo de reflexão de uma partida de Go. Para uma IA, talvez fosse necessário adotar algoritmos e regras completamente diferentes.
+
+Naturalmente, fora essas questões, a inteligência artificial esmagava os humanos em todos os aspectos da execução dos comandos.
+
+Para alguns jogadores, o APM de um RTS nunca era suficiente. Precisavam controlar dezenas de unidades ao mesmo tempo. Mesmo quando conseguiam pensar no que fazer, as mãos não acompanhavam.
+
+Para uma inteligência artificial, porém, não havia problema, por mais unidades que precisasse controlar. Seus reflexos e sua precisão superavam os dos humanos.
+
+Como isso era relativamente injusto para os jogadores humanos, a empresa responsável por Origin havia imposto certas restrições aos comandos da IA. Sua média de APM fora limitada a aproximadamente quatrocentos, e o pico, a no máximo seiscentos, no mesmo patamar dos melhores jogadores humanos.
+
+É claro que, mesmo com esse limite, a inteligência artificial ainda tinha vantagem. Ela não precisava executar comandos repetitivos para aquecer as mãos. Cada uma de suas ações era efetiva.
+
+Em outras palavras, embora a média de Origin parecesse ser de quatrocentas ações por minuto, na prática equivalia a quinhentas ou até seiscentas para um humano.
+
+Depois que Origin chegou ao topo dos rankings americano, europeu e coreano, a empresa anunciou que reduziria novamente seu APM, desta vez para uma média de trezentas e cinquenta ações por minuto, por considerar excessiva sua vantagem sobre os humanos.
+
+Podia-se dizer que a medida buscava tornar a disputa mais justa. Mas também era possível que os desenvolvedores temessem assustar os profissionais a ponto de ninguém aceitar enfrentá-la. Ou que receassem transformar a batalha entre humanos e máquinas num confronto tão desequilibrado que ninguém quisesse assistir.
+
+Para os profissionais de Warcraft, porém, aquilo era uma provocação escancarada.
+
+Ao mesmo tempo, a empresa anunciou um prêmio de um milhão e meio de dólares para o confronto entre humanos e máquinas. Quem derrotasse Origin numa melhor de três levaria o dinheiro!
+
+Uma recompensa daquele tamanho era extremamente tentadora para os profissionais de Warcraft do mundo inteiro. Afinal, ao contrário de League of Legends, Warcraft não tinha tanta popularidade, e seus jogadores não eram ricos.
+
+Além disso, aquela batalha não traria apenas dinheiro, mas também fama! Representar a humanidade e derrotar a inteligência artificial seria uma honra única na vida para a maioria das pessoas. Quem não gostaria de participar?
+
+Mesmo sem recompensa, aqueles profissionais certamente aceitariam o desafio.
+
+Starlight, o melhor jogador de Elfos Noturnos do servidor coreano, estava determinado. Ele seria o primeiro profissional a enfrentar Origin naquele confronto.
+
+Na internet, algumas pessoas também se perguntavam por que Origin não havia desafiado Chen Mo diretamente. Afinal, ele criara Warcraft e era reconhecido como o melhor jogador do título. Por que escolher Starlight?
+
+Na verdade, não era difícil entender.
+
+Na vida anterior de Chen Mo, AlphaGo também não havia desafiado Ke Jie logo de cara. Começara com outros jogadores de primeira linha e subira gradualmente.
+
+Por um lado, isso permitia manter o assunto em evidência. Enfrentar o campeão mundial logo de início não ajudaria a prolongar a repercussão nem a atrair atenção.
+
+Por outro, havia a questão de avançar passo a passo. Afinal, a empresa ainda não sabia exatamente qual era o nível de Origin. Ao aumentar gradualmente a dificuldade dos desafios, ela teria mais chances de vencer.
+
+Além disso, Starlight era a melhor escolha para Origin. Os dois haviam acabado de se enfrentar numa ranqueada do servidor coreano, e a diferença de força não era tão grande. Como ambos jogavam de Elfos Noturnos, embora o confronto entre a mesma raça pudesse ser um pouco menos interessante de assistir, ele garantiria igualdade de condições.
+
+Se enfrentasse outra raça, mesmo que Origin vencesse, alguém poderia atribuir o resultado a uma vantagem racial. Começar com uma partida espelhada demonstraria a imparcialidade daquela disputa entre humanos e máquinas.
+
+A batalha de abertura já havia atraído a atenção do mundo inteiro antes mesmo de começar.
+
+E era chamada de abertura porque todos sabiam que, vencesse ou perdesse, Origin não pararia por ali. Certamente ficaria mais forte e continuaria desafiando humanos cada vez melhores.
+
+As opiniões sobre o resultado eram variadas.
+
+“Uma semana basta para Origin melhorar enormemente. Starlight não conseguiu vencer antes e com certeza não vai conseguir agora. Já vimos esse roteiro inúmeras vezes nas disputas de jogos de tabuleiro entre humanos e máquinas. Qual é a dúvida?”
+
+“Mas o APM de Origin foi reduzido de novo. Num RTS, um pequeno detalhe afeta a partida inteira. Se um herói dela morrer por falta de controle, não pode ser o fim do jogo?”
+
+“Só que não há latência numa disputa presencial. O principal motivo de Origin ter sofrido para vencer da outra vez foi o atraso ao jogar no servidor coreano a partir da América do Norte!”
+
+“Da outra vez, Starlight não estava preparado. Se estudarem os vídeos de Origin, com certeza vão encontrar uma maneira de enfrentá-la!”
+
+Os jogadores tinham opiniões diferentes.
+
+Embora a maioria torcesse pelos humanos, todos sabiam que Origin tinha mais chances de vencer.
+
+Afinal, aquele roteiro já havia se repetido muitas vezes nas disputas de jogos de tabuleiro.

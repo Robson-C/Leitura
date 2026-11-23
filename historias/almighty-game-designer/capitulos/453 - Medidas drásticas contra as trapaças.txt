@@ -1,0 +1,111 @@
+Capítulo 453 — Medidas drásticas contra as trapaças
+
+Os sites oficiais de Overwatch, Wolf Soul e Fire Assault publicaram imediatamente comunicados para tranquilizar os jogadores. Explicaram a proliferação dos novos dispositivos de trapaça, as medidas para enfrentá-la e informaram que estavam fazendo o possível para banir as contas envolvidas.
+
+Mas os efeitos daquela crise continuavam se espalhando.
+
+Entre os três jogos, Overwatch era o que mais sofria com os trapaceiros.
+
+No fim das contas, isso ainda se devia ao modelo de monetização. Os outros dois jogos custavam mais de mil yuans. Quando a conta de um trapaceiro era banida, ele precisava gastar mais de mil yuans para voltar a jogar, o que aumentava o custo da trapaça.
+
+Além disso, uma base menor de jogadores também significava menos pessoas usando trapaças.
+
+Overwatch era gratuito. Havia muita gente jogando e, consequentemente, muita gente trapaceando. Depois de ter a conta bloqueada, bastava comprar os dados de um documento de identidade para se cadastrar de novo, o que reduzia bastante o custo de continuar trapaceando.
+
+Muitos jogadores reclamavam no fórum de Overwatch.
+
+“Será que isso vai funcionar? Por que o trapaceiro que denunciei de manhã ainda não foi banido?”
+
+“Porra, estou sem palavras. Desta vez, Chen Mo está demorando um pouco.”
+
+“Você aí de cima não leu o comunicado? O Comitê de Jogos ainda está estudando o problema. Nem a Emperor Dynasty nem a Zen sabem o que fazer. O que Chen Mo pode fazer?”
+
+“É, só podemos esperar o pessoal técnico resolver.”
+
+“Mas dá muita raiva! Um único trapaceiro acabou com meu bom humor! Nem sei se adianta denunciar!”
+
+“Ah, eu achava ótimo Overwatch ser gratuito, mas agora preferia pagar algumas centenas de yuans para poder jogar. Pelo menos haveria menos trapaceiros!”
+
+“Nem tão menos assim. Você não viu a quantidade de trapaças em Wolf Soul e Fire Assault?”
+
+“Só podemos esperar mais um pouco. Na pior das hipóteses, ficamos dois dias sem jogar e voltamos quando essa fase passar.”
+
+Embora muitos jogadores estivessem insatisfeitos, sabiam que o problema era tecnológico. Além de intensificar as verificações, Chen Mo não tinha muito o que fazer.
+
+No entanto, quando muitos pensavam que ele depositaria todas as esperanças no Comitê de Jogos, assim como a Emperor Dynasty Entertainment e a Zen Entertainment, Chen Mo publicou um longo texto no Weibo.
+
+E o conteúdo daquela publicação deixou os jogadores ainda mais perplexos.
+
+“Sobre os recentes casos de trapaça:
+
+“Ainda não é possível determinar quando a equipe técnica do Comitê de Jogos conseguirá atualizar o mecanismo de detecção do jogo. Até lá, não poderemos usar esse mecanismo para detectar automaticamente as trapaças e banir as contas envolvidas.
+
+“Mas isso não significa que ficaremos de braços cruzados. Já fizemos uma triagem dos dados do jogo e identificamos contas anormais cuja pontuação oculta aumentou muito. Nossa equipe está revisando manualmente essas contas suspeitas. Assim que a trapaça for confirmada, elas serão congeladas.
+
+“Além disso, amanhã, ao meio-dia, faremos uma atualização do jogo com as seguintes mudanças:
+
+“Overwatch receberá uma atualização em seu programa de detecção. Esse programa realizará uma verificação completa da cápsula de VR do jogador e de todos os dispositivos externos instalados nela. Em outras palavras, para executar Overwatch, será necessário conceder à Thunderbolt Gaming Platform o nível máximo de permissão de acesso à cápsula de VR.
+
+“Durante a execução do jogo, o programa verificará o estado da cápsula e de todos os dispositivos externos. Com exceção dos dispositivos legítimos incluídos na lista de permissões, a detecção de qualquer dispositivo externo desconhecido interromperá o jogo.
+
+“Também incentivamos os jogadores a denunciar suspeitas de trapaça. Quando a infração for confirmada, os primeiros trinta jogadores que denunciarem aquela conta receberão um pequeno presente.
+
+“Naturalmente, cada jogador poderá fazer apenas vinte denúncias por dia. Usem esse limite com cuidado e não façam denúncias abusivas ou mal-intencionadas.
+
+“Além disso, se ficar comprovado que um jogador trapaceou, as contas de quem estava em grupo com ele serão temporariamente congeladas. Se for confirmado que alguém se aproveitou conscientemente do trapaceiro para ser carregado nas partidas, essa pessoa também será banida permanentemente, mesmo que não tenha usado trapaças.
+
+“Manter um ambiente competitivo justo depende de todos. Acreditem: a Thunderbolt Entertainment não deixará nenhum trapaceiro escapar!”
+
+Assim que aquele longo texto foi publicado no Weibo, provocou um enorme alvoroço entre os jogadores!
+
+“O quê? Programa de detecção?”
+
+“Isso...”
+
+“Parece um antivírus, não parece?”
+
+“Mas exigir o nível máximo de acesso à cápsula de VR não é exagero?”
+
+“É exagerado, sim!”
+
+“Chen Mo está se achando demais? Que empresa de jogos teria coragem de pedir esse tipo de permissão? E, se eu não conceder, não posso jogar?”
+
+As outras medidas não causaram grandes reações. O que desagradou a muitos jogadores foi o programa de detecção que seria instalado com a atualização.
+
+Depois de sua instalação, seria necessário conceder acesso total, com o nível máximo de permissão, à cápsula de VR para jogar.
+
+Era como comprar um forno para assar batatas-doces e descobrir que ele exigia permissão para entrar livremente em qualquer cômodo da sua casa. Qualquer proprietário com um mínimo de bom senso acharia aquilo muito inadequado.
+
+Uma cápsula de VR era como um PC: também armazenava informações pessoais. Quem poderia garantir que esses dados não seriam vazados depois de todo aquele acesso ser liberado?
+
+O que Chen Mo queria fazer não era tão complicado. Pretendia apenas criar um programa de detecção que verificasse a presença de programas desconhecidos ou dispositivos externos nas cápsulas de VR. Caso encontrasse algum, impediria o acesso ao jogo. Era só isso.
+
+As outras empresas de jogos também não eram idiotas. Por que não faziam o mesmo?
+
+A resposta era simples: porque seriam massacradas pelas críticas!
+
+Afinal, uma empresa de jogos não era uma empresa de antivírus. Pedir aos jogadores o nível máximo de acesso era ultrapassar os limites de sua atuação. Além disso, como os jogadores poderiam confiar nela? E se a empresa mexesse escondido na cápsula de VR e roubasse informações?
+
+Na vida anterior de Chen Mo, por exemplo, a Penguin Games era a maior empresa de jogos da China. Mas e se anunciasse que os jogadores precisariam conceder a ela o nível máximo de acesso ao PC, permitindo que verificasse tudo e até alterasse dados? Certamente seria soterrada por críticas.
+
+No mundo paralelo, nem gigantes como a Emperor Dynasty Entertainment e a Zen Entertainment tinham coragem de fazer isso.
+
+Mas Chen Mo, evidentemente, tinha!
+
+Muitos jogadores compartilharam e comentaram a publicação. Embora a maioria elogiasse as medidas, também havia muita gente questionando o programa de detecção.
+
+“Exigir o nível máximo de acesso? Nunca ouvi falar de um jogo que se achasse tão poderoso!”
+
+“Então, se eu não der essa permissão, não posso mais jogar Overwatch?”
+
+“O Comitê de Jogos sabe que você está se achando tanto assim?”
+
+“Quem vai se responsabilizar se minhas informações pessoais vazarem?”
+
+A resposta de Chen Mo foi bastante direta.
+
+“Exatamente. Sem essa permissão, não será possível jogar Overwatch. Quem não estiver satisfeito pode optar por não jogar.
+
+“Quem não quiser continuar jogando e tiver gasto dinheiro no jogo pode procurar o atendimento. Congelarei a conta e devolverei integralmente o valor gasto.
+
+“Já conversamos com o Comitê de Jogos sobre isso. Posso garantir a todos os jogadores que a Thunderbolt Entertainment não consultará nenhum dos dados armazenados em suas cápsulas. Além de verificar dispositivos externos suspeitos, não faremos mais nada. A Thunderbolt Entertainment está disposta a assumir total responsabilidade por isso!”
