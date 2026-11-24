@@ -1,0 +1,87 @@
+Capítulo 499 — A concorrência prepara Gunfire
+
+Receando que nem todos tivessem entendido, Chen Mo explicou melhor:
+
+— Sobre isso, lembrem-se de uma coisa: plataformas diferentes produzem experiências completamente diferentes.
+
+— Em comparação com PC e cabines de realidade virtual, dispositivos móveis, como celulares, oferecem portabilidade. Essa também é uma vantagem dos consoles portáteis.
+
+— Por outro lado, os jogos tradicionais se destacam pela imersão. Usam gráficos, música e roteiros de alto nível para criar histórias e experiências excelentes. Há uma diferença de proposta entre eles e os jogos móveis.
+
+— Pensem na sensação de grandiosidade de certos títulos de VR. O que é “grandioso”? Toda escala é relativa. Quando admiramos a imensidão de um cenário, usamos o tamanho do personagem em cena como referência.
+
+— O cenário e o inimigo parecem enormes porque o protagonista tem um tamanho normal. A grandiosidade depende desse contraste.
+
+— Se levarmos esses jogos para um portátil ou celular, será difícil reproduzi-lo. Por maior que seja o monstro, só preencherá a tela. Mesmo que ainda consigamos distinguir um protagonista minúsculo, transmitir a mesma sensação será complicado. A tela tem um tamanho limitado.
+
+— Perdendo essa escala e o som multicanal, a atmosfera e a força do jogo certamente diminuem bastante.
+
+— Estamos criando para um portátil. Por isso, vamos evitar priorizar esse tipo de grandiosidade. Podemos considerar adaptações de League of Legends e Overwatch, que têm públicos grandes, mas sempre levando as características da plataforma em conta.
+
+— O ideal são jogos como Super Mario Odyssey. Eles não buscam cenários monumentais, mas uma experiência compacta e refinada: um personagem pequeno explorando livremente uma área delimitada. É como um jardim de Suzhou: pequeno, mas completo.
+
+— Quando desenvolvermos para essa plataforma, vamos dar prioridade a propostas desse tipo, porque são as que melhor combinam com ela.
+
+Depois de esclarecer os detalhes, Chen Mo colocou a equipe para trabalhar.
+
+Não estava muito preocupado com o jogo.
+
+O grupo já tinha capacidade para assumir aquele projeto. Com informações tão completas, deveria conseguir desenvolvê-lo em relativamente pouco tempo. Alguns detalhes, porém, exigiriam ajustes repetidos até atingir o melhor resultado.
+
+Sua maior preocupação era o próprio Switch. Como ficaria? O desempenho atenderia às exigências?
+
+Mas não adiantava se preocupar antes da hora. Só saberia depois de testar um protótipo.
+
+Enquanto trabalhava em Super Mario Odyssey, o setor de jogos também se movimentava.
+
+Depois do Ano-Novo, grandes empresas, lideradas pela Emperor Dynasty Entertainment e pela Zen Entertainment, incluíram em seus planos títulos de realidade virtual semelhantes a Overwatch.
+
+O jogo estava em evidência. Ainda não dominava a VR como League of Legends dominava o PC, mas já demonstrava sua força.
+
+Principalmente depois de ganhar Jogo do Ano, sua popularidade crescera muito. A qualidade e a maneira inovadora de jogar haviam conquistado um grande público.
+
+Nas plataformas de transmissão, League of Legends e Overwatch se tornaram duas categorias importantes. Muitos streamers de realidade virtual passaram a aproveitar a popularidade do segundo.
+
+Chen Mo nunca divulgava a receita. Ainda assim, não faltavam estimativas, e as piadas sobre “328” apareciam por toda parte.
+
+Pela experiência de alguns streamers e jogadores, muita gente entrara atraída pela gratuidade e depois começara a comprar visuais.
+
+Algumas garotas até tratavam Overwatch como um jogo de trocar roupas.
+
+Todos sabiam que Chen Mo não buscava apenas retorno imediato. Mesmo que houvesse prejuízo no começo, a continuidade do jogo e o crescimento do público tenderiam a aumentar a receita.
+
+As concorrentes corriam contra o tempo para criar um título de VR capaz de superar Overwatch.
+
+O projeto da Emperor Dynasty se chamava Gunfire e aproveitava elementos de seus jogos anteriores.
+
+A base do conteúdo e da jogabilidade vinha de Wolf Soul. As características e habilidades dos heróis seriam reaproveitadas do fracassado Cataclismo Ancestral.
+
+Como os dois projetos já existiam, não seria difícil utilizar seus recursos. Lin Chaoxu sempre achara uma pena o destino de Cataclismo Ancestral.
+
+Em sua opinião, a arte, a música e a jogabilidade eram excelentes.
+
+Ainda assim, o jogo havia fracassado de uma maneira que ele não conseguia explicar...
+
+Talvez alguma pequena decisão tivesse saído errada e provocado uma reação em cadeia?
+
+Agora, com o sucesso de Overwatch, Lin Chaoxu sentia que ainda poderia salvar parte do trabalho.
+
+A ambientação de Gunfire combinava mitologia e tecnologia. Soldados com armas avançadas obtinham, por meio de um DNA especial, os poderes de deuses antigos. Assim, podiam usar habilidades extraordinárias enquanto atiravam.
+
+Um exemplo era Ymir, o pai dos gigantes de gelo. Em sua forma normal, o herói era um nórdico alto e forte, armado com uma arma congelante. Ao despertar seus poderes, transformava-se num gigante e lançava ataques de gelo em grandes áreas.
+
+É claro que o projeto se inspirava em certos aspectos dos heróis de Overwatch. Mas também acrescentava elementos próprios, resultando numa experiência bastante diferente.
+
+Dessa vez, Jin Jieguang não seria responsável por tudo em Gunfire, embora ainda participasse de algumas partes do design.
+
+O fracasso de Cataclismo Ancestral abalara bastante sua imagem aos olhos de Lin Chaoxu. Mas ele continuava sendo um exemplo de dedicação. O chefe não poderia simplesmente afastá-lo para sempre por causa daquele episódio.
+
+Jin Jieguang também estava determinado a se provar.
+
+Ainda não compreendia completamente por que o projeto anterior falhara. Depois de tanto comparar e refletir, porém, chegara a uma ideia geral.
+
+No fim, o problema era que não copiara League of Legends direito!
+
+Claramente, Chen Mo o havia enganado...
+
+Jin Jieguang decidiu em silêncio que Gunfire seguiria Overwatch de perto. Bastava acrescentar o modo de arena e criar alguns heróis. Mesmo que não alcançasse a mesma popularidade, não deveria se sair mal, certo?

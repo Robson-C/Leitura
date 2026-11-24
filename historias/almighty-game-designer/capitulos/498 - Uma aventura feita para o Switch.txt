@@ -1,0 +1,101 @@
+Capítulo 498 — Uma aventura feita para o Switch
+
+Super Mario Odyssey tinha dezessete cenários, incluindo os reinos dos Chapéus, das Cachoeiras, das Areias, dos Lagos, da Floresta e outros. Cada um oferecia certa quantidade de luas, e mais seriam liberadas depois de concluir a campanha.
+
+No total, havia mais de oitocentas e sessenta luas, além de uma quantidade ainda maior de moedas de ouro e moedas especiais. Esses elementos ocupavam esconderijos espalhados pelos mapas. Para reproduzi-los, Chen Mo precisaria de muitas Poções de Reprodução de Memórias.
+
+Por sorte, tinha um bom estoque. Caso contrário, precisaria planejar as fases do zero.
+
+Odyssey era um jogo de exploração em cenários compactos e abertos. Como cada pequena área era relativamente independente, a estrutura não era complicada demais. Depois de definir a localização dos itens e dos inimigos, o desenvolvimento se tornava muito mais simples.
+
+Mesmo com as poções, porém, Chen Mo sentia a complexidade dos elementos enquanto escrevia o documento. Era fácil imaginar o esforço necessário para criar aquilo originalmente.
+
+Também havia muitas referências escondidas. Na metrópole, por exemplo, várias remetiam a Donkey Kong. Os carros tinham placas com *uma referência a 1981*, provavelmente em homenagem à primeira aparição de Mario e Donkey Kong naquele ano.
+
+Diversas músicas também funcionavam como referências. A do carrinho de brinquedo no Reino da Metrópole era a mesma do minijogo de cartas de Super Mario Bros. 3. No início da corrida, ainda se ouvia uma música de Mario Kart.
+
+Infelizmente, os jogadores do mundo paralelo não entenderiam essas homenagens.
+
+Mas Chen Mo não poderia trazer a série inteira. Alguns títulos já estavam ultrapassados em relação às concepções de design daquele mundo, e não faria sentido recriá-los.
+
+Mesmo sem conhecer as referências, o público poderia apreciá-las como parte da variedade de Odyssey. Afinal, muita gente de sua vida anterior nunca havia jogado os títulos mais antigos, e nem por isso gostava menos do jogo.
+
+Ele acreditava que os jogadores ficariam muito surpresos ao encontrar *as passagens para o formato bidimensional*, mesmo sem conhecer o primeiro Mario.
+
+Além disso, detalhou a direção de arte e o estilo musical.
+
+Decidiu registrar as melodias de todas as músicas de fundo importantes, deixando os detalhes de elaboração para serem trabalhados depois.
+
+Logo, o documento de conceito ficou pronto. Todos foram chamados para uma reunião.
+
+A equipe já ouvira alguns rumores sobre o projeto. A maior curiosidade era saber como seria aquele jogo para console portátil de que Chen Mo falara.
+
+Ele logo esclareceu as dúvidas.
+
+Dessa vez, a apresentação tinha duas partes: o conceito do Switch e o de Super Mario Odyssey.
+
+Era preciso explicar os dois juntos para que todos entendessem por que o jogo combinava tão bem com o aparelho.
+
+Primeiro, Chen Mo apresentou as funções dos controles. O analógico esquerdo movia o personagem; o direito ajustava a câmera. Havia comandos para agachar, correr, lançar o chapéu e saltar.
+
+Certos gestos também permitiam movimentos especiais. Durante uma escalada, por exemplo, sacudir o controle fazia Mario subir mais depressa.
+
+Além disso, havia ações mais complexas: salto triplo, salto em distância, rolamento, *mergulho*, *pancada no chão*, salto para trás e salto lateral. Cada uma tinha seus comandos correspondentes por botões ou gestos.
+
+Os olhos da equipe brilharam.
+
+Qian Kun comentou, surpreso:
+
+— Gerente, o sistema de movimentos parece muito complexo. Até mais que o de alguns jogos de realidade virtual!
+
+Chen Mo assentiu.
+
+— Exatamente. Seria inviável reproduzir um sistema tão complexo em VR. Haveria informações demais da intenção do jogador para registrar. E, se fosse feito, jogar seria cansativo demais.
+
+Zheng Hongxi concordou:
+
+— Também acho que combina muito com um portátil. O jogo é grande, difícil de acomodar num celular. No PC, por outro lado, falta a facilidade de levar para qualquer lugar.
+
+Chen Mo sorriu.
+
+— E os analógicos funcionam melhor que o mouse. Vão entender quando estiver pronto.
+
+Su Jinyu acrescentou:
+
+— Também acho. Se virasse um jogo de realidade virtual, essa câmera em terceira pessoa talvez não se encaixasse. Não aproveitaria a imersão, que é o ponto forte da plataforma.
+
+Era evidente que todos compreendiam bem o projeto. Depois da apresentação, não tiveram dificuldade para entender a intenção de Chen Mo.
+
+O jogo fora pensado sob medida para o Switch. Seu tamanho, suas características e seus controles se encaixavam no portátil.
+
+O que mais impressionava, porém, era o grau de detalhamento.
+
+Os documentos anteriores já eram completos, mas aquele chegava a ser assustador.
+
+A posição das moedas de ouro, das moedas especiais e das luas de cada fase estava claramente indicada, assim como a distribuição dos inimigos e dos objetos. Só pelos mapas detalhados, já era possível imaginar os desafios e os caminhos que o protagonista encontraria.
+
+A direção de arte e as músicas de fundo também estavam definidas. Havia até uma canção-tema própria.
+
+Cada cenário tinha características singulares e era completamente diferente dos demais.
+
+O chapéu também trazia uma maneira de jogar que parecia nova para todos.
+
+Ele era o companheiro de Mario. Além de servir como arma, podia ser combinado aos movimentos do personagem para executar ações bastante complexas. Também permitia *capturar outras criaturas*, ampliando muito as possibilidades.
+
+Em outras palavras, os jogadores teriam tantas unidades especiais para controlar quanto criaturas disponíveis. As habilidades delas se combinavam aos desafios das fases, aumentando a variedade.
+
+Chen Mo disse:
+
+— As fases são difíceis e complexas, mas acredito que vocês conseguem.
+
+— Também quero que mantenham o espírito de criança enquanto criam este jogo. Sua proposta é tirar os enfeites excessivos que vemos no mercado e recuperar a diversão mais essencial.
+
+— Super Mario Odyssey precisa divertir tanto adolescentes quanto pessoas de quarenta ou cinquenta anos. Lembrem-se disso. Ao desenvolver, não deixem de preservar essa curiosidade infantil.
+
+Qian Kun perguntou:
+
+— Gerente, o portátil parece muito interessante. Depois, poderemos levar todos os nossos jogos maiores para ele? Um grande título de realidade virtual, por exemplo?
+
+Chen Mo balançou a cabeça.
+
+— A proposta do aparelho é completamente diferente da realidade virtual. Ele não é adequado para adaptar jogos de VR que dependam de uma imersão muito forte.
