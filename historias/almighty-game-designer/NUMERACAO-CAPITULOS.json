@@ -2887,7 +2887,67 @@
       "chapter": 480,
       "title": "Lin Xue joga pela arte",
       "file": "capitulos/480 - Lin Xue joga pela arte.txt"
+    },
+    {
+      "source": 481,
+      "chapter": 481,
+      "title": "É só nos lançar pela catapulta",
+      "file": "capitulos/481 - É só nos lançar pela catapulta.txt"
+    },
+    {
+      "source": 482,
+      "chapter": 482,
+      "title": "O verdadeiro rosto de Li Zhenxiu",
+      "file": "capitulos/482 - O verdadeiro rosto de Li Zhenxiu.txt"
+    },
+    {
+      "source": 483,
+      "chapter": 483,
+      "title": "O policial de boné vermelho fica famoso",
+      "file": "capitulos/483 - O policial de boné vermelho fica famoso.txt"
+    },
+    {
+      "source": 484,
+      "chapter": 484,
+      "title": "O Velho P e a aventura nada normal",
+      "file": "capitulos/484 - O Velho P e a aventura nada normal.txt"
+    },
+    {
+      "source": 485,
+      "chapter": 485,
+      "title": "Um teste para o raciocínio do Velho P",
+      "file": "capitulos/485 - Um teste para o raciocínio do Velho P.txt"
+    },
+    {
+      "source": 486,
+      "chapter": 486,
+      "title": "O designer mais bonito do jogo",
+      "file": "capitulos/486 - O designer mais bonito do jogo.txt"
+    },
+    {
+      "source": 487,
+      "chapter": 487,
+      "title": "O primeiro prêmio da terceira fase",
+      "file": "capitulos/487 - O primeiro prêmio da terceira fase.txt"
+    },
+    {
+      "source": 488,
+      "chapter": 488,
+      "title": "Um convite para dar aulas",
+      "file": "capitulos/488 - Um convite para dar aulas.txt"
+    },
+    {
+      "source": 489,
+      "chapter": 489,
+      "title": "A chegada à universidade",
+      "file": "capitulos/489 - A chegada à universidade.txt"
+    },
+    {
+      "source": 490,
+      "chapter": 490,
+      "title": "Uma optativa de sala lotada",
+      "file": "capitulos/490 - Uma optativa de sala lotada.txt"
     }
   ],
-  "notes": "Leitor local com 480 capítulos consecutivos, 1–480. Lote 471–480 revisado com as fontes e integrado por publique em 24/11/2026. Nenhum TXT pendente. Próximo envio 481; próxima revisão a partir do 481. Títulos descritivos provisórios e interpretações incertas em itálico preservados. Commit e push manuais."
+  "notes": "Leitor local com 490 capítulos consecutivos, 1–490. Lote 481–490 revisado com as fontes e integrado por publique em 24/11/2026. Nenhum TXT pendente. Próximo envio 491; próxima revisão a partir do 491. Títulos descritivos provisórios e interpretações incertas em itálico preservados. Commit e push manuais."
 }
