@@ -3007,7 +3007,67 @@
       "chapter": 500,
       "title": "O melhor professor de história",
       "file": "capitulos/500 - O melhor professor de história.txt"
+    },
+    {
+      "source": 501,
+      "chapter": 501,
+      "title": "Um novo modo de conexão",
+      "file": "capitulos/501 - Um novo modo de conexão.txt"
+    },
+    {
+      "source": 502,
+      "chapter": 502,
+      "title": "Uma fazenda para relaxar",
+      "file": "capitulos/502 - Uma fazenda para relaxar.txt"
+    },
+    {
+      "source": 503,
+      "chapter": 503,
+      "title": "Uma colheita que vale prêmios",
+      "file": "capitulos/503 - Uma colheita que vale prêmios.txt"
+    },
+    {
+      "source": 504,
+      "chapter": 504,
+      "title": "Fertilizantes e uma visita à fazenda do gerente",
+      "file": "capitulos/504 - Fertilizantes e uma visita à fazenda do gerente.txt"
+    },
+    {
+      "source": 505,
+      "chapter": 505,
+      "title": "As equipes de roubo de legumes",
+      "file": "capitulos/505 - As equipes de roubo de legumes.txt"
+    },
+    {
+      "source": 506,
+      "chapter": 506,
+      "title": "O custo de criar um cachorro",
+      "file": "capitulos/506 - O custo de criar um cachorro.txt"
+    },
+    {
+      "source": 507,
+      "chapter": 507,
+      "title": "Uma nova visitante na loja",
+      "file": "capitulos/507 - Uma nova visitante na loja.txt"
+    },
+    {
+      "source": 508,
+      "chapter": 508,
+      "title": "A mensalidade e o teste de habilidade",
+      "file": "capitulos/508 - A mensalidade e o teste de habilidade.txt"
+    },
+    {
+      "source": 509,
+      "chapter": 509,
+      "title": "Informações valiosas e o primeiro protótipo",
+      "file": "capitulos/509 - Informações valiosas e o primeiro protótipo.txt"
+    },
+    {
+      "source": 510,
+      "chapter": 510,
+      "title": "O portátil chega à sala de aula",
+      "file": "capitulos/510 - O portátil chega à sala de aula.txt"
     }
   ],
-  "notes": "Leitor local com 500 capítulos consecutivos, 1–500. Lote 491–500 revisado com as fontes e integrado por publique em 24/11/2026. Nenhum TXT pendente. Próximo envio 501; próxima revisão a partir do 501. Títulos descritivos provisórios e interpretações incertas em itálico preservados. Commit e push manuais."
+  "notes": "Leitor local com 510 capítulos consecutivos, 1–510. Lote 501–510 revisado com as fontes e integrado por publique em 24/11/2026. Nenhum TXT pendente. Próximo envio 511; próxima revisão a partir do 511. Dúvidas de limite de horas no 505 e rentabilidade da ração no 506 preservadas em itálico. Commit e push manuais."
 }
